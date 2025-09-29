@@ -1,8 +1,10 @@
 # HiLABS Complete Contract Analysis Pipeline
 
 A comprehensive end-to-end pipeline for intelligent contract analysis, from raw PDF processing to AI-powered chatbot interactions. This system combines advanced NLP, machine learning, and vector databases to provide deep insights into legal contracts.
-### Dashboard VideoLink - https://drive.google.com/file/d/1WBuW1pyRfArpyJWL1Lwd-r3okGZK82T5/view?usp=drive_link
-### Solution Report Link- https://drive.google.com/file/d/1pST0L2U305IMgpyUXHJbv0wQNm0GuzYL/view?usp=drive_link
+
+### Dashboard Video Link- https://drive.google.com/file/d/1WBuW1pyRfArpyJWL1Lwd-r3okGZK82T5/view?usp=drive_link
+### Solution Report Link - https://drive.google.com/file/d/1pST0L2U305IMgpyUXHJbv0wQNm0GuzYL/view?usp=drive_link
+
 ## 🎯 Overview
 
 HiLABS transforms raw contract PDFs into an intelligent analysis system through a sophisticated 5-step pipeline:
@@ -82,44 +84,128 @@ flowchart LR
 
 ## 🚀 Quick Start
 
-### Docker Deployment (Recommended)
+### Virtual Environment Setup (Recommended)
+
+#### Prerequisites
+- **Python 3.8+** installed on your system
+- **Git** for cloning the repository
+- **At least 8GB RAM** and **20GB disk space**
+- **Internet connection** for downloading models
+
+#### Platform-Specific Setup
+
+##### 🐧 **Linux (Ubuntu/Debian)**
 ```bash
 # Clone repository
 git clone <repository-url>
 cd preprocess
 
-# Place your PDF files in data/Contracts_data/WA/
-mkdir -p data/Contracts_data/WA/
-# Copy WA_5_Redacted.pdf to data/Contracts_data/WA/
-
-# Start all services
-docker-compose up -d
-
-# Check service status
-docker-compose ps
-
-# Access the chatbot
-curl -X POST http://localhost:8000/chatbot/chat \
-  -H "Content-Type: application/json" \
-  -d '{"message": "How many non-standard clauses are there?", "session_id": "test"}'
-```
-
-### Manual Setup
-```bash
 # Install system dependencies
-sudo apt-get install tesseract-ocr poppler-utils
+sudo apt-get update
+sudo apt-get install -y python3-venv python3-pip tesseract-ocr tesseract-ocr-eng poppler-utils curl wget git
+
+# Install Ollama
 curl -fsSL https://ollama.ai/install.sh | sh
 
+# Create and activate virtual environment
+python3 -m venv hilabs-env
+source hilabs-env/bin/activate
+
 # Install Python dependencies
+pip install --upgrade pip
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
-# Pull Ollama models
+# Start Ollama and pull models
+ollama serve &
+sleep 5  # Wait for Ollama to start
 ollama pull qwen3-embedding:0.6b
 ollama pull phi3:mini
 
+# Place your PDF files
+mkdir -p data/Contracts_data/WA/
+# Copy WA_5_Redacted.pdf to data/Contracts_data/WA/
+
 # Run complete pipeline
 python main.py
+```
+
+##### 🍎 **macOS**
+```bash
+# Clone repository
+git clone <repository-url>
+cd preprocess
+
+# Install system dependencies using Homebrew
+brew install python tesseract poppler
+
+# Install Ollama
+curl -fsSL https://ollama.ai/install.sh | sh
+
+# Create and activate virtual environment
+python3 -m venv hilabs-env
+source hilabs-env/bin/activate
+
+# Install Python dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+# Start Ollama and pull models
+ollama serve &
+sleep 5  # Wait for Ollama to start
+ollama pull qwen3-embedding:0.6b
+ollama pull phi3:mini
+
+# Place your PDF files
+mkdir -p data/Contracts_data/WA/
+# Copy WA_5_Redacted.pdf to data/Contracts_data/WA/
+
+# Run complete pipeline
+python main.py
+```
+
+##### 🪟 **Windows**
+```powershell
+# Clone repository
+git clone <repository-url>
+cd preprocess
+
+# Install system dependencies using Chocolatey (run as Administrator)
+choco install python tesseract poppler
+
+# Download and install Ollama from https://ollama.ai/download
+# Or use winget: winget install Ollama.Ollama
+
+# Create and activate virtual environment
+python -m venv hilabs-env
+hilabs-env\Scripts\activate
+
+# Install Python dependencies
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+# Start Ollama and pull models (in separate PowerShell window)
+ollama serve
+# In another window:
+ollama pull qwen3-embedding:0.6b
+ollama pull phi3:mini
+
+# Place your PDF files
+mkdir data\Contracts_data\WA
+# Copy WA_5_Redacted.pdf to data\Contracts_data\WA\
+
+# Run complete pipeline
+python main.py
+```
+
+#### Quick Test
+```bash
+# Access the chatbot (works on all platforms)
+curl -X POST http://localhost:8000/chatbot/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "How many non-standard clauses are there?", "session_id": "test"}'
 ```
 
 ## 📋 Detailed Pipeline Steps
@@ -297,20 +383,41 @@ preprocess/
 ## 🎯 Usage Examples
 
 ### Complete Pipeline Execution
+
+#### Linux/macOS
 ```bash
+# Ensure virtual environment is activated
+source hilabs-env/bin/activate
+
 # Run all 5 steps sequentially (50-120 minutes total)
 python main.py
+```
 
-# Expected flow:
-# 1. PDF Parsing (15-30 min) → Markdown + Initial embeddings
-# 2. Attribute Ranking (10-20 min) → Similarity rankings
-# 3. Similarity Processing (5-15 min) → Processed datasets + Dual embeddings
-# 4. Standard Classification (20-40 min) → isStandard classifications
-# 5. Chatbot Server (Continuous) → API server startup
+#### Windows
+```powershell
+# Ensure virtual environment is activated
+hilabs-env\Scripts\activate
+
+# Run all 5 steps sequentially (50-120 minutes total)
+python main.py
+```
+
+#### Expected Flow (All Platforms)
+```
+1. PDF Parsing (15-30 min) → Markdown + Initial embeddings
+2. Attribute Ranking (10-20 min) → Similarity rankings
+3. Similarity Processing (5-15 min) → Processed datasets + Dual embeddings
+4. Standard Classification (20-40 min) → isStandard classifications
+5. Chatbot Server (Continuous) → API server startup
 ```
 
 ### Selective Step Execution
+
+#### Linux/macOS
 ```bash
+# Ensure virtual environment is activated
+source hilabs-env/bin/activate
+
 # Run only classification (assumes previous steps completed)
 python main.py --step 4
 
@@ -324,20 +431,39 @@ python main.py --skip-steps 1
 python main.py --status
 ```
 
-### Docker Deployment
+#### Windows
+```powershell
+# Ensure virtual environment is activated
+hilabs-env\Scripts\activate
+
+# Run only classification (assumes previous steps completed)
+python main.py --step 4
+
+# Run similarity processing and classification
+python main.py --skip-steps 1,2
+
+# Skip PDF processing (use existing parsed data)
+python main.py --skip-steps 1
+
+# Check current pipeline status
+python main.py --status
+```
+
+### Virtual Environment Deployment
 ```bash
 # Development environment
-docker-compose up -d
+source hilabs-env/bin/activate
+python main.py
 
-# Production environment with resource limits
-docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
-
-# Scale services for higher throughput
-docker-compose up -d --scale hilabs-pipeline=2
+# Production environment
+python -m venv hilabs-prod-env
+source hilabs-prod-env/bin/activate
+pip install -r requirements.txt
+uvicorn backend.main:app --host 0.0.0.0 --port 8000 --workers 4
 
 # Monitor services
-docker-compose ps
-docker-compose logs -f hilabs-pipeline
+ps aux | grep python
+htop
 ```
 
 ### API Interactions
@@ -535,16 +661,23 @@ docker-compose up -d
 
 ## 🚀 Production Deployment
 
-### Docker Production Setup
+### Virtual Environment Production Setup
 ```bash
-# Production deployment with resource limits
-docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+# Create production virtual environment
+python -m venv hilabs-prod-env
+source hilabs-prod-env/bin/activate
+
+# Install production dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+# Start production server
+uvicorn backend.main:app --host 0.0.0.0 --port 8000 --workers 4
 
 # Monitor resource usage
-docker stats
-
-# Scale services for high availability
-docker-compose up -d --scale hilabs-pipeline=2
+htop
+ps aux | grep python
 ```
 
 ### Environment Configuration
@@ -556,10 +689,10 @@ cp .env.example .env
 nano .env
 
 # Key variables:
-# OLLAMA_URL=http://ollama:11434
-# CHROMADB_URL=http://chromadb:8000
+# OLLAMA_URL=http://localhost:11434
 # LOG_LEVEL=INFO
 # BATCH_SIZE=64
+# PYTHONPATH=.
 ```
 
 ### Reverse Proxy Setup (Nginx)
@@ -651,15 +784,18 @@ git clone <repository-url>
 cd preprocess
 
 # Create development environment
-python -m venv dev-env
-source dev-env/bin/activate
+python -m venv hilabs-dev-env
+source hilabs-dev-env/bin/activate
 
 # Install development dependencies
+pip install --upgrade pip
 pip install -r requirements.txt
 pip install black isort flake8 pytest
+python -m spacy download en_core_web_sm
 
-# Install pre-commit hooks
-pre-commit install
+# Install pre-commit hooks (optional)
+# pip install pre-commit
+# pre-commit install
 ```
 
 ### Code Quality
@@ -699,23 +835,51 @@ This project is licensed under the MIT License. See LICENSE file for details.
 4. **Docker logs**: `docker-compose logs -f`
 
 ### Common Commands Reference
+
+#### Linux/macOS
 ```bash
+# Virtual Environment Management
+source hilabs-env/bin/activate    # Activate environment
+deactivate                        # Deactivate environment
+
 # Pipeline Management
 python main.py                    # Complete pipeline
 python main.py --step 4           # Specific step
 python main.py --skip-steps 1,2   # Skip steps
 python main.py --status           # Check status
 
-# Docker Management
-docker-compose up -d              # Start services
-docker-compose down               # Stop services
-docker-compose logs -f            # View logs
-docker-compose exec hilabs-pipeline bash  # Shell access
+# Service Management
+ollama serve &                     # Start Ollama
+pkill -f "ollama serve"           # Stop Ollama
+uvicorn backend.main:app --reload # Start API server
 
 # Service Health Checks
 curl http://localhost:8000/health          # API health
 curl http://localhost:11434/api/tags       # Ollama models
-curl http://localhost:8001/api/v1/heartbeat # ChromaDB
+```
+
+#### Windows
+```powershell
+# Virtual Environment Management
+hilabs-env\Scripts\activate       # Activate environment
+deactivate                        # Deactivate environment
+
+# Pipeline Management
+python main.py                    # Complete pipeline
+python main.py --step 4           # Specific step
+python main.py --skip-steps 1,2   # Skip steps
+python main.py --status           # Check status
+
+# Service Management
+ollama serve                       # Start Ollama (in separate window)
+Stop-Process -Name "ollama"        # Stop Ollama
+uvicorn backend.main:app --reload # Start API server
+
+# Service Health Checks
+curl http://localhost:8000/health          # API health
+curl http://localhost:11434/api/tags       # Ollama models
+# Or use Invoke-WebRequest on Windows:
+# Invoke-WebRequest -Uri http://localhost:8000/health
 ```
 
 ---
