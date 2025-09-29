@@ -533,8 +533,7 @@ have the right to pursue all available remedies at law or equity, including inju
 Dispute Resolution. Except as expressly permitted under Regulatory Requirements or regulations governing
 dispute resolution, no process for the resolution of disputes arising out of a participating provider contract
 shall be considered fair under RCW 48.43.055 unless the process meets all the provisions of WAC 284-170-
-## 440
-.
+440.
 ## 7.3.1
 A dispute resolution process may include an initial informal process but must include a formal
 process for resolution of all contract disputes.
@@ -947,8 +946,7 @@ events as set forth in the provider manual(s).
 "Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled in Plan's Medicaid
 Program(s).
 "Medically Necessary/Medical Necessity" means services that are "medically necessary" as is defined in WAC 182-
-## 500
--0070, a requested service which is reasonably calculated to prevent, diagnose, correct, cure, alleviate, or
+500-0070, a requested service which is reasonably calculated to prevent, diagnose, correct, cure, alleviate, or
 prevent worsening of conditions in the Medicaid Member that endanger life, or cause suffering of pain, or result in an
 illness or infirmity, or threaten to cause or aggravate a handicap, or cause physical deformity, or malfunction. There
 is no other equally effective, more conservative or substantially less costly course of treatment available or suitable
@@ -1145,8 +1143,7 @@ sixty (60) days of receipt. Notwithstanding the foregoing, and Provider may agre
 different payment requirement in writing on a claim by claim basis.
 ## 3.1.5
 shall pay Provider interest at the rate of one percent (1%) per month, as set forth in WAC
-## 284
--170-431(2)(d) which section may be amended or recodified from time to time, on the unpaid or
+284-170-431(2)(d) which section may be amended or recodified from time to time, on the unpaid or
 undenied portion of Clean Claims not adjudicated within the time periods discussed above, as
 required under applicable prompt pay requirements.
 ## 3.1.6
@@ -1231,8 +1228,7 @@ receiving federal funds, which may include but are not limited to, Title VI of t
 implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;
 the Americans with Disabilities Act as implemented by 28 CFR Part 35; the Rehabilitation Act of 1973 as
 implemented by 45 CFR Part 84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC
-## 1352
-, Title IX of the Education Amendments of 1972, as amended (20 U.S.C. sections 1681, 1685-1686,
+1352, Title IX of the Education Amendments of 1972, as amended (20 U.S.C. sections 1681, 1685-1686,
 and 1783) and any other regulations applicable to recipients of federal funds.
 ## 4.2
 Surety Bond Requirement. If Provider provides home health services or durable medical equipment,
@@ -2359,8 +2355,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
 Policies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the
 Coded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,
 Plan shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits
@@ -2476,22 +2471,21 @@ External Sources to of fee schedule(s)/rate(s)/methodologies change.
 
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICAID
-For purposes of determining the Rate, the total reimbursement amount that Provider and sian have
+For purposes of determining the Rate, the total reimbursement amount that Provider and aaa have
 agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on the
 date of service shall be as set forth below.
-The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by I at any
+The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by JJ at any
 time during the term of this Agreement and will be applied on a prospective basis.
-Po Program] Medicaid Network
-Behavio Health Services
-Billing code
-Inpatient Psychiatric Revenue Codes 0114, $250.00 Per Diem
+Po Program:| Medicaid Network
+Behavioral Health Services
+Billing Code
+Inpatient Psychiatric Revenue Codes 0114, $250.00
 Services 0124, 0134, 0154
 Inpatient Detox Services Revenue Codes 0116, $250.00 Per Diem
-## 0126
-, 0136, 0156
+0126, 0136, 0156
 Eligible Outpatient Services | Codes with applicable 100% of the Per Service
-CPTI/HCPCS NDC Code(s) Medicaid Fee edule
-Provider agrees to reference SERI coding guidelines, available through I Web portal, to ensure the proper
+CPT/HCPCS NDC Code(s Medicaid Fee Schedule
+Provider agrees to reference SERI coding guidelines, available through | Web portal, to ensure the proper
 billing and reimbursement.
 Medicaid Affiliate Services. Provider acknowledges that amma is affiliated with health plans that offer similar
 benefits under similar programs as the programs covered hereunder ("Medicaid Affiliates"). The parties acknowledge
@@ -2500,20 +2494,20 @@ Medicaid Members. However, in the event Provider treats a Medicaid Member of a M
 Regulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's
 state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
 Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
-for which a Medicaid Member is entitled to self-refer. Upon request, — shall coordinate and provide
+for which a Medicaid Member is entitled to self-refer. Upon request, Lica shall coordinate and provide
 information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
 Reimbursement Specific to Provider Type
 The following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free
 Standing Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.
 Ambulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the
-applicable methodology based on the referenced fee schedule. If such reimbursement is based on an cmc
+applicable methodology based on the referenced fee schedule. If such reimbursement is based on an Lam
 Rate, the applicable state methodology on which such fee schedule is based, shall be used to determine the
 appropriate level of reimbursement.
 Hospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,
 pastoral, bereavement counseling, DME, medical supplies and administration of medication.
 Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
 Requirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based
-on on proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
+on a proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
 shall be used to determine the appropriate level of reimbursement.
 Specialty Provider Individual and/or group (including Non-MD or DO) shall be reimbursed for anesthesiology services
 in accordance with the accumulation of base, modifier and time units multiplied by the Washington State Medicaid
@@ -2521,7 +2515,8 @@ Anesthesia Conversion Factor. The services should be billed in minute increments
 each fifteen (15) minute interval, or fraction thereof, starting from the time Provider begins to prepare the Member for
 induction and ending when the Member may safely be placed under post-operative supervision and Provider is no
 longer in personal attendance.
-“Ambulatory Patient Group" ("APG") means the | Rate that is a fixed reimbursement to a facility for
+“Ambulatory Patient Group" ("APG") means the rams Rate that is a fixed reimbursement to a facility for
+Outpatient Services and which incorporates data regarding the reason for the visit and patient data.
 
 
 
@@ -2559,21 +2554,21 @@ Washington Enterprise Provider Agreement PCS Attachment
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the | men Medicare Advantage
-Rate, minus applicable Cost Shares, and modified before payment as described bi . Provider agrees that this
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the samme Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The = Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The | emeccare Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
-Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
 Services Codes Schedule multiplied by one
-hundred percent (100%)
-Part B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee
+hundred percent (100%
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
 Biologicals Codes Schedule multiplied by one
-hundred percent (100%)
-Laboratory Services Applicable CPT/HCPCS. Medicare Clinical
+hundred percent (100%
+Laboratory Services Applicable CPT/HCPCS Medicare Clinical
 Codes Laboratory Fee Schedule
 multiplied by forty five
-percent (45%)
+percent (45%
 Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
 percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in

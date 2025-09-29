@@ -815,8 +815,7 @@ In addition to the foregoing, Provider warrants and represents that at the time 
 Agreement, neither he/she/it nor any of his/her/its employees, contractors, subcontractors,
 principals or agents are ineligible, excluded, suspended, terminated or debarred from participating
 in a Medicaid, Medicare, and/or SCHIP Program ("Ineligible Person") pursuant to Sections 1128 or
-## 1156
-of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
+1156 of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
 responsible for ensuring that his/her/its employees, contractors, subcontractors, principals or
 agents are not Ineligible Persons. If Provider or any employees, subcontractors, principals or
 agents thereof becomes an Ineligible Person after entering into this Agreement or otherwise fails to
@@ -1064,8 +1063,7 @@ Checks should be made out to and mailed to the address below. Include as a note 
 this payment is for the Episodes of Care program and the name of the Episode(s) the risk share amount is
 referencing:
 Community Care Attn: Finance Department
-## 22
-Century Blvd., Suite 220
+22 Century Blvd., Suite 220
 Nashville, TN 37214
 Gain Sharing Amount: If the risk-adjusted total episode cost is less than the acceptable cost threshold for the
 episode measurement period, the Quarterback's unadjusted payment by will be calculated according to the
@@ -1240,26 +1238,19 @@ Provider Episode Episode-Based Retrospective Payment: 2023 Thresholds Waves 1-9
 Threshold for Quality Indicators Linked To Acceptable Commendable Gain Share Effective
 Episodes
 Gain Sharing Threshold Threshold Limits Date
-## 1
-. Follow-up care within the
-## 30
-%
+1. Follow-up care within the
+30%
 post-trigger window $1,172 $640 $174
 Jan 2023
 Asthma
-## 2
-. Appropriate medications
+2. Appropriate medications
 within the trigger and post- 60%
 trigger window
-## 1
-. C-Section Rate $8,251 $2,218
-## 37
-% Jan 2023
+1. C-Section Rate $8,251 $2,218
+37% Jan 2023
 Perinatal $6433
-## 2
-. Group B strep screening rate 90%1
-## 3
-. HIV screening rate 90%1
+2. Group B strep screening rate 90%1
+3. HIV screening rate 90%1
 Total Joint Replacement Related admission during the 10%2 $20,802 $5,773 $3806
 post-trigger window
 Jan 2023
@@ -1300,34 +1291,32 @@ post-trigger window | 10%2 | $20,802 | $5,773 | $3806 | Jan 2023 |
 
 --- Page 23 (OCR) ---
 
-WwW
+Ww
 AV
-$1,489 $330
-wen, $3,341 Jan 2023
-COPD Acute Exacerbation Follow up care within the post
+$1,489
+. Follow-up care within the post- $3,341
+COPD Acute Exacerbation . .
 trigger window
-$1,411 $232
-No quality metrics linked to $675 Jan 2023
-Colonoscopy a A
+$1,411
+675
+No quality metrics linked to $
+Colonoscopy . :
 gain sharing
 $6,406 $1,711
-a woe Jan 2023
-Cholecystectomy Hospital admission in the post-
+Chol ectomy Hospital ocinnisston in the post-
 trigger window
-## 6
-,969 $5,162
-heute PC! Hospital admission in the post- $25,330 Jan 2028
+6,969 $5,162
+Hospital admission in the post-
 trigger window
-a woe Jan 2023
-Hospital admission in the post- an
-Non-acute PCI . -
+Hospital admission in the post-
+Non-acute PCI : .
 trigger window
-$3,680 $316 Jan 2023
-wane $6,526
-Follow-up care within the post-
-GI Hemorrhage (GIH) . P Pos
+$3,680 $316
+Follow- ithin the post-
+GI Hemorrhage (GIH) onowru care warsninimeP
 trigger window
-Tinner Cl endncrany (ECN) anoz2 24 £2n —— e2n4 Jan 2092
+2
+Upper GI endoscopy (EGD) ED visit within the post-trigger 10%’ $1,638 $752 $351 Jan 2023
 
 
 
@@ -1351,26 +1340,22 @@ window for ED triggered 5% $27
 episodes $166 $116 Jan 2023
 Urinary Tract Infection
 (UTI)-Outpatient
-## 2
-. Admission within the trigger
+2. Admission within the trigger
 window for non-ED triggered 5%
 episodes
 $8,360 $4,914 $894
 Jan 2023
 Urinary Tract Infection Follow-up care within the post-
-## 40
-%
+40%
 (UTI) Inpatient trigger window
 Attention Deficit and Minimum Care requirement of $788 $268 $53
 Hyperactivity Disorder 5 visits/claims during the 70%
 (ADHD) episode window Jan 2023
 Long-acting stimulants for
-## 80
-%
+80%
 members aged 6 to 11.
 Long-acting stimulants for
-## 80
-%
+80%
 members aged 12 to 20
 Utilization of therapy for 1 Visit
 members aged 4 and 5
@@ -1428,8 +1413,7 @@ E 4
 $277 Jan 2023
 Minimum Care requirement of
 Oppositional Defiant 6 therapy or level 1 case
-## 30
-% $2,685 $340
+30% $2,685 $340
 Disorder (ODD) management visit during the
 episode window
 Jan 2023
@@ -1437,19 +1421,16 @@ NA NA NA NA
 Valve repair and Follow-up care within the post-
 replacement trigger window
 Appropriate diagnostic workup $551
-## 90
-%
+90%
 rate $2,965 $994 Jan 2023
 Breast Biopsy
 Core needle biopsy rate 85%
 OME episodes without $135 $25 Jan 2023
-## 25
-%
+25%
 antibiotics filled $239
 Otitis media
 Non-OME episode with
-## 60
-%
+60%
 amoxicillin filled
 Tonsillectomy Bleeding up to two days 5%1 $3,815 $2,247 $1,070
 Tennessee Enterprise Provider Agreement 2023 Episode-Based Retro
@@ -1492,22 +1473,19 @@ W
 AV
 E 5
 Bacterial cultures when I&D
-## 50
-%
+50%
 performed-higher is better $175 $14
 $413 Jan 2023
 SSTI
 SSTI episodes with a first line
-## 85
-%
+85%
 antibiotic
 HIV Periodic ART refill Jan 2023
 NA NA NA NA
 $2,696 $1,997 Jan 2023
 $17,844
 Pancreatitis Follow-up care within 14 days 35%
-## 30
-% $7,365 $1,380 Jan 2023
+30% $7,365 $1,380 Jan 2023
 $3,764
 Diabetes Acute Follow-up care within the first
 Exacerbation 14 days
@@ -1516,16 +1494,13 @@ Threshold for Quality Indicators Linked To Acceptable Commendable Gain Share Eff
 Episodes
 Gain Sharing Threshold Threshold Limits Date
 $600 $228 $38 Jan 2023
-## 70
-%
+70%
 Back/ Neck Pain Difference in Average MED/day
 Femur/ Pelvic Fracture NA NA NA NA
-## 1
-. Follow-up care within the
+1. Follow-up care within the
 post-trigger window
 Jan 2023
-## 2
-. Difference in Average NA
+2. Difference in Average NA
 Tennessee Enterprise Provider Agreement 2023 Episode-Based Retro
 
 | W
@@ -1562,30 +1537,24 @@ W MED/day
 av
 e 7
 $4,816 $1,620
-## 70
-% $3,311 Jan 2023
+70% $3,311 Jan 2023
 Knee Arthroscopy Difference in Average MED/day
-## 70
-% $210 $52
+70% $210 $52
 Jan 2023
 Non-operative Ankle Injury Difference in Average MED/day $469
 $655 $43
-## 70
-% $219 Jan 2023
+70% $219 Jan 2023
 Non-operative Knee Injury Difference in Average MED/day
 $222 $49 Jan 2023
-## 70
-% $559
+70% $559
 Non-operative Shoulder
 Difference in Average MED/day
 Injury
 $537 $46 Jan 2023
-## 70
-% $240
+70% $240
 Non-operative Wrist Injury Difference in Average MED/day
 $13,161 $6,274 $5,228 Jan 2023
-## 70
-%
+70%
 Spinal Decompression Difference in Average MED/day
 Spinal Fusion Difference in Average MED/day 70% $38,424 $8,152
 $10,939 Jan 2023
@@ -1609,63 +1578,47 @@ Injury | Difference in Average MED/day | 70% | $559 | $222 | $49 | Jan 2023 |
 
 $1,032 $580 $62 Jan 2023
 Abdominal or pelvic CT or MRI
-## 40
-%
+40%
 in adults
 Acute Gastroenteritis
-## 30
-%
+30%
 Abdominal or pelvic CT or MRI
 in children
 Antibiotics utilization 30%
-## 1
-. Brain MRI utilization in focal
-## 10
-% $2,065 $995 $231 Jan 2023
+1. Brain MRI utilization in focal
+10% $2,065 $995 $231 Jan 2023
 epilepsy
 Acute Seizure
-## 2
-. Prolonged EEG monitoring
+2. Prolonged EEG monitoring
 utilization in newly diagnosed 10%
 seizure
-## 1
-. Abdominopelvic CT scans in
-## 50
-% $7,438 $5,200 $2,045 Jan 2023
+1. Abdominopelvic CT scans in
+50% $7,438 $5,200 $2,045 Jan 2023
 children
 Appendectomy
-## 70
-%
-## 2
-. Difference in Average
+70%
+2. Difference in Average
 MED/day
-## 1
-. Related admission during the
-## 10
-% $651 $102 Jan 2023
+1. Related admission during the
+10% $651 $102 Jan 2023
 post-trigger window
 $1,273
 Bronchiolitis
-## 2
-. Utilization of bronchodilators 30%
-## 3
-. Utilization of steroids 50%
+2. Utilization of bronchodilators 30%
+3. Utilization of steroids 50%
 Provider Episode Episode-Based Retrospective Payment: 2023
 Thresholds Waves 1-9
 Threshold for Quality Indicators Linked to Acceptable Commendable Gain Share Effective
 Episodes
 Gain Sharing Threshold Threshold Limits Date
-## 1
-. LEEP utilization under 26
+1. LEEP utilization under 26
 $90 Jan 2023
 years old with no evidence of 10%
 $635 $286
 high-grade dysplasia
 Colposcopy
-## 2
-. LEEP utilization with low-
-## 10
-%
+2. LEEP utilization with low-
+10%
 grade dysplasia
 GI Obstruction Related follow-up care 20% $21,793 $1,281 $949 Jan 2023
 Tennessee Enterprise Provider Agreement 2023 Episode-Based Retro
@@ -1712,32 +1665,24 @@ grade dysplasia | 10% |  |  |  |  |
 
 Difference in Average MED/day 70%
 $5,679 $3,201 $1,750
-## 70
-% Jan 2023
+70% Jan 2023
 Hernia Repair Difference in Average MED/day
-## 1
-. Alternative treatments 20% $8,289 $6,080 $4,310 Jan 2023
-## 2
-. Related follow-up care 10%
+1. Alternative treatments 20% $8,289 $6,080 $4,310 Jan 2023
+2. Related follow-up care 10%
 W
 Hysterectomy
 av
 e 8
-## 1
-. Related admission during the
-## 10
-%
+1. Related admission during the
+10%
 post-trigger window
 $710 $156
 Jan 2023
-## 2
-. Utilization of macrolides in
+2. Utilization of macrolides in
 Pediatric Pneumonia 30% $1,208
 patients under 6 years old
-## 3
-. Utilization of narrow
-## 50
-%
+3. Utilization of narrow
+50%
 spectrum antibiotics
 $37 Jan 2023
 $926 $280
@@ -1750,17 +1695,13 @@ Threshold for Quality Indicators Linked To Acceptable Commendable Gain Share Eff
 Episodes
 Gain Sharing Threshold Threshold Limits Date
 Cystourethroscopy 70% $2,112 $785 $118
-## 1
-. Difference in average
+1. Difference in average
 MED/day
 Jan 2023
-## 2
-. ED visit within the post-
-## 10
-%
+2. ED visit within the post-
+10%
 trigger window
-## 3
-. Repeat Cystourethroscopy 5%
+3. Repeat Cystourethroscopy 5%
 Tennessee Enterprise Provider Agreement 2023 Episode-Based Retro
 
 | W
@@ -1798,24 +1739,19 @@ trigger window | 10% |  |  |  |  |
 
 --- Page 30 ---
 
-## 70
-%
-## 1
-. Difference in average $617 $325 Jan 2023
+70%
+1. Difference in average $617 $325 Jan 2023
 MED/day $1,424
 Acute Kidney and Ureter
 Stones
 W
-## 2
-. ED visit within the post-
+2. ED visit within the post-
 a 15%
 trigger window
 v
 e
-## 1
-Change in quality metric threshold from 2022 CY.
-## 2
-New gain-sharing quality metric and threshold for 2023 CY.
+1 Change in quality metric threshold from 2022 CY.
+2 New gain-sharing quality metric and threshold for 2023 CY.
 Acceptable Cost Threshold: The dollar amount, as determined by to which the PAP's or QB's risk
 adjusted average episode cost (calculated in Section II below) for a Program Episode will be compared. The
 Acceptable Cost Threshold is used to determine the dollar amount of the Shared Risk Payment from the QB to
@@ -1844,21 +1780,21 @@ trigger window | 15% |  |  |  |  |
 
 --- Page 31 (OCR) ---
 
-IMEDICAID/COVERKIDS.
+IMEDICAID/COVERKIDS
 COMMUNITY CARE)
 PAI ATTACHMENT TO THE
-HE PROVIDER AGREEMENT
-This is al Medicaid/Coverkids Participation Attachment ("Attachment") to ‘he Provider Agreement
-(‘Agreement’), entered into by and between [J and Provider and is incorporated into the Agreement.
-# ARTICLE I
+HE PRovIDER AGREEMENT
+This is al Medicaid/Coverkids Participation Attachment ("Attachment") to he Provider Agreement
+("Agreement’), entered into by and between Jj and Provider and is incorporated into the Agreement.
+ARTICLE |
 DEFINITIONS
 The following definitions shall apply to this Attachment. Terms not otherwise defined in this Attachment shall carry
 the meaning set forth in the Agreement.
-All references to ‘IJ under this Medicaid Participation Attachment shall mean and refer to J
+All references to ‘J under this Medicaid Participation Attachment shall mean and refer to
 Tennessee, Inc.
 “Audit" means a review or audit of any and all obligations, requirements, records and information set forth in this
 Participation Attachment by the entities named herein.
-"Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
+“Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
 timely filed Claim submitted pursuant to this Attachment, that has no defect or impropriety, for which all information
 necessary to process such Claim and make a benefit determination is included. This includes but is not limited to,
 the claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which
@@ -1870,25 +1806,25 @@ documentation in the medical record must be specific to the patient and her/his 
 Cloning of documentation is considered a misrepresentation of the Medical Necessity requirement for coverage of
 services. Identification of this type of documentation will lead to denial of services for lack of Medical Necessity and
 recoupment of all overpayments made.
-"Coverkids" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘o but meet
-the condition of the State Child Health Plan under Title XX! of the Social Security Act State Children’s Health
+"Coverkids" includes children under age 19 and Mothers of unborn eligible who do not qualify or but meet
+the condition of the State Child Health Plan under Title XXI of the Social Security Act State Children's Health
 Insurance Program.
-"Eligible" means, for purposes of this Attachment, any person certified by [I as eligible to receive services
-and benefits under the [J program or the Coverkids program.
+"Eligible" means, for purposes of this Attachment, any person certified by J as eligible to receive services
+and benefits under the J program or the Coverkids program.
 “Ethical and Religious Directives (ERDs)" means a document that offers moral guidance on various aspects of health
 care delivery and is based on a religious organization's theological and moral teachings.
 “Medicaid Covered Services" means, for purposes of this Attachment, only those Covered Services provided under
-= Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
-iealth, and long-term care services, that define the covered services available to] members.
-"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled in ME vecicais
+enim Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
+ealth, and long-term care services, that define the covered services available to J members.
+"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled in = Medicaid
 Program(s) under For all purposes related to this Attachment, including all schedules, exhibits, provider
-manual(s), notices communications related to this Attachment, the term "Medicaid Member" may be used
-interchangeably with the ‘ern Standard Enrollee, BE Mecicaia Enrollee, and the meaning of each
-is synonymous with any such other unless otherwise stated in this ment.
+manual(s), notices and communications related to this Attachment, the term "Medicaid Member" may be used
+interchangeably with the terns Standard Enrollee, BE Mecicaic Enrollee, and the meaning of each
+is synonymous with any such other unless otherwise stated in this chment.
 “Medicaid Program(s)" means, for purposes of this Attachment, a medical assistance program provided under a
 Health Benefit Plan approved under Title XVI, Title XIX and/or Title XXI of the Social Security Act or any other federal
-or state funded program or product as designated by
-“Medically Necessary/Medical Necessity" means:
+or state funded program or product as designated by aay
+"Medically Necessary/Medical Necessity" means:
 
 
 
@@ -2783,8 +2719,7 @@ complete ownership, control and relationship information ("Disclosures") in acco
 through 455.106. Provider further agrees to notify within fourteen (14) days of any
 changes to the Disclosures. Providers that bill and/or receive funds as the result of the
 Agreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part
-## 455
-, Subpart B, and policies and procedures, including at the time of initial contracting,
+455, Subpart B, and policies and procedures, including at the time of initial contracting,
 
 
 
@@ -3443,8 +3378,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
 Policies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the
 Coded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,
 shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that result in
@@ -3573,24 +3507,24 @@ amount, plus applicable Cost Shares, is full compensation for Covered Services.
 
 --- Page 59 (OCR) ---
 
-The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The | emeccarn Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
-Professional and Technical Applicable CPT/HCPCS, Medicare Physician Fee
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
 Services Code(s) Schedule multiplied by
-ninety percent (90%)
-Part B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee Per Unit
+ninety percent (90%
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
 Biologicals Code(s) Schedule multiplied by one
-hundred percent (100%)
-Laboratory Services Applicable CPT/HCPCS. Medicare Clinical
+hundred percent (100%
+Laboratory Services Applicable CPT/HCPCS Medicare Clinical
 Code(s) Laboratory Fee Schedule
 multiplied by thirty five
-percent (35%)
-Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+percent (35%
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
 Orthotics, Prosthetics and Code(s) Equipment,
 Supplies Prosthetics/Orthotics, and
 Supplies Fee Schedule
 multiplied by sixty five
-percent (65%)
+percent (65%
 Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
 percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
@@ -3598,29 +3532,29 @@ whole or in part, on Medicare rates, pricing, fee schedules, or methodologies pu
 refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
-rocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act of
-ongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable to
+process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
+HEE otifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act of
+Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable to
 Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
 same percentage amount as payment is changed by CMS to Provider.
-HE Ss)! not compensate Provider for the bad debts of its Medicare Advantage members.
-mem and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
-lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
-a stat adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to
-Provider ona settlement.
-HEE shal! compensate Provider using the relevant payment system logic and data (for example: calculations,
-payment groupings, or federal and provider-specific factors) that are available in = systems at the time
-BR Processes the Provider's Claim. gira shall not retroactively adjust Provider's compensation for
+HEE shall not compensate Provider for the bad debts of its Medicare Advantage members.
+a and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
+education, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+ae sn not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to
+Provider based on a settlement.
+| shall compensate Provider using the relevant payment system logic and data (for example: calculations,
+payment groupings, or federal and provider-specific factors) that are available in wenn systems at the time
+— processes the Provider's Claim. Lara shall not retroactively adjust Provider's compensation for
 previously processed Claims to reconcile any difference with the payment system logic and data being used by
-Medicare on the same processing date for the same date of service. In addition, ae 3 not retroactively
+Medicare on the same processing date for the same date of service. In addition, | shall not retroactively
 adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
 to payment system logic and data. Provider shall not request adjustments solely based on these differences,
 updates, or changes.
 MEDICAID
-For purposes of determining ‘he a Rate, the total reimbursement amount that Provider and have
-agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement sl je one
-hundred percent (100%) of the J Professional Provider Market Master Fee Schedule A in effect on the date of
+For purposes of determining he Rate, the total reimbursement amount that Provider and —— have
+agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement s| e one
+hundred percent (100%) of the [Jj Professional Provider Market Master Fee Schedule A in effect on the date of
 service.
 
 

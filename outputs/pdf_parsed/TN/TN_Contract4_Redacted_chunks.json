@@ -1224,23 +1224,13 @@
     "page_number": 13,
     "header_path": "clause:9.7.1",
     "chunk_index": 1,
-    "content": "In addition to the foregoing, Provider warrants and represents that at the time of entering into this\nAgreement, neither he/she/it nor any of his/her/its employees, contractors, subcontractors,\nprincipals or agents are ineligible, excluded, suspended, terminated or debarred from participating\nin a Medicaid, Medicare, and/or SCHIP Program (\"Ineligible Person\") pursuant to Sections 1128 or",
-    "token_count": 84,
+    "content": "In addition to the foregoing, Provider warrants and represents that at the time of entering into this\nAgreement, neither he/she/it nor any of his/her/its employees, contractors, subcontractors,\nprincipals or agents are ineligible, excluded, suspended, terminated or debarred from participating\nin a Medicaid, Medicare, and/or SCHIP Program (\"Ineligible Person\") pursuant to Sections 1128 or\n1156 of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously\nresponsible for ensuring that his/her/its employees, contractors, subcontractors, principals or\nagents are not Ineligible Persons. If Provider or any employees, subcontractors, principals or\nagents thereof becomes an Ineligible Person after entering into this Agreement or otherwise fails to\ndisclose his/her/its Ineligible Person status, Provider shall have an obligation to (1) immediately\nnotify of such Ineligible Person status and (2) within ten (10) days of such notice,\nremove such individual from responsibility for, or involvement with, Provider's business operations\nrelated to this Agreement.",
+    "token_count": 225,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
     "chunk_id": "TN_Contract4_Redacted_p13_c124",
-    "page_number": 13,
-    "header_path": "clause:1156",
-    "chunk_index": 1,
-    "content": "of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously\nresponsible for ensuring that his/her/its employees, contractors, subcontractors, principals or\nagents are not Ineligible Persons. If Provider or any employees, subcontractors, principals or\nagents thereof becomes an Ineligible Person after entering into this Agreement or otherwise fails to\ndisclose his/her/its Ineligible Person status, Provider shall have an obligation to (1) immediately\nnotify of such Ineligible Person status and (2) within ten (10) days of such notice,\nremove such individual from responsibility for, or involvement with, Provider's business operations\nrelated to this Agreement.",
-    "token_count": 138,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p13_c125",
     "page_number": 13,
     "header_path": "clause:9.8",
     "chunk_index": 1,
@@ -1250,7 +1240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p13_c126",
+    "chunk_id": "TN_Contract4_Redacted_p13_c125",
     "page_number": 13,
     "header_path": "clause:9.9",
     "chunk_index": 1,
@@ -1260,7 +1250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p13_c127",
+    "chunk_id": "TN_Contract4_Redacted_p13_c126",
     "page_number": 13,
     "header_path": "clause:9.10",
     "chunk_index": 1,
@@ -1270,7 +1260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p13_c128",
+    "chunk_id": "TN_Contract4_Redacted_p13_c127",
     "page_number": 13,
     "header_path": "clause:9.11",
     "chunk_index": 1,
@@ -1280,7 +1270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c129",
+    "chunk_id": "TN_Contract4_Redacted_p14_c128",
     "page_number": 14,
     "header_path": "clause:9.12",
     "chunk_index": 1,
@@ -1290,7 +1280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c130",
+    "chunk_id": "TN_Contract4_Redacted_p14_c129",
     "page_number": 14,
     "header_path": "clause:9.13",
     "chunk_index": 1,
@@ -1300,7 +1290,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c131",
+    "chunk_id": "TN_Contract4_Redacted_p14_c130",
     "page_number": 14,
     "header_path": "clause:9.14",
     "chunk_index": 1,
@@ -1310,7 +1300,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c132",
+    "chunk_id": "TN_Contract4_Redacted_p14_c131",
     "page_number": 14,
     "header_path": "clause:9.15",
     "chunk_index": 1,
@@ -1320,7 +1310,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c133",
+    "chunk_id": "TN_Contract4_Redacted_p14_c132",
     "page_number": 14,
     "header_path": "clause:9.15.1",
     "chunk_index": 1,
@@ -1330,7 +1320,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p14_c134",
+    "chunk_id": "TN_Contract4_Redacted_p14_c133",
     "page_number": 14,
     "header_path": "clause:9.15.2",
     "chunk_index": 1,
@@ -1340,7 +1330,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p15_c135",
+    "chunk_id": "TN_Contract4_Redacted_p15_c134",
     "page_number": 15,
     "header_path": "section:ARTICLE IX > clause:9.15.2",
     "chunk_index": 1,
@@ -1350,7 +1340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p16_c136",
+    "chunk_id": "TN_Contract4_Redacted_p16_c135",
     "page_number": 16,
     "header_path": "section:ARTICLE IX > clause:9.15.2",
     "chunk_index": 1,
@@ -1360,12 +1350,22 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p17_c137",
+    "chunk_id": "TN_Contract4_Redacted_p17_c136",
     "page_number": 17,
     "header_path": "section:ARTICLE IX > clause:9.15.2",
     "chunk_index": 1,
-    "content": "IMEDICAID/COVERKIDS.\nCOMMUNITY CARE)\nP. ATTACHMENT TO THE\nHER PROVIDER AGREEMENT\nThis is a IMedicaid/Coverkids Participation Attachment (\"Attachment\") to the | Provider\nAgreement eement’), entered into by and between [NMJ and Provider and is incorporated into the\nAgreement.",
-    "token_count": 71,
+    "content": "IMEDICAID/COVERKIDS\nCOMMUNITY CARE)\nP ATTACHMENT TO THE\nHR PRovIDER AGREEMENT\nThis is a Medicaid/Coverkids Participation Attachment (\"Attachment\") to the | Provider\nAgreement (\"Agreement\"), entered into by and between MJ and Provider and is incorporated into the\nAgreement.",
+    "token_count": 67,
+    "source_file": "TN_Contract4_Redacted.md",
+    "document_type": "legal_contract"
+  },
+  {
+    "chunk_id": "TN_Contract4_Redacted_p17_c137",
+    "page_number": 17,
+    "header_path": "section:ARTICLE I",
+    "chunk_index": 1,
+    "content": "DEFINITIONS\nThe following definitions shall apply to this Attachment. Terms not otherwise defined in this Attachment shall carry\nthe meaning set forth in the Agreement.\nAll references to ‘J under this Medicaid Participation Attachment shall mean and refer to\nTennessee, Inc.\ncrarmone Compensation Schedule\" (\"ACS\") means the document(s) attached hereto and incorporated herein by\nreference, and which sets forth the ETRE Rate(s) and compensation related terms for the Network(s) in which\nProvider participates. The ACS may include additional Provider obligations and specific | compensation\nrelated terms and requirements.\n“Audit\" means a review or audit of any and all obligations, requirements, records and information set forth in this\nParticipation Attachment by the entities named herein.\n“Clean Claim\" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and\ntimely filed Claim submitted pursuant to this Attachment, that has no defect or impropriety, for which all information\nnecessary to process such Claim and make a benefit determination is included. This includes but is not limited to,\nthe claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which\ndoes not require adjustment, or alteration by Provider of the services in order to be processed and paid.\n“Cloning of Medical Notes\" means documentation is considered cloned when each entry in the medical record for a",
+    "token_count": 275,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
@@ -1373,9 +1373,9 @@
     "chunk_id": "TN_Contract4_Redacted_p17_c138",
     "page_number": 17,
     "header_path": "section:ARTICLE I",
-    "chunk_index": 1,
-    "content": "DEFINITIONS\nThe following definitions shall apply to this Attachment. Terms not otherwise defined in this Attachment shall carry\nthe meaning set forth in the Agreement.\nAll references to ‘J under this Medicaid Participation Attachment shall mean and refer to\nTennessee, Inc.\n_ Compensation Schedule\" (\"ACS\") means the document(s) attached hereto and incorporated herein by\nfeference, and which sets forth ‘he Rate(s) and compensation related terms for the Network(s) in which\nProvider participates. The ACS may include additional Provider obligations and specific [J compensation\nrelated terms and requirements.\n\"Audit\" means a review or audit of any and all obligations, requirements, records and information set forth in this\nParticipation Attachment by the entities named herein.\n\"Clean Claim\" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and\ntimely filed Claim submitted pursuant to this Attachment, that has no defect or impropriety, for which all information\nnecessary to process such Claim and make a benefit determination is included. This includes but is not limited to,\nthe claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which\ndoes not require adjustment, or alteration by Provider of the services in order to be processed and paid.\n\"Cloning of Medical Notes\" means documentation is considered cloned when each entry in the medical record for a",
-    "token_count": 274,
+    "chunk_index": 2,
+    "content": "necessary to process such Claim and make a benefit determination is included. This includes but is not limited to,\nthe claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which\ndoes not require adjustment, or alteration by Provider of the services in order to be processed and paid.\n“Cloning of Medical Notes\" means documentation is considered cloned when each entry in the medical record for a\nbeneficiary is worded exactly like or similar to the previous entries. Cloned documentation does not meet Medical\nNecessity requirements for coverage of services rendered due to the lack of specific, individual information. All\ndocumentation in the medical record must be specific to the patient and her/his situation at the time of the encounter.\nCloning of documentation is considered a misrepresentation of the Medical Necessity requirement for coverage of\nservices. Identification of this type of documentation will lead to denial of services for lack of Medical Necessity and\nrecoupment of all overpayments made.\n\"Coverkids\" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet\nthe condition of the State Child Health Plan under Title XXI of the Social Security Act State Children's Health\nInsurance Program.\n“Eligible” means, for purposes of this Attachment, any person certified by J as eligible to receive services\nand benefits under the J program or the Coverkids program.",
+    "token_count": 285,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
@@ -1383,8 +1383,8 @@
     "chunk_id": "TN_Contract4_Redacted_p17_c139",
     "page_number": 17,
     "header_path": "section:ARTICLE I",
-    "chunk_index": 2,
-    "content": "necessary to process such Claim and make a benefit determination is included. This includes but is not limited to,\nthe claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which\ndoes not require adjustment, or alteration by Provider of the services in order to be processed and paid.\n\"Cloning of Medical Notes\" means documentation is considered cloned when each entry in the medical record for a\nbeneficiary is worded exactly like or similar to the previous entries. Cloned documentation does not meet Medical\nNecessity requirements for coverage of services rendered due to the lack of specific, individual information. All\ndocumentation in the medical record must be specific to the patient and her/his situation at the time of the encounter.\nCloning of documentation is considered a misrepresentation of the Medical Necessity requirement for coverage of\nservices. Identification of this type of documentation will lead to denial of services for lack of Medical Necessity and\nrecoupment of all overpayments made.\n\"Coverkids\" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet\nthe condition of the State Child Health Plan under Title XX! of the Social Security Act State Children's Health\nInsurance Program.\n\"Eligible\" means, for purposes of this Attachment, any person certified by [J as eligible to receive services\nand benefits under oo program or the CoverKids program.",
+    "chunk_index": 3,
+    "content": "recoupment of all overpayments made.\n\"Coverkids\" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet\nthe condition of the State Child Health Plan under Title XXI of the Social Security Act State Children's Health\nInsurance Program.\n“Eligible” means, for purposes of this Attachment, any person certified by J as eligible to receive services\nand benefits under the J program or the Coverkids program.\n“Ethical and Religious Directives (ERDs)\" means a document that offers moral guidance on various aspects of health\ncare delivery and is based on a religious organization's theological and moral teachings.\n“Medicaid Covered Services\" means, for purposes of this Attachment, only those Covered Services provided under\naiumemmaT Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral\nealth, and long-term care services, that define the covered services available to J members.\n\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled a Medicaid\nProgram(s) under For all purposes related to this Attachment, including all schedules, exhibits, provider\nmanual(s), notices and communications related to this Attachment, the term \"Medicaid Member\" may be used\ninterchangeably with the terms Standard Enrollee, ME Mecicaic Enrollee, and the meaning of each",
     "token_count": 285,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
@@ -1393,24 +1393,14 @@
     "chunk_id": "TN_Contract4_Redacted_p17_c140",
     "page_number": 17,
     "header_path": "section:ARTICLE I",
-    "chunk_index": 3,
-    "content": "recoupment of all overpayments made.\n\"Coverkids\" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet\nthe condition of the State Child Health Plan under Title XX! of the Social Security Act State Children's Health\nInsurance Program.\n\"Eligible\" means, for purposes of this Attachment, any person certified by [J as eligible to receive services\nand benefits under oo program or the CoverKids program.\n“Ethical and Religious Directives (ERDs)\" means a document that offers moral guidance on various aspects of health\ncare delivery and is based on a religious organization's theological and moral teachings.\n“Medicaid Covered Services\" means, for purposes of this Attachment, only those Covered Services provided under\naaieeraad Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral\niealth, and long-term care services, that define the covered services available to members.\n\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled Medicaid\nProgram(s) under For all purposes related to this Attachment, including all schedules, ex! , provider\nmanual(s), notices communications related to this Attachment, the term \"Medicaid Member\" may be used\ninterchangeably with the ‘ers Standard Enrollee, HE Mecicaia Enrollee, and the meaning of each",
-    "token_count": 284,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p17_c141",
-    "page_number": 17,
-    "header_path": "section:ARTICLE I",
     "chunk_index": 4,
-    "content": "\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled Medicaid\nProgram(s) under For all purposes related to this Attachment, including all schedules, ex! , provider\nmanual(s), notices communications related to this Attachment, the term \"Medicaid Member\" may be used\ninterchangeably with the ‘ers Standard Enrollee, HE Mecicaia Enrollee, and the meaning of each\nis synonymous with any such other unless otherwise stated in this Attachment.",
+    "content": "\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled a Medicaid\nProgram(s) under For all purposes related to this Attachment, including all schedules, exhibits, provider\nmanual(s), notices and communications related to this Attachment, the term \"Medicaid Member\" may be used\ninterchangeably with the terms Standard Enrollee, ME Mecicaic Enrollee, and the meaning of each\nis synonymous with any such other unless otherwise stated in this Attachment.",
     "token_count": 102,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p18_c142",
+    "chunk_id": "TN_Contract4_Redacted_p18_c141",
     "page_number": 18,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 1,
@@ -1420,7 +1410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p18_c143",
+    "chunk_id": "TN_Contract4_Redacted_p18_c142",
     "page_number": 18,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 2,
@@ -1430,7 +1420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p18_c144",
+    "chunk_id": "TN_Contract4_Redacted_p18_c143",
     "page_number": 18,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 3,
@@ -1440,7 +1430,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p18_c145",
+    "chunk_id": "TN_Contract4_Redacted_p18_c144",
     "page_number": 18,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 4,
@@ -1450,7 +1440,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p18_c146",
+    "chunk_id": "TN_Contract4_Redacted_p18_c145",
     "page_number": 18,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 5,
@@ -1460,7 +1450,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c147",
+    "chunk_id": "TN_Contract4_Redacted_p19_c146",
     "page_number": 19,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 1,
@@ -1470,7 +1460,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c148",
+    "chunk_id": "TN_Contract4_Redacted_p19_c147",
     "page_number": 19,
     "header_path": "section:ARTICLE I > clause:9.15.2",
     "chunk_index": 2,
@@ -1480,7 +1470,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c149",
+    "chunk_id": "TN_Contract4_Redacted_p19_c148",
     "page_number": 19,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
@@ -1490,7 +1480,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c150",
+    "chunk_id": "TN_Contract4_Redacted_p19_c149",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.1",
     "chunk_index": 1,
@@ -1500,7 +1490,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c151",
+    "chunk_id": "TN_Contract4_Redacted_p19_c150",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.2",
     "chunk_index": 1,
@@ -1510,7 +1500,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c152",
+    "chunk_id": "TN_Contract4_Redacted_p19_c151",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.2.1",
     "chunk_index": 1,
@@ -1520,7 +1510,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c153",
+    "chunk_id": "TN_Contract4_Redacted_p19_c152",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.2.2",
     "chunk_index": 1,
@@ -1530,7 +1520,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p19_c154",
+    "chunk_id": "TN_Contract4_Redacted_p19_c153",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.2.3",
     "chunk_index": 1,
@@ -1540,7 +1530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c155",
+    "chunk_id": "TN_Contract4_Redacted_p20_c154",
     "page_number": 20,
     "header_path": "clause:2.2.4",
     "chunk_index": 1,
@@ -1550,7 +1540,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c156",
+    "chunk_id": "TN_Contract4_Redacted_p20_c155",
     "page_number": 20,
     "header_path": "clause:2.3",
     "chunk_index": 1,
@@ -1560,7 +1550,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c157",
+    "chunk_id": "TN_Contract4_Redacted_p20_c156",
     "page_number": 20,
     "header_path": "clause:2.4",
     "chunk_index": 1,
@@ -1570,7 +1560,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c158",
+    "chunk_id": "TN_Contract4_Redacted_p20_c157",
     "page_number": 20,
     "header_path": "clause:2.5",
     "chunk_index": 1,
@@ -1580,7 +1570,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c159",
+    "chunk_id": "TN_Contract4_Redacted_p20_c158",
     "page_number": 20,
     "header_path": "clause:2.6",
     "chunk_index": 1,
@@ -1590,7 +1580,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c160",
+    "chunk_id": "TN_Contract4_Redacted_p20_c159",
     "page_number": 20,
     "header_path": "clause:2.7",
     "chunk_index": 1,
@@ -1600,7 +1590,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c161",
+    "chunk_id": "TN_Contract4_Redacted_p20_c160",
     "page_number": 20,
     "header_path": "clause:2.8",
     "chunk_index": 1,
@@ -1610,7 +1600,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p20_c162",
+    "chunk_id": "TN_Contract4_Redacted_p20_c161",
     "page_number": 20,
     "header_path": "clause:2.9",
     "chunk_index": 1,
@@ -1620,7 +1610,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c163",
+    "chunk_id": "TN_Contract4_Redacted_p21_c162",
     "page_number": 21,
     "header_path": "clause:2.10",
     "chunk_index": 1,
@@ -1630,7 +1620,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c164",
+    "chunk_id": "TN_Contract4_Redacted_p21_c163",
     "page_number": 21,
     "header_path": "clause:2.11",
     "chunk_index": 1,
@@ -1640,7 +1630,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c165",
+    "chunk_id": "TN_Contract4_Redacted_p21_c164",
     "page_number": 21,
     "header_path": "clause:2.11.1",
     "chunk_index": 1,
@@ -1650,7 +1640,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c166",
+    "chunk_id": "TN_Contract4_Redacted_p21_c165",
     "page_number": 21,
     "header_path": "clause:2.12",
     "chunk_index": 1,
@@ -1660,7 +1650,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c167",
+    "chunk_id": "TN_Contract4_Redacted_p21_c166",
     "page_number": 21,
     "header_path": "clause:2.13",
     "chunk_index": 1,
@@ -1670,7 +1660,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c168",
+    "chunk_id": "TN_Contract4_Redacted_p21_c167",
     "page_number": 21,
     "header_path": "section:ARTICLE III",
     "chunk_index": 1,
@@ -1680,7 +1670,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c169",
+    "chunk_id": "TN_Contract4_Redacted_p21_c168",
     "page_number": 21,
     "header_path": "section:ARTICLE III > clause:3.1",
     "chunk_index": 1,
@@ -1690,7 +1680,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c170",
+    "chunk_id": "TN_Contract4_Redacted_p21_c169",
     "page_number": 21,
     "header_path": "section:ARTICLE III > clause:3.1.1",
     "chunk_index": 1,
@@ -1700,7 +1690,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c171",
+    "chunk_id": "TN_Contract4_Redacted_p21_c170",
     "page_number": 21,
     "header_path": "section:ARTICLE III > clause:3.1.2",
     "chunk_index": 1,
@@ -1710,7 +1700,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p21_c172",
+    "chunk_id": "TN_Contract4_Redacted_p21_c171",
     "page_number": 21,
     "header_path": "section:ARTICLE III > clause:3.1.3",
     "chunk_index": 1,
@@ -1720,7 +1710,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c173",
+    "chunk_id": "TN_Contract4_Redacted_p22_c172",
     "page_number": 22,
     "header_path": "section:ARTICLE III > clause:3.1.3",
     "chunk_index": 1,
@@ -1730,7 +1720,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c174",
+    "chunk_id": "TN_Contract4_Redacted_p22_c173",
     "page_number": 22,
     "header_path": "clause:3.2",
     "chunk_index": 1,
@@ -1740,7 +1730,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c175",
+    "chunk_id": "TN_Contract4_Redacted_p22_c174",
     "page_number": 22,
     "header_path": "clause:3.3",
     "chunk_index": 1,
@@ -1750,7 +1740,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c176",
+    "chunk_id": "TN_Contract4_Redacted_p22_c175",
     "page_number": 22,
     "header_path": "clause:3.4",
     "chunk_index": 1,
@@ -1760,7 +1750,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c177",
+    "chunk_id": "TN_Contract4_Redacted_p22_c176",
     "page_number": 22,
     "header_path": "clause:3.4",
     "chunk_index": 2,
@@ -1770,7 +1760,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c178",
+    "chunk_id": "TN_Contract4_Redacted_p22_c177",
     "page_number": 22,
     "header_path": "clause:3.4",
     "chunk_index": 3,
@@ -1780,7 +1770,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c179",
+    "chunk_id": "TN_Contract4_Redacted_p22_c178",
     "page_number": 22,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 1,
@@ -1790,27 +1780,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c180",
+    "chunk_id": "TN_Contract4_Redacted_p22_c179",
     "page_number": 22,
     "header_path": "section:ARTICLE IV > clause:4.1",
     "chunk_index": 1,
-    "content": "Federal Funds. Provider acknowledges that payments Provider receives from to provide\nMedicaid Covered Services to Medicaid Members are, in whole or part, from federal funds. Therefore,\nProvider and any of his/her/its subcontractors are subject to certain laws that are applicable to individuals\nand entities receiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act\nof 1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR\nPart 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR part",
-    "token_count": 131,
+    "content": "Federal Funds. Provider acknowledges that payments Provider receives from to provide\nMedicaid Covered Services to Medicaid Members are, in whole or part, from federal funds. Therefore,\nProvider and any of his/her/its subcontractors are subject to certain laws that are applicable to individuals\nand entities receiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act\nof 1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR\nPart 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR part\n84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education\nAmendments of 1972, as amended (20 U.S.C. sections 1681, 1865-1866, and 1783) and any other\nregulations applicable to recipients of federal funds.",
+    "token_count": 205,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p22_c181",
-    "page_number": 22,
-    "header_path": "section:ARTICLE IV > clause:84",
-    "chunk_index": 1,
-    "content": ", lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education\nAmendments of 1972, as amended (20 U.S.C. sections 1681, 1865-1866, and 1783) and any other\nregulations applicable to recipients of federal funds.",
-    "token_count": 72,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p22_c182",
+    "chunk_id": "TN_Contract4_Redacted_p22_c180",
     "page_number": 22,
     "header_path": "section:ARTICLE IV > clause:4.2",
     "chunk_index": 1,
@@ -1820,7 +1800,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c183",
+    "chunk_id": "TN_Contract4_Redacted_p23_c181",
     "page_number": 23,
     "header_path": "clause:4.3",
     "chunk_index": 1,
@@ -1830,7 +1810,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c184",
+    "chunk_id": "TN_Contract4_Redacted_p23_c182",
     "page_number": 23,
     "header_path": "clause:4.4",
     "chunk_index": 1,
@@ -1840,7 +1820,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c185",
+    "chunk_id": "TN_Contract4_Redacted_p23_c183",
     "page_number": 23,
     "header_path": "clause:4.5",
     "chunk_index": 1,
@@ -1850,7 +1830,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c186",
+    "chunk_id": "TN_Contract4_Redacted_p23_c184",
     "page_number": 23,
     "header_path": "clause:4.6",
     "chunk_index": 1,
@@ -1860,7 +1840,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c187",
+    "chunk_id": "TN_Contract4_Redacted_p23_c185",
     "page_number": 23,
     "header_path": "clause:4.7",
     "chunk_index": 1,
@@ -1870,7 +1850,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c188",
+    "chunk_id": "TN_Contract4_Redacted_p23_c186",
     "page_number": 23,
     "header_path": "clause:4.7.1",
     "chunk_index": 1,
@@ -1880,7 +1860,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c189",
+    "chunk_id": "TN_Contract4_Redacted_p23_c187",
     "page_number": 23,
     "header_path": "clause:4.8",
     "chunk_index": 1,
@@ -1890,7 +1870,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c190",
+    "chunk_id": "TN_Contract4_Redacted_p23_c188",
     "page_number": 23,
     "header_path": "section:ARTICLE V",
     "chunk_index": 1,
@@ -1900,7 +1880,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c191",
+    "chunk_id": "TN_Contract4_Redacted_p23_c189",
     "page_number": 23,
     "header_path": "section:ARTICLE V > clause:5.1",
     "chunk_index": 1,
@@ -1910,7 +1890,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p23_c192",
+    "chunk_id": "TN_Contract4_Redacted_p23_c190",
     "page_number": 23,
     "header_path": "section:ARTICLE V > clause:5.1.1",
     "chunk_index": 1,
@@ -1920,7 +1900,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c193",
+    "chunk_id": "TN_Contract4_Redacted_p24_c191",
     "page_number": 24,
     "header_path": "section:ARTICLE V > clause:5.1.1",
     "chunk_index": 1,
@@ -1930,7 +1910,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c194",
+    "chunk_id": "TN_Contract4_Redacted_p24_c192",
     "page_number": 24,
     "header_path": "clause:5.1.2",
     "chunk_index": 1,
@@ -1940,7 +1920,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c195",
+    "chunk_id": "TN_Contract4_Redacted_p24_c193",
     "page_number": 24,
     "header_path": "clause:5.1.3",
     "chunk_index": 1,
@@ -1950,7 +1930,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c196",
+    "chunk_id": "TN_Contract4_Redacted_p24_c194",
     "page_number": 24,
     "header_path": "clause:5.2",
     "chunk_index": 1,
@@ -1960,7 +1940,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c197",
+    "chunk_id": "TN_Contract4_Redacted_p24_c195",
     "page_number": 24,
     "header_path": "clause:5.2",
     "chunk_index": 2,
@@ -1970,7 +1950,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c198",
+    "chunk_id": "TN_Contract4_Redacted_p24_c196",
     "page_number": 24,
     "header_path": "clause:5.3",
     "chunk_index": 1,
@@ -1980,7 +1960,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c199",
+    "chunk_id": "TN_Contract4_Redacted_p24_c197",
     "page_number": 24,
     "header_path": "clause:5.4",
     "chunk_index": 1,
@@ -1990,7 +1970,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c200",
+    "chunk_id": "TN_Contract4_Redacted_p24_c198",
     "page_number": 24,
     "header_path": "clause:5.5",
     "chunk_index": 1,
@@ -2000,7 +1980,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p24_c201",
+    "chunk_id": "TN_Contract4_Redacted_p24_c199",
     "page_number": 24,
     "header_path": "clause:5.6",
     "chunk_index": 1,
@@ -2010,7 +1990,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c202",
+    "chunk_id": "TN_Contract4_Redacted_p25_c200",
     "page_number": 25,
     "header_path": "section:ARTICLE V > clause:5.6",
     "chunk_index": 1,
@@ -2020,7 +2000,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c203",
+    "chunk_id": "TN_Contract4_Redacted_p25_c201",
     "page_number": 25,
     "header_path": "clause:5.7",
     "chunk_index": 1,
@@ -2030,7 +2010,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c204",
+    "chunk_id": "TN_Contract4_Redacted_p25_c202",
     "page_number": 25,
     "header_path": "clause:5.8",
     "chunk_index": 1,
@@ -2040,7 +2020,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c205",
+    "chunk_id": "TN_Contract4_Redacted_p25_c203",
     "page_number": 25,
     "header_path": "clause:5.9",
     "chunk_index": 1,
@@ -2050,7 +2030,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c206",
+    "chunk_id": "TN_Contract4_Redacted_p25_c204",
     "page_number": 25,
     "header_path": "clause:5.10",
     "chunk_index": 1,
@@ -2060,7 +2040,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c207",
+    "chunk_id": "TN_Contract4_Redacted_p25_c205",
     "page_number": 25,
     "header_path": "clause:5.11",
     "chunk_index": 1,
@@ -2070,7 +2050,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c208",
+    "chunk_id": "TN_Contract4_Redacted_p25_c206",
     "page_number": 25,
     "header_path": "clause:5.12",
     "chunk_index": 1,
@@ -2080,7 +2060,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c209",
+    "chunk_id": "TN_Contract4_Redacted_p25_c207",
     "page_number": 25,
     "header_path": "clause:5.13",
     "chunk_index": 1,
@@ -2090,7 +2070,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c210",
+    "chunk_id": "TN_Contract4_Redacted_p25_c208",
     "page_number": 25,
     "header_path": "clause:5.14",
     "chunk_index": 1,
@@ -2100,7 +2080,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c211",
+    "chunk_id": "TN_Contract4_Redacted_p25_c209",
     "page_number": 25,
     "header_path": "clause:5.15",
     "chunk_index": 1,
@@ -2110,7 +2090,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p25_c212",
+    "chunk_id": "TN_Contract4_Redacted_p25_c210",
     "page_number": 25,
     "header_path": "clause:5.16",
     "chunk_index": 1,
@@ -2120,7 +2100,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p26_c213",
+    "chunk_id": "TN_Contract4_Redacted_p26_c211",
     "page_number": 26,
     "header_path": "clause:5.17",
     "chunk_index": 1,
@@ -2130,7 +2110,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p26_c214",
+    "chunk_id": "TN_Contract4_Redacted_p26_c212",
     "page_number": 26,
     "header_path": "clause:5.18",
     "chunk_index": 1,
@@ -2140,7 +2120,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p26_c215",
+    "chunk_id": "TN_Contract4_Redacted_p26_c213",
     "page_number": 26,
     "header_path": "clause:5.19",
     "chunk_index": 1,
@@ -2150,7 +2130,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p26_c216",
+    "chunk_id": "TN_Contract4_Redacted_p26_c214",
     "page_number": 26,
     "header_path": "clause:5.19.1",
     "chunk_index": 1,
@@ -2160,7 +2140,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p26_c217",
+    "chunk_id": "TN_Contract4_Redacted_p26_c215",
     "page_number": 26,
     "header_path": "clause:5.19.2",
     "chunk_index": 1,
@@ -2170,7 +2150,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c218",
+    "chunk_id": "TN_Contract4_Redacted_p27_c216",
     "page_number": 27,
     "header_path": "section:ARTICLE V > clause:5.19.2",
     "chunk_index": 1,
@@ -2180,7 +2160,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c219",
+    "chunk_id": "TN_Contract4_Redacted_p27_c217",
     "page_number": 27,
     "header_path": "clause:5.19.3",
     "chunk_index": 1,
@@ -2190,7 +2170,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c220",
+    "chunk_id": "TN_Contract4_Redacted_p27_c218",
     "page_number": 27,
     "header_path": "clause:5.19.4",
     "chunk_index": 1,
@@ -2200,7 +2180,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c221",
+    "chunk_id": "TN_Contract4_Redacted_p27_c219",
     "page_number": 27,
     "header_path": "clause:5.19.5",
     "chunk_index": 1,
@@ -2210,7 +2190,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c222",
+    "chunk_id": "TN_Contract4_Redacted_p27_c220",
     "page_number": 27,
     "header_path": "clause:5.20",
     "chunk_index": 1,
@@ -2220,7 +2200,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c223",
+    "chunk_id": "TN_Contract4_Redacted_p27_c221",
     "page_number": 27,
     "header_path": "clause:5.20.1",
     "chunk_index": 1,
@@ -2230,7 +2210,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c224",
+    "chunk_id": "TN_Contract4_Redacted_p27_c222",
     "page_number": 27,
     "header_path": "clause:5.20.2",
     "chunk_index": 1,
@@ -2240,7 +2220,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c225",
+    "chunk_id": "TN_Contract4_Redacted_p27_c223",
     "page_number": 27,
     "header_path": "clause:5.20.3",
     "chunk_index": 1,
@@ -2250,7 +2230,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p27_c226",
+    "chunk_id": "TN_Contract4_Redacted_p27_c224",
     "page_number": 27,
     "header_path": "clause:5.20.4",
     "chunk_index": 1,
@@ -2260,7 +2240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c227",
+    "chunk_id": "TN_Contract4_Redacted_p28_c225",
     "page_number": 28,
     "header_path": "clause:5.21",
     "chunk_index": 1,
@@ -2270,7 +2250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c228",
+    "chunk_id": "TN_Contract4_Redacted_p28_c226",
     "page_number": 28,
     "header_path": "clause:5.22",
     "chunk_index": 1,
@@ -2280,7 +2260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c229",
+    "chunk_id": "TN_Contract4_Redacted_p28_c227",
     "page_number": 28,
     "header_path": "clause:5.23",
     "chunk_index": 1,
@@ -2290,7 +2270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c230",
+    "chunk_id": "TN_Contract4_Redacted_p28_c228",
     "page_number": 28,
     "header_path": "clause:5.24",
     "chunk_index": 1,
@@ -2300,7 +2280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c231",
+    "chunk_id": "TN_Contract4_Redacted_p28_c229",
     "page_number": 28,
     "header_path": "clause:5.25",
     "chunk_index": 1,
@@ -2310,7 +2290,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c232",
+    "chunk_id": "TN_Contract4_Redacted_p28_c230",
     "page_number": 28,
     "header_path": "clause:5.26",
     "chunk_index": 1,
@@ -2320,7 +2300,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c233",
+    "chunk_id": "TN_Contract4_Redacted_p28_c231",
     "page_number": 28,
     "header_path": "clause:5.27",
     "chunk_index": 1,
@@ -2330,7 +2310,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p28_c234",
+    "chunk_id": "TN_Contract4_Redacted_p28_c232",
     "page_number": 28,
     "header_path": "clause:5.28",
     "chunk_index": 1,
@@ -2340,7 +2320,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c235",
+    "chunk_id": "TN_Contract4_Redacted_p29_c233",
     "page_number": 29,
     "header_path": "clause:5.29",
     "chunk_index": 1,
@@ -2350,7 +2330,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c236",
+    "chunk_id": "TN_Contract4_Redacted_p29_c234",
     "page_number": 29,
     "header_path": "clause:5.30",
     "chunk_index": 1,
@@ -2360,7 +2340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c237",
+    "chunk_id": "TN_Contract4_Redacted_p29_c235",
     "page_number": 29,
     "header_path": "clause:5.31",
     "chunk_index": 1,
@@ -2370,7 +2350,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c238",
+    "chunk_id": "TN_Contract4_Redacted_p29_c236",
     "page_number": 29,
     "header_path": "clause:5.31.1",
     "chunk_index": 1,
@@ -2380,7 +2360,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c239",
+    "chunk_id": "TN_Contract4_Redacted_p29_c237",
     "page_number": 29,
     "header_path": "clause:5.31.2",
     "chunk_index": 1,
@@ -2390,7 +2370,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c240",
+    "chunk_id": "TN_Contract4_Redacted_p29_c238",
     "page_number": 29,
     "header_path": "clause:5.31.3",
     "chunk_index": 1,
@@ -2400,7 +2380,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p29_c241",
+    "chunk_id": "TN_Contract4_Redacted_p29_c239",
     "page_number": 29,
     "header_path": "clause:5.31.3",
     "chunk_index": 2,
@@ -2410,7 +2390,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c242",
+    "chunk_id": "TN_Contract4_Redacted_p30_c240",
     "page_number": 30,
     "header_path": "section:ARTICLE V > clause:5.31.3",
     "chunk_index": 1,
@@ -2420,7 +2400,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c243",
+    "chunk_id": "TN_Contract4_Redacted_p30_c241",
     "page_number": 30,
     "header_path": "section:ARTICLE VI",
     "chunk_index": 1,
@@ -2430,7 +2410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c244",
+    "chunk_id": "TN_Contract4_Redacted_p30_c242",
     "page_number": 30,
     "header_path": "section:ARTICLE VI > clause:6.1",
     "chunk_index": 1,
@@ -2440,7 +2420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c245",
+    "chunk_id": "TN_Contract4_Redacted_p30_c243",
     "page_number": 30,
     "header_path": "section:ARTICLE VI > clause:6.2",
     "chunk_index": 1,
@@ -2450,7 +2430,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c246",
+    "chunk_id": "TN_Contract4_Redacted_p30_c244",
     "page_number": 30,
     "header_path": "section:ARTICLE VI > clause:6.3",
     "chunk_index": 1,
@@ -2460,7 +2440,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c247",
+    "chunk_id": "TN_Contract4_Redacted_p30_c245",
     "page_number": 30,
     "header_path": "section:ARTICLE VII",
     "chunk_index": 1,
@@ -2470,7 +2450,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c248",
+    "chunk_id": "TN_Contract4_Redacted_p30_c246",
     "page_number": 30,
     "header_path": "section:ARTICLE VII > clause:7.1",
     "chunk_index": 1,
@@ -2480,7 +2460,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c249",
+    "chunk_id": "TN_Contract4_Redacted_p30_c247",
     "page_number": 30,
     "header_path": "section:ARTICLE VII > clause:7.2",
     "chunk_index": 1,
@@ -2490,7 +2470,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c250",
+    "chunk_id": "TN_Contract4_Redacted_p30_c248",
     "page_number": 30,
     "header_path": "section:ARTICLE VII > clause:7.3",
     "chunk_index": 1,
@@ -2500,27 +2480,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c251",
+    "chunk_id": "TN_Contract4_Redacted_p30_c249",
     "page_number": 30,
     "header_path": "section:ARTICLE VII > clause:455.100",
     "chunk_index": 1,
-    "content": "through 455.106. Provider further agrees to notify within fourteen (14) days of any\nchanges to the Disclosures. Providers that bill and/or receive funds as the result of the\nAgreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part",
-    "token_count": 58,
+    "content": "through 455.106. Provider further agrees to notify within fourteen (14) days of any\nchanges to the Disclosures. Providers that bill and/or receive funds as the result of the\nAgreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part\n455, Subpart B, and policies and procedures, including at the time of initial\ncontracting, contract renewal, at any time there is a change to any of the information on the disclosure form\nor disclosing entity, at least once every three (3) years, and at any time upon request. Providers may satisfy\nthis requirement may be satisfied through TennCare's provider registration process. Failure to provide\nDisclosures as required under Regulatory Requirements shall be deemed a material breach of this\nAttachment and the Agreement.",
+    "token_count": 163,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p30_c252",
-    "page_number": 30,
-    "header_path": "section:ARTICLE VII > clause:455",
-    "chunk_index": 1,
-    "content": ", Subpart B, and policies and procedures, including at the time of initial\ncontracting, contract renewal, at any time there is a change to any of the information on the disclosure form\nor disclosing entity, at least once every three (3) years, and at any time upon request. Providers may satisfy\nthis requirement may be satisfied through TennCare's provider registration process. Failure to provide\nDisclosures as required under Regulatory Requirements shall be deemed a material breach of this\nAttachment and the Agreement.",
-    "token_count": 103,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p30_c253",
+    "chunk_id": "TN_Contract4_Redacted_p30_c250",
     "page_number": 30,
     "header_path": "section:ARTICLE VII > clause:7.4",
     "chunk_index": 1,
@@ -2530,7 +2500,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p31_c254",
+    "chunk_id": "TN_Contract4_Redacted_p31_c251",
     "page_number": 31,
     "header_path": "section:ARTICLE VII > clause:7.4",
     "chunk_index": 1,
@@ -2540,7 +2510,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p31_c255",
+    "chunk_id": "TN_Contract4_Redacted_p31_c252",
     "page_number": 31,
     "header_path": "clause:7.5",
     "chunk_index": 1,
@@ -2550,7 +2520,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p32_c256",
+    "chunk_id": "TN_Contract4_Redacted_p32_c253",
     "page_number": 32,
     "header_path": "section:ARTICLE VII > clause:7.5",
     "chunk_index": 1,
@@ -2560,7 +2530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p32_c257",
+    "chunk_id": "TN_Contract4_Redacted_p32_c254",
     "page_number": 32,
     "header_path": "section:ARTICLE I",
     "chunk_index": 1,
@@ -2570,7 +2540,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p32_c258",
+    "chunk_id": "TN_Contract4_Redacted_p32_c255",
     "page_number": 32,
     "header_path": "section:ARTICLE I",
     "chunk_index": 2,
@@ -2580,7 +2550,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p32_c259",
+    "chunk_id": "TN_Contract4_Redacted_p32_c256",
     "page_number": 32,
     "header_path": "section:ARTICLE I",
     "chunk_index": 3,
@@ -2590,7 +2560,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c260",
+    "chunk_id": "TN_Contract4_Redacted_p33_c257",
     "page_number": 33,
     "header_path": "section:ARTICLE I > clause:7.5",
     "chunk_index": 1,
@@ -2600,7 +2570,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c261",
+    "chunk_id": "TN_Contract4_Redacted_p33_c258",
     "page_number": 33,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
@@ -2610,7 +2580,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c262",
+    "chunk_id": "TN_Contract4_Redacted_p33_c259",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.1",
     "chunk_index": 1,
@@ -2620,7 +2590,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c263",
+    "chunk_id": "TN_Contract4_Redacted_p33_c260",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.1.1",
     "chunk_index": 1,
@@ -2630,7 +2600,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c264",
+    "chunk_id": "TN_Contract4_Redacted_p33_c261",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.2",
     "chunk_index": 1,
@@ -2640,7 +2610,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c265",
+    "chunk_id": "TN_Contract4_Redacted_p33_c262",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.3",
     "chunk_index": 1,
@@ -2650,7 +2620,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c266",
+    "chunk_id": "TN_Contract4_Redacted_p33_c263",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.4",
     "chunk_index": 1,
@@ -2660,7 +2630,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c267",
+    "chunk_id": "TN_Contract4_Redacted_p33_c264",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.4.1",
     "chunk_index": 1,
@@ -2670,7 +2640,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c268",
+    "chunk_id": "TN_Contract4_Redacted_p33_c265",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.4.2",
     "chunk_index": 1,
@@ -2680,7 +2650,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c269",
+    "chunk_id": "TN_Contract4_Redacted_p33_c266",
     "page_number": 33,
     "header_path": "section:ARTICLE II > clause:2.5",
     "chunk_index": 1,
@@ -2690,7 +2660,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p33_c270",
+    "chunk_id": "TN_Contract4_Redacted_p33_c267",
     "page_number": 33,
     "header_path": "section:ARTICLE III",
     "chunk_index": 1,
@@ -2700,7 +2670,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c271",
+    "chunk_id": "TN_Contract4_Redacted_p34_c268",
     "page_number": 34,
     "header_path": "clause:3.1",
     "chunk_index": 1,
@@ -2710,7 +2680,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c272",
+    "chunk_id": "TN_Contract4_Redacted_p34_c269",
     "page_number": 34,
     "header_path": "clause:3.2",
     "chunk_index": 1,
@@ -2720,7 +2690,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c273",
+    "chunk_id": "TN_Contract4_Redacted_p34_c270",
     "page_number": 34,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 1,
@@ -2730,7 +2700,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c274",
+    "chunk_id": "TN_Contract4_Redacted_p34_c271",
     "page_number": 34,
     "header_path": "section:ARTICLE IV > clause:4.1",
     "chunk_index": 1,
@@ -2740,7 +2710,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c275",
+    "chunk_id": "TN_Contract4_Redacted_p34_c272",
     "page_number": 34,
     "header_path": "section:ARTICLE IV > clause:4.2",
     "chunk_index": 1,
@@ -2750,7 +2720,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c276",
+    "chunk_id": "TN_Contract4_Redacted_p34_c273",
     "page_number": 34,
     "header_path": "section:ARTICLE IV > clause:4.3",
     "chunk_index": 1,
@@ -2760,7 +2730,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c277",
+    "chunk_id": "TN_Contract4_Redacted_p34_c274",
     "page_number": 34,
     "header_path": "section:ARTICLE IV > clause:4.4",
     "chunk_index": 1,
@@ -2770,7 +2740,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c278",
+    "chunk_id": "TN_Contract4_Redacted_p34_c275",
     "page_number": 34,
     "header_path": "section:ARTICLE IV > clause:4.5",
     "chunk_index": 1,
@@ -2780,7 +2750,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p34_c279",
+    "chunk_id": "TN_Contract4_Redacted_p34_c276",
     "page_number": 34,
     "header_path": "section:ARTICLE V",
     "chunk_index": 1,
@@ -2790,7 +2760,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c280",
+    "chunk_id": "TN_Contract4_Redacted_p35_c277",
     "page_number": 35,
     "header_path": "clause:5.1",
     "chunk_index": 1,
@@ -2800,7 +2770,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c281",
+    "chunk_id": "TN_Contract4_Redacted_p35_c278",
     "page_number": 35,
     "header_path": "clause:5.2",
     "chunk_index": 1,
@@ -2810,7 +2780,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c282",
+    "chunk_id": "TN_Contract4_Redacted_p35_c279",
     "page_number": 35,
     "header_path": "clause:5.3",
     "chunk_index": 1,
@@ -2820,7 +2790,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c283",
+    "chunk_id": "TN_Contract4_Redacted_p35_c280",
     "page_number": 35,
     "header_path": "clause:5.4",
     "chunk_index": 1,
@@ -2830,7 +2800,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c284",
+    "chunk_id": "TN_Contract4_Redacted_p35_c281",
     "page_number": 35,
     "header_path": "clause:5.5",
     "chunk_index": 1,
@@ -2840,7 +2810,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c285",
+    "chunk_id": "TN_Contract4_Redacted_p35_c282",
     "page_number": 35,
     "header_path": "clause:5.6",
     "chunk_index": 1,
@@ -2850,7 +2820,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c286",
+    "chunk_id": "TN_Contract4_Redacted_p35_c283",
     "page_number": 35,
     "header_path": "clause:5.6",
     "chunk_index": 2,
@@ -2860,7 +2830,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p35_c287",
+    "chunk_id": "TN_Contract4_Redacted_p35_c284",
     "page_number": 35,
     "header_path": "clause:5.6.1",
     "chunk_index": 1,
@@ -2870,7 +2840,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c288",
+    "chunk_id": "TN_Contract4_Redacted_p36_c285",
     "page_number": 36,
     "header_path": "clause:5.7",
     "chunk_index": 1,
@@ -2880,7 +2850,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c289",
+    "chunk_id": "TN_Contract4_Redacted_p36_c286",
     "page_number": 36,
     "header_path": "clause:5.8",
     "chunk_index": 1,
@@ -2890,7 +2860,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c290",
+    "chunk_id": "TN_Contract4_Redacted_p36_c287",
     "page_number": 36,
     "header_path": "section:ARTICLE VI",
     "chunk_index": 1,
@@ -2900,7 +2870,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c291",
+    "chunk_id": "TN_Contract4_Redacted_p36_c288",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.1",
     "chunk_index": 1,
@@ -2910,7 +2880,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c292",
+    "chunk_id": "TN_Contract4_Redacted_p36_c289",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.1.1",
     "chunk_index": 1,
@@ -2920,7 +2890,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c293",
+    "chunk_id": "TN_Contract4_Redacted_p36_c290",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.1.2",
     "chunk_index": 1,
@@ -2930,7 +2900,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c294",
+    "chunk_id": "TN_Contract4_Redacted_p36_c291",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.1.3",
     "chunk_index": 1,
@@ -2940,7 +2910,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c295",
+    "chunk_id": "TN_Contract4_Redacted_p36_c292",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.2",
     "chunk_index": 1,
@@ -2950,7 +2920,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c296",
+    "chunk_id": "TN_Contract4_Redacted_p36_c293",
     "page_number": 36,
     "header_path": "section:ARTICLE VI > clause:6.3",
     "chunk_index": 1,
@@ -2960,7 +2930,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c297",
+    "chunk_id": "TN_Contract4_Redacted_p36_c294",
     "page_number": 36,
     "header_path": "section:ARTICLE VII",
     "chunk_index": 1,
@@ -2970,7 +2940,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p36_c298",
+    "chunk_id": "TN_Contract4_Redacted_p36_c295",
     "page_number": 36,
     "header_path": "section:ARTICLE VII > clause:7.1",
     "chunk_index": 1,
@@ -2980,7 +2950,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c299",
+    "chunk_id": "TN_Contract4_Redacted_p37_c296",
     "page_number": 37,
     "header_path": "section:ARTICLE VII > clause:7.1",
     "chunk_index": 1,
@@ -2990,7 +2960,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c300",
+    "chunk_id": "TN_Contract4_Redacted_p37_c297",
     "page_number": 37,
     "header_path": "clause:7.2",
     "chunk_index": 1,
@@ -3000,7 +2970,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c301",
+    "chunk_id": "TN_Contract4_Redacted_p37_c298",
     "page_number": 37,
     "header_path": "clause:7.3",
     "chunk_index": 1,
@@ -3010,7 +2980,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c302",
+    "chunk_id": "TN_Contract4_Redacted_p37_c299",
     "page_number": 37,
     "header_path": "clause:7.3",
     "chunk_index": 2,
@@ -3020,7 +2990,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c303",
+    "chunk_id": "TN_Contract4_Redacted_p37_c300",
     "page_number": 37,
     "header_path": "clause:7.4",
     "chunk_index": 1,
@@ -3030,7 +3000,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c304",
+    "chunk_id": "TN_Contract4_Redacted_p37_c301",
     "page_number": 37,
     "header_path": "clause:422.310",
     "chunk_index": 1,
@@ -3040,7 +3010,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c305",
+    "chunk_id": "TN_Contract4_Redacted_p37_c302",
     "page_number": 37,
     "header_path": "clause:7.5",
     "chunk_index": 1,
@@ -3050,7 +3020,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c306",
+    "chunk_id": "TN_Contract4_Redacted_p37_c303",
     "page_number": 37,
     "header_path": "section:ARTICLE VIII",
     "chunk_index": 1,
@@ -3060,7 +3030,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p37_c307",
+    "chunk_id": "TN_Contract4_Redacted_p37_c304",
     "page_number": 37,
     "header_path": "section:ARTICLE VIII > clause:8.1",
     "chunk_index": 1,
@@ -3070,7 +3040,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c308",
+    "chunk_id": "TN_Contract4_Redacted_p38_c305",
     "page_number": 38,
     "header_path": "clause:8.2",
     "chunk_index": 1,
@@ -3080,7 +3050,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c309",
+    "chunk_id": "TN_Contract4_Redacted_p38_c306",
     "page_number": 38,
     "header_path": "clause:8.3",
     "chunk_index": 1,
@@ -3090,7 +3060,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c310",
+    "chunk_id": "TN_Contract4_Redacted_p38_c307",
     "page_number": 38,
     "header_path": "section:ARTICLE IX",
     "chunk_index": 1,
@@ -3100,7 +3070,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c311",
+    "chunk_id": "TN_Contract4_Redacted_p38_c308",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.1",
     "chunk_index": 1,
@@ -3110,7 +3080,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c312",
+    "chunk_id": "TN_Contract4_Redacted_p38_c309",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.2",
     "chunk_index": 1,
@@ -3120,7 +3090,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c313",
+    "chunk_id": "TN_Contract4_Redacted_p38_c310",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.3",
     "chunk_index": 1,
@@ -3130,7 +3100,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c314",
+    "chunk_id": "TN_Contract4_Redacted_p38_c311",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.4",
     "chunk_index": 1,
@@ -3140,7 +3110,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c315",
+    "chunk_id": "TN_Contract4_Redacted_p38_c312",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.5",
     "chunk_index": 1,
@@ -3150,7 +3120,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p38_c316",
+    "chunk_id": "TN_Contract4_Redacted_p38_c313",
     "page_number": 38,
     "header_path": "section:ARTICLE IX > clause:9.6",
     "chunk_index": 1,
@@ -3160,7 +3130,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c317",
+    "chunk_id": "TN_Contract4_Redacted_p39_c314",
     "page_number": 39,
     "header_path": "section:ARTICLE IX > clause:9.6",
     "chunk_index": 1,
@@ -3170,37 +3140,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c318",
+    "chunk_id": "TN_Contract4_Redacted_p39_c315",
     "page_number": 39,
     "header_path": "clause:9.7",
     "chunk_index": 1,
-    "content": "Federal Funds. Provider acknowledges that payments Provider receives from to provide MA\nCovered Services to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of\nhis/her/its subcontractors are subject to certain Regulatory Requirements that are applicable to Members\nand entities receiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of",
-    "token_count": 79,
+    "content": "Federal Funds. Provider acknowledges that payments Provider receives from to provide MA\nCovered Services to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of\nhis/her/its subcontractors are subject to certain Regulatory Requirements that are applicable to Members\nand entities receiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of\n1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR\nPart 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR Part\n84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations\napplicable to recipients of federal funds.",
+    "token_count": 166,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c319",
-    "page_number": 39,
-    "header_path": "clause:1964",
-    "chunk_index": 1,
-    "content": "as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR\nPart 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR Part",
-    "token_count": 50,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p39_c320",
-    "page_number": 39,
-    "header_path": "clause:84",
-    "chunk_index": 1,
-    "content": ", lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations\napplicable to recipients of federal funds.",
-    "token_count": 32,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p39_c321",
+    "chunk_id": "TN_Contract4_Redacted_p39_c316",
     "page_number": 39,
     "header_path": "section:ARTICLE X",
     "chunk_index": 1,
@@ -3210,7 +3160,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c322",
+    "chunk_id": "TN_Contract4_Redacted_p39_c317",
     "page_number": 39,
     "header_path": "section:ARTICLE X > clause:10.1",
     "chunk_index": 1,
@@ -3220,7 +3170,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c323",
+    "chunk_id": "TN_Contract4_Redacted_p39_c318",
     "page_number": 39,
     "header_path": "section:ARTICLE XI",
     "chunk_index": 1,
@@ -3230,7 +3180,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c324",
+    "chunk_id": "TN_Contract4_Redacted_p39_c319",
     "page_number": 39,
     "header_path": "section:ARTICLE XI > clause:11.1",
     "chunk_index": 1,
@@ -3240,7 +3190,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c325",
+    "chunk_id": "TN_Contract4_Redacted_p39_c320",
     "page_number": 39,
     "header_path": "section:ARTICLE XI > clause:11.2",
     "chunk_index": 1,
@@ -3250,7 +3200,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c326",
+    "chunk_id": "TN_Contract4_Redacted_p39_c321",
     "page_number": 39,
     "header_path": "section:ARTICLE XI > clause:11.3",
     "chunk_index": 1,
@@ -3260,7 +3210,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c327",
+    "chunk_id": "TN_Contract4_Redacted_p39_c322",
     "page_number": 39,
     "header_path": "section:ARTICLE XII",
     "chunk_index": 1,
@@ -3270,7 +3220,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c328",
+    "chunk_id": "TN_Contract4_Redacted_p39_c323",
     "page_number": 39,
     "header_path": "section:ARTICLE XII > clause:12.1",
     "chunk_index": 1,
@@ -3280,7 +3230,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c329",
+    "chunk_id": "TN_Contract4_Redacted_p39_c324",
     "page_number": 39,
     "header_path": "section:ARTICLE XII > clause:12.2",
     "chunk_index": 1,
@@ -3290,7 +3240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p39_c330",
+    "chunk_id": "TN_Contract4_Redacted_p39_c325",
     "page_number": 39,
     "header_path": "section:ARTICLE XII > clause:12.3",
     "chunk_index": 1,
@@ -3300,7 +3250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c331",
+    "chunk_id": "TN_Contract4_Redacted_p40_c326",
     "page_number": 40,
     "header_path": "clause:12.4",
     "chunk_index": 1,
@@ -3310,7 +3260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c332",
+    "chunk_id": "TN_Contract4_Redacted_p40_c327",
     "page_number": 40,
     "header_path": "clause:12.4.1",
     "chunk_index": 1,
@@ -3320,7 +3270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c333",
+    "chunk_id": "TN_Contract4_Redacted_p40_c328",
     "page_number": 40,
     "header_path": "clause:12.4.2",
     "chunk_index": 1,
@@ -3330,7 +3280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c334",
+    "chunk_id": "TN_Contract4_Redacted_p40_c329",
     "page_number": 40,
     "header_path": "clause:12.4.3",
     "chunk_index": 1,
@@ -3340,7 +3290,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c335",
+    "chunk_id": "TN_Contract4_Redacted_p40_c330",
     "page_number": 40,
     "header_path": "clause:12.4.4",
     "chunk_index": 1,
@@ -3350,7 +3300,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c336",
+    "chunk_id": "TN_Contract4_Redacted_p40_c331",
     "page_number": 40,
     "header_path": "clause:12.4.5",
     "chunk_index": 1,
@@ -3360,7 +3310,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c337",
+    "chunk_id": "TN_Contract4_Redacted_p40_c332",
     "page_number": 40,
     "header_path": "clause:12.5",
     "chunk_index": 1,
@@ -3370,7 +3320,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c338",
+    "chunk_id": "TN_Contract4_Redacted_p40_c333",
     "page_number": 40,
     "header_path": "clause:12.6",
     "chunk_index": 1,
@@ -3380,7 +3330,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c339",
+    "chunk_id": "TN_Contract4_Redacted_p40_c334",
     "page_number": 40,
     "header_path": "clause:12.7",
     "chunk_index": 1,
@@ -3390,7 +3340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p40_c340",
+    "chunk_id": "TN_Contract4_Redacted_p40_c335",
     "page_number": 40,
     "header_path": "clause:12.8",
     "chunk_index": 1,
@@ -3400,7 +3350,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p41_c341",
+    "chunk_id": "TN_Contract4_Redacted_p41_c336",
     "page_number": 41,
     "header_path": "section:ARTICLE XII > clause:12.8",
     "chunk_index": 1,
@@ -3410,7 +3360,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p41_c342",
+    "chunk_id": "TN_Contract4_Redacted_p41_c337",
     "page_number": 41,
     "header_path": "section:ARTICLE I",
     "chunk_index": 1,
@@ -3420,7 +3370,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p41_c343",
+    "chunk_id": "TN_Contract4_Redacted_p41_c338",
     "page_number": 41,
     "header_path": "section:ARTICLE I",
     "chunk_index": 2,
@@ -3430,7 +3380,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p41_c344",
+    "chunk_id": "TN_Contract4_Redacted_p41_c339",
     "page_number": 41,
     "header_path": "section:ARTICLE I",
     "chunk_index": 3,
@@ -3440,7 +3390,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p41_c345",
+    "chunk_id": "TN_Contract4_Redacted_p41_c340",
     "page_number": 41,
     "header_path": "section:ARTICLE I",
     "chunk_index": 4,
@@ -3450,7 +3400,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p42_c346",
+    "chunk_id": "TN_Contract4_Redacted_p42_c341",
     "page_number": 42,
     "header_path": "section:ARTICLE I > clause:12.8",
     "chunk_index": 1,
@@ -3460,7 +3410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p42_c347",
+    "chunk_id": "TN_Contract4_Redacted_p42_c342",
     "page_number": 42,
     "header_path": "section:ARTICLE I > clause:12.8",
     "chunk_index": 2,
@@ -3470,7 +3420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p42_c348",
+    "chunk_id": "TN_Contract4_Redacted_p42_c343",
     "page_number": 42,
     "header_path": "section:ARTICLE I > clause:12.8",
     "chunk_index": 3,
@@ -3480,29 +3430,19 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p42_c349",
+    "chunk_id": "TN_Contract4_Redacted_p42_c344",
     "page_number": 42,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
-    "content": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-",
-    "token_count": 31,
+    "content": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-\n04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with\nPolicies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the\nCoded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,\nshall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes.\naudits that result in identification of Health Services that are not reported in accordance with the Coded\nService Identifier(s) guidelines and instructions, will be subject to recovery through remittance adjustment or other\nrecovery action as may be set forth in the provider manual(s).  \n|  |\n| --- |\n|  |",
+    "token_count": 173,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p42_c350",
-    "page_number": 42,
-    "header_path": "section:ARTICLE II > clause:04",
-    "chunk_index": 1,
-    "content": "claim form or its successor form(s) as applicable based on the Health Services provided in accordance with\nPolicies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the\nCoded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,\nshall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes.\naudits that result in identification of Health Services that are not reported in accordance with the Coded\nService Identifier(s) guidelines and instructions, will be subject to recovery through remittance adjustment or other\nrecovery action as may be set forth in the provider manual(s).  \n|  |\n| --- |\n|  |",
-    "token_count": 141,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p43_c351",
+    "chunk_id": "TN_Contract4_Redacted_p43_c345",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 1,
     "content": "Claim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered. Unless otherwise required under Regulatory Requirements,\nshall not reimburse for any pharmaceuticals that are not administered to the Member and/or deemed\ncontaminated and/or considered waste.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect\nnew, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable\nCoded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes\nare updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless\nof whether this Agreement has been amended to reflect changes to standard billing codes. If Provider bills a revised\ncode prior to the effective date of the revised code, the Claim will be rejected or denied and Provider shall resubmit\nClaim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the",
     "token_count": 294,
@@ -3510,9 +3450,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p43_c352",
+    "chunk_id": "TN_Contract4_Redacted_p43_c346",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 2,
     "content": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the\nright to use a code editing software as reasonably required by to ensure Claims adjudication in\naccordance with industry standards, including, but not limited to, determining which services are considered part of,\nincidental to, or inclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis,\nfrequency, and units billed.\nModifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry\nstandard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.\nNew/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded",
     "token_count": 273,
@@ -3520,9 +3460,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p43_c353",
+    "chunk_id": "TN_Contract4_Redacted_p43_c347",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 3,
     "content": "New/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded\nService or New/Expanded Technology for consideration as a reimbursable service: (1) a description of the\nNew/Expanded Service or New/Expanded Technology; (2) Provider's proposed charge for the New/Expanded\nService or New/Expanded Technology; (3) such other reasonable data and information required by to\nevaluate the New/Expanded Service or New/Expanded Technology. In addition, may also need to obtain\napproval from applicable Agency prior to making determination that New/Expanded Service or\nNew/Expanded Technology can be considered a reimbursable service. If agrees that the New/Expanded\nService or New/Expanded Technology may be reimbursable under this Agreement, then shall notify\nProvider, and both parties agree to negotiate in good faith, a new Rate for the New/Expanded Service or\nNew/Expanded Technology within sixty (60) days of notice to Provider. If the parties are unable to\nreach an agreement on a new Rate for the New/Expanded Service or New/Expanded Technology before",
     "token_count": 295,
@@ -3530,9 +3470,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p43_c354",
+    "chunk_id": "TN_Contract4_Redacted_p43_c348",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 4,
     "content": "Service or New/Expanded Technology may be reimbursable under this Agreement, then shall notify\nProvider, and both parties agree to negotiate in good faith, a new Rate for the New/Expanded Service or\nNew/Expanded Technology within sixty (60) days of notice to Provider. If the parties are unable to\nreach an agreement on a new Rate for the New/Expanded Service or New/Expanded Technology before\nthe end of the sixty (60) day period, then such New/Expanded Service or New/Expanded Technology shall not be\nreimbursed by and the Payment in Full and Hold Harmless provision of this Agreement shall apply.\na. \"New/Expanded Service\" shall be defined as a Health Service: (a) that Provider was not providing to\nMembers as of the Effective Date of this Agreement and; (b) for which there is not a specific\nRate as set forth in this ACS.\nb. \"New/Expanded Technology\" shall be defined as a technological advancement in the delivery of a Covered\nService which results in a material increase to the cost of such service. New/Expanded Technology shall not\ninclude a new device, or implant that merely represents a new model or an improved model of a device or\nimplant used in connection with a service provided by Provider as of the Effective Date of this Agreement.\nNon-Priced Codes for Covered Services. reserves the right to establish a rate for codes that are not",
     "token_count": 292,
@@ -3540,9 +3480,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p43_c355",
+    "chunk_id": "TN_Contract4_Redacted_p43_c349",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 5,
     "content": "Service which results in a material increase to the cost of such service. New/Expanded Technology shall not\ninclude a new device, or implant that merely represents a new model or an improved model of a device or\nimplant used in connection with a service provided by Provider as of the Effective Date of this Agreement.\nNon-Priced Codes for Covered Services. reserves the right to establish a rate for codes that are not\npriced in this ACS or in the Fee Schedule(s), including but not limited to, Not Otherwise Classified Codes (\"NOC\"),\nNot Otherwise Specified (\"NOS\"), Miscellaneous, Individual Consideration Codes (\"IC\"), and By Report (\"BR\")\n(collectively \"Non-Priced Codes\"). shall only reimburse Non-Priced Codes for Covered Services in the\nfollowing situations: (i) the Non-Priced Code does not have a published dollar amount on the then current applicable\nState or CMS Fee Schedule, (ii) the Non-Priced Code has a zero dollar amount listed, or (iii) the Non-\nPriced Code requires manual pricing. In such situations, such Non-Priced Code shall be reimbursed at a rate\nestablished by for such Covered Service. Notwithstanding the foregoing, shall not price Non-\nPriced Codes that are not Covered Services under the Members Health Benefit Plan. may require the\nsubmission of medical records, invoices, or other documentation for Claims payment consideration.",
     "token_count": 291,
@@ -3550,9 +3490,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p44_c356",
+    "chunk_id": "TN_Contract4_Redacted_p44_c350",
     "page_number": 44,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 1,
     "content": "Reimbursement for Rate Based on Eligible Charges. Notwithstanding any reimbursement amount set\nforth herein, Provider shall only be allowed to receive such reimbursement if such reimbursement is for an Eligible\nCharge. In addition, if Provider reimbursement is under one or more of the following methodologies: Capitation, Case\nRate, DRG Rate, Encounter Rate, Global Case Rate, Per Diem Rate, Per Relative Value Unit (RVU), and Per Visit\nRate, then individual services billed shall not be reimbursed separately, unless otherwise specified in Article IV of this\nACS.\nReimbursement for Subcontractors. shall not be liable for any reimbursement in addition to the applicable\nRate as a result of Provider's use of a subcontractor. Provider shall be solely responsible to pay\nsubcontractors for any Health Services, and shall via written contract, contractually prohibit such subcontractors from\nbilling, collecting or attempting to collect from or Members. Notwithstanding the foregoing, if\nhas a direct contract with the subcontractor, the direct contract shall prevail over this Agreement and the\nsubcontractor shall bill under the direct contract for any subcontracted services, with the exception of\nnursing services provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The Rates in this Agreement include all sales and use taxes and other",
     "token_count": 277,
@@ -3560,9 +3500,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p44_c357",
+    "chunk_id": "TN_Contract4_Redacted_p44_c351",
     "page_number": 44,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 2,
     "content": "billing, collecting or attempting to collect from or Members. Notwithstanding the foregoing, if\nhas a direct contract with the subcontractor, the direct contract shall prevail over this Agreement and the\nsubcontractor shall bill under the direct contract for any subcontracted services, with the exception of\nnursing services provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The Rates in this Agreement include all sales and use taxes and other\ntaxes on Provider revenue, gross earnings, profits, income and other taxes, charges or assessments of any nature\nwhatsoever (together with any related interest or penalties) now or hereafter imposed against or collectible by\nProvider with respect to Covered Services, unless otherwise required by Agency pursuant to Regulatory\nRequirements. Neither Provider nor shall add any amount to or deduct any amount from the\nRates, whether on account of taxes, assessments, tax penalties or tax exemptions.\nUpdates to Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements,\nand notwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, shall use commercially\nreasonable efforts to update the Rate(s) based on External Sources, which include but are not limited to,\ni) CMS Medicare fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee",
     "token_count": 270,
@@ -3570,9 +3510,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p44_c358",
+    "chunk_id": "TN_Contract4_Redacted_p44_c352",
     "page_number": 44,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 3,
     "content": "Rates, whether on account of taxes, assessments, tax penalties or tax exemptions.\nUpdates to Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements,\nand notwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, shall use commercially\nreasonable efforts to update the Rate(s) based on External Sources, which include but are not limited to,\ni) CMS Medicare fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee\nschedule(s)/rate(s)/methodologies; iii) vendor fee schedule(s)/rate(s)/methodologies; or iv) any other entity's\npublished fee schedule(s)/rate(s)/methodologies (collectively \"External Sources\") no later than sixty (60) days after\nreceipt of the final fee schedule(s)/rate(s)/methodologies change from such External Sources, or on the\neffective date of such final fee schedule(s)/rate(s)/methodologies change, whichever is later. The effective date of\nsuch final fee schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by\nExternal Sources. Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed\nprior to the implementation of the new Rate(s) in payment system shall not be reprocessed,\nhowever, if reprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential",
     "token_count": 285,
@@ -3580,9 +3520,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p44_c359",
+    "chunk_id": "TN_Contract4_Redacted_p44_c353",
     "page_number": 44,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:12.8",
     "chunk_index": 4,
     "content": "such final fee schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by\nExternal Sources. Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed\nprior to the implementation of the new Rate(s) in payment system shall not be reprocessed,\nhowever, if reprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential\nunder and/or over payment to a Provider, then may reconcile the Claim adjustments to determine the\nremaining amount Provider owes or that owes to Provider. Any resultant overpayment\nrecoveries (i.e. Provider owes shall occur automatically without advance notification to Provider. Unless\notherwise required by Regulatory Requirements, shall not be responsible for interest payments that may\nbe the result of a late notification by External Sources to of fee schedule(s)/rate(s)/methodologies\nchange.",
     "token_count": 180,
@@ -3590,7 +3530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p44_c360",
+    "chunk_id": "TN_Contract4_Redacted_p44_c354",
     "page_number": 44,
     "header_path": "section:ARTICLE III",
     "chunk_index": 1,
@@ -3600,9 +3540,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p45_c361",
+    "chunk_id": "TN_Contract4_Redacted_p45_c355",
     "page_number": 45,
-    "header_path": "section:ARTICLE III > clause:04",
+    "header_path": "section:ARTICLE III > clause:12.8",
     "chunk_index": 1,
     "content": "Unless otherwise required under Regulatory Requirements, PCP shall provide Covered Services or make\narrangements for the provision of Covered Services to Members on a twenty-four (24) hour per day, seven (7) day a\nweek basis to assure availability, adequacy, and continuity of care to Members. If Provider is unable to provide\nCovered Services, Provider will arrange for another Participating Provider to cover Provider's patients in accordance\nwith Policies. Provider and any Primary Care Providers employed by or under contract with Provider may arrange for\nCovered Services to Members to be performed by a Specialty Physician only in accordance with Policies.\nPrimary Care Services means (a) those Covered Services provided to a Member involving primary medical care,\nincluding, but not limited to, the Covered Services specifically identified as primary care services in an applicable\nGovernment Contract, and (b) the supervision and coordination of the delivery of these Covered Services to a\nMember.\n“Specialty Physician Group\" means one or more licensed or certified medical practitioners who have specialized\neducation, training or experience in accordance with the Regulatory Requirements of the state in which Health\nServices are rendered.\nIf Provider is furnishing Specialty Physician services under this Agreement, Provider, and the Specialty Physician(s)\nemployed by or under contract with Provider, shall accept as patients all Members and may arrange for Covered\nServices to Members to be performed by a Specialty Physician only in accordance with Policies.",
     "token_count": 285,
@@ -3610,109 +3550,109 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p45_c362",
+    "chunk_id": "TN_Contract4_Redacted_p45_c356",
     "page_number": 45,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 1,
-    "content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the 7 Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe 7 Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nLY ospital\nBilling Cod Rate/Methodolog\nInpatient Services Applicable Revenue Codes _ | Rate from CMS Medicare Per Diem\nAdministrative Contractor\nletter multiplied by one\nhundred percent (100%)\nInpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient NIA\nServices Psychiatric Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient NIA\nServices Rehabilitation Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem\nServices (Swing Bed) Applicable Revenue Administrative Contractor\nCode(s) letter multiplied by one\nhundred percent (100%)",
-    "token_count": 292,
+    "content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe L gsm Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nPo ospital\nBilling Code | __ RatelMethodolog)\nInpatient Services Applicable Revenue Codes _ | Rate from CMS Medicare Per Diem\nAdministrative Contractor\nletter multiplied by one\nhundred percent (100%\nInpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient N/A\nServices Psychiatric Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%\nInpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient N/A\nServices Rehabilitation Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%\nInpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem\nServices (Swing Bed) Applicable Revenue Administrative Contractor\nCode(s) letter multiplied by one\nhundred percent (100%",
+    "token_count": 293,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p45_c363",
+    "chunk_id": "TN_Contract4_Redacted_p45_c357",
     "page_number": 45,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 2,
-    "content": "Prospective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient NIA\nServices Rehabilitation Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem\nServices (Swing Bed) Applicable Revenue Administrative Contractor\nCode(s) letter multiplied by one\nhundred percent (100%)\nOutpatient Services Applicable CPT/HCPCS Rate from CMS Medicare Percentage\nCodes Administrative Contractor\nletter multiplied by one\nhundred percent (100%)",
-    "token_count": 128,
+    "content": "Prospective Payment\nSystem multiplied by one\nhundred percent (100%\nInpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient N/A\nServices Rehabilitation Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%\nInpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem\nServices (Swing Bed) Applicable Revenue Administrative Contractor\nCode(s) letter multiplied by one\nhundred percent (100%\nOutpatient Services Applicable CPT/HCPCS Rate from CMS Medicare Percentage\nCodes Administrative Contractor\nletter multiplied by one\nhundred percent (100%\nProvider shall furnish Plan with a CMS Medicare Administrative Contractor letter at least once every twelve (12)\nmoanthc ianthin thirts (QN\\ davc nf tho dAato it raoaraoansoc tho lottor fram itc AAodicrara Adminictratinso Contrartar",
+    "token_count": 188,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p46_c364",
+    "chunk_id": "TN_Contract4_Redacted_p46_c358",
     "page_number": 46,
-    "header_path": "section:ARTICLE IV > clause:04",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 1,
-    "content": "Plan shall apply new per diems, percent of charge, and per visit rates to dates of service no later than sixty (60) days\nafter the date it receives the letter from the Provider or the Medicare effective date, whichever is later. Plan shall not\nadjust Provider's compensation retroactively.\nor Hospitals, Method 11 billing shall not apply even if Provider is a Hospital Method II\nbiller in licare. Consequently, a Hospital shall not bill for professional services furnished in an\noutpatient department on its Claim. Provider and Plan acknowledge that these services shall be separately billed and\ncompensated through separate professional agreements.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\na notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable",
-    "token_count": 290,
+    "content": "Plan shall apply new per diems, percent of charge, and per visit rates to dates of service no later than sixty (60) days\nafter the date it receives the letter from the Provider or the Medicare effective date, whichever is later. Plan shall not\nadjust Provider's compensation retroactively.\no Hospitals, Method 11 billing shall not apply even if Provider is a Hospital Method I!\nbiller in Medicare. Consequently, A rnaermE: Hospital shall not bill for professional services furnished in an\noutpatient department on its Claim. Provider and Plan acknowledge that these services shall be separately billed and\ncompensated through separate professional agreements.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\nxemmnras notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable",
+    "token_count": 297,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p46_c365",
+    "chunk_id": "TN_Contract4_Redacted_p46_c359",
     "page_number": 46,
-    "header_path": "section:ARTICLE IV > clause:04",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 2,
-    "content": "same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\na notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nHEE sb.2l! not compensate Provider for the bad debts of its Medicare Advantage members.\nsree and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical\nlucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\n—_— shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.\na shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available a systems at the time",
-    "token_count": 289,
+    "content": "any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\nxemmnras notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nHEE shal! not compensate Provider for the bad debts of its Medicare Advantage members.\nmcm and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical\neducation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\neee shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.\nHE shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available in amswemmne systems at the time\n—— processes the Provider's Claim. Liao shall not retroactively adjust Provider's compensation for",
+    "token_count": 288,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p46_c366",
+    "chunk_id": "TN_Contract4_Redacted_p46_c360",
     "page_number": 46,
-    "header_path": "section:ARTICLE IV > clause:04",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 3,
-    "content": "lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\n—_— shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.\na shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available a systems at the time\n= processes the Provider's Claim. asia shall not retroactively adjust Provider's compensation for\npreviously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for the same date of service. In addition, | shall not retroactively\nadjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes\nto payment system logic and data. Provider shall not request adjustments solely based on these differences,\nupdates, or changes.\nMEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nServices with CPT/HCPCS Codes",
-    "token_count": 287,
+    "content": "eee shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.\nHE shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available in amswemmne systems at the time\n—— processes the Provider's Claim. Liao shall not retroactively adjust Provider's compensation for\npreviously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for the same date of service. In addition, | shall not retroactively\nadjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes\nto payment system logic and data. Provider shall not request adjustments solely based on these differences,\nupdates, or changes.\nMEDICAID\nFor purposes of determining the exmmmnera Rate, the total reimbursement amount that Provider and  arsieuam\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nPo Hospite\nBilling Code Rate/Methodolog)\nServices with CPT/HCPCS Codes\nwith CPT/HCPCS Codes",
+    "token_count": 291,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p46_c367",
+    "chunk_id": "TN_Contract4_Redacted_p46_c361",
     "page_number": 46,
-    "header_path": "section:ARTICLE IV > clause:04",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 4,
-    "content": "MEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nServices with CPT/HCPCS Codes\nwith CPT/HCPCS Codes\nEligible Outpatient Facility Applicable Revenue Codes _ | 85% of the [\"CMS\"] Per Service\nServices with CPT/HCPCS Codes Outpatient Prospective\nPayment System (\"OPPS\")\nCalendar Year 2018\nEligible Outpatient Facility Applicable Revenue Codes | $400.00 Per Case\nServices Emergency with CPT/HCPCS Codes\nDepartment Services:\ners",
-    "token_count": 183,
+    "content": "have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nPo Hospite\nBilling Code Rate/Methodolog)\nServices with CPT/HCPCS Codes\nwith CPT/HCPCS Codes\nEligible Outpatient Facility Applicable Revenue Codes _ | 85% of the [\"CMS\"] Per Service\nServices with CPT/HCPCS Codes Outpatient Prospective\nPayment System (\"OPPS\")\nCalendar Year 2018\nEligible Outpatient Facility Applicable Revenue Codes_ | $400.00 Per Case\nServices Emergency with CPT/HCPCS Codes\nDepartment Services:\nEmergent Diagnosis\nEmarnoancy Nanartmoant Annlicahlo Davoniice Cndac Con nn Doar Cacao",
+    "token_count": 202,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p47_c368",
+    "chunk_id": "TN_Contract4_Redacted_p47_c362",
     "page_number": 47,
-    "header_path": "section:ARTICLE IV > clause:04",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 1,
-    "content": "Services: Non-Emergent with CPT/HCPCS Codes\nDiagnosis\nObservation Department Applicable Revenue Codes $1,100.00 Per Case\nServices with CPT/HCPCS Codes\nPayments are for facility services only; professional services are excluded.\nThe parties to this Agreement acknowledge and agree that, pursuant to state legislation, payments to Provider are\nsubject to the limitations of rate corridors mandated by the state legislature. and Provider mutually agree\nto conduct ongoing modeling and monitoring of such rates to ensure the parties' compliance with all state rate\ncorridor requirements. further agrees to make a good faith effort to maintain Provider's relative position\nwithin the mandated corridors such that if CMS rates shift from time to time, Provider's compensation will be adjusted\naccordingly to maintain a stable position within the mandated corridors.\nhas a Fixed APC Rate based on CMS Calendar Year 2018 Relative Weights and Conversion Factor.\nThe contract rate is determined by applying Calendar Year 2018 APC CMS Relative Weight to the Calendar Year",
-    "token_count": 205,
+    "content": "Services: Non-Emergent with CPT/HCPCS Codes\nDiagnosis\nObservation Department Applicable Revenue Codes $1,100.00 Per Case\nServices with CPT/HCPCS Codes\nPayments are for facility services only; professional services are excluded.\nThe parties to this Agreement acknowledge and agree that, pursuant to state legislation, payments to Provider are\nsubject to the limitations of rate corridors mandated by the state legislature. and Provider mutually agree\nto conduct ongoing modeling and monitoring of such rates to ensure the parties' compliance with all state rate\ncorridor requirements. further agrees to make a good faith effort to maintain Provider's relative position\nwithin the mandated corridors such that if CMS rates shift from time to time, Provider's compensation will be adjusted\naccordingly to maintain a stable position within the mandated corridors.\nhas a Fixed APC Rate based on CMS Calendar Year 2018 Relative Weights and Conversion Factor.\nThe contract rate is determined by applying Calendar Year 2018 APC CMS Relative Weight to the Calendar Year\n2018 Conversion Factor.\nuses a Fixed Wage Index based on CMS OPPS calendar Year 2018.\nIn accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not\nreimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current\nMedicare rates or inflation indexes unless otherwise allowed by",
+    "token_count": 283,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p47_c369",
+    "chunk_id": "TN_Contract4_Redacted_p47_c363",
     "page_number": 47,
-    "header_path": "clause:2018",
-    "chunk_index": 1,
-    "content": "Conversion Factor.\nuses a Fixed Wage Index based on CMS OPPS calendar Year 2018.\nIn accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not\nreimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current\nMedicare rates or inflation indexes unless otherwise allowed by\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free",
-    "token_count": 281,
-    "source_file": "TN_Contract4_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "TN_Contract4_Redacted_p47_c370",
-    "page_number": 47,
-    "header_path": "clause:2018",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 2,
+    "content": "2018 Conversion Factor.\nuses a Fixed Wage Index based on CMS OPPS calendar Year 2018.\nIn accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not\nreimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current\nMedicare rates or inflation indexes unless otherwise allowed by\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free",
+    "token_count": 283,
+    "source_file": "TN_Contract4_Redacted.md",
+    "document_type": "legal_contract"
+  },
+  {
+    "chunk_id": "TN_Contract4_Redacted_p47_c364",
+    "page_number": 47,
+    "header_path": "section:ARTICLE IV > clause:12.8",
+    "chunk_index": 3,
     "content": "Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an\nRate, the applicable state methodology on which such fee schedule is based, shall be used to determine the\nappropriate level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all\nsupplies, oxygen, equipment, medicines and solutions provided during ambulance service.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nLAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory",
     "token_count": 277,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p47_c371",
+    "chunk_id": "TN_Contract4_Redacted_p47_c365",
     "page_number": 47,
-    "header_path": "clause:2018",
-    "chunk_index": 3,
+    "header_path": "section:ARTICLE IV > clause:12.8",
+    "chunk_index": 4,
     "content": "supplies, oxygen, equipment, medicines and solutions provided during ambulance service.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nLAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.  \n| Services: Non-Emergent\nDiagnosis | with CPT/HCPCS Codes  --- | --- |\n| Observation Department\nServices | Applicable Revenue Codes\nwith CPT/HCPCS Codes | $1,100.00 | Per Case |",
     "token_count": 263,
     "source_file": "TN_Contract4_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p48_c372",
+    "chunk_id": "TN_Contract4_Redacted_p48_c366",
     "page_number": 48,
-    "header_path": "section:ARTICLE IV > clause:2018",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 1,
     "content": "\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary\nrate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee\nSchedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference\nLaboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS\ncodes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.",
     "token_count": 294,
@@ -3720,9 +3660,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p48_c373",
+    "chunk_id": "TN_Contract4_Redacted_p48_c367",
     "page_number": 48,
-    "header_path": "section:ARTICLE IV > clause:2018",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 2,
     "content": "codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered",
     "token_count": 278,
@@ -3730,9 +3670,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "TN_Contract4_Redacted_p48_c374",
+    "chunk_id": "TN_Contract4_Redacted_p48_c368",
     "page_number": 48,
-    "header_path": "section:ARTICLE IV > clause:2018",
+    "header_path": "section:ARTICLE IV > clause:12.8",
     "chunk_index": 3,
     "content": "the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).",
     "token_count": 171,

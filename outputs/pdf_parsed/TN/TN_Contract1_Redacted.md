@@ -6,53 +6,51 @@
 
 --- Page 1 (OCR) ---
 
-Name According to W-9 Form with d/b/a I College cba I Group
-oro ew
-This Provider Agreement (hereinafter "“Agreement") is made and entered into by and between
-Tennessee, Inc. or Community Care Texas, Inc. (collectively referred in this Agreement
-as and the undersigned Provider (hereinafter Provider"), effective as of the date next —_—
-signature “Effective Date"). In accordance with this Agreement, a Tennessee, Inc. manages the
-Medicaid Program under and | sy Texas, Inc. manages the Medicare Advantage Program. In
+Name According to W-9 Form with le College cba Group
+This Provider Agreement (hereinafter “Agreement") is made and entered into by and between LS eccaaral
+Tennessee, Inc. </o Community Care, camer Texas, Inc. (collectively referred in this Agreemen
+as and the undersigned Provider (hereinafter “Provider"), effective as of the date next a
+signature (the “Effective Date"). In accordance with this Agreement, SESE Tennessee, Inc. manages the
+Medicaid Program under a and rare Texas, Inc. manages the Medicare Advantage Program. In
 consideration of the mutual promises and covenants herein contained, the sufficiency of which is acknowledged by
 the parties, the parties agree as follows:
 ARTICLE |
 DEFINITIONS
-"Affiliate" means any person, firm, corporation (including, without limitation, service corporation and professional
+“Affiliate" means any person, firm, corporation (including, without limitation, service corporation and professional
 corporation), partnership (including, without limitation, general partnership, limited partnership and limited liability
 partnership), limited liability company, joint venture, business trust, association or other entity or organization that (i)
 now or in the future directly or indirectly controls, is controlled by or is under common control with the
 and/or (ii) that is identified as an Affiliate on a designated web site as referenced in the provider manual(s). Unless
 otherwise set forth in the Agreement, an Affiliate may access the rates, terms and conditions of this Agreement.
-"Agency" means a federal, state or local agency, administration, board or other governing body with jurisdiction over
+“Agency” means a federal, state or local agency, administration, board or other governing body with jurisdiction over
 the governance or administration of a Health Benefit Plan.
-## 7
-Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
-reference, and which sets forth ‘he Rate(s) and compensation related terms for the Network(s) in which
-Provider participates. The ACS may include additional Provider obligations and specific [J compensation
+7 Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
+reference, and which sets forth the arama Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The ACS may include additional Provider obligations and specific |] compensation
 related terms and requirements.
-| cagramimn Rate" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the
-total reimbursement amount that Provider_and have agreed upon as set forth in te
-Compensation Schedule ("ACS"). The ate Includes applicable Cost Shares, and shall represent
+| camrarim Rate" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the
+total reimbursement amount that Provider and have agreed upon as set forth in the prance
+Compensation Schedule ("ACS"). The ate includes applicable Cost Shares, and shall represen
 payment in full to Provider for Covered Services.
-"Audit" means a post-payment review of the Claim(s) and supporting clinical information reviewed a to
+"Audit" means a post-payment review of the Claim(s) and supporting clinical information reviewed > to
 ensure payment accuracy. The review ensures Claim(s) comply with all pertinent aspects of submission and
 payment including, but not limited to, contractual terms, Regulatory Requirements, Coded Service Identifiers (as
-defined in the ACS) guidelines and instructions, care medical policies and clinical utilization management
+defined in the ACS) guidelines and instructions, maemo medical policies and clinical utilization management
 guidelines, reimbursement policies, and generally accepted medical practices. Audit does not include medical record
-review for quality and risk adjustment initiatives, or activities conducted by J Special investigation Unit
-c"siu’).
-“Claim” means either the uniform bill claim form or electronic claim form in the format prescribed by
-submitted by a provider for payment by a [J for Health Services rendered to a Member.
+review for quality and risk adjustment initiatives, or activities conducted by [J Special investigation Unit
+("SIU").
+"Claim" means either the uniform bill claim form or electronic claim form in the format prescribed by
+submitted by a provider for payment by a for Health Services rendered to a Member.
 "CMS" means the Centers for Medicare & Medicaid Services, an administrative agency within the United States
 Department of Health & Human Services ("HHS").
-"Cost Share" means, with respect to Covered Services, an amount which a Member is required to pay under the
+“Cost Share" means, with respect to Covered Services, an amount which a Member is required to pay under the
 terms of the applicable Health Benefit Plan. Such payment may be referred to as an allowance, coinsurance,
 copayment, deductible, penalty or other Member payment responsibility, and may be a fixed amount or a percentage
 of applicable payment for Covered Services rendered to the Member.
-"Covered Services" means Medically Necessary Health Services, as determined by [EEE and described in the
+"Covered Services" means Medically Necessary Health Services, as determined by JJ and described in the
 applicable Health Benefit Plan, for which a Member is eligible for coverage.
 “Government Contract" means the contract between and an applicable party, such as an Agency, which
-governs the delivery of Health Services by| to Member(s) pursuant to a Government Program.
+governs the delivery of Health Services by to Member(s) pursuant to a Government Program.
 
 
 
@@ -62,8 +60,8 @@ governs the delivery of Health Services by| to Member(s) pursuant to a Governmen
 
 --- Page 2 (OCR) ---
 
-"Government Program" means any federal or state funded program under the Social Security Act, and any other
-federal, state, county or other municipally funded program or product in which maintains a contract to
+“Government Program" means any federal or state funded program under the Social Security Act, and any other
+federal, state, county or other municipally funded program or product in which eran maintains a contract to
 furnish services. For purposes of this Agreement, Government Program does not include the Federal Employees
 Health Benefits Program ("FEHBP"), or any state or local government employer program.
 “Health Benefit Plan" means the document(s) that set forth Covered Services, rules, exclusions, terms and conditions
@@ -73,7 +71,7 @@ coverage, or evidence of coverage.
 to provide and which he/she/it customarily provides to or arranges for individuals.
 “Medically Necessary" or “Medical Necessity" means the definition as set forth in the applicable Participation
 Attachment(s).
-"Member" means any individual who is eligible, as determined by — as applicable, and Lami to
+"Member" means any individual who is eligible, as determined by  eaeeawrae as applicable, and a anminad to
 receive Covered Services under a Health Benefit Plan. For all purposes related to this Agreement, including all
 schedules, attachments, exhibits, provider manual(s), notices and communications related to this Agreement, the
 term "Member" may be used interchangeably with the terms Insured, Covered Person, Covered Individual, Enrollee,
@@ -83,15 +81,15 @@ synonymous with any such other.
 product(s) and/or program(s) in which Members are enrolled.
 “Participating Provider" means an institution, facility, agency, physician, health care practitioner, or other entity that is
 licensed or otherwise authorized to provide any of the Covered Services in the state in which they are furnished and
-that is to an agreement to provide Covered Services to Members that has met all applicable required
-RENE = 2ertng requirements and accreditation requirements for the services the Participating Provider
-provides, and that is designated by = to participate in one or more Network(s). Unless otherwise
+that is party to an agreement to provide Covered Services to Members that has met all applicable required
+iam credentialing requirements and accreditation requirements for the services the Participating Provider
+provides, and that is designated by orem to participate in one or more Network(s). Unless otherwise
 specifically delineated, all references herein to "Provider" may also mean and refer to “Participating Provider".
 Participating Provider does not include consumer-directed workers (refer to Consumer-Directed Worker); nor does
 provider include the FEA (refer to Fiscal Employer Agent).
 “Participation Attachment(s)" means the document(s) attached hereto and incorporated herein by reference, and
 which identifies the additional duties and/or obligations related to Network(s), Government Program(s), Health Benefit
-Plan(s), and/or I programs such as quality and/or incentive programs.
+Plan(s), and/or J programs such as quality and/or incentive programs.
 “Regulatory Requirements" means any requirements, as amended from time to time, imposed by applicable federal,
 state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an
 Agency or government regulator in connection with the procurement, development or operation of a Health Benefit
@@ -100,13 +98,12 @@ express reference to a Regulatory Requirement applicable to either party in conn
 responsibilities shall in no way limit such party's obligation to comply with such Regulatory Requirement.
 # ARTICLE Il
 SERVICES/OBLIGATIONS
-## 21
-Member Identification. asic shall ensure ‘hat provides a means of identifying Member
-either by issuing a paper, plastic, electronic, or other identification document to Member or by a telephonic,
+21 Member Identification. ean shall ensure that provides a means of identifying Member
+either by issuing a paper, plastic, electronic, or other identitication document to Member or by a telephonic,
 paper or electronic communication to Provider. This identification need not include all information necessary
 to determine Member's eligibility at the time a Health Service is rendered, but shall include information
-necessary to conc determine Member's participation in the applicable Health Benefit Plan.
-Provider acknowledges agrees that possession of such identification document or ability to access
+necessary to contact to determine Member's participation in the applicable Health Benefit Plan.
+Provider acknowledges and agrees that possession of such identification document or ability to access
 eligibility information telephonically or electronically, in and of itself, does not qualify the holder thereof as a
 Member, nor does the lack thereof mean that the person is not a Member.
 ## 2.2
@@ -114,6 +111,7 @@ Provider Non-discrimination. Provider shall provide Health Services to Members i
 within the same time availability in which Provider provides Health Services to any other individual. Provider
 will not differentiate, or discriminate against any Member as a result of his/her enrollment in a Health Benefit
 Plan, or because of race, color, creed, national origin, ancestry, religion, sex, marital status, age, disability,
+payment source, state of health, need for Health Services, status as a litigant, status as a Medicare or
 
 
 
@@ -188,49 +186,49 @@ Member's behalf, prior to receipt of the Health Service.
 
 --- Page 4 (OCR) ---
 
-## 27
-RecoupmenvOffsev/Adjustment for Overpayments. [EJ shall be entitled to offset and recoup an
-amount equal to any overpayments or improper payments made by i to Provider against any
-payments due and payable , ae to Provider with respect to any Health Benefit Plan under this
+## 2.7
+Recoupmenv/Offsev/Adjustment for Overpayments. [J shall be entitled to offset and recoup an
+amount equal to any overpayments or improper payments made by a « Provider against any
+payments due and payable by a to Provider with respect to any Health Benefit Plan under this
 Agreement. Provider shall voluntarily refund all duplicate or erroneous Claim payments regardless of the
 cause, including, but not limited to, payments for Claims where the Claim was miscoded, non-compliant with
 industry standards, or otherwise billed in error, whether or not the billing error was fraudulent, abusive or
-wasteful. Upon determination > a that any recoupment, improper payment, or overpayment is
-due from Provider, Provider must refunt le amount to within thirty (30) days of when
-= notifies Provider. If such reimbursement is not receiv within the thirty (30) days
-following the date of such notice, shall be entitled to offset such overpayment against any
-Claims payments due and payable to Provider under any Health Benefit Plan in accordance
+wasteful. Upon determination > that any recoupment, improper payment, or overpayment is
+due from Provider, Provider must refund the amount to within thirty (30) days of when
+a notifies Provider. If such reimbursement is not received by within the thirty (30) days
+ollowing the date of such notice, shall be entitled to offset such overpayment against any
+Claims payments due and payable by to Provider under any Health Benefit Plan in accordance
 with Regulatory Requirements. In such event, Provider agrees that all future Claim payments applied to
 satisfy Provider's repayment obligation shall be deemed to have been paid in full for all purposes, including
-section 2.6.1. Should Provider disagree with any determination ) that Provider has received
-an overpayment, Provider shall have the right to appeal such determination under| procedures
-set forth in the provider manual, and such appeal shall not suspend tight to recoup the
-overpayment amount during the appeal process unless suspension of the right to recoup is otherwise
-required by Regulatory Requirements. [NEM reserves the right to employ a third party collection
+section 2.6.1. Should Provider disagree with any determination > that Provider has received
+an overpayment, Provider shall have the right to appeal such determination under procedures
+set forth in the provider manual, and such appeal shall not suspend right to recoup the
+Overpayment amount during the appeal process unless suspension of the right to recoup is otherwise
+required by Regulatory Requirements. [J reserves the right to employ a third party collection
 agency in the event of non-payment.
-## 28
-Use_of Subcontractors. Provider and — may fulfill some of their duties under this Agreement
+## 2.8
+Use_of Subcontractors. Provider and a may fulfill some of their duties under this Agreement
 through subcontractors. For purposes of this provision, subcontractors shall include, but are not limited to,
 vendors and non-Participating Providers that provide supplies, equipment, staffing, and other services to
 Members at the request of, under the supervision of, and/or at the place of business of Provider. Provider
-shall provide a wth thirty (30) days prior notice and obtain written approval ‘rom of
+shall provide a with thirty (30) days prior notice and obtain written approval from cars! of
 any Health Services subcontractors with which Provider may contract to perform Provider's duties and
-obligations under this Agreement. Failure by the provider to oe written approval may lead
+obligations under this Agreement. Failure by the provider to obtain snmmmemara written approval may lead
 to the contract being declared null and void Claims submitted by the subcontractor or by the
 provider for services furnished by the unapproved subcontractor are considered to be improper payments
 and may be considered false claims. Any such improper payments may be subject to action under Federal
-and State false claims statutes or be subject to be recouped by a and/or sin as
-overpayment. Provider shall remain responsible to rare! for ‘compliance ier/its
+and State false claims statutes or be subject to be recouped by Le and/or a as
+overpayment. Provider shall remain responsible to reece for the compliance of his/her/its
 subcontractors with the terms and conditions of this Agreement as applicable, including, but not limited to,
 the Payment in Full and Hold Harmless provisions herein.
 ## 2.9
 Compliance with Provider Manual(s) and Policies, Programs and Procedures. Provider agrees to cooperate
 and comply with, provider manual(s), and all other policies, programs and procedures
-(collectively "Policies") established and implemented > applicable to the Network(s) in which
-Provider participates. or its designees may é provider manual(s) and its Policies by
+(collectively “Policies") established and implemented applicable to the Network(s) in which
+Provider participates. or its designees may mo the provider manual(s) and its Policies by
 providing at least thirty lays notice to Provider in advance of the effective date of modifications thereto.
 ## 2.10
-Referral_incentives/Kickbacks. Provider represents and warrants that Provider does not give, provide,
+Referral_Incentives/Kickbacks. Provider represents and warrants that Provider does not give, provide,
 condone or receive any incentives or kickbacks, monetary or otherwise, in exchange for the referral of a
 Member, and if a Claim for payment is attributable to an instance in which Provider provided or received an
 incentive or kickback in exchange for the referral, such Claim shall not be payable and, if paid in error, shall
@@ -239,17 +237,17 @@ be refunded to
 Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
 the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
 Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
-| in its sole discretion, the date Provider has met a _ credentialing
+| in its sole discretion, the date Provider has met a credentialing
 requirements and accreditation requirements. Provider acknowledges that may develop,
 discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks
-designated on the Provider Networks ‘tachment, may also identify Provider as a Participating
+designated on the Provider Networks Attachment, J May also identify Provider as a Participating
 Provider in additional Networks, products and/or programs designated in writing from time to time by
-## 7
-The terms and conditions of Provider's participation as a Participating Provider in such
+anime The terms and conditions of Provider's participation as a Participating Provider in such
 additional Networks, products and/or programs shall be on the terms and conditions as set forth in this
-Agreement unless otherwise agreed to in writing by Provider and i’
-In addition to and separate from Networks that support some or all of ; products and/or
-nmranramec fan WAO and DDO) PDrnvider firrther acknnwlednec that certain Heal ‘Carvicec inchidingn hy
+Agreement unless otherwise agreed to in writing by Provider and
+In addition to and separate from Networks that support some or all of erage products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+wav of example onlv. laboratory or hehavioral health services. may he provided exclusively hv desiqnated
 
 
 
@@ -727,9 +725,9 @@ Scope/Change in Status.
 --- Page 12 (OCR) ---
 
 ## 9.3.1
-= and Provider agree that this Agreement applies to Health Services rendered by
-Provider at the Provider's location(s) on file a may, in its discretion,
-limit this Agreement to Provider's locations, operations, InesS OF Corporate form, status or
+rarer and Provider agree that this Agreement applies to Health Services rendered by
+Provider at the Provider's location(s) on file Vt may, in its discretion,
+limit this Agreement to Provider's locations, operations, Business or corporate form, status or
 structure in existence on the Effective Date of this Agreement and prior to the occurrence of any of
 the events set forth in subsections 9.3.1.1 — 9.3.1.5. Unless otherwise required by Regulatory
 Requirements, Provider shall provide at least ninety (90) days prior written notice of any such
@@ -758,12 +756,12 @@ Provider creates or otherwise operates a licensed health maintenance organizatio
 commercial health plan (whether such creation or operation is direct or through a
 Provider affiliate).
 ## 9.3.2
-Notwithstanding the termination provisions of Article Vill, and without limiting any ae
+Notwithstanding the termination provisions of Article VIII, and without limiting any
 rights as set forth elsewhere in this Agreement, | shall have the right to terminate this
-Agreement by giving at least sixty (60) days written notice to Provider | iT determines,
+Agreement by giving at least sixty (60) days written notice to Provider se determines,
 that as a result of any of the transactions listed in subsection 9.3.1, Provider cannot satisfactorily
 perform the obligations hereunder, or cannot comply with one or more of the terms and conditions
-of this Agreement, including but not limited to the confidentiality provisions herein; oii”
+of this Agreement, including but not limited to the confidentiality provisions herein; iii”
 elects in its reasonable business discretion not to do business with Provider, the successor entity or
 new management company, as a result of one or more of the events as set forth in subsection
 ## 9.3.1
@@ -772,15 +770,15 @@ new management company, as a result of one or more of the events as set forth in
 Provider shall provide [J with thirty (30) days prior written notice of:
 ## 9.3.3.1
 Addition or removal of individual provider(s) who are employed or subcontracted with
-Provider, if applicable. Any new individual providers must meet ccm
-credentialing requirements prior to being designated as a Participating Provider, or
+Provider, if applicable. Any new individual providers must meet crv
+credentialing requirements prior to being designated as a Participating Provider; or
 ## 9.3.3.2
-Achange in mailing address.
+A change in mailing address.
 ## 9.3.4
-If Provider is acquired by, acquires or merges with another entity, and such entity already has an
-agreement with i will determine in its sole discretion which Agreement will
+_ If Provider is acquired by, acquires or merges with another entity, and such entity already has an
+agreement with [i will determine in its sole discretion which Agreement will
 prevail.
-## 94
+## 9.4
 Definitions. Unless otherwise specifically noted, the definitions as set forth in Article | of this Agreement will
 have the same meaning when used in any attachment, the provider manual(s) and Policies.
 ## 9.5
@@ -788,7 +786,8 @@ Entire Agreement. This Agreement, exhibits, attachments, appendices, and amendme
 provider manual(s), together with any items incorporated herein by reference, constitute the entire
 understanding between the parties and supersedes all prior oral or written agreements between them with
 respect to the matters provided for herein. This Agreement incorporates by reference all Regulatory
-Requirements, IMJ rules and regulations. consent decrees or court orders, as applicable to the
+Requirements, a rules and regulations, consent decrees or court orders, as applicable to the
+services under this Agreement and revisions of such laws, regulations, consent decrees or court orders, as
 
 
 
@@ -819,8 +818,7 @@ In addition to the foregoing, Provider warrants and represents that at the time 
 Agreement, neither he/she/it nor any of his/her/its employees, contractors, subcontractors,
 principals or agents are ineligible, excluded, suspended, terminated or debarred from participating
 in a Medicaid, Medicare, and/or SCHIP Program ("Ineligible Person") pursuant to Sections 1128 or
-## 1156
-of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
+1156 of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
 responsible for ensuring that his/her/its employees, contractors, subcontractors, principals or
 agents are not Ineligible Persons. If Provider or any employees, subcontractors, principals or
 agents thereof becomes an Ineligible Person after entering into this Agreement or otherwise fails to
@@ -909,25 +907,25 @@ Agreement.
 THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION
 WHICH MAY BE ENFORCED BY THE PARTIES
 Provider shall be designated as a Participating Provider in the Networks set forth on the Provider Network
-Attachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined _ in its
+Attachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined _v in its
 sole discretion, the date Provider has met applicable credentialing requirements and accreditation
 requirements.
-PROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: ns College dba
-BE cou
-By: ee
+PROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: nn College dba
+EEE croup
+By: OT
 Signature, Authorized Representative of Provider(s) Date
 Printed:
 Name Title
 Address:
 Street City State Zip
-Tax Identification Number (TIN): — ** *REMOVED***
+Tax Identification Number (TIN): ***REMOVED***
 (Note: if any of the following is not applicable, please leave blank)
 Phone Number:
-FY Tennessee, Inc. dba ‘Community Care
-HE STERNAL Use ONLY
-By: a
+HE Tennessee, inc. d/b/a I Community care
+BS "STERNAL Use ONLY
+By: es
 Signature, Authorized Representative of Date
-Prive:
+Prine:
 
 
 
@@ -949,50 +947,50 @@ Prive:
 
 EPISODE-BASED RETROSPECTIVE PAYMENT
 PARTICIPATION ATTACHMENT TO THE
-oro ER icnr
-This is an Episode-Based Retrospective Payment Participation Attachment ("Attachment") to the a
-Provider Agreement ("Agreement"), entered into by and between | and Provider and is incorporated into
+cro een
+This is an Episode-Based Retrospective Payment Participation Attachment ("Attachment") to the aerenemra
+Provider Agreement ("Agreement"), entered into by and between J and Provider and is incorporated into
 the Agreement.
-= shall implement Payment Reform Initiatives, including retrospective episode based reimbursement, as
+nrnpm shall implement Payment Reform Initiatives, including retrospective episode based reimbursement, as
 required by Provider types identified by | as Principal Accountable Providers ("PAPs") or
-“Quarterbacks” (QBs) are required, as a condition of participation in the Program, to participate in such
-aaa Payment Reform Initiatives for the purposes of furthering quality improvement and reporting processes in
-accordance with requirements. Episodes and quality measures defined > will be provided
-within the rovider Episode-Based Retrospective Payment Appendix resholds Attachment.
-— Shall provide quarterly performance reports to Provider and Quarterbacks and shall reconcile episode
+"Quarterbacks" (QBs) are required, as a condition of participation in the Program, to participate in such
+ammenin Payment Reform Initiatives for the purposes of furthering quality improvement and reporting processes in
+accordance with requirements. Episodes and quality measures defined by Lear will be provided
+within the Provider Episode-Based Retrospective Payment Appendix Thresholds Attachment.
+ar shall provide quarterly performance reports to Provider and Quarterbacks and shall reconcile episode
 performance annually.
-Payment Reform Initiatives. emi! has adopted this Episode-Based Retrospective Payment Program, (this
+Payment Reform Initiatives.. amram has adopted this Episode-Based Retrospective Payment Program, (this
 “Program") as part of the State of Tennessee's Health Care Innovation Initiative for the purpose of more closely
-aligning reimbursement with health care ually shall implement this Program as described in this
-Episode-Based Retrospective Payment Appendix (this “Appendix’), in accordance with requirements.
-Provider acknowledges the a oe is implementing an Episode of Care payment system for
+aligning reimbursement with health care vel) shall implement this Program as described in this
+Episode-Based Retrospective Payment Appendix (this “Appendix"), in accordance with J requirements.
+Provider acknowledges the — Program is implementing an Episode of Care payment system for
 compensation of Providers deemed to have the greatest accountability for quality and cost of care for a patient.
 Providers deemed to have the greatest accountability for the quality and cost of care for a patient are “Principal
-Accountable Providers" or "PAPs" or “Quarterbacks”.
-Provider agrees that a Quarterback, as identified >y i or each episode of care and as defined herein, is
-required by he a Program to participate and cooperate with ae purposes of furthering quality
-improvement and reporting processes as developed for this program and described a Episodes and
-quality measures defined by | are identified in the attached J Thresholds Atiachment, which is
+Accountable Providers" or "PAPs" or "Quarterbacks".
+Provider agrees that a Quarterback, as identified > for each episode of care and as defined herein, is
+required by the ecammin Program to participate and cooperate with eon purposes of furthering quality
+improvement and reporting processes as developed for this program and described >) Episodes and
+quality measures defined by [J are identified in the attached | Thresholds Attachment, which is
 incorporated herein.
-ma shall provide quarterly performance reports to the Quarterback and shall reconcile episode performance
+a shall provide quarterly performance reports to the Quarterback and shall reconcile episode performance
 annually.
-Additional episodes will be identified and added as determined by Jy EES will work with I to
+Additional episodes will be identified and added as determined by i EE will work with I to
 define the process for adding each additional episode.
 Section | - Definitions
-Acceptable Cost Threshold: The dollar amount, as determined by NN to which the Quarterbacks’ risk
-adjusted average episode cost (calculated in Section II below) for a Program Episode will be compared. The
-Acce} le Cost Threshold is used to determine the dollar amount of the Shared Risk Payment from the Quarterback
-to and can be found on each interim and final Performance Report provided to the Quarterback. For the
+Acceptable Cost Threshold: The dollar amount, as determined by J to which the Quarterbacks’ risk
+adjusted average episode cost (calculated in Section || below) for a Program Episode will be compared. The
+Acceptable Cost Threshold is used to determine the dollar amount of the Shared Risk Payment from the Quarterback
+a and can be found on each interim and final Performance Report provided to the Quarterback. For the
 Acceptable Cost Threshold, the threshold represents the maximum cost in that category. Providers with a cost equal
 to or less than the threshold meet the threshold requirement. See thresholds attachment.
-Commendable Cost Threshold: The dollar amount, as determined to which the Quarterback's risk
+Commendable Cost Threshold: The dollar amount, as determined > to which the Quarterback's risk
 adjusted average episode cost for a Program Episode will be compared. If the Quarterback meets all of the quality
 indicators linked to gain sharing, the commendable cost threshold is then used to the determine dollar amount of a
-shared savings payment ton ae to the Quarterback, subject to the Gain Share Limit. The dollar amount of
+shared savings payment om to the Quarterback, subject to the Gain Share Limit. The dollar amount of
 the commendable cost threshold can be found on each interim and final Performance Report provided to the
 Quarterback. For the Commendable Cost Threshold, the threshold represents the maximum cost in that category.
 Providers with a cost equal to or less than the threshold meet the threshold requirement. See thresholds attachment.
-Cost Zones: Based on the prior quarter average episode costs, as calculated in Section II below, Quarterback Zone,
+Cost Zones: Based on the prior quarter average episode costs, as calculated in Section Il below, Quarterback Zone,
 or Commendable Cost Zone.
 
 
@@ -1015,23 +1013,23 @@ intended to be a regulated stop loss or reinsurance product, but rather is a cal
 Sharing component of the Program intended to provide protection from the impact of excessive Quarterback
 penalties.
 Gain Share Limit: Calculated, as defined > as the average of the non-adjusted cost for the five lowest
-costs for a valid Episode of Care that will be use culate any shared savings payment to the Quarterback, if all
+costs for a valid Episode of Care that will be u io calculate any shared savings payment to the Quarterback, if all
 of the eligibility criteria are met.
 Gain Sharing: If a Quarterback achieves a risk-adjusted average per-episode cost below the commendable
 threshold while meeting quality standards, then the Quarterback is eligible for Gain Sharing. Gain Sharing is savings
 below the commendable threshold with respect to the Gain Share Limit.
-Member: A Member is a Medicaid enrollee assigned —_— by the state Medicaid program. A Member is
-subject to retroactive disenroliment by the state, in which case such individual will not be considered a Member for
+Member: A Member is a Medicaid enrollee assigned oi by the state Medicaid program. A Member is
+subject to retroactive disenrollment by the state, in which case such individual will not be considered a Member for
 any period as of the effective date of such disenrollment.
 Performance Report: The interim or final report with respect to a given Episode Measurement Period that shows, on
 an interim or final basis, the Quarterback's performance results and the other information described in this Appendix.
-Principal Accountable Provider ("PAP" or “Quarterback"): The Provider deemed to have the greatest
+Principal Accountable Provider ("PAP™ or “Quarterback"): The Provider deemed to have the greatest
 accountability for the quality and cost of care for a patient. Quarterbacks are designated for each episode based on
 the degree of influence they have over clinical decisions and the care delivered.
 Quality Certification Component: The program component that measures the quality performance of the
 Quarterback. The quarterly quality certification is a prerequisite for becoming and remaining eligible for Gain Sharing.
 The quality certification designation will apply to those Quarterbacks that have a score meeting or exceeding
-= defined threshold levels for Quality Indicators Linked to Gain Sharing.
+HEE “efined threshold levels for Quality Indicators Linked to Gain Sharing.
 Quality Indicators Linked To Gain Sharing: The set of indicators that will be used for determination of quality
 certification of each episode. These quality indicators will be based on clinically appropriate and evidence-based
 practice. Applicable quality indicator definitions and measurement specifications will be published with each episode.
@@ -1040,15 +1038,15 @@ metric. Quality results equal to or higher than the threshold are considered to 
 measure. See thresholds attachment.
 Quality Indicators Not Linked To Gain Sharing: The additional set of indicators that will be provided to each
 Quarterback of each episode for the purpose of quality improvement. These quality indicators will be based on
-clinically appropriate and evidence-based practice. Applicable quality indicator definitions and measurement
+Clinically appropriate and evidence-based practice. Applicable quality indicator definitions and measurement
 specifications will be published with each episode. The thresholds for Quality Indicators Not Linked to Gain Sharing,
 represent the minimum score required to meet the metric. Quality results equal to or higher than the threshold are
 considered to have met the requirements for the measure.
 Risk Sharing: If a Quarterback's risk adjusted average per-episode cost is more than the acceptable threshold, no
-gain share payment is earned, and the risk will be shared with [I Risk sharing is the cost above the
+gain share payment is earned, and the risk will be shared with [J Risk sharing is the cost above the
 Acceptable Threshold.
 Total Episode Cost: The total episode cost is the sum of the amount that reflects the totality of all costs for claims
-identified for all JJ Members included in the episode.
+identified for all J Members included in the episode.
 Valid Episode of Care: Medicaid Covered Services provided by one or more Providers over a period of time related
 to a particular condition or procedure, including clinically related Medicaid Covered Services, as pre-defined by
 
@@ -1060,29 +1058,28 @@ to a particular condition or procedure, including clinically related Medicaid Co
 
 --- Page 19 (OCR) ---
 
-samira An episode will include all the different health care services related to the treatment of one acute or
+a An episode will include all the different health care services related to the treatment of one acute or
 specialized health care event, net of episodes excluded for clinical or operational considerations.
 # Section Il - Gain/Risk Share Pay Component
 Risk Sharing Amount: If the risk-adjusted average episode cost is more than the acceptable cost threshold, no gain
-share payment is earned and the risk will be shared vit The Quarterback, without regard to whether the
-eligibility criteria are met, is required to pay their portion of any deficit a In the event that the final
-performance report shows that the Provider owes money to) the final report will serve as an invoice to the
+share payment is earned and the risk will be shared with The Quarterback, without regard to whether the
+eligibility criteria are met, is required to pay their portion of any deficit 0 In the event that the final
+performance report shows that the Provider owes money to the final report will serve as an invoice to the
 Provider, and the Provider will need to issue their payment to within 30 days of the date of this
-Notification. |f MY does not receive payment, reserves the right to offset claim payments for
+notification. If J) does not receive payment, reserves the right to offset claim payments for
 money owed.
 Steps for submitting payment:
-Checks should be made out to Lcmmcgngel and mailed to the address below. Include as a note on the remit check
+Checks should be made out ange and mailed to the address below. Include as a note on the remit check
 that this payment is for the Episodes of Care program and the name of the Episode(s) the risk share amount is
 referencing:
-HEE Community Care ttn: Finance Department
-## 22
-Century Blvd., Suite 220
+HE Community Care Attn: Finance Department
+22 Century Blvd., Suite 220
 Nashville, TN 37214
 Gain Sharing Amount: If the risk-adjusted total episode cost is less than the acceptable cost threshold for the
-episode measurement period, the Quarterback's unadjusted payment >) will be calculated according to
+episode measurement period, the Quarterback's unadjusted payment > will be calculated according to
 the specifications below. The delivery date for checks to Providers is within 30 days of the date of this notification.
 Providers who will receive a gain-share payment will receive a paper check. This check will be sent to the remittance
-address on file with [EE and/or the requested mailing address of the Provider.
+address on file with J and/or the requested mailing address of the Provider.
 Total Episode Cost = All associated claims submitted and paid during an episode measurement period.
 Total # of valid episodes = Net of episodes excluded for clinical or operational considerations
 Avg. episode cost (non adj.) =
@@ -1096,16 +1093,16 @@ Adjusted cost per episode =
 Average episode cost non-adjusted + the risk adjustment factor
 Total Gain Sharing generated =
 Total difference in adjusted cost vs. commendable cost =
-Difference between average episode cost risk-adjusted and commendable cost x total # of valid episodes
+Difference between average episode cost risk-adjusted and commendable cost ~ total # of valid episodes
 Total Risk Sharing penalty =
 Total difference in adjusted cost vs. not acceptable cost =
-Difference between acceptable cost and average episode cost risk-adjusted ~ total # of valid episodes
+Difference between acceptable cost and average episode cost risk-adjusted x total # of valid episodes
 # Section Ill - Notification
-imc shall notify Quarterbacks to the availability of their quarterly performance and/or preview EOC reports via
-email, fax, or letter. The Quarterback will be asked to respond ‘0 ERI contirming receipt of the notification,
-confirming their preferred delivery method, and contact person. Quarter! must provide their most up-to-date
+mcrae shall notify Quarterbacks to the availability of their quarterly performance and/or preview EOC reports via
+email, fax, or letter. The Quarterback will be asked to respond  —_— confirming receipt of the notification,
+confirming their preferred delivery method, and contact person. Quarterbacks must provide their most up-to-date
 contact information as this is essential in order for Providers to receive alerts about any changes to EOC reports or
-newly released reports in a timely manner. In the initial communication to Quarterbacks, a shall provide 1)
+newly released reports in a timely manner. In the initial communication to Quarterbacks, ATAU shall provide 1)
 instructions on how to access full reports, and 2) how to share and update electronic contact information.
 # Section IV - Reporting Component
 
@@ -1173,26 +1170,26 @@ Tennessee Enterprise Provider Agreement 2022 Episode-Based Retro
 --- Page 21 (OCR) ---
 
 so that no PCP receives an amount that would result in substantial financial risk as defined by the PIP Regulations. If
-requested » ae Quarterbacks will provide Lamar with a description of their physician compensation
-arrangements and such other information related to st payments as needed to demonstrate the Quarterback's
+requested > Quarterbacks will provide aera with a description of their physician compensation
+arrangements and such other information related to such payments as needed to demonstrate the Quarterback's
 compliance with CMS and other applicable rules and regulations and this Section.
-c. If this Appendix is required to be filed with one or more federal, state or local governmental authorities,
-= will be responsible for each such filing. If, following any such filing, the governmental authority requests
-anges to this Appendix, Provider, on behalf of itself and/or its Quarterbacks, agrees to cooperate with
+Cc. If this Appendix is required to be filed with one or more federal, state or local governmental authorities,
+emmecar will be responsible for each such filing. If, following any such filing, the governmental authority requests
+changes to this Appendix, Provider, on behalf of itself and/or its Quarterbacks, agrees to cooperate with
 in preparing the response to the governmental authority.
 # Section Vill -Reconsideration
 Regarding quarterly and performance EOC reports, if there are any concerns with data in either of these partial year
 reports, please contact your EOC Provider Representative within 30 days of the report notification or email
-agpepisode reporting i °°". a will then work with you to investigate the reported concerns and
-determine the best course of action to address the Issue. This is an informal process and not part of the final report
+agpepisode reporting i ¢°. is will then work with you to investigate the reported concerns and
+determine the best course of action to address the issue. This is an informal process and not part of the final report
 reconsideration process.
-There are two levels of reconsideration for the EOC program. The first step is with 7 The second step is
+There are two levels of reconsideration for the EOC program. The first step is with Leer The second step is
 with the Tennessee Department of Commerce and Insurance (TDCI). After receiving the Final Performance Report in
 August and in the event that a Quarterback has concerns regarding the program provider payment and/or metrics
 accuracy of the final performance report, the Quarterback will submit a formal Reconsideration request as detailed
 below:
 Within 30 business days following the date of the final performance report notification, Providers have the right to
-submit a written request for reconsideration to [EN will review and respond within 30 business
+submit a written request for reconsideration to J will review and respond within 30 business
 days of receipt of the reconsideration.
 Steps for submitting a written reconsideration request:
 Reconsideration requests need to be sent in writing to J via mail or email: Mail: I Community
@@ -1202,21 +1199,21 @@ Nashville, TN 37214
 Email: agpepisode.reporting GE com
 Please provide a detailed rationale to support the reconsideration request to include:
 . Identification of each performance result (payment and metrics) to be reconsidered
-. Identification of the contested result calculated
+° Identification of the contested result calculated
 . A detailed explanation of why the Provider believes the determination is incorrect
 . Any other relevant information to support the Provider's reconsideration request
 If the Quarterback does not object in writing to a final reconsideration within 30 days following the receipt of
-HEE conciliation report, the Quarterback will be deemed to have accepted such reconciliation
-If a Provider is dissatisfied with the result of the reconsideration process or W cram fails to respond to the
+HE <conciliation report, the Quarterback will be deemed to have accepted such reconciliation
+If a Provider is dissatisfied with the result of the reconsideration process or ' fails to respond to the
 reconsideration request within 30 days from the received date of the payment dispute, the Provider may submit a
 Provider Complaint about specific claims or an episode directly to TDCI. This is an option instead of starting the
 independent review process which is detailed below. To submit a Provider Complaint to TDCI the Provider will access
-the Provider Complaint For: Program Episode of Care Cycle, Provider Gain/Risk Share Total Complaint.
-Instructions for completing le form can be obtained on the State website,
-https:/www.tn.gov/content/dam/tn/commerce/documents/tcoversight'forms/
+the Provider Complaint for ae Program Episode of Care Cycle, Provider Gain/Risk Share Total Complaint.
+Instructions for completing the form can be obtained on the State website,
+https://www.tn.gov/content/dam/tn/commerce/documents/tcoversight/forms/
 PROVIDERCOMPLAINTEOCFORM111416.pdf. TDCI will process the complaint within a few days of receipt and
-cov 30 calendar days to investigate and respond accordingly. This process is estimated to take no
-longer than iys. However, please note that unlike the independent review protocol, this process is informal and
+alow as 30 calendar days to investigate and respond accordingly. This process is estimated to take no
+longer than jays. However, please note that unlike the independent review protocol, this process is informal and
 not binding for either party.
 The Provider may also submit concerns to the Commissioner of the Department of Commerce and Insurance for an
 independent review of the disputed claims as set forth in T.C.A. 56-32-126. The Independent Review Process is
@@ -1231,46 +1228,41 @@ with the Commissioner for independent review the dispute, shall be governed by T
 
 --- Page 22 (OCR) ---
 
-The request to the Commissioner for Independent Review of Disputed 7 Claim form and instructions for
+The request to the Commissioner for Independent Review of Disputed amar Claim form and instructions for
 completing the form, sample copies of requests to the commissioner for independent review, and FAQ developed by
 the State of Tennessee Department of Commerce and Insurance can be obtained on the State website
-(tn.gov/commerce>Our Divisions> Oversight>MCo Dispute Resolution>Independent Review Process).
+(tn.gov/commerce>Our Divisions>q Oversight>MCo Dispute Resolution>Independent Review Process).
 # Section IX - Program Changes
 will review program components as defined by and update them as necessary.
 will modify or amend the Program as determined by with 30-days' written notice to the Provider.
 # Section X - Cooperation and Review
-Provider, on behalf of itself and/or its Quarterbacks, agrees to cooperate with in all ways which affect
-TennCare’s Payment Reform Initiatives. Provider shall be responsible for promptly reviewing any and all reports
-provided to Quarterbacks by| hereunder. Provider and/or Quarterbacks shall, within 30 days of receipt of
+Provider, on behalf of itself and/or its Quarterbacks, agrees to cooperate with Lear in all ways which affect
+TennCare's Payment Reform Initiatives. Provider shall be responsible for promptly reviewing any and all reports
+provided to Quarterbacks by hereunder. Provider and/or Quarterbacks shall, within 30 days of receipt of
 such reports, notify in writing of any discrepancies or inaccuracies in such reports.
 # Section XI - Business Associate Agreement
 In the event Provider is not a “covered entity", as such term is defined in the HIPAA Regulations; a Business
 Associate Agreement shall be executed and made a part thereof. Provider acknowledges that if it is not a covered
-entity, rare to disclose to Provider any protected health information regarding any Covered Person
-until a Business. ciate Agreement is fully effective between the parties hereto.
-HER PROVIDER EPISODE-BASED RETROSPECTIVE PAYMENT:
+entity, ae unable to disclose to Provider any protected health information regarding any Covered Person
+until a Business ociate Agreement is fully effective between the parties hereto.
+HE PROVIDER EPISODE-BASED RETROSPECTIVE PAYMENT:
 THRESHOLDS 2022 Waves 1-9 ATTACHMENT
 Provider Episode Episode-Based Retrospective Payment: 2022 Thresholds Waves 1-9
-Episodes Threshold for Quality Indicators Linked To | Acceptable Commendable | Gain Share | Effective
-pr Gain Sharing Threshold Threshold Limits Date
-## 1
-. Follow-up care within the
+. Threshold for Quality Indicators Linked To Acceptable Commendable Gain Share | Effective
+Episodes . . -
+Gain Sharing Threshold Threshold Limits Date
+1. Follow-up care within the
 post-trigger window $1,172 $254
-## 2
-. Appropriate medications Jan 2022
+ma 2. Appropriate medications Jan 2022
 within the trigger and post- 60%
 trigger window
-## 1
-. C-Section Rate
-## 37
-% $8,251
+1. C-Section Rate
+37% $8,251 $3,643
 Perinatal
-## 2
-. Group B strep screening rate $6,248 Jan 2022
-## 3
-. HIV screening rate
-Related admission during the
-Total Joint Replacement elated acimission Curing 10% $27,737 $5,773 $5,020
+2. Group B strep screening rate $6,248 Jan 2022
+3. HIV screening rate
+. Related admission during the >
+Total Joint Replacement . . 10% $27,737 $5,773 $5,020
 post-trigger window Jan 2022
 
 
@@ -1281,46 +1273,48 @@ post-trigger window Jan 2022
 
 --- Page 23 (OCR) ---
 
-; “hi - $342
-COPD Acute Exacerbation rw an within the post” | 49, $3,147 $1,134
-igger windo Jan 2022
-. as $192
-Colonoscopy Ne a metrics inked to $1,364 $675
-gain sharing Jan 2022
-o a $2,209
-Cholecystectomy a, aaimission inthepost” | 0% $3,465
-sialic Jan 2022
-< ea $5,870 $5,104
-‘Acute PCI a. aaimission inthe post: $25,330
-rigger win ——
-Noweseute PC a wae in the post-
-eee Jan 2022
-a $493
-Follow-up care within the post-
-Gl Hemorrhage (GIH) Hilger winiew. 45% $5,518 Jan 2022
-ED visit within the post-trigger
-— comer |e “
-window
-. . ED visit within the post-trigger #258 ia
-Respiratory Infection swindle
-Jan 2022
-. Follow-up care within the post- set
-Pneumonia leer winiew,
-Jan 2022
-## 1
-. Admission within the trigger
-window for ED triggered
-Urinary Tract Infection species sis
-(UTI-Outhatient 2. Admission within the trigger
-window for non-ED triggered 5%
-episodes
-. . wae $677
-Urinary Tract Infection Follow-up care within the post-
-(UTI) Inpatient trigger window S082 Bae
+P Follow-up care within the post- a
+COPD Acute Exacerbation iiaeex Gandow 45% $3,147 $1,134
 = Jan 2022
+No quality metrics linked to 4192
+Colonoscopy in shari $675
+gain sharing Jan 2022
+a eer $2,209
+Choleeystectiny a aunion in the post
+rigger window Jan 2022
+x prs samie $5,870 $5,104
+Acute PCI ——e. in the post 10% $25,330
+ae Jan 2022
+Hospital admission in the post-
+Non-acute PCI triezer window
+= Jan 2022
+Follow-up care within the post- +98
+Gl Hemorrhage (GIH) ‘ 45% Jan 2022
+trigger window
+ED visit within th t-tri
+— canner | ae “ ~ al “
+window
+. . ED visit within the post-trigger 3 ns a8
+Respiratory Infection window 10%
+Jan 2022
+. Follow-up care within the post-
+Poeamtions trigger window
+ss Jan 2022
+1. Admission within the trigger
+window for ED triggered
+Urinary Tract Infection —
+(UTI)-Outpatient $166 $116
+SADE 2. Admission within the trigger Jan 2022
+window for non-ED triggered
+episodes
+. : wpe $677
+Urinary Tract Infection Follow-up care within the post-
+(UTI) Inpatient trigger window eer eas
+. = Jan 2022
 Attention Deficit and Minimum Care requirement of $788 $255 $58
 Hyperactivity Disorder 5 visits/claims during the 70%
 (ADHD) episode window Jan 2022
+Long-acting stimulants for 80%
 
 
 
@@ -1328,12 +1322,10 @@ Hyperactivity Disorder 5 visits/claims during the 70%
 
 members aged 6 to 11.
 Long-acting stimulants for
-## 80
-%
+80%
 members aged 12 to 20
 Utilization of therapy for
-## 1
-Visit
+1 Visit
 members aged 4 and 5
 $3,721
 Follow-up care within the post-
@@ -1349,33 +1341,28 @@ AV
 E 4
 $583
 Congestive Heart Failure Follow-up care within the post-
-## 60
-% $9,968 $3,811 Jan 2022
+60% $9,968 $3,811 Jan 2022
 (CHF) Acute Exacerbation trigger window
 Minimum Care requirement of
 $287
 Oppositional Defiant 6 therapy or level 1 case
-## 30
-% $2,685 $340 Jan 2022
+30% $2,685 $340 Jan 2022
 Disorder (ODD) management visit during the
 episode window
 Valve repair and Follow-up care within the post-
 NA NA NA NA Jan 2022
 replacement trigger window
 Appropriate diagnostic workup
-## 90
-% $550
+90% $550
 rate
 Breast Biopsy $2,965 $994 Jan 2022
 Core needle biopsy rate 85%
 OME episodes without
-## 25
-%
+25%
 antibiotics filled
 Otitis media $263 $120 $35 Jan 2022
 Non-OME episode with
-## 60
-%
+60%
 amoxicillin filled
 $2,216 $1,038
 Bleeding up to two days
@@ -1383,13 +1370,11 @@ Tonsillectomy 5%1 $3,815
 following the procedure
 Jan 2022
 Bacterial cultures when I&D
-## 50
-%
+50%
 performed-higher is better $35
 SSTI $413 $172
 SSTI episodes with a first line Jan 2022
-## 85
-%
+85%
 antibiotic
 HIV Periodic ART refill NA NA NA NA Jan 2022
 Tennessee Enterprise Provider Agreement 2022 Episode-Based Retro
@@ -1443,8 +1428,7 @@ W
 AV
 E 6 $7,747 $1,399
 Diabetes Acute Follow-up care within the first
-## 30
-% $3,764 Jan 2022
+30% $3,764 Jan 2022
 Exacerbation 14 days
 Provider Episode Episode-Based Retrospective Payment: 2022Thresholds Waves 1-9
 Threshold for Quality Indicators Linked To Acceptable Commendable Gain Share Effective
@@ -1452,19 +1436,16 @@ Episodes
 Gain Sharing Threshold Threshold Limits Date
 $600 $42
 Back/ Neck Pain Difference in Average MED/day 70% $217 Jan 2022
-## 1
-. Follow-up care within the
+1. Follow-up care within the
 NA
 post-trigger window
 Femur/ Pelvic Fracture NA NA NA
-## 2
-. Difference in Average Jan 2022
+2. Difference in Average Jan 2022
 NA
 MED/day
 $4,995 $1,788
 Knee Arthroscopy Difference in Average MED/day 70% $3,311 Jan 2022
-## 70
-%
+70%
 Non-operative Ankle Injury Difference in Average MED/day $469 $191 $49 Jan 2022
 $655 $45
 Non-operative Knee Injury Difference in Average MED/day 70% $219
@@ -1517,46 +1498,34 @@ av Jan 2022
 e 7 Spinal Fusion
 $1,032 $549 $60
 Abdominal or pelvic CT or MRI
-## 40
-% Jan 2022
+40% Jan 2022
 in adults
 Acute Gastroenteritis 30%
 Abdominal or pelvic CT or MRI
 in children
 Antibiotics utilization 30%
-## 1
-. Brain MRI utilization in focal
-## 10
-%
+1. Brain MRI utilization in focal
+10%
 epilepsy
 $223
 Acute Seizure $2,397 $954 Jan 2022
-## 2
-. Prolonged EEG monitoring
+2. Prolonged EEG monitoring
 utilization in newly diagnosed 10%
 seizure
-## 1
-. Abdominopelvic CT scans in
-## 50
-%
+1. Abdominopelvic CT scans in
+50%
 children $7,438 $5,200 $1,522
 Appendectomy Jan 2022
-## 2
-. Difference in Average
-## 70
-%
+2. Difference in Average
+70%
 MED/day
-## 1
-. Related admission during the
-## 10
-%
+1. Related admission during the
+10%
 post-trigger window
 $167
 Bronchiolitis $922 $533 Jan 2022
-## 2
-. Utilization of bronchodilators 30%
-## 3
-. Utilization of steroids 50%
+2. Utilization of bronchodilators 30%
+3. Utilization of steroids 50%
 Provider Episode Episode-Based Retrospective Payment: 2022
 Thresholds Waves 1-9
 Threshold for Quality Indicators Linked to Acceptable Commendable Gain Share Effective
@@ -1565,8 +1534,7 @@ Gain Sharing Threshold Threshold Limits Date
 Colposcopy 1. LEEP utilization under 26 $588 $286 $86 Jan 2022
 years old with no evidence of 10%
 high-grade dysplasia
-## 2
-. LEEP utilization with low- 10%
+2. LEEP utilization with low- 10%
 grade dysplasia
 GI Obstruction Related follow-up care 20% $25,350 $1,767 $781 Jan 2022
 Tennessee Enterprise Provider Agreement 2022 Episode-Based Retro
@@ -1615,29 +1583,23 @@ grade dysplasia | 10% |  |  |  |  |
 --- Page 27 ---
 
 Difference in Average MED/day
-## 70
-%
+70%
 $1,541
 Hernia Repair Difference in Average MED/day 70% $5,915 $2,974
 Jan 2022
-## 1
-. Alternative treatments 20% $8,287 $6,080
+1. Alternative treatments 20% $8,287 $6,080
 $3,932 Jan 2022
 Hysterectomy 2. Related follow-up care 10%
 W
 av 1. Related admission during the
-## 10
-%
+10%
 e 8 post-trigger window
-## 2
-. Utilization of macrolides in
+2. Utilization of macrolides in
 Pediatric Pneumonia 30% $1,111 $647 $209
 patients under 6 years old
 Jan 2022
-## 3
-. Utilization of narrow
-## 50
-%
+3. Utilization of narrow
+50%
 spectrum antibiotics
 Carotid ultrasound imaging in
 Syncope 10% $956 $280 441 Jan 2022
@@ -1649,38 +1611,28 @@ Threshold for Quality Indicators Acceptable Commendable Effective
 Episodes Share
 Linked To Gain Sharing Threshold Threshold Date
 Limits
-## 9
+9
 evaW
-## 70
-%
-## 1
-. Difference in average
+70%
+1. Difference in average
 MED/day
 $1,993 $785 $141 Jan 2022
 Cystourethroscopy 2. ED visit within the post-
-## 10
-%
+10%
 trigger window
-## 3
-. Repeat
-## 5
-%
+3. Repeat
+5%
 Cystourethroscopy
-## 70
-%
-## 1
-. Difference in average
+70%
+1. Difference in average
 $582 $302 Jan 2022
 Acute Kidney and Ureter MED/day
 $1,755
 Stones
-## 2
-. ED visit within the post-
-## 15
-%
+2. ED visit within the post-
+15%
 trigger window
-## 1
-Change in quality metric threshold from 2021 CY.
+1 Change in quality metric threshold from 2021 CY.
 Tennessee Enterprise Provider Agreement 2022 Episode-Based Retro
 
 | W
@@ -1732,16 +1684,16 @@ trigger window | 15% |  |  |  |  |
 --- Page 28 (OCR) ---
 
 ? New gain-sharing quality metric and threshold for 2022 CY.
-Acceptable Cost Threshold: The dollar amount, as determined by [EN to which the PAP's or QB's risk
-adjusted average episode cost (calculated in Section I! below) for a Program Episode will be compared. The
+Acceptable Cost Threshold: The dollar amount, as determined by J to which the PAP's or QB's risk
+adjusted average episode cost (calculated in Section Il below) for a Program Episode will be compared. The
 Acceptable Cost Threshold is used to determine the dollar amount of the Shared Risk Payment from the QB to
-HEE) 26 can be found on each interim and final Performance Report provided to the QB.
-Commendable Cost Threshold: The dollar amount, as determined by agua to which the QB's average
-episode cost for a Program Episode will be compared. If the QB meets all o1 quality indicators linked to gain
+HE 2 can be found on each interim and final Performance Report provided to the QB.
+Commendable Cost Threshold: The dollar amount, as determined by mapicart to which the QB's average
+episode cost for a Program Episode will be compared. If the QB meets all of the quality indicators linked to gain
 sharing, the commendable cost threshold is then used to the determine dollar amount of a shared risk payment from
-=z to the QB, subject to the Gain Share Limit. The dollar amount of the commendable cost threshold can be
-found on each interim and final Performance Report provided to the QB.
-Additional episodes will be identified as determined by [NMJ and added to this attachment prior to the
+mmEEc to the QB, subject to the Gain Share Limit. The dollar amount of the commendable cost threshold can be
+ound on each interim and final Performance Report provided to the QB.
+Additional episodes will be identified as determined by |) and added to this attachment prior to the
 beginning of each performance period.
 
 
@@ -1752,12 +1704,12 @@ beginning of each performance period.
 
 --- Page 29 (OCR) ---
 
-IMEDICAID/COVERKIDS.
+IMEDICAID/COVERKIDS
 COMMUNITY CARE)
-P. ATTACHMENT TO THE
-HER PROVIDER AGREEMENT
-This is a IMedicaid/Coverkids Participation Attachment ("Attachment") to the | Provider
-Agreement eement’), entered into by and between [NMJ and Provider and is incorporated into the
+P ATTACHMENT TO THE
+HR PRovIDER AGREEMENT
+This is a Medicaid/Coverkids Participation Attachment ("Attachment") to the | Provider
+Agreement ("Agreement"), entered into by and between MJ and Provider and is incorporated into the
 Agreement.
 # ARTICLE I
 DEFINITIONS
@@ -1765,18 +1717,18 @@ The following definitions shall apply to this Attachment. Terms not otherwise de
 the meaning set forth in the Agreement.
 All references to ‘J under this Medicaid Participation Attachment shall mean and refer to
 Tennessee, Inc.
-_ Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
-feference, and which sets forth ‘he Rate(s) and compensation related terms for the Network(s) in which
-Provider participates. The ACS may include additional Provider obligations and specific [J compensation
+crarmone Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
+reference, and which sets forth the ETRE Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The ACS may include additional Provider obligations and specific | compensation
 related terms and requirements.
-"Audit" means a review or audit of any and all obligations, requirements, records and information set forth in this
+“Audit" means a review or audit of any and all obligations, requirements, records and information set forth in this
 Participation Attachment by the entities named herein.
-"Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
+“Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
 timely filed Claim submitted pursuant to this Attachment, that has no defect or impropriety, for which all information
 necessary to process such Claim and make a benefit determination is included. This includes but is not limited to,
 the claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which
 does not require adjustment, or alteration by Provider of the services in order to be processed and paid.
-"Cloning of Medical Notes" means documentation is considered cloned when each entry in the medical record for a
+“Cloning of Medical Notes" means documentation is considered cloned when each entry in the medical record for a
 beneficiary is worded exactly like or similar to the previous entries. Cloned documentation does not meet Medical
 Necessity requirements for coverage of services rendered due to the lack of specific, individual information. All
 documentation in the medical record must be specific to the patient and her/his situation at the time of the encounter.
@@ -1784,19 +1736,19 @@ Cloning of documentation is considered a misrepresentation of the Medical Necess
 services. Identification of this type of documentation will lead to denial of services for lack of Medical Necessity and
 recoupment of all overpayments made.
 "Coverkids" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet
-the condition of the State Child Health Plan under Title XX! of the Social Security Act State Children's Health
+the condition of the State Child Health Plan under Title XXI of the Social Security Act State Children's Health
 Insurance Program.
-"Eligible" means, for purposes of this Attachment, any person certified by [J as eligible to receive services
-and benefits under oo program or the CoverKids program.
+“Eligible” means, for purposes of this Attachment, any person certified by J as eligible to receive services
+and benefits under the J program or the Coverkids program.
 “Ethical and Religious Directives (ERDs)" means a document that offers moral guidance on various aspects of health
 care delivery and is based on a religious organization's theological and moral teachings.
 “Medicaid Covered Services" means, for purposes of this Attachment, only those Covered Services provided under
-aaieeraad Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
-iealth, and long-term care services, that define the covered services available to members.
-"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled Medicaid
-Program(s) under For all purposes related to this Attachment, including all schedules, ex! , provider
-manual(s), notices communications related to this Attachment, the term "Medicaid Member" may be used
-interchangeably with the ‘ers Standard Enrollee, HE Mecicaia Enrollee, and the meaning of each
+aiumemmaT Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
+ealth, and long-term care services, that define the covered services available to J members.
+"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled a Medicaid
+Program(s) under For all purposes related to this Attachment, including all schedules, exhibits, provider
+manual(s), notices and communications related to this Attachment, the term "Medicaid Member" may be used
+interchangeably with the terms Standard Enrollee, ME Mecicaic Enrollee, and the meaning of each
 is synonymous with any such other unless otherwise stated in this Attachment.
 
 
@@ -1807,14 +1759,14 @@ is synonymous with any such other unless otherwise stated in this Attachment.
 
 --- Page 30 (OCR) ---
 
-“Medicaid Program(s)" means, for purposes of this Attachment, a medical assistance program provided under a
-Health Benefit Plan approved under Title XVI, Title XIX and/or Title XxXI of the Social Security Act or any other federal
-or state funded program or product as designated by
+"Medicaid Program(s)" means, for purposes of this Attachment, a medical assistance program provided under a
+Health Benefit Plan approved under Title XVI, Title XIX and/or Title XXI of the Social Security Act or any other federal
+or State funded program or product as designated by
 “Medically Necessary/Medical Necessity" means:
 A. Those services that are recommended by a physician or other licensed healthcare provider practicing within
 the scope of the physician's license who is treating the Medicaid Member. A Medically Necessary Medicaid
 Covered Service must satisfy each of the following criteria:
-@ It must be required in order to diagnose or treat a Medicaid Member's medical condition. The
+(i) It must be required in order to diagnose or treat a Medicaid Member's medical condition. The
 convenience of a Medicaid Member, a Medicaid Member's family, or a provider shall not be a factor
 or justification in determining that a medical item or service is Medically Necessary;
 (ii) It must be safe and effective. To qualify as safe and effective, the type and level of medical item or
@@ -1850,13 +1802,14 @@ B. Itis the responsibility of the Medicaid Program ultimately to determine what 
 Medically Necessary for the Medicaid Program. The fact that a provider has prescribed, recommended or
 approved a medical item or service does not, in itself, make such item or service Medically Necessary.
 Medical Necessity and Medically Necessary as used in the Agreement shall have the meaning contained in
-Tenn. Code Ann. 71-5-144, — Rule 1200-13-16, and oer tules, as applicable. In the
+Tenn. Code Ann. 71-5-144, Inga Rule 1200-13-16, and other rules, as applicable. In the
 case of enrollees under 21 years of age, services shall be provided in accordance with EPSDT requirements
 including federal regulations as described in 42 CFR Part 441, Subpart B, and the Omnibus Budget
 Reconciliation Act of 1989.
 "State Agency," if used, means a federal, state or local agency, administration, board or other governing body with
 jurisdiction over the governance or administration of a Medicaid Program.
-"Subcontract" means a contract to perform or assist, even if incidentally or in an auxiliary capacity, in the performance
+“Subcontract” means a contract to perform or assist, even if incidentally or in an auxiliary capacity, in the performance
+of all or part of the Provider's duties or obligations under the Agreement and/or this Attachment. An agreement
 
 
 
@@ -1868,42 +1821,42 @@ jurisdiction over the governance or administration of a Medicaid Program.
 
 entered into by the Provider with any other organization or person who agrees to perform any administrative function
 or service for the Provider specifically related to securing or fulfilling the Provider's obligations a under
-the terms of this Attachment when the intent of such an agreement is to delegate the responsil jor any major
+the terms of this Attachment when the intent of such an agreement is to delegate the responsibility for any major
 service or group of services required by this Attachment. This shall also include any and all agreements between any
-and all subcontractors for the purposes related to securing or fulfilling the Provider's obligations to NN under
+and all subcontractors for the purposes related to securing or fulfilling the Provider's obligations to J under
 the terms of this Attachment.
-"Subcontractor" means an individual, agency, or organization that pursuant to a Subcontract performs or assists,
+"Subcontractor" means _ an individual, agency, or organization that pursuant to a Subcontract performs or assists,
 even if incidentally or in an auxiliary capacity, in the performance of all or part of the Provider's duties or obligations
 under the Agreement and/or this Attachment. Any organization or person who provides any function or service for
-the Provider specifically related to securing or fulfilling the Provider's obligations to ascent under the terms of
+the Provider specifically related to securing or fulfilling the Provider's obligations to aTaIneEr under the terms of
 this Attachment. Subcontractor does not include Provider unless the Provider is responsible for services other than
 those that could be covered in a Provider Agreement.
-= or _! Program" means the program administered by the single state agency, as designated by
-le an , pursuant to Title XIX of the Social Security Act and the Section 1115 research and
+= Program" means the program administered by the single state agency, as designated by
+e state an , pursuant to Title XIX of the Social Security Act and the Section 1115 research and
 demonstration waiver granted to the State of Tennessee and any successor programs. For purposes of the contract
-requirements herein, references to [J or the J Program shall include Coverkids unless otherwise
+requirements herein, references to J or the MJ Program shall include Coverkids unless otherwise
 specified.
-q Kids" means the Early Periodic Screening, Diagnostic and Treatment ("EPSDT") program operated by
+‘ Kids" means the Early Periodic Screening, Diagnostic and Treatment ("EPSDT") program operated by
 The EPSDT service is Medicaid's comprehensive and preventive child health program for individuals
 under the age of 21.
-# ARTICLE I
+# ARTICLE Il
 SERVICES/OBLIGATIONS
-## 24
-Participation-Medicaid Network. As a participant Medicaid Network, Provider will render
+## 2.1
+Participation-Medicaid Network. As a participant in aan Medicaid Network, Provider will render
 Medicaid Covered Services to Medicaid Members in accordance with the terms and conditions of the
 Agreement and this Attachment. Such Medicaid Covered Services provided shall be within the scope of
 Provider's licensure, expertise, and usual and customary range of services pursuant to the terms and
 conditions of the Agreement and this Attachment, and Provider shall be responsible to for
-his/her/its performance hereunder. Except as set forth in this Attachment or the mpensation
+his/her/its performance hereunder. Except as set forth in this Attachment or the compensation
 Schedule ("ACS"), all terms and conditions of the Agreement will apply to Provider's participation in
-a Medicaid Network. The terms and conditions set forth in this Attachment are limited to the
+anne. Medicaid Network. The terms and conditions set forth in this Attachment are limited to the
 provision of and payment for Health Services provided to Medicaid Members.
 ## 2.2
 Provider's Duties and Obligations to Medicaid Members. All of Provider's duties and obligations to Members
 set forth in the Agreement shall also apply to Medicaid Members unless otherwise specifically set forth in
 this Attachment. Provider shall not discriminate in the acceptance of Medicaid Members for treatment, and
 shall provide to Medicaid Members the same access to services, including but not limited to, hours of
-operation, as Provider gives to all other patients. Provider shall ‘nish with at least ninety (90)
+operation, as Provider gives to all other patients. Provider shall furnish a earemicgn with at least ninety (90)
 days prior written notice if Provider plans to close its practice to new patients or ceases to continue in
 Provider's current practice.
 ## 2.2.1
@@ -1916,13 +1869,14 @@ provide Covered Services or make arrangements for the provision of Covered Servi
 Members on a twenty-four (24) hour-per-day, seven (7) day-per-week basis to assure availability,
 adequacy, and continuity of care to Medicaid Members. If Provider is unable to provide Covered
 Services, Provider shall arrange for another Participating Provider to cover Provider's patients in
-accordance with a Policies. Provider and any PCPs employed by or under contract
+accordance with heer eTTcmT Policies. Provider and any PCPs employed by or under contract
 with Provider may arrange for Covered Services to Medicaid Members to be performed by a
-Specialist Physician only in accordance with JE Policies.
+Specialist Physician only in accordance with J Policies.
 ## 2.2.3
 . If Provider is furnishing Specialist Physician services under this Attachment, Provider and the
 Specialist Physician(s) employed by or under contract with Provider, shall accept as patients all
 Medicaid Members and may arrange for Covered Services to Medicaid Members to be performed
+by Specialist Physician only in accordance with iM _ Policies.
 
 
 
@@ -1937,62 +1891,63 @@ Provider may not refuse to provide Medically Necessary or covered preventive ser
 under the age of twenty-one (21) or a Medicaid Member under this Attachment for non-medical
 reasons. However, Provider shall not be required to accept or continue treatment of a patient with
 whom Provider feels he/she cannot establish and/or maintain a professional relationship.
-## 23
-Provider Responsihity, shall not be liable for, nor will it exercise control or direction over, the
+## 2.3
+Provider Responsibility. is shall not be liable for, nor will it exercise control or direction over, the
 manner or method by which Provider provides Health Services to Medicaid Members. Provider shall be
 solely responsible for all medical advice and services provided by Provider to Medicaid Members. Provider
-acknowledges and agrees a may deny payment for services rendered to a Medicaid Member
+acknowledges and agrees thal may deny payment for services rendered to a Medicaid Member
 which it determines are not Medically Necessary, are not Medicaid Covered Services under the applicable
 Medicaid Program(s), or are not otherwise provided or billed in accordance with the Agreement and/or this
-Attachment. A denial of payment or any action taken a pursuant to a utilization review, referral,
-discharge planning program or claims adjudication not construed as a waiver of Provider's
+Attachment. A denial of payment or any action taken > pursuant to a utilization review, referral,
+discharge planning program or claims adjudication s not be construed as a waiver of Provider's
 obligation to provide appropriate Health Services to a Medicaid Member under applicable Regulatory
 Requirements and any code of professional responsibility. However, this provision does not require Provider
 to provide Health Services if Provider objects to such service on moral or religious grounds.
-## 24
-Reporting Fraud and Abuse. Provider shall cooperate vit anti-fraud compliance program. If
+## 2.4
+Reporting Fraud and Abuse. Provider shall cooperate with anti-fraud compliance program. If
 Provider identifies any actual or suspected fraud, abuse or misconduct in connection with the services
 rendered hereunder in violation of Regulatory Requirements, Provider shall immediately report such activity
-directly to the compliance officer of Lemans or through the compliance hotline in accordance with the
-provider manual(s) or to he € OF Program Integrity. In addition, Provider is not limited in any
+directly to the compliance officer of Le or through the compliance hotline in accordance with the
+provider manual(s) or to he Office of Program Integrity. In addition, Provider is not limited in any
 respect in reporting other actual or suspected fraud, abuse, or misconduct to
-## 25
-= Marketing/Information Requirements. Provider agrees to abide by a
-eting/information requirements. Provider shall forward to for prior approval all flyers,
+## 2.5
+—- Marketing/Information Requirements. Provider agrees to abide by apap ers
+marketing/information requirements. Provider shall forward to for prior approvi ers,
 brochures, letters and pamphlets Provider intends to distribute to Members concerning its payor
 affiliations, or changes in affiliation or relating directly to the population. Provider will not distribute
-any marketing or recipient informing materials without the consen o ae or | Provider
-shall not use = name or trademark for any materials intended for dissemination to Medicaid
-Members unless said material has been submitted to  rmesimn for review and approval.
-This prohibition shall not include references to whether or not Provider participates in
-## 26
-Schedule of Benefits and Determination of Medicaid Covered Services. a, shall make available
-upon Provider's request schedules of Medicaid Covered Services for applicable licaid Program(s), and
+any marketing or recipient informing materials without the consen o or | Provider
+shall not use ean name or trademark for any materials intended for dissemination to Medicaid
+Members unless said material has been submitted to Lge > for review and approval.
+This prohibition shall not include references to whether or not Provider participates in ay
+## 2.6
+Schedule of Benefits and Determination of Medicaid Covered Services.  eanraasen shall make available
+upon Provider's request schedules of Medicaid Covered Services for applicable Medicaid Program(s), and
 will notify Provider in a timely manner of any material amendments or modifications to such schedules.
-= will not issue any payments to Provider until Provider has obtained a Tennessee Medicaid
+rear will not issue any payments to Provider until Provider has obtained a Tennessee Medicaid
 provider number and has complied with the disclosure requirements, as applicable, in accordance with 42
-CFR 455.100 through 106 | policies and procedures.
+CFR 455.100 through 106 1 policies and procedures.
 ## 2.7
 Medicaid Member Verification. Provider shall establish a Medicaid Member's eligibility for Medicaid Covered
 Services prior to rendering services, except in the case of an Emergency Condition, as defined in the ACS,
 where such verification may not be possible. In the case of an Emergency Condition, Provider shall
-establish a Medicaid Member's eligibility as soon as reasonably Practical. IM Provides for member
+establish a Medicaid Member's eligibility as soon as reasonably practical. a provides for member
 eligibility verification 24/7/365 on its website. Nothing contained in this Attachment or the Agreement shall, or
 shall be construed to, require advance notice, coverage verification, or pre-authorization for Emergency
 Services, as defined in the ACS, provided in accordance with the federal Emergency Medical Treatment and
 Labor Act ("EMTALA") prior to Provider's rendering such Emergency Services.
-## 28
-Hospital Affiliation and Privileges. To the extent required under KE credentialing requirements,
+## 2.8
+Hospital Affiliation and Privileges. To the extent required under ME credentialing requirements,
 Provider or any Participating Providers employed by or under contract or subcontract with Provider shall
-maintain privileges to practice at one or more of L caimrna participating hospitals. In addition, in
-accordance with the Change in Provider Information Section ie Agreement, Provider shall immediately
-ott in the event any such hospital privileges are revoked, limited, surrendered, or suspended
+maintain privileges to practice at one or more of  ecsimmmmaid participating hospitals. In addition, in
+accordance with the Change in Provider Information Section of the Agreement, Provider shall immediately
+not) in the event any such hospital privileges are revoked, limited, surrendered, or suspended
 at any hospital or healthcare facility.
 ## 2.9
 Participating Provider Requirements. If Provider is a group provider, Provider shall require that all
 Participating Providers employed by or under contract or subcontract with Provider comply with all terms and
 conditions of the Agreement and this Attachment. Notwithstanding the foregoing, Provider acknowledges
-and agrees that MMU_is not obligated to accept as Participating Providers all providers employed by
+and agrees hat is not obligated to accept as Participating Providers all providers employed by
+or under contract or subcontract with Provider.
 
 
 
@@ -2006,9 +1961,9 @@ and agrees that MMU_is not obligated to accept as Participating Providers all pr
 Coordinated and Managed Care. Provider shall participate in utilization management and care management
 programs designed to facilitate the coordination of services as referenced in the applicable provider
 manual(s).
-## 2.41
+## 2.11
 Representations and Warranties. Provider represents and warrants that all information provided to
-= is true and correct as of the date such information is furnished, and that Provider is unaware of
+rie is true and correct as of the date such information is furnished, and that Provider is unaware of
 any undisclosed facts or circumstances that would make such information inaccurate or misleading.
 Provider further represents and warrants that Provider: (i) is legally authorized to provide the services
 contemplated hereunder; (ii) is qualified to participate in all applicable Medicaid Program(s); (iii) is not in
@@ -2016,12 +1971,12 @@ violation of any licensure or accreditation requirement applicable to Provider u
 Requirements; (iv) has not been convicted of bribery or attempted bribery of any official or employee of the
 jurisdiction in which Provider operates, nor made an admission of guilt of such conduct which is a matter of
 record; (v) is capable of providing all data related to the services provided hereunder in a timely manner as
-reasonably required by maces to satisfy its internal requirements and Regulatory Requirements,
+reasonably required by mmm to satisfy its internal requirements and Regulatory Requirements,
 including, without limitation, data required under the Healthcare Effectiveness Data and Information Set
 ("HEDIS") and National Committee for Quality Assurance ("NCQA") requirements; and (vi) is not, to
 Provider's best knowledge, the subject of an inquiry or investigation that could foreseeably result in Provider
 failing to comply with the representations set forth herein. In accordance with the Change in Provider
-Information Section of the Agreement, Provider shall immediately provide JJ with written notice of
+Information Section of the Agreement, Provider shall immediately provide J with written notice of
 any material changes to such information.
 ## 2.11.1
 Provider shall conduct criminal background checks and registry checks, which shall include a check
@@ -2032,8 +1987,8 @@ Third Party Liability. Provider agrees to identify third party liability coverag
 term care insurance as applicable, and except as otherwise required, seek such third party liability payment
 before submitting claims to
 ## 2.13
-Kids. If Provider furnishes EPSDT services under the —_ Kids program, upon request,
-shall make available to Provider a description of the package of benefits het Kids
+Kids. If Provider furnishes EPSDT services under the ae Kids program, upon request,
+shall make available to Provider a description of the package of benefits that a Kids
 offers and require providers to make treatment decisions based upon children's individual medical and
 behavioral health needs. In furnishing such |) Kids services, Provider shall comply with the
 requirements set forth in the provider manual.
@@ -2041,28 +1996,28 @@ requirements set forth in the provider manual.
 COMPENSATION AND AUDIT
 ## 3.1
 Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
-Requirements, Provider shall submit Claims ae using appropriate and current Coded Service
+Requirements, Provider shall submit Claims to vr am using appropriate and current Coded Service
 Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
-## 7
-may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day
+aI may refuse payment. ' is the secondary payor, the one hundred twenty (120) day
 period will not begin until Provider receives notification of primary payor's responsibility.
 ## 3.1.1
 In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
-claim shall begin on the date that receives notification from = of the Medicaid
+claim shall begin on the date that receives notification tom of the Medicaid
 Member's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with
-industry standards and acceptable a either (a) electronically through electronic data
+industry standards and acceptable to Lr amisam either (a) electronically through electronic data
 interchange ("EDI"), or (b) if electronic submission is not available, utilizing paper forms as defined
 by the National Uniform Claim Committee ("NUCC").
 ## 3.1.2
-Provider agrees to provide i” unless otherwise instructed, at no cost am or
-the Medicaid Member, all information necessary —_—_ to determine its payment liability.
-Such information includes, without limitation, accurate an an Claims for Covered Services. If
-mame asks for additional information in order to process the Claim, Provider must provide
+Provider agrees to provide oii” unless otherwise instructed, at no cost a or
+the Medicaid Member, all information necessary or to determine its payment liability.
+Such information includes, without limitation, accurate and Clean Claims for Covered Services. If
+ama asks for additional information in order to process the Claim, Provider must provide
 at information within sixty (60) days, or before the expiration of the one hundred twenty (120) day
 period referenced in section 3.1 above, whichever is longer.
 ## 3.1.3
-= will provide for prompt payment to the Provider upon receipt of a Clean Claim properly
+a will provide for prompt payment to the Provider upon receipt of a Clean Claim properly
 submitted by the Provider within the required time frames as specified in TCA 56-32-126. All Clean
+Claims will be adjudicated in accordance with the terms and conditions of a Medicaid Member's
 
 
 
@@ -2073,12 +2028,12 @@ submitted by the Provider within the required time frames as specified in TCA 56
 --- Page 34 (OCR) ---
 
 Health Benefit Plan, the ACS, the provider manual(s), and the Regulatory Requirements applicable
-to EY Medicaid Program(s).
+to EE Medicaid Program(s).
 ## 3.2
 This provision intentionally left blank.
 ## 3.3
 Audit for Compliance with CMS Guidelines. Notwithstanding any other terms and conditions of the
-Agreement, this Attachment, or the ACS, rarer has the same rights as CMS, to review and/or Audit
+Agreement, this Attachment, or the ACS, J) bas the same rights as CMs, to review and/or Audit
 and, to the extent necessary recover payments on any claim for Medicaid Covered Services rendered
 pursuant to this Attachment and the Agreement to ensure compliance with CMS Regulatory Requirements.
 ## 3.4
@@ -2090,18 +2045,18 @@ and/or criminal investigations and/or prosecution or for the purposes of complyi
 requirements regarding the reporting and investigation of fraud and abuse. Records other than medical
 records may be kept in an original paper state or preserved on micromedia or electronic format. Medical
 records shall be maintained in their original form or may be converted to electronic format as long as the
-records are readable and/or legible. As a condition of participation in scorn enrollees and providers
-shall ove or its authorized representative, DIDD, the Office of ‘omptroller of the Treasury,
+records are readable and/or legible. As a condition of participation in wicxer enrollees and providers
+shall give rime or its authorized representative, DIDD, the Office of the Comptroller of the Treasury,
 and any health oversight agency, such as OIG, TBI MFCU, DHHS Office of Inspector General (DHHS OIG),
 and DOJ, and any other authorized state or federal agency, access to their records. Said records shall be
 made available and furnished immediately upon request by the provider in either paper or electronic form, at
 no cost to the requesting party, for fiscal audit, medical audit, medical review, utilization review, and other
 periodic monitoring as well as for administrative, civil and criminal investigations or prosecutions upon the
-request of an authorized representative a or authorized federal, state and Office of
+request of an authorized representative O as or authorized federal, state and Office of
 the Comptroller of the Treasury personnel, including, but not limited to DIDD, the OIG, the TBI MFCU, the
 DHHS OIG and the DOJ. Said records are to be provided by the Provider at no cost to the requesting
 agency; records, books, documents, etc., shall be made immediately available for any authorized federal,
-state agency, including, but not limited —_—_ or its designees, Comptroller of the Treasury, the Office
+state agency, including, but not limited a or its designees, Comptroller of the Treasury, the Office
 of the Inspector General (OIG), the Medicaid Fraud Control Unit (MFCU), the Department of Health and
 Human Services, Office of Inspector General (DHHS, OIG) and the Department of Justice (DOJ) personnel
 during the Attachment period and ten (10) years thereafter, unless an audit, administrative, civil or criminal
@@ -2110,22 +2065,21 @@ prosecutions are yet unresolved in which case records shall be kept until all ta
 completed. Said records are to be provided by Provider at no cost to the requesting agency. During the
 Attachment period, Provider agrees to make these records available at a location in Tennessee as agreed
 upon by the parties subject to the approval State Agency. If the records need to be sent to State Agency or
-a Prove: shall bear the expense of duplication and delivery of the medical records. Prior
+a vice: shall bear the expense of duplication and delivery of the medical records. Prior
 approval of the disposition of Provider's records must be requested and approved by State Agency. Without
-in any way limiting the foregoing, as a condition of receiving any amount of L sicxent or
+in any way limiting the foregoing, as a condition of receiving any amount of . nicxemn or
 TennCarepayment, Provider shall comply with the fraud and abuse requirements set forth in the Contract
 Risk Agreement and the Provider Manual.
 # ARTICLE IV
 COMPLIANCE WITH FEDERAL REGULATORY REQUIREMENTS
-## 44
-Federal Funds. Provider acknowledges that payments Provider receives ton a to provide
+## 4.1
+Federal Funds. Provider acknowledges that payments Provider receives from Laagamne to provide
 Medicaid Covered Services to Medicaid Members are, in whole or part, from federal funds. Therefore,
 Provider and any of his/her/its subcontractors are subject to certain laws that are applicable to individuals
 and entities receiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act
-Of 1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
+of 1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
 Part 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR part
-## 84
-, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education
+84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education
 Amendments of 1972, as amended (20 U.S.C. sections 1681, 1865-1866, and 1783) and any other
 regulations applicable to recipients of federal funds.
 ## 4.2
@@ -2141,51 +2095,48 @@ including, without limitation, any applicable requirements related to the postin
 
 --- Page 35 (OCR) ---
 
-## 43
+## 4.3
 Laboratory Compliance. If Provider renders lab services in the office, it must maintain a valid Clinical
 Laboratory Improvement Amendments ("CLIA") certificate for all laboratory testing sites and comply with
 CLIA regulations at 42 CFR Part 493 for all laboratory testing sites performing Health Services pursuant to
 this Attachment.
-## 44
-Gratuities. Provider certifies that no member or delegate of Congress, nor any elected or appointed official
+44 Gratuities. Provider certifies that no member or delegate of Congress, nor any elected or appointed official
 or employee of the State of Tennessee, the United States General Accounting Office, United States
 Department of Health and Human Services, CMS, or any other federal agency has or will benefit financially
-or materially due to influence in obtaining Agreement. This Agreement may be terminated a at
-the discretion ° a if it is determined that gratuities of any kind were offered to or recel any of
+or materially due to influence in obtaining Agreement. This Agreement may be terminated > at
+the discretion a if it is determined that gratuities of any kind were offered to or received by any of
 the aforementioned officials or employees from the Provider or the Provider's agent or employees.
-## 45
-Reassignment of Payment. Any reassignment of payment must be made in accordance with 42 CFR 447.10
+45 Reassignment of Payment. Any reassignment of payment must be made in accordance with 42 CFR 447.10
 and all tax-reporting entities must execute a billing agent or alternative payee assignment agreement in
-order to assign  mmran! funds/payments. Billing agents and alternative payees are subject to monthly
+order to assign amram funds/payments. Billing agents and alternative payees are subject to monthly
 federal exclusion and debarment screenings while the assignment is ongoing.
 ## 4.6
-Federal 340B Program. If Provider participates in the federal 340B program, Provider shall ove
+Federal 340B Program. If Provider participates in the federal 340B program, Provider shall give samen
 the benefit of Provider's 340B pricing. This requirement shall be enforced in accordance with the guidance
-as provided by
-AT €xclusion and Debarment Screening. Provider shall comply with all federal requirements (42 C.F.R. § 1002)
-on exclusion and debarment screening. Providers that bill and/or receive a funds as the result of
+as provided by aa
+47 Exclusion and Debarment Screening. Provider shall comply with all federal requirements (42 C.F.R. § 1002)
+on exclusion and debarment screening. Providers that bill and/or receive funds as the result of
 this Participation Agreement shall screen its owners and employees against the General Services
 Administration (GSA) System for Award Management (SAM) and the HHS-OIG List of Excluded
 Individuals/Entities (LEIE). In addition, Provider shall screen its owners and employees against the Social
 Security Master Death File. Any unallowable funds made to excluded individuals as full or partial wages
-and/or benefits shall be refunded to and/or obtained by the State anclor dependent upon the
+and/or benefits shall be refunded to and/or obtained by the State andor dependent upon the
 entity that identifies the payment of unallowable funds to excluded individuals.
 ## 4.7.1
 Provider shall screen its employees and contractors initially and on an ongoing, monthly basis to
 determine whether any of them have been excluded from participation in Medicare, Medicaid,
 SCHIP, or any Federal health care programs (as defined in Section 1128B(f) or 1156 of the Social
 Security Act and 42 CFR 455.101) and not employ or contract with an individual or entity that has
-been excluded or debarred. The Provider shall be required to immediately report a any
+been excluded or debarred. The Provider shall be required to immediately report ar any
 exclusion information discovered. Civil monetary penalties may be imposed against providers who
 employ or enter into contracts with excluded individuals or entities to provide items or services to
 HE Members.
-## 48
-Referral Incentive/Kickbacks. Provider agrees to abide by the Medicaid laws, regulations and program
-instructions that apply to the Provider. Provider understands that payment of a claim » is
+48 Referral_Incentive/Kickbacks. Provider agrees to abide by the Medicaid laws, regulations and program
+instructions that apply to the Provider. Provider understands that payment of a claim >) is
 conditioned upon the claim and the underlying transaction complying with such laws, regulations, and
 program instructions (including, but not limited to, the Federal anti-kickback statute and the Stark law), and
 is conditioned on the Provider's compliance with all applicable conditions of participation in Medicaid. The
-Provider understands and agrees that each claim the Provider submits to Lemar constitutes a
+Provider understands and agrees that each claim the Provider submits to  emmaumnd constitutes a
 certification that the Provider has complied with all applicable Medicaid laws, regulations and program
 instructions (including, but not limited to, the Federal anti-kickback statute and the Stark law), in connection
 with such claims and the services provided therein.
@@ -2198,9 +2149,10 @@ times, indemnify and hold harmless the State, its agencies, officers, and employ
 brought against the Indemnified Parties, because of injuries or damages received or sustained by any
 person, persons, or property that is caused by any act or omission of Provider.
 ## 5.1.1
-. The Provider shall indemnify and hold harmless the State of Tennessee and its Indemnified Parties
+The Provider shall indemnify and hold harmless the State of Tennessee and its Indemnified Parties
 from all claims, losses or suits incurred by or brought against the Indemnified Parties as a result of
 the failure of the Provider to comply with the terms of this Attachment. The State of Tennessee
+shall give the Provider written notice of each such claim or suit and full right and opportunity to
 
 
 
@@ -2212,7 +2164,7 @@ the failure of the Provider to comply with the terms of this Attachment. The Sta
 
 conduct Provider's own defense thereof, together with full information and all reasonable
 cooperation; but the State of Tennessee does not hereby accord to the Provider, through its
-attorneys, any right(s) to represent the State of Tennessee or J in any legal matter, such
+attorneys, any right(s) to represent the State of Tennessee or JM in any legal matter, such
 right being governed by TCA 8-6-106.
 ## 5.1.2
 The Provider shall indemnify and hold harmless the Indemnified Parties from all claims or suits
@@ -2223,7 +2175,7 @@ shall satisfy and indemnify the Indemnified Parties for the amount of any final 
 infringement. The State of Tennessee shall give the Provider written notice of each such claim or
 suit and full right and opportunity to conduct the Provider's own defense thereof, together with full
 information and all reasonable cooperation; but the State of Tennessee does not hereby accord to
-the Provider, through its attorneys, any right(s) to represent the State of Tennessee or J
+the Provider, through its attorneys, any right(s) to represent the State of Tennessee or
 in any legal matter, such right being governed by TCA 8-6-106.
 ## 5.1.3
 . While the State of Tennessee will not provide a contractual indemnification to the Provider; such
@@ -2235,11 +2187,11 @@ under the Agreement.
 ## 5.2
 Medicaid Hold Harmless. Provider shall accept payment or appropriate denial made by Amergroup (or, if
 applicable, payment by that is supplementary to the member's third party payer) plus the
-amount of any applicable cost sharing responsibilities, as payment in full for Medicaid Covered
+amount of any cic os sharing responsibilities, as payment in full for Medicaid Covered
 Services provided to Medicaid Members. Provider agrees that in no event, including, but not limited to non-
-payment insolvency, or breach of this Attachment, shall Provider solicit or
+payment by Lr ETTETTETETICSCIRTT insolvency, or breach of this Attachment, shall Provider solicit or
 accept any surety or guarantee of payment from a Medicaid Member for Medicaid Covered Services in
-excess of the amount of applicable cost sharing responsibilities. Provider agrees it shall not seek
+excess of the amount of applicable a cost sharing responsibilities. Provider agrees it shall not seek
 payment from the Medicaid Member, his/her representative or the State for any Health Services rendered
 pursuant to this Attachment, with the exception of Cost Shares, if any, or payment for non-Medicaid Covered
 Services otherwise requested by, and provided to, the Medicaid Member if the Medicaid Member agrees in
@@ -2248,29 +2200,29 @@ parent(s), guardian, spouse or any other legally responsible person of the Membe
 of agreement must specifically state the admissions, services or procedures that are non-Medicaid Covered
 Services and the approximate amount of out of pocket expense to be incurred by the Medicaid Member.
 Provider agrees not to bill Medicaid Members for missed appointments while enrolled in the Medicaid
-Programs. This provision shall remain in effect even in the event I becomes insolvent.
+Programs. This provision shall remain in effect even in the event J becomes insolvent.
 ## 5.3
 State Agency Government Contract. Provider shall comply with the terms applicable to providers set forth in
-the Government Contract, including incorporated documents, between a and a which
-applicable terms are incorporated herein by reference. NNN agrees to provide Provider with a
+the Government Contract, including incorporated documents, between aac and Sarnia which
+applicable terms are incorporated herein by reference. JM agrees to provide Provider with a
 description of the applicable terms upon request. For the purposes of this Attachment all references to
-Government Contract shall mean and refer to = Contractor Risk Agreement ("CRA") regarding
-requirements for operation and administration of the managed care [EJ program, including CHOICES
+Government Contract shall mean and refer to a Contractor Risk Agreement ("CRA") regarding
+requirements for operation and administration of the managed care | program, including CHOICES
 and I/DD MLTSS Programs.
 ## 5.4
 Performance Within the U.S. Provider agrees that all services to be performed herein shall be performed in
 the United States of America. Breach, or anticipated breach, of the foregoing shall be a material breach of
 this Attachment and, without limitation of remedies, shall be cause for immediate termination of the
 Agreement and this Attachment.
-## 55
-No Payment Outside the United States. Provider agrees ‘ha shall not provide any payments for
+## 5.5
+No Payment Outside the United States. Provider agrees hat shall not provide any payments for
 items or services provided under the Agreement to any financial institution or entity located outside the
 United States of America.
 ## 5.6
 Overpayments. Notwithstanding Provider's obligation to return an overpayment upon notification from
-camimrarr Provider must comply with BRE policies and procedures regarding requirement to report,
-including written notification, provider in refunds of overpayments to J ond he
-Office of Program Integrity (OPI) and, when it is applicable, returning overpayments to in
+InTETL Provider must comply with BR olcies and procedures regarding requirement to report,
+Including written notification, provider initated refunds of overpayments to J and the
+Office of Program Integrity (OPI) and, when it is applicable, returning overpayments to within
 
 
 
@@ -2283,12 +2235,12 @@ Office of Program Integrity (OPI) and, when it is applicable, returning overpaym
 sixty (60) days from the date the overpayment is identified. Overpayments that are not returned within sixty
 (60) days from the date the overpayment was identified may be a violation of state or federal law.
 ## 5.7
-Use of Independent Review. Provider shall have the right to avail itself of the Provider
+Use_of Independent Review. Provider shall have the right to avail itself of the ee
 Independent Review of Disputed Claims process to resolve claims denied in whole or in part by
 as provided at TCA 56-32-126(b).
 ## 5.8
 Care to Pregnant Women. Any unreasonable delay in providing care to a pregnant Medicaid Member
-seeking prenatal care will be considered a material breach of this Attachment. "Unreasonable delay" in
+seeking prenatal care will be considered a material breach of this Attachment. “Unreasonable delay” in
 providing care for pregnant Medicaid Members shall mean the following: (a) for Medicaid Members in their
 first trimester of pregnancy, in excess of three (3) weeks from the date of the Medicaid Member's request for
 regular appointments and 48 hours from the date of the Medicaid Member's request for urgent care; and (b)
@@ -2296,29 +2248,29 @@ for Medicaid Members past their first trimester of pregnancy, on the day they ar
 first prenatal care appointment shall occur no later than fifteen (15) calendar days from the day they are
 determined to be eligible.
 ## 5.9
-No Conflict with Government Contract. If any requirement in this Attachment is determined to
+No Conflict with Government Contract. If any requirement in this Attachment is determined > to
 conflict with the Government Contract provision ), such requirement shall be deemed null and void, but all
 other provisions of this Attachment shall remain in full force and effect.
 ## 5.10
 Care Coordination for CHOICES Members. Provider shall facilitate notification of the Medicaid Member's
-care coordinator by notifying the amanpsian in accordance with the — processes, as
+care coordinator by notifying the manana in accordance with the Lea processes, as
 expeditiously as warranted by the Medicaid Member's circumstances, of any known significant changes in
 the Medicaid Member's condition or care, hospitalizations, or recommendations for additional services.
 ## 5.11
 Cooperation with CHOICES Nursing Facility Diversion Plan. If Provider is a hospital (including a psychiatric
-hospital), Provider shall cooperate vit in developing and implementing protocols as part of
-nursing facility diversion plan, which shall include, at a minimum, the hospital's obligation to
-promptly notify — upon admission of an Medicaid Member regardless of payor source for the
+hospital), Provider shall cooperate with in developing and implementing protocols as part of
+a nursing facility diversion plan, which shall include, at a minimum, the hospital's obligation to
+promptly notify  ammicarn upon admission of an Medicaid Member regardless of payor source for the
 hospitalization; how the hospital will identify members who may need home health, private duty nursing,
-nursing facility, or CHOICES HCBS upon discharge, and how the hospital will once: in the
+nursing facility, or CHOICES HCBS upon discharge, and how the hospital will engage | in the
 discharge planning process to ensure that Medicaid Members receive the most appropriate and cost-
 effective Medically Necessary services upon discharge.
 ## 5.12
-Ethical and Religious Directives ("ERDs"). Should an issue arise at the time of service, the Provider shall
+Ethical and Religious Directives (“ERDs"). Should an issue arise at the time of service, the Provider shall
 inform members hat has additional information on providers and procedures that are
-covert The Provider is not required to make specific recommendations or referrals.
+covered by The Provider is not required to make specific recommendations or referrals.
 ## 5.13
-Pharmacy Services. Provider shall coordinate wt Pharmacy Benefit Management (PBM)
+Pharmacy Services. Provider shall coordinate with J) Pharmacy Benefit Management (PBM)
 regarding authorization and payment for pharmacy services.
 ## 5.14
 Reporting Abuse and Neglect. Provider shall report suspected abuse, neglect, and exploitation of adults in
@@ -2328,17 +2280,17 @@ accordance with TCA 37-1-403 and TCA 37-1-605.
 Encounter Data Requirements. Provider shall submit complete and accurate utilization and/or encounter
 data for any services provided that are reimbursed under a global, e.g., global procedures codes for
 obstetric care, or capitated payment arrangement. Provider shall submit utilization and/or encounter data as
-specified by arrest in a timely manner to support individual services provided, so as to ensure
-= lity to Submit encounter data a that meets the same standards of completeness
+specified by ago in a timely manner to support individual services provided, so as to ensure
+ERSTE lity t0 Submit encounter data Wh saa that meets the same standards of completeness
 and accuracy as required for proper adjudication of fee-for-service claims.
 ## 5.16
 Provider Change of Ownership. In the event Provider has a change of ownership, the new owner/provider
-shall provide to [| a bill of sale (or equivalent) and documentation from the appropriate State of
+shall provide to ma a bill of sale (or equivalent) and documentation from the appropriate State of
 Tennessee licensing entity stating that the new owner is allowed to operate under the existing license until
 such time as a new license is issued. shall issue a new Medicaid ID based on this provider-
-submitted documentation, and SI reimburse the new provider based on rates provided by
-= to a on the next weekly rate file following Tenncare’s receipt of the new provider's
-iocumentation. Not standing this foregoing, any assignment of the Attachment shall be consistent with
+submitted documentation, and Ss reimburse the new provider based on rates provided by
+a to Le ramir on the next weekly rate file following Tenncare’s receipt of the new provider's
+locumentation. Notwithstanding this foregoing, any assignment of the Attachment shall be consistent with
 the Assignment provision of the Agreement.
 
 
@@ -2351,35 +2303,35 @@ the Assignment provision of the Agreement.
 
 ## 5.17
 Permitted Sanctions. In the event Provider fails to meet any performance standard or other requirement or
-rule of the amma or any standard or rule existing under applicable law pertaining to the services
-provided hereunder including, without limitation, Section 1200-13-13-.08 of TennCare's Rules and
+tule of the arc or any standard or rule existing under applicable law pertaining to the services
+provided hereunder including, without limitation, Section 1200-13-13-.08 of TennCare’s Rules and
 regulations, or fails to perform its obligations hereunder in accordance with the terms of this Attachment,
-=_— may assess liquidated damages, sanctions or reductions in payment in an amount equal to any
-penalty assessed by — or under applicable law, oars due to such performance
+a may assess liquidated damages, sanctions or reductions in payment in an amount equal to any
+penalty assessed by [MJ or under applicable law, against | due to such performance
 standard not having been met or due to the breach of such requirement, rule or obligation under this
 Attachment. Liquidated damages, sanctions or payment reductions for selected failures of performance will
 be specifically set forth in the provider manual.
 ## 5.18
 Non-Discrimination. In addition to the Provider Non-discrimination provision of the Agreement. No person on
 the grounds of handicap, and/or disability, age, race, color, religion, sex, national origin, or any other
-classifications protected under federal or state laws shall be excluded from participation in, except as
+Classifications protected under federal or state laws shall be excluded from participation in, except as
 specified in Section A.2.3.5, of the Government Contract, or be denied benefits of, or be otherwise subjected
 to discrimination in the performance of Provider's obligation under its agreement with or in the
-employment practices of the Provider. Provider will cooperate vit and/or CMS, ant
-as applicable, during discrimination complaint investigations and report discrimination complaints an
-allegations oi” including allegations of discrimination as set forth in the CRA, i.e., any instance of
+employment practices of the Provider. Provider will cooperate vit and/or CMS, an
+as applicable, during discrimination complaint investigations and report discrimination complaints ani
+allegations oii” including allegations of discrimination as set forth in the CRA, i.e., any instance of
 disrespectful or inappropriate communication, e.g., humiliation harassment, threats of punishment or
 deprivation, intimidation or demeaning or derogatory communication (vocal, written, gestures) or any other
 acts pertaining to a person supported that is not directed to or within eyesight or audible range of the person
 supported and does not meet the definition of emotional or psychological abuse. Provider will assist any
 Medicaid Covered Person in obtaining discrimination complaint forms and contact information for
-= nondiscrimination office. Provider shall, upon request, show proof of such nondiscrimination
+ET nondiscrimination office. Provider shall, upon request, show proof of such nondiscrimination
 compliance and shall post notices of nondiscrimination in conspicuous places available to all employees,
 HE @pplicants, and enrollees.
 ## 5.19
-Records Availability and Retention. In addition to the Access to and Requests for Provider
-Records provision of the Agreement, Provider shall immediately make available i
-or its authorized representatives, federal or state personal, including but not limited to, a ,
+Records Availability and Retention. In addition to the Laver Access to and Requests for Provider
+Records provision of the Agreement, Provider shall immediately make available to a
+or its authorized representatives, federal or state personal, including but not limited to, : :
 DOJ and the DHHS OIG, and Office of the Comptroller of the Treasury ("Representatives"), in a usable
 form, any or all records, whether medical or financial, related to Provider's activities undertaken pursuant to
 this Attachment and the services provided to Medicaid Members. Provider shall have an adequate record
@@ -2393,24 +2345,25 @@ and administrative, civil or criminal investigations and prosecutions).
 Provider shall make all records (including, but not limited to, financial and medical records)
 pertaining to services rendered under this Attachment available at Provider's expense for
 administrative, civil and/or criminal review, audit, evaluation, inspection, investigation and/or
-prosecution by authorized federal and state personnel, including an‘: Representatives
-on or any duly authorized state or federal designee. Access will be either through on-
+prosecution by authorized federal and state personnel, including ae Representatives
+and or any duly authorized state or federal designee. Access will be either through on-
 site review of records or mailed copies at TennCare's or the State Agency's discretion and during
 normal business hours, unless there are exigent circumstances, in which case access will be at any
 time at TennCare's or the State Agency's discretion Requested records shall be provided at no
-expense to Lanearn or State Agency, its Representative, em or any duly authorized
+expense to amicam or State Agency, its Representative, eM or any duly authorized
 state or federal designee. Paper records must be signed by rendering provider; electronic records
 must have capability of affixing an electronic signature to notes added by rendering provider.
 ## 5.19.2
 Provider shall make all records, including, but not limited to, financial, administrative and medical
 records available to the State Agency, its Representatives, or any duly authorized
 state or federal designee. The State Agency, its Representatives, or any duly
-authorized state or federal designee or entity shall have the right to evaluat rough inspection,
+authorized state or federal designee or entity shall have the right to evaluate through inspection,
 evaluation, review or request, whether announced or unannounced, or other means, any record
 pertinent to this Attachment, including but not limited to medical records, billing records, financial
 records, and/or any records related to services rendered, quality, appropriateness and timeliness of
 services and/or any records relevant to an administrative, civil and/or criminal investigation and/or
 prosecution, and such evaluation, inspection, review or request, when performed or requested,
+shall be performed with the immediate cooperation of the Provider. Such records are to be
 
 
 
@@ -2422,13 +2375,13 @@ prosecution, and such evaluation, inspection, review or request, when performed 
 
 provided at no charge to the requesting agency. Upon request, the Provider shall assist in such
 reviews, and provide complete copies of medical records. Any authorized federal or State
-government agency, Larson its Representative, = or any duly authorized state or
+government agency, earecmirc its Representative, rare or any duly authorized state or
 federal designee, may use these records to carry out their authorized duties, reviews, audits,
 administrative, civil and/or criminal investigations and/or prosecutions.
 ## 5.19.3
 and Provider recognize that in the event of termination of the CRA between
 and for any reason(s) described therein, Provider shall immediately make
-avail , 10 or its designated representative, in a usable form, any or all records,
+available, to or its designated representative, in a usable form, any or all records,
 whether medical or financial, related to the provider's activities undertaken pursuant to this
 Agreement. The provision of such records shall be at no expense to
 ## 5.19.4
@@ -2436,24 +2389,24 @@ Provider acknowledges that HIPAA regulations do not bar disclosure of protected 
 information (PHI) to health oversight agencies, including, but not limited to, the Comptroller of the
 Treasury, OIG, MFCU, DHHS OIG and DOJ.
 ## 5.19.5
-amamrent State Agency, CMS, or their Representatives shall, at all reasonable times, have the
+arama! State Agency, CMS, or their Representatives shall, at all reasonable times, have the
 right to enter into the Provider's premises, or such other places where duties of this Attachment are
 being performed, to inspect, monitor, or otherwise evaluate including periodic audits of the work
 being performed. The Provider shall supply reasonable access to all facilities and assistance for
-federal, EMM or State Agency's representatives.
+federal, J or State Agency's representatives.
 ## 5.20
 Medical Records. Provider shall maintain medical records in a manner that is current, detailed and
 organized, and that permits effective and confidential patient care and quality review, administrative, civil
 and/or criminal investigations and/or prosecutions.
 ## 5.20.1
 Provider shall have medical record keeping practices that are consistent with 42 CFR 456 and
-current NCQA standards for medical record documentation, in accordance i policies
-and procedures regarding confidentiality of medical records, medical recor ‘umentation
+current NCQA standards for medical record documentation, in accordance with amino policies
+and procedures regarding confidentiality of medical records, medical record documentation
 standards and standards for the availability of medical records. Provider shall obtain all necessary
 releases, consents and authorizations from Medicaid Members with respect to their medical
-records to permit Lester access to such records. Records related to appeals shall be
-forwarded within the timeframes specified in the appeal process section of the provider manual.
-Such requests made by ES o' I shall not be unreasonable.
+records to permit Le ara access to such records. Records related to appeals shall be
+forwarded within the timeirames specified in the appeal process section of the provider manual.
+Such requests made by J o' IJ shall not be unreasonable.
 ## 5.20.2
 Medical records shall be maintained and be available at the site where Medicaid Covered Services
 are rendered. Medicaid Members (including individuals age 16 or older for behavioral health
@@ -2491,33 +2444,33 @@ prosecutions).
 --- Page 40 (OCR) ---
 
 ## 5.21
-Monitoring. Provider acknowledges that ; may monitor the quality of services delivered by
+Monitoring. Provider acknowledges that | may monitor the quality of services delivered by
 Provider hereunder and may initiate corrective action when necessary to improve quality of care in
 accordance with that level of medical or behavioral health care which is recognized as acceptable
 professional practice in the respective community in which Provider practices and/or the standards
-established »y Provider shall comply with corrective action plans initiated by =
-Provider ackni iges has the right to monitor Medicaid Covered Services render
-Provider to Medicaid Members in accordance with this Attachment anc Policies and procedures
+established > Provider shall comply with corrective action plans initiated by crema
+Provider acknowledges | has the right to monitor Medicaid Covered Services rendered by
+Provider to Medicaid Members in accordance with this Attachment an Policies and procedures
 that are made known to Provider, and that such monitoring may be announced or unannounced. Provider
 shall participate and cooperate in any internal and external QM/QI, monitoring, utilization review, peer review
-and/or appeal procedures established by EE nc/or
+and/or appeal procedures established by i and/or aay
 ## 5.22
-Senices 7 I Chicien, Provider shall not encourage or suggest in any way that State Agency
+Services to a Children. Provider shall not encourage or suggest in any way that State Agency
 children be placed in state custody in order to receive medical, behavioral, or long-term care services
 covered by the Medicaid Program.
 ## 5.23
 Non-Covered Services. Provider acknowleges that any services not listed in the State of Tennessee
-—_—— Program Rules and Regulations Chapter 1200-13-13-.04 (or 1200-13-14-.04, as applicable) and
-Government Contract at Section A.2.6 BENEFITS/SERVICES REQUIREMENTS AND LIMITS or
+wen Program Rules and Regulations Chapter 1200-13-13-.04 (or 1200-13-14-.04, as applicable) and
+ie Government Contract at Section A.2.6 BENEFITS/SERVICES REQUIREMENTS AND LIMITS or
 Bureau policies and procedures as "Covered Services" must receive prior approval in writing by
 and CMS.
 ## 5.24
-Reports, Provider Manual and Member ca mm shall provide to Provider such utilization
-profiles or other reports, if any, that Laurson IS required to provide to Provider under Regulatory
-Requirements. In addition, shall provide its Tennessee Provider Directory to Provider. Pursuant
+Reports, Provider Manual and Member Handbook. Sa’ shall provide to Provider such utilization
+profiles or other reports, if any, that IRE iS required to provide to Provider under Regulatory
+Requirements. In — shall provide its Tennessee Provider Directory to Provider. Pursuant
 to TCA 63-51-110, posts an updated provider network directory on its website every twenty-one
-(21) business days. Provider shall timely submit all reports and clinical information required A
-osama! shall provide a copy of the applicable provider manual and Member Handbook, whether by Its
+(21) business days. Provider shall timely submit all reports and clinical information required a
+ora shall provide a copy of the applicable provider manual and Member Handbook, whether by its
 website or otherwise.
 ## 5.25
 Conflict of Interest and Lobbying. Provider provides assurance that no part of the total Agreement amount
@@ -2527,14 +2480,14 @@ or any immediate family member of a state or federal officer or employee of the 
 wages, compensation, or gifts in exchange for acting as officer, agent, employee, subcontractor, or
 consultant to the Provider in connection with any work contemplated or performed relative to this Agreement
 unless otherwise disclosed to the Commissioner, Tennessee Department of Finance and Administration. For
-purposes of this section, “immediate family member" shall mean a spouse or minor child(ren) living in the
+purposes of this section, "immediate family member" shall mean a spouse or minor child(ren) living in the
 household. Provider shall ensure that it maintains adequate internal controls to detect and prevent conflicts
 of interest from occurring at all levels of its organization. Provider further provides assurance that no part of
 the total Agreement amount received by Provider have been used, directly or indirectly, for any Lobbying
 activities.
 ## 5.26
 Provider-Preventable Conditions. Provider understands and agrees that no payment will be made to
-Provider a for any provider-preventable conditions which have been identified > or
+Provider for any provider-preventable conditions which have been identified > or
 pursuant to Regulatory Requirements. In addition, Provider shall identify provider-preventable conditions
 that are associated with claims for services provided under the Medicaid Program hereunder or with courses
 of treatment furnished to Medicaid Members for which payment under the Medicaid Program would
@@ -2547,11 +2500,12 @@ in alternative formats for any Medicaid Member and/or Medicaid Member's represen
 services including, but not limited to, Medicaid Members with limited English proficiency and individuals with
 disabilities or who are hearing impaired. Provider shall provide interpreter and translation services, and
 employ appropriate auxiliary aids and services, free of charge to Medicaid Members and furnish a copy of
-such procedures to JNJ upon request.
+such procedures to upon request.
 ## 5.28
-Capitation Arrangement. In the event Provider ond enter into a capitated payment arrangement
+Capitation Arrangement. In the event Provider and ere enter into a capitated payment arrangement
 for Medicaid Covered Services and Provider becomes aware for any reason that he or she is not entitled to
-a Capitation payment for a particular enrollee (a Medicaid Member dies, for example), the Provider shall
+a capitation payment for a particular enrollee (a Medicaid Member dies, for example), the Provider shall
+immediately notify both i and i by certified mail, return receipt requested.
 
 
 
@@ -2562,10 +2516,10 @@ a Capitation payment for a particular enrollee (a Medicaid Member dies, for exam
 --- Page 41 (OCR) ---
 
 ## 5.29
-Alternative Claims Processing. In the event ‘hot coon: unable to timely process and
-reimburse Claims and eu to sul rovider Claims Tor reimbursement to an alternative
+Alternative Claims Processing. In the event ‘hat dcoms a unable to timely process and
+reimburse Claims and requires Tora to submit Provider Claims for reimbursement to an alternative
 claims processor to ensure timely reimbursement, Provider shall agree to accept reimbursement at
-HER Contracted reimbursement rate or the rate established by [J whichever is greater.
+HEE contracted reimbursement rate or the rate established by J whichever is greater.
 ## 5.30
 Informal Resolution of Disputes. Notwithstanding the Dispute Resolution and Arbitration provisions of the
 Agreement, in the event of a dispute arising out of this Attachment that is not resolved and Provider has
@@ -2616,12 +2570,13 @@ insurance is for the benefit of the Provider only and provides no indemnificatio
 whatsoever. The Provider agrees to produce proof of adequate professional liability insurance for
 the Provider's professional employees who perform any professional services under this
 Agreement and are not covered by the Federal Tort Claims Act. To the extent required by
-Regulatory Requirements, Provider shall maintain workers' compensation insurance for Provider's
-employees. In the event that Provider loses its status as an "employee" pursuant to Section 224(g)
+Regulatory Requirements, Provider shall maintain workers’ compensation insurance for Provider's
+employees. In the event that Provider loses its status as an “employee” pursuant to Section 224(g)
 of the PHS, Provider shall maintain professional liability insurance, including maintaining such tail
 or prior acts coverage necessary to avoid any gap in coverage for claims arising from incidents
 occurring during the term of this Agreement. Such insurance shall (i) be obtained from a carrier
 authorized to issue coverage in the jurisdiction in which Provider operates, except for permitted
+self-insurance; and (ii) maintain minimum policy limits equal to $1,000,000.00 per occurrence and
 
 
 
@@ -2632,7 +2587,7 @@ authorized to issue coverage in the jurisdiction in which Provider operates, exc
 --- Page 42 (OCR) ---
 
 $3,000,000.00 in the aggregate, or such other coverage amounts as prescribed by applicable
-Regulatory Requirements and consented to aa Provider shall maintain general liability
+Regulatory Requirements and consented to > Provider shall maintain general liability
 insurance covering Provider's premises, insuring Provider against any claim of loss, liability, or
 damage caused by or arising out of the condition or alleged condition of said premises, or the
 furniture, fixtures, appliances, or equipment located therein, and if Provider operates motor vehicles
@@ -2646,14 +2601,14 @@ TERMINATION
 Termination of Medicaid Participation Attachment. Either party may terminate this Attachment without cause
 by giving at least one hundred eighty (180) days prior written notice of termination to the other party.
 ## 6.2
-Termination of Government Contract. If a Government Contract between bas and =
+Termination of Government Contract. If a Government Contract between ager and mime
 terminates, expires or ends for any reason or is modified to eliminate a Medicaid Program, this Attachment
 shall have no further force or effect with respect to the applicable Medicaid Program. In the event of said
 termination, Provider shall immediately make available a or its designees, in a usable form, any
 or all records, whether medical or financial, related to Provider's activities undertaken pursuant to the
-Government Contract. The provision of such records shall be at no expense tof or its designees.
+Government Contract. The provision of such records shall be at no expense to J or its designees.
 ## 6.3
-Effect_of Termination. Following termination of this Attachment, the remainder of the Agreement shall
+Effect of Termination. Following termination of this Attachment, the remainder of the Agreement shall
 continue in full force and effect, if applicable. In addition, upon termination of this Attachment but subject to
 the Continuation of Care provision(s) and applicable Regulatory Requirements, any references to services,
 reimbursement, or participation in Networks related to the Medicaid Program are hereby terminated in full
@@ -2664,8 +2619,8 @@ GENERAL PROVISIONS
 Regulatory Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall
 be automatically modified to conform to required changes to Regulatory Requirements related to Medicaid
 Programs without the necessity of executing written amendments. TennCarereserves the right to direct
-— to terminate or modify this Attachment when | determines it to be in the best interest of
-State of Tennessee.
+a to terminate or modify this Attachment when ij determines it to be in the best interest of
+e State of Tennessee.
 ## 7.2
 Inconsistencies. In the event of an inconsistency between terms and conditions of this Attachment and the
 terms and conditions as set forth in the Agreement, the terms and conditions of this Attachment shall
@@ -2676,22 +2631,21 @@ Disclosure Requirements. In accordance with Regulatory Requirements, Provider ag
 complete ownership, control and relationship information ("Disclosures") in accordance with 42 CFR
 ## 455.100
 through 455.106. Provider further agrees to notify within fourteen (14) days of any
-changes to the Disclosures. Providers that bill and/or a funds as the result of the
-Agreement/contract shall submit routine disclosures in accordance imeirames specified in 42 CFR Part
-## 455
-, Subpart B, a and = policies and procedures, including at the time of initial
+changes to the Disclosures. Providers that bill and/or receive funds as the result of the
+Agreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part
+455, Subpart B, a and a policies and procedures, including at the time of initial
 contracting, contract renewal, at any time there is a change to any of the information on the disclosure form
 or disclosing entity, at least once every three (3) years, and at any time upon request. Providers may satisfy
 this requirement may be satisfied through TennCare's provider registration process. Failure to provide
 Disclosures as required under Regulatory Requirements shall be deemed a material breach of this
 Attachment and the Agreement.
-## 74
-Subcontracting Requirements. In addition to the Use of Subcontractors provision in the Agreement, Provider
-shall obtain written approval from amare prior to execution of all Subcontracts for the provision of
-services —_— Medicaid Members, subject to JINN submission and receipt of approval of
-such Subcontracts the Tennessee Department of Commerce and Insurance. The word "subcontract"
+74 Subcontracting Requirements. In addition to the Use of Subcontractors provision in the Agreement, Provider
+shall obtain written approval from a prior to execution of all Subcontracts for the provision of
+services —_— Medicaid Members, subject to [J submission and receipt of approval of
+such Subcontracts by the Tennessee Department of Commerce and Insurance. The word "subcontract"
 here has its usual legal meaning not the defintion used in the CRA. Failure by Provider to obtain written
-approval from §MMMMMU_sfor a Subcontract may lead to the contract being declared null and voidby
+approval from mers for a Subcontract may lead to the contract being declared null and voidby
+WE Claims submitted by the Subcontractor or by Provider for services furnished by the unapproved
 
 
 
@@ -2703,7 +2657,7 @@ approval from §MMMMMU_sfor a Subcontract may lead to the contract being declare
 
 subcontractor are considered to be improper payments and may be considered false claims. Any such
 improper payments may be subject to action under federal and state false claims statutes or be subject to be
-recouped by EE and/or [ as overpayment.
+recouped by EE and/or I as overpayment.
 ## 7.5
 Survival of Attachment. Provider further agrees that: (1) the hold harmless and continuation of care sections
 shall survive the termination of this Attachment or disenrollment of the Medicaid Member; and (2) these
@@ -3170,11 +3124,9 @@ Federal Funds. Provider acknowledges that payments Provider receives from to pro
 Covered Services to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of
 his/her/its subcontractors are subject to certain Regulatory Requirements that are applicable to Members
 and entities receiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of
-## 1964
-as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
+1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
 Part 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR Part
-## 84
-, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations
+84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations
 applicable to recipients of federal funds.
 # ARTICLE X
 MARKETING
@@ -3358,8 +3310,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
 Policies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the
 Coded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,
 shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes.
@@ -3515,36 +3466,38 @@ Services to Members to be performed by a Specialty Physician only in accordance 
 SPECIFIC REIMBURSEMENT TERMS
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the == Medicare Advantage
-Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The = Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
 Program: Medicare Advantage CSNP
 Medicare Advantage Dual Plan
 Medicare Advantage FIDE SNP
 Medicare Advantage HMO
 Medicare Advantage ISNP
-Medicare Ad tage PPO
+Medicare Advantage PPO
 Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
-Services Codes Schedule multiplied by one
-hundred percent (100%)
-Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Se
+hundred percent (100%
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical Per Unit
 Codes Laboratory Fee Schedule
 multiplied by sixty five
-percent (65%)
+percent (65%
 Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
 Prosthetics, Orthotics, and Codes Equipment,
-‘Supplies Prosthetics/Orthotics, and
+Supplies Prosthetics/Orthotics, and
 Supplies Fee Schedule
 multiplied by sixty five
-percent (65%)
-Biologicals Codes Schedule multiplied by one
-hundred percent (100%)
+percent (65%
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit
+Ear aes eee
+hundred percent (100%
 Program: Medicare Advantage CSNP
 Medicare Advantage Dual Plan
 Medicare Advantage FIDE SNP
-rigs PO ey
+Medicare Advantage HMO
+Moadicare Advantane ICND
 
 
 
@@ -3557,19 +3510,19 @@ rigs PO ey
 Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
 Services Codes Schedule multiplied by one
 hundred percent (100%
-Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical Per Unit
 Codes Laboratory Fee Schedule
 multiplied by sixty five
-percent (65%)
+percent (65%
 Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
 Prosthetics, Orthotics, and Codes Equipment,
-‘Supplies Prosthetics/Orthotics, and
+Supplies Prosthetics/Orthotics, and
 Supplies Fee Schedule
 multiplied by sixty five
-percent (65%)
+percent (65%
 Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit
 Biologicals Codes Schedule multiplied by one
-hundred percent (100%)
+hundred percent (100%
 Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
 percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
@@ -3578,26 +3531,26 @@ refer to the per claim payment amounts that CMS and a Medicare beneficiary would
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
 process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-a notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
-Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
+remmnras notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
 same percentage amount as payment is changed by CMS to Provider.
-HEE shall not compensate Provider for the bad debts of its Medicare Advantage members.
-= and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
-lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
-a shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
+HE shal! not compensate Provider for the bad debts of its Medicare Advantage members.
+a and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
+education, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+eran shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
 to Provider based on a settlement.
 HEE shall compensate Provider using the relevant payment system logic and data (for example: calculations,
 payment groupings, or federal and provider-specific factors) that are available in Amerigroup's systems at the time
-= processes the Provider's Claim. esicrar shall not retroactively adjust Provider's compensation for
+——_ processes the Provider's Claim. Le ncaa shall not retroactively adjust Provider's compensation for
 previously processed Claims to reconcile any difference with the payment system logic and data being used by
-Medicare on the same processing date for the same date of service. In addition, |; shall not retroactively
+Medicare on the same processing date for the same date of service. In addition, ma shall not retroactively
 adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
 to payment system logic and data. Provider shall not request adjustments solely based on these differences,
 updates, or changes.
 MEDICAID
-For purposes of determining ie Rate, the total reimbursement amount that Provider and a
+For purposes of determining the exrmmntaa Rate, the total reimbursement amount that Provider and  arsiemam
 have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on
 the date of service shall be as set forth below.
 Medicaid Plan - TN TennCare CoverKids
@@ -3610,14 +3563,13 @@ Medicaid Plan - TN TennCare CoverKids
 
 --- Page 59 (OCR) ---
 
-Professional Services Applicable CPT/HCPCS. 90% of the 2020 Per Service
-Codes == Professional
-et Master Fee
+Professional Services Applicable CPT/HCPCS 90% of the 2020 Per Service
+Codes bis | Professional
+arket Master Fee
 Schedule
 Preventive Medicine CPT Codes 99381-99397, 90% of the 2020 Per Service
-## 99173
-, 92551, 96110 = Professional
-larket Master Fee
+99173, 92551, 96110 a Professional
+Market Master Fee
 Schedule
 Codes Laboratory Fee Schedule
 Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Service
@@ -3627,12 +3579,11 @@ Supplies Fee Schedule
 multiplied by 65%
 Drugs and Biologicals Applicable Medicare Drug Fee Per Service
 CPT/HCPCS/NDC Codes Schedule multiplied by
-## 106
-%
+106%
 Payments specified as "TennCare CoverKids Fee Schedule" refer to the State of Tennessee, Division of TennCare
-and Comptroller of the Treasurer rates applicable to Coverkids Providers. J will update the applicable rates
+and Comptroller of the Treasurer rates applicable to Coverkids Providers. [will update the applicable rates
 upon receipt of notice of the effective date of such changes.
-In accordance with TennCare Program Contractor Risk Agreement (CRA) section pos shall not
+In accordance with TennCare Program Contractor Risk Agreement (CRA) section pepe ___| shall not
 reimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current
 Medicare rates or inflation indexes unless otherwise allowed by TennCare.
 Any services not listed on the Fee Schedule are not reimbursable.
@@ -3641,24 +3592,24 @@ BMAT HO014HG $310.00 Per Diem
 Induction/Stabilization
 Phase (with therapy same
 day
-(with therapy same da\
+with therapy same da’
 BMAT HO033HG $190.00 Per Diem
-‘Stabilization/Maintenance
+Stabilization/Maintenance
 Phase (no therapy same
-day
+da)
 Compensation for the above services will be an amount equal to the lesser of Eligible Charges less any applicable
 co-payments or deductibles.
-In accordance with TennCare Program Contractor Risk Agreement (CRA) section A.2.13.2.2, = shall not
-reimburse providers based on automatic escalators or linkages to other methodologies that escalate st as current
+In accordance with TennCare Program Contractor Risk Agreement (CRA) section a shall not
+reimburse providers based on automatic escalators or linkages to other methodologies that late such as current
 Medicare rates or inflation indexes unless otherwise allowed by TennCare.
-Medicaid Affiliate Services. Provider acknowledges is affiliated with health plans that offer similar
+Medicaid Affiliate Services. Provider acknowledges ‘a is affiliated with health plans that offer similar
 benefits under similar programs as the programs covered hereunder ("Medicaid Affiliates"). The parties acknowledge
-that Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to
+that Provider is not a Participating Provider in Medicaid Affiliates Network for purposes of rendering services to
 Medicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to
-Regulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's
-state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
+Regulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate’s
+State program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
 Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
-for which a Medicaid Member is entitled to self-refer. Upon request, — shall coordinate and provide
+for which a Medicaid Member is entitled to self-refer. Upon request, bn shall coordinate and provide
 information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
 
 

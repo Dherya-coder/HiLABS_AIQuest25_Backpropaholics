@@ -7,15 +7,17 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import uvicorn
 from routes.chart_routes import router as charts_router
+from routes.chatbot_routes import router as chatbot_router
 
 app = FastAPI(
     title="Contract Processing Backend",
-    description="Orchestrates PDF parsing, chunking, embedding, and storage",
+    description="Orchestrates PDF parsing, chunking, embedding, and storage with AI chatbot",
     version="1.0.0"
 )
 
 # Include routers
 app.include_router(charts_router)
+app.include_router(chatbot_router)
 
 # Configuration
 CHROMADB_URL = os.getenv("CHROMADB_URL", "http://chromadb:8000")
@@ -61,7 +63,7 @@ async def root():
         "service": "Contract Processing Backend",
         "version": "1.0.0",
         "status": "running",
-        "endpoints": ["/health", "/upload-pdf", "/embed-clauses", "/query", "/status/{file_id}", "/files"]
+        "endpoints": ["/health", "/upload-pdf", "/embed-clauses", "/query", "/status/{file_id}", "/files", "/chatbot/chat", "/chatbot/health"]
     }
 
 @app.post("/upload-pdf", response_model=UploadResponse)

@@ -807,8 +807,7 @@ In addition to the foregoing, Provider warrants and represents that at the time 
 Agreement, neither he/she/it nor any of his/her/its employees, contractors, subcontractors,
 principals or agents are ineligible, excluded, suspended, terminated or debarred from participating
 in a Medicaid, Medicare, and/or SCHIP Program ("Ineligible Person") pursuant to Sections 1128 or
-## 1156
-of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
+1156 of the Social Security Act and 42 CFR 455.101. Provider shall remain continuously
 responsible for ensuring that his/her/its employees, contractors, subcontractors, principals or
 agents are not Ineligible Persons. If Provider or any employees, subcontractors, principals or
 agents thereof becomes an Ineligible Person after entering into this Agreement or otherwise fails to
@@ -943,12 +942,12 @@ support such Health Benefit Plans:
 
 --- Page 17 (OCR) ---
 
-IMEDICAID/COVERKIDS.
+IMEDICAID/COVERKIDS
 COMMUNITY CARE)
-P. ATTACHMENT TO THE
-HER PROVIDER AGREEMENT
-This is a IMedicaid/Coverkids Participation Attachment ("Attachment") to the | Provider
-Agreement eement’), entered into by and between [NMJ and Provider and is incorporated into the
+P ATTACHMENT TO THE
+HR PRovIDER AGREEMENT
+This is a Medicaid/Coverkids Participation Attachment ("Attachment") to the | Provider
+Agreement ("Agreement"), entered into by and between MJ and Provider and is incorporated into the
 Agreement.
 # ARTICLE I
 DEFINITIONS
@@ -956,18 +955,18 @@ The following definitions shall apply to this Attachment. Terms not otherwise de
 the meaning set forth in the Agreement.
 All references to ‘J under this Medicaid Participation Attachment shall mean and refer to
 Tennessee, Inc.
-_ Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
-feference, and which sets forth ‘he Rate(s) and compensation related terms for the Network(s) in which
-Provider participates. The ACS may include additional Provider obligations and specific [J compensation
+crarmone Compensation Schedule" ("ACS") means the document(s) attached hereto and incorporated herein by
+reference, and which sets forth the ETRE Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The ACS may include additional Provider obligations and specific | compensation
 related terms and requirements.
-"Audit" means a review or audit of any and all obligations, requirements, records and information set forth in this
+“Audit" means a review or audit of any and all obligations, requirements, records and information set forth in this
 Participation Attachment by the entities named herein.
-"Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
+“Clean Claim" means, unless otherwise required by applicable state Regulatory Requirements, an accurate and
 timely filed Claim submitted pursuant to this Attachment, that has no defect or impropriety, for which all information
 necessary to process such Claim and make a benefit determination is included. This includes but is not limited to,
 the claim being submitted in a nationally accepted format in compliance with standard coding guidelines, and which
 does not require adjustment, or alteration by Provider of the services in order to be processed and paid.
-"Cloning of Medical Notes" means documentation is considered cloned when each entry in the medical record for a
+“Cloning of Medical Notes" means documentation is considered cloned when each entry in the medical record for a
 beneficiary is worded exactly like or similar to the previous entries. Cloned documentation does not meet Medical
 Necessity requirements for coverage of services rendered due to the lack of specific, individual information. All
 documentation in the medical record must be specific to the patient and her/his situation at the time of the encounter.
@@ -975,19 +974,19 @@ Cloning of documentation is considered a misrepresentation of the Medical Necess
 services. Identification of this type of documentation will lead to denial of services for lack of Medical Necessity and
 recoupment of all overpayments made.
 "Coverkids" includes children under age 19 and Mothers of unborn eligible who do not qualify ‘or but meet
-the condition of the State Child Health Plan under Title XX! of the Social Security Act State Children's Health
+the condition of the State Child Health Plan under Title XXI of the Social Security Act State Children's Health
 Insurance Program.
-"Eligible" means, for purposes of this Attachment, any person certified by [J as eligible to receive services
-and benefits under oo program or the CoverKids program.
+“Eligible” means, for purposes of this Attachment, any person certified by J as eligible to receive services
+and benefits under the J program or the Coverkids program.
 “Ethical and Religious Directives (ERDs)" means a document that offers moral guidance on various aspects of health
 care delivery and is based on a religious organization's theological and moral teachings.
 “Medicaid Covered Services" means, for purposes of this Attachment, only those Covered Services provided under
-aaieeraad Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
-iealth, and long-term care services, that define the covered services available to members.
-"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled Medicaid
-Program(s) under For all purposes related to this Attachment, including all schedules, ex! , provider
-manual(s), notices communications related to this Attachment, the term "Medicaid Member" may be used
-interchangeably with the ‘ers Standard Enrollee, HE Mecicaia Enrollee, and the meaning of each
+aiumemmaT Medicaid Program(s), i.e., the package of health care services, including physical health, behavioral
+ealth, and long-term care services, that define the covered services available to J members.
+"Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled a Medicaid
+Program(s) under For all purposes related to this Attachment, including all schedules, exhibits, provider
+manual(s), notices and communications related to this Attachment, the term "Medicaid Member" may be used
+interchangeably with the terms Standard Enrollee, ME Mecicaic Enrollee, and the meaning of each
 is synonymous with any such other unless otherwise stated in this Attachment.
 
 
@@ -1314,8 +1313,7 @@ Provider and any of his/her/its subcontractors are subject to certain laws that 
 and entities receiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act
 of 1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
 Part 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR part
-## 84
-, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education
+84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352, Title IX of the Education
 Amendments of 1972, as amended (20 U.S.C. sections 1681, 1865-1866, and 1783) and any other
 regulations applicable to recipients of federal funds.
 ## 4.2
@@ -1860,8 +1858,7 @@ complete ownership, control and relationship information ("Disclosures") in acco
 through 455.106. Provider further agrees to notify within fourteen (14) days of any
 changes to the Disclosures. Providers that bill and/or receive funds as the result of the
 Agreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part
-## 455
-, Subpart B, and policies and procedures, including at the time of initial
+455, Subpart B, and policies and procedures, including at the time of initial
 contracting, contract renewal, at any time there is a change to any of the information on the disclosure form
 or disclosing entity, at least once every three (3) years, and at any time upon request. Providers may satisfy
 this requirement may be satisfied through TennCare's provider registration process. Failure to provide
@@ -2349,11 +2346,9 @@ Federal Funds. Provider acknowledges that payments Provider receives from to pro
 Covered Services to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of
 his/her/its subcontractors are subject to certain Regulatory Requirements that are applicable to Members
 and entities receiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of
-## 1964
-as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
+1964 as implemented by 45 CFR Part 80; the Age Discrimination Act of 1975 as implemented by 45 CFR
 Part 91; the Americans with Disabilities Act; the Rehabilitation Act of 1973 as implemented by 45 CFR Part
-## 84
-, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations
+84, lobbying restrictions as implemented by 45 CFR Part 93 and 31 USC 1352 and any other regulations
 applicable to recipients of federal funds.
 # ARTICLE X
 MARKETING
@@ -2537,8 +2532,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
 Policies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the
 Coded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,
 shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes.
@@ -2693,35 +2687,37 @@ Services to Members to be performed by a Specialty Physician only in accordance 
 SPECIFIC REIMBURSEMENT TERMS
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the 7 Medicare Advantage
-Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The L gsm Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
-LY ospital
-Billing Cod Rate/Methodolog
+Po ospital
+Billing Code | __ RatelMethodolog)
 Inpatient Services Applicable Revenue Codes _ | Rate from CMS Medicare Per Diem
 Administrative Contractor
 letter multiplied by one
-hundred percent (100%)
-Inpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient NIA
+hundred percent (100%
+Inpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient N/A
 Services Psychiatric Facility
 Prospective Payment
 System multiplied by one
-hundred percent (100%)
-Inpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient NIA
+hundred percent (100%
+Inpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient N/A
 Services Rehabilitation Facility
 Prospective Payment
 System multiplied by one
-hundred percent (100%)
+hundred percent (100%
 Inpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem
 Services (Swing Bed) Applicable Revenue Administrative Contractor
 Code(s) letter multiplied by one
-hundred percent (100%)
+hundred percent (100%
 Outpatient Services Applicable CPT/HCPCS Rate from CMS Medicare Percentage
 Codes Administrative Contractor
 letter multiplied by one
-hundred percent (100%)
+hundred percent (100%
+Provider shall furnish Plan with a CMS Medicare Administrative Contractor letter at least once every twelve (12)
+moanthc ianthin thirts (QN\ davc nf tho dAato it raoaraoansoc tho lottor fram itc AAodicrara Adminictratinso Contrartar
 
 
 
@@ -2734,8 +2730,8 @@ hundred percent (100%)
 Plan shall apply new per diems, percent of charge, and per visit rates to dates of service no later than sixty (60) days
 after the date it receives the letter from the Provider or the Medicare effective date, whichever is later. Plan shall not
 adjust Provider's compensation retroactively.
-or Hospitals, Method 11 billing shall not apply even if Provider is a Hospital Method II
-biller in licare. Consequently, a Hospital shall not bill for professional services furnished in an
+o Hospitals, Method 11 billing shall not apply even if Provider is a Hospital Method I!
+biller in Medicare. Consequently, A rnaermE: Hospital shall not bill for professional services furnished in an
 outpatient department on its Claim. Provider and Plan acknowledge that these services shall be separately billed and
 compensated through separate professional agreements.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
@@ -2744,41 +2740,44 @@ refer to the per claim payment amounts that CMS and a Medicare beneficiary would
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
 process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-a notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+xemmnras notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
 of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
 same percentage amount as payment is changed by CMS to Provider.
-HEE sb.2l! not compensate Provider for the bad debts of its Medicare Advantage members.
-sree and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
-lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
-—_— shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
+HEE shal! not compensate Provider for the bad debts of its Medicare Advantage members.
+mcm and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
+education, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+eee shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
 to Provider based on a settlement.
-a shall compensate Provider using the relevant payment system logic and data (for example: calculations,
-payment groupings, or federal and provider-specific factors) that are available a systems at the time
-= processes the Provider's Claim. asia shall not retroactively adjust Provider's compensation for
+HE shall compensate Provider using the relevant payment system logic and data (for example: calculations,
+payment groupings, or federal and provider-specific factors) that are available in amswemmne systems at the time
+—— processes the Provider's Claim. Liao shall not retroactively adjust Provider's compensation for
 previously processed Claims to reconcile any difference with the payment system logic and data being used by
 Medicare on the same processing date for the same date of service. In addition, | shall not retroactively
 adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
 to payment system logic and data. Provider shall not request adjustments solely based on these differences,
 updates, or changes.
 MEDICAID
-For purposes of determining he Rate, the total reimbursement amount that Provider and a
-have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on
+For purposes of determining the exmmmnera Rate, the total reimbursement amount that Provider and  arsieuam
+have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on
 the date of service shall be as set forth below.
 Date Range: 07/14/2022 to 12/31/2099
 Program: Medicaid Plan - TN
 Medicaid Plan - TN CoverKids
+Po Hospite
+Billing Code Rate/Methodolog)
 Services with CPT/HCPCS Codes
 with CPT/HCPCS Codes
 Eligible Outpatient Facility Applicable Revenue Codes _ | 85% of the ["CMS"] Per Service
 Services with CPT/HCPCS Codes Outpatient Prospective
 Payment System ("OPPS")
 Calendar Year 2018
-Eligible Outpatient Facility Applicable Revenue Codes | $400.00 Per Case
+Eligible Outpatient Facility Applicable Revenue Codes_ | $400.00 Per Case
 Services Emergency with CPT/HCPCS Codes
 Department Services:
-ers
+Emergent Diagnosis
+Emarnoancy Nanartmoant Annlicahlo Davoniice Cndac Con nn Doar Cacao
 
 
 
@@ -2797,8 +2796,7 @@ within the mandated corridors such that if CMS rates shift from time to time, Pr
 accordingly to maintain a stable position within the mandated corridors.
 has a Fixed APC Rate based on CMS Calendar Year 2018 Relative Weights and Conversion Factor.
 The contract rate is determined by applying Calendar Year 2018 APC CMS Relative Weight to the Calendar Year
-## 2018
-Conversion Factor.
+2018 Conversion Factor.
 uses a Fixed Wage Index based on CMS OPPS calendar Year 2018.
 In accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not
 reimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current

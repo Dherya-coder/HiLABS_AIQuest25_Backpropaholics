@@ -8,10 +8,11 @@ import pdfplumber
 from pdf2image import convert_from_path
 from pypdf import PdfReader, PdfWriter
 from pathlib import Path
+import sys
 
 # ---------- Configuration ----------
 # Tesseract will use system PATH on Linux
-MAX_CORES = 4
+MAX_CORES = 6
 FOOTER_HEIGHT = 60  # points or pixels to skip from bottom
 
 # ---------- Helper functions ----------
@@ -30,7 +31,7 @@ def format_for_markdown(text):
                 md_lines.append("\n".join(buffer_text))
                 buffer_text = []
             md_lines.append(f"# {line}")
-        elif re.match(r'^(\d+(\.\d+)*)(\s+.*)?', line):
+        elif re.match(r'^(\d+(\.\d+))(\s+.)?', line):
             if buffer_text:
                 md_lines.append("\n".join(buffer_text))
                 buffer_text = []
@@ -67,6 +68,7 @@ def format_table_to_md(table):
 
 # ---------- Top-level OCR worker ----------
 def ocr_for_page(args):
+    print("OCR On page: ", args[0] + 1)
     page_num, image, footer_height = args
     w, h = image.size
     cropped_img = image.crop((0, 0, w, h - footer_height))
@@ -141,11 +143,20 @@ def process_pdf(input_pdf: Path, output_dir: Path, footer_height: int = FOOTER_H
 
     # Step 2: OCR for pages with no text
     if pages_for_ocr:
-        # Convert only the pages that need OCR
-        images = convert_from_path(cropped_pdf, dpi=150)
-        
-        # Create args list with correct image indexing
-        args_list = [(page_num, images[page_num], FOOTER_HEIGHT) for page_num in pages_for_ocr]
+        print(f"🔍 Performing OCR on {len(pages_for_ocr)} pages: {', '.join(str(p + 1) for p in pages_for_ocr)}")
+        images = []
+        for pg_num in pages_for_ocr:
+            # pdf2image uses 1-based page numbers
+            img = convert_from_path(
+                cropped_pdf,
+                dpi=250,
+                first_page=pg_num + 1,
+                last_page=pg_num + 1
+            )[0]  # convert_from_path always returns a list
+            images.append(img)
+        print("performed OCR")
+
+        args_list = [(pages_for_ocr[i], images[i], FOOTER_HEIGHT) for i in range(len(pages_for_ocr))]
 
         with concurrent.futures.ProcessPoolExecutor(max_workers=num_cores) as executor:
             results = list(executor.map(ocr_for_page, args_list))

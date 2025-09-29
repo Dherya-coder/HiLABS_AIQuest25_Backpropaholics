@@ -480,8 +480,7 @@ have the right to pursue all available remedies at law or equity, including inju
 Dispute Resolution. Except as expressly permitted under Regulatory Requirements or regulations governing
 dispute resolution, no process for the resolution of disputes arising out of a participating provider contract
 shall be considered fair under RCW 48.43.055 unless the process meets all the provisions of WAC 284-170-
-## 440
-.
+440.
 ## 7.3.1
 A dispute resolution process may include an initial informal process but must include a formal
 process for resolution of all contract disputes.
@@ -897,8 +896,7 @@ events as set forth in the provider manual(s).
 "Medicaid Member" means, for purposes of this Attachment, a Member who is enrolled in Plan's Medicaid
 Program(s).
 "Medically Necessary/Medical Necessity" means services that are "medically necessary" as is defined in WAC 182-
-## 500
--0070 those services, based upon generally accepted medical practices in light of the Medicaid Covered
+500-0070 those services, based upon generally accepted medical practices in light of the Medicaid Covered
 Member's condition at the time of treatment, that are: (i) appropriate and consistent with the diagnosis of the treating
 provider and the omission of which could adversely affect the Medicaid Member's medical condition; (ii) compatible
 with the standards of acceptable medical practice in the community; (iii) provided in a safe, appropriate, and cost-
@@ -1178,8 +1176,7 @@ any of his/her/its subcontractors are subject to certain laws that are applicabl
 receiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act of 1964 as
 implemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;
 the Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by
-## 45
-CFR Part 93 and 31 USC 1352, Title IX of the Educational Amendments of 1972, as amended (30 U.S.C.
+45 CFR Part 93 and 31 USC 1352, Title IX of the Educational Amendments of 1972, as amended (30 U.S.C.
 sections 1681, 1783, and 1685-1686) and any other regulations applicable to recipients of federal funds.
 ## 4.2
 Surety Bond Requirement. If Provider provides home health services or durable medical equipment,
@@ -2034,8 +2031,7 @@ subcontractors are subject to certain Regulatory Requirements that are applicabl
 receiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of 1964 as
 implemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;
 the Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by
-## 45
-CFR Part 93 and 31 USC 1352 and any other regulations applicable to recipients of federal funds.
+45 CFR Part 93 and 31 USC 1352 and any other regulations applicable to recipients of federal funds.
 # ARTICLE X
 MARKETING
 ## 10.1
@@ -2133,15 +2129,12 @@ This is a Wraparound with Intensive Services ("WISe") Program Attachment (this "
 Provider Agreement ("Agreement"), entered into by and between and Provider ("Provider") and is
 incorporated into the Agreement.
 PROGRAM PROVISIONS
-## 1
-. Provider must be a Health Care Authority ("HCA") approved WISe agency.
-## 2
-. WISe Implementation. Provider agrees to cooperate with efforts in connection with development of
+1. Provider must be a Health Care Authority ("HCA") approved WISe agency.
+2. WISe Implementation. Provider agrees to cooperate with efforts in connection with development of
 Provider capacity and workforce development. Provider shall report WISe capacity and service intensity data to
 on a monthly basis. Such data shall be submitted to no later than the fifth (5th) day of each
 month.
-## 3
-. Notifications.
+3. Notifications.
 ## 3.1
 Provider must notify if they are unable to maintain sufficient staffing levels of WISe qualified
 staff.
@@ -2151,25 +2144,21 @@ a) approved for the WISe program
 b) Denial of WISe services based on the CANS
 c) Reduction in services
 d) Suspension of services
-## 4
-. Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and
+4. Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and
 locations that ensure meaningful participation of youth, family members, and natural supports. Assessment,
 treatment, and support services are provided in the youth and family's natural setting, where needs, strengths, and
 challenges present themselves (such as home, school and community).
-## 5
-. WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current
+5. WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current
 Washington State WISe Program Policy and Procedure Manual, including, but not limited to, requirements related to
 grievances and appeals.
-## 6
-. Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and
+6. Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and
 shall also comply with WISe Program policies and procedures communicated to Provider by
 In the event of any conflict between the terms of WISe policies and procedures and Provider's WISe
 policies and procedures, the terms of policies and procedures shall govern. In the event of any conflict
 between the terms of the Washington State WISe Program Policy and Procedure Manual and either or
 Provider's WISe policies and procedures, the terms of the Washington State WISe Program Policy and Procedure
 Manual shall govern.
-## 7
-. Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and
+7. Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and
 transition age youth ("TAY") require assistance with any of the following:
 ## 7.1
 WISe TAY Medicaid Members approaching discharge from WISe who may require additional assistance
@@ -2190,8 +2179,7 @@ lower level of care;
 ## 7.3
 Youth Medicaid Members in WISe who are moving to other areas of the state of Washington who may
 require assistance with care coordination to the new region.
-## 8
-. Screening.
+8. Screening.
 ## 8.1
 For WISe Program eligibility screens, Provider shall complete a Child and Adolescent Needs and Strengths
 (CANS) screen, regardless of referral source. A mental health intake must not be required to be completed
@@ -2205,8 +2193,7 @@ WISe screen is not considered to be complete until entered into the BHAS.
 ## 8.3
 Provider must notify in writing of all instances, regardless of the reason, where a Medicaid
 Member was given a CANS screen and not subsequently enrolled in the WISe Program.
-## 9
-. WISe Services.
+9. WISe Services.
 ## 9.1
 The provision of WISe services must include a Child and family Team (CFT) and, at a minimum, access to
 the following:
@@ -2222,8 +2209,7 @@ Intensive services;
 Delivery of the full WISe service array focused on the needs and strengths and driven by youth and family
 voices and choice will be evaluated in accordance with HCA's WISe Quality Management ("QM") Plan and
 the WISe QM Plan.
-## 10
-. WISe Collaborative.
+10. WISe Collaborative.
 ## 10.1
 Provider will participate in regional WISe Collaborative, Family Youth System Partner Round Table
 (FYSPRT) and other WISe-related meetings.
@@ -2325,8 +2311,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with
 Policies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the
 Coded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,
 Plan shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits
@@ -2444,56 +2429,52 @@ by External Sources to of fee schedule(s)/rate(s)/methodologies change.
 
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICAID
-For purposes of determining he Rate, the total reimbursement amount that Provider and a
-have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on
+For purposes of determining the eemmmnrsa Rate, the total reimbursement amount that Provider and a arsicuam
+have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on
 the date of service shall be as set forth below.
 The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by J at any
 time during the term of this Agreement and will be applied on a prospective basis.
-Medicaid Network
-Behavioral Health Facil
-Service Description Billing Code
+Po Program: Medicaid Network
+Behavioral Health Facili
+Billing Code Rate/Methodolog)
 Inpatient Psychiatric Revenue Codes 0114, $561.00 Per Diem
 Services 0124, 0134, 0154
 Inpatient Detox Services Revenue Codes 0116, $561.00 Per Diem
-## 0126
-, 0136, 0156
-## 1
-. Applicable for Island County, Whatcom County, and Spokane Facilities only.
-## 2
-. Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the
+0126, 0136, 0156
+1. Applicable for Island County, Whatcom County, and Spokane Facilities only.
+2. Provider agrees to reference SERI coding guidelines, available through [J Web portal, to ensure the
 proper billing and reimbursement.
-Po Program:| Medicaid Network
+Po Program Medicaid Network
 Behavioral Health Facili
-Service Description Billing Code
-Co-Occurring Residential 0018 with applicable $314.44 Per Diem
+Billing Code Rate/Methodolog)
+Co-Occurring Residential H0018 with applicable $314.44 Per Diem
 Program modifier
 Room and Board H2036 with applicable $12.57
 modifier
-Provider agrees to reference SERI coding guidelines, available through [J Web portal, to ensure the
+Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the
 proper billing and reimbursement.
-## 2
-.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
+2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
 diagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed
 daily.
+Po Program: Medicaid Network
 Behavioral Health Facili
-Billing Code
-Opiate Use Disorder 0018 $279.73 Per Diem
+Billing Code Rate/Methodolog)
+Opiate Use Disorder H0018 $279.73 Per Diem
 Program
-Room and Board 2036 with applicable $11.87 Per Diem
+Room and Board H2036 with applicable $11.87 Per Diem
 modifiers
 Applicable for NPI: 1912563883
-## 1
-.Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the
+1.Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the
 proper billing and reimbursement.
-## 2
-.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
+2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
 diagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed
 daily.
-[oo Program:| Medicaid Network
-B oral Health Facili
-|__Service Description | Billing Code RatelMethodolog
-Sub Acute Withdrawal North Sound Medicaid Percentage Per Month
-Manaagement- Skagit Eligibles ot Program Utilization
+Po Program: Medicaid Network
+Behavioral Health Facili
+Billing Code Rate/Methodolog)
+Sub Acute Withdrawal North Sound Medicaid Percentage
+Management- Skagit Eligibles of Program Utilization
+Community Detox multiplied by the amount in
 
 
 
@@ -2503,72 +2484,61 @@ Manaagement- Skagit Eligibles ot Program Utilization
 
 --- Page 43 (OCR) ---
 
-Po Section a. Po
-‘Sub Acute Withdrawal North Sound Medicaid Percentage
+PO Section 1. Po
+Sub Acute Withdrawal North Sound Medicaid Percentage
 Management- Whatcom Eligibles of Program Utilization
 multiplied by the amount in
 Section 1.b.
-## 1
-. Monthly Compensation for Services:
-a. Crisis Stabilization Services- Skagit Community Seto actual percentage of
+1. Monthly Compensation for Services:
+a. Crisis Stabilization Services- Skagit Community ceo: actual percentage of
 of program utilization of eligible members served in the North Sound Region multiplied by $225,794.54(Provider's
 monthly base).
-b. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Managemen actual percentage of
+b. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Management: Iii actual percentage of
 of program utilization of eligible members served in the North Sound Region multiplied by $59,463.55 (Provider's
 monthly base).
-## 2
-. "Eligibles" are defined as any individuals who are eligible beneficiaries under | Washington State
+2. "Eligibles" are defined as any individuals who are eligible beneficiaries under | Washington State
 Medicaid IMC managed care program and reside within the North Sound region.
-## 3
-. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
+3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
 a. Provider will submit an invoice for Sub Acute Withdrawal Management Services on a monthly basis within 30 days
 of the end of the each month services were rendered
 b. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of
-gl clients and service days.
-Cc. ‘will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
-## 4
-. Provider understands and agrees that, any payment to the Provider by| under this Agreement, is
-contingent upon EE first receiving HCA’s payment to| 0 proportional share for
+open clients and service days.
+Cc. gl issue payment to Provider for monthly services within 20 business days of receipt of invoice.
+4. Provider understands and agrees that, any payment to the Provider by’ under this Agreement, is
+contingent upon J first receiving HCA's payment proportional share for
 eligible Covered Person's residing in the North Sound Region.
-## 5
-. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.
-## 6
-. Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the
+5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.
+6. Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the
 proper billing and reimbursement.
-[ Program:] Medicaid Network
+Po Program Medicaid Network
 Behavioral Health Facili
-Rate/Methodolog
+Rate/Methodolog)
 Mental Health Crisis Spokane Medicaid Eligibles Percentage
 Stabilization- Spokane of Program Utilization
 multiplied by the amount in
 Section 1.a.
-## 1
-. Monthly Compensation for Services:
-a. Mental Health Crisis Stabilization- Spokane: BR ees percentage of
+1. Monthly Compensation for Services:
+a. Mental Health Crisis Stabilization- Spokane: EY actual percentage of
 of program utilization of eligible members served in the Spokane Region multiplied by $275,113.00 (Provider's
 monthly base).
-## 2
-. “Eligibles" are defined as any individuals who are eligible beneficiaries under J Washington State
+2. "Eligibles" are defined as any individuals who are eligible beneficiaries under J Washington State
 Medicaid IMC managed care program and reside within the Spokane region.
-## 3
-. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
+3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
 a. Provider will submit an invoice for Mental Health Crisis Stabilization Services on a monthly basis within 30 days
 of the end of the each month services were rendered
 b. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of
 open clients and service days.
-c. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
-## 4
-. Provider understands and agrees that, any payment to the Provider by| under this Agreement, is
-contingent upon EE first receiving HCA’s payment to| 0 proportional share for
+Cc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
+4. Provider understands and agrees that, any payment to the Provider by’ under this Agreement, is
+contingent upon EM first receiving HCA’s payment to Ol proportional share for
 eligible Covered Person's residing in the North Sound Region.
-Ce AN mmntinnkia muneifiere muet ke jens im anempdampn uth atemdecd Killian muideiimease if amnitenhia
+5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.
 
 
 
 --- Page 44 ---
 
-## 6
-. Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the
+6. Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the
 proper billing and reimbursement.
 Medicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar
 benefits under similar programs as the programs covered hereunder ("Medicaid Affiliates"). The parties acknowledge
@@ -2735,24 +2705,24 @@ Washington Enterprise Provider Agreement PCS Attachment
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the amma Medicare Advantage
-Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The bare Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
 Services
-Outpatient Services Applicable Revenue Codes_ | Medicare Outpatient
+Outpatient Services Applicable Revenue Codes | Medicare Outpatient N/A
 with Applicable Prospective Payment
 CPT/HCPCS Codes System and Medicare fee
 schedules multiplied by one
-hundred percent (100%)
+hundred percent (100%
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
 whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
 refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
 process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-—— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+emma notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
 of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
@@ -2781,21 +2751,21 @@ data. Provider shall not request adjustments solely based on these differences, 
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the amma Medicare Advantage
-Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The bare Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
 Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
 Services Codes Schedule multiplied by one
-hundred percent (100%)
-Part B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee
+hundred percent (100%
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
 Biologicals Codes Schedule multiplied by one
-hundred percent (100%)
-Laboratory Services Applicable CPT/HCPCS. Medicare Clinical
+hundred percent (100%
+Laboratory Services Applicable CPT/HCPCS Medicare Clinical
 Codes Laboratory Fee Schedule
 multiplied by forty five
-percent (45%)
+percent (45%
 Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
 percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
@@ -2803,9 +2773,9 @@ whole or in part, on Medicare rates, pricing, fee schedules, or methodologies pu
 refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
-rocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
-ongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
+process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
+Lerma Notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
 same percentage amount as payment is changed by CMS to Provider.

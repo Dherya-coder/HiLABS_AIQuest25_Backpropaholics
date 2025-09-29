@@ -13,9 +13,9 @@ from typing import Dict, List, Any, Optional
 import json
 
 # Import our modules
-from parsing import process_pdf
-from chunking import chunk_markdown_files
-from embedding import process_contract_chunks_to_embeddings
+from util.parsing import process_pdf
+from util.chunking import chunk_markdown_files
+from util.embedding import process_contract_chunks_to_embeddings
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

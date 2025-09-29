@@ -929,8 +929,7 @@ Other Programs:
 
 --- Page 17 ---
 
-## 1915
-(c) IDD WAIVERS
+1915(c) IDD WAIVERS
 PARTICIPATION ATTACHMENT TO THE
 PROVIDER AGREEMENT
 This is a 1915(c) IDD Waivers Participation Attachment ("Attachment") to the Provider Agreement
@@ -1075,8 +1074,7 @@ Developmental Disabilities (DIDD) as applicable;
 Providers shall screen their employees and contractors initially and on an ongoing
 monthly basis to determine whether any of them has been excluded from participation in
 Medicare, Medicaid, SCHIP, or any federal health care programs (as defined in Section
-## 1128
-B(f) of the Social Security Act) and not employ or contract with an individual or
+1128B(f) of the Social Security Act) and not employ or contract with an individual or
 entity that has been excluded. The Provider shall be required to immediately report to
 any exclusion information discovered. The Provider shall be informed that
 civil monetary penalties may be imposed against Providers who employ or enter into
@@ -1165,8 +1163,7 @@ treated with dignity and respect, including training staff on person-centered pr
 the Provider Manual and the I/DD MLTSS Supplemental Provider Manual.
 ## 1.6.9
 Provider shall require that all direct support staff (i.e., provider staff working directly with people in
-## 1915
-(c) IDD Waivers) complete required training as prescribed by DIDD and by applicable State
+1915(c) IDD Waivers) complete required training as prescribed by DIDD and by applicable State
 Agency within thirty (30) days of hire and prior to providing direct support to Members.
 ## 1.6.10
 Provider shall require that all 1915(c) IDD Waivers providers for whom DIDD is providing quality
@@ -1176,8 +1173,7 @@ processes and requirements, as described in applicable State Agency quality moni
 Reportable Event Management (REM).
 ## 1.7.1
 Provider shall report, respond to, and document for three (3) categories of reportable events: Tier
-## 1
-, Tier 2, and Additional Reportable Events and Interventions, as outlined by the State Agency and
+1, Tier 2, and Additional Reportable Events and Interventions, as outlined by the State Agency and
 DIDD in the REM protocol, and as defined in the I/DD MLTSS Supplemental Provider
 Manual in accordance with applicable requirements as outlined within the Government Contract
 and federal standards.
@@ -1360,8 +1356,7 @@ Checks should be made out to and mailed to the address below. Include as a note 
 that this payment is for the Episodes of Care program and the name of the Episode(s) the risk share amount is
 referencing:
 Community Care Attn: Finance Department
-## 22
-Century Blvd., Suite 220
+22 Century Blvd., Suite 220
 Nashville, TN 37214
 Gain Sharing Amount: If the risk-adjusted total episode cost is less than the acceptable cost threshold for the
 episode measurement period, the Quarterback's unadjusted payment by will be calculated according to
@@ -1524,64 +1519,60 @@ Tennessee Enterprise Provider Agreement 2020 Episode-Based Retro
 
 --- Page 28 (OCR) ---
 
-The request to the Commissioner for Independent Review of Disputed [J Claim form and instructions for
+The request to the Commissioner for Independent Review of Disputed J Claim form and instructions for
 completing the form, sample copies of requests to the commissioner for independent review, and FAQ developed by
 the State of Tennessee Department of Commerce and Insurance can be obtained on the State website
-(tn.gov/commerce>Our Divisions> Oversight>MCo Dispute Resolution>Independent Review Process).
+(tn.gov/commerce>Our Divisions>) Oversight>MCo Dispute Resolution>Independent Review Process).
 # Section IX - Program Changes
-HE il! review program components as defined by and update them as necessary.
-will modify or amend the Program as determined by, with 30-days' written notice to the Provider.
+HE Wil! review program components as defined by and update them as necessary.
+will modify or amend the Program as determined by with 30-days’ written notice to the Provider.
 # Section X - Cooperation and Review
 Provider, on behalf of itself and/or its Quarterbacks, agrees to cooperate with J in all ways which affect
 TennCare's Payment Reform Initiatives. Provider shall be responsible for promptly reviewing any and all reports
-provided to Quarterbacks by| hereunder. Provider and/or Quarterbacks shall, within 30 days of receipt of
+provided to Quarterbacks by hereunder. Provider and/or Quarterbacks shall, within 30 days of receipt of
 such reports, notify in writing of any discrepancies or inaccuracies in such reports.
 # Section XI - Business Associate Agreement
-In the event Provider is not a "covered entity", as such term is defined in the HIPAA Regulations; a Business
+In the event Provider is not a “covered entity", as such term is defined in the HIPAA Regulations; a Business
 Associate Agreement shall be executed and made a part thereof. Provider acknowledges that if it is not a covered
 entity, MM is unable to disclose to Provider any protected health information regarding any Covered Person
 until a Business Associate Agreement is fully effective between the parties hereto.
-a ove: EPISODE-BASED RETROSPECTIVE PAYMENT:
+eo EPISODE-BASED RETROSPECTIVE PAYMENT:
 IRESHOLDS 2020 Waves 1-9 ATTACHMENT
 Provider Episode Episode-Based Retrospective Payment: 2020 Thresholds Waves 1-9
-Episodes Threshold for Quality Indicators | Acceptable | Commendable en Effective
-pr Linked To Gain Sharing Threshold Threshold Limits Date
-## 1
-. Follow-up care within 30%
+Fpisades Threshold for Quality Indicators Acceptable | Commendable an Effective
+P Linked To Gain Sharing Threshold Threshold Limits Date
+1. Follow-up care within
 the post-trigger window
-## 2
-. Appropriate medications $1,000 $227
-within the trigger and post- 60%
-= trigger window
-## 2
-1. C-Section Rate
-= 2. Group B strep screening
-Perinatal sa.iso | $6263 | $2701 | san-2020
-## 3
-. HIV screening rate
-Replacement the post-trigger window 10% S27787 $8,991 s7pOr ——_
+Asthma 2. Appropriate medications $1,000 $227 Jan 2020
+within the trigger and post-
+i trigger window
+2 1. C-Section Rate
+> Perinatal _ Risen serrering $8,150 $6,263 $3,701
+3. HIV screening rate
+Total Joint | Related admission during 10% $27,737 $8,991 $7,809 Jan 2020
+Replacement the post-trigger window
 COPD Acute | Follow-up care within the
-posrwggerwnw |S | s8se7 | sno mene
-No quality metrics linked
-~ Colonoscopy to gain sharing $1,297 $753 $192 Jan 2020
-i“ Hospital admission in the
+Colonoscopy ny Seen Ones fz $1,297 $753 $192 Jan 2020
+< to gain sharing
+= Hospital admission in the
 >
-Hospital admission in the
-= won [sar ssom0 | moe
-se Hospital admission in the | ... oo <a a a oe
+g Cholecystectomy a $6,235 $3,382 $2,567 | Jan 2020 |
+Acute PCI Hespial seamen AIRE | oe | gone $6,771 $5,888 | Jan 2020
+post-trigger window
+Non-acute PCI Hospital admission inthe | ang $14,344 $8,702 $7,567
+post-trigger window
 
 
 
 --- Page 29 ---
 
-## 3
+3
 EVAW
 Follow-up care within the
 GI Hemorrhage (GIH) 45% $5,518 $3,538 $243 Jan 2020
 post-trigger window
 Upper GI endoscopy ED visit within the post-
-## 10
-%2 $1,498 $855 $368 Jan 2020
+10%2 $1,498 $855 $368 Jan 2020
 (EGD) trigger window
 ED visit within the post-
 Respiratory Infection 10%2 $135 $87 $31 Jan 2020
@@ -1589,8 +1580,7 @@ trigger window
 Follow-up care within the
 Pneumonia 30% $2,109 $1,291 $251 Jan 2020
 post-trigger window
-## 1
-. Admission within the
+1. Admission within the
 trigger window for ED 5%
 Urinary Tract Infection triggered episodes
 $156 $103 $27 Jan 2020
@@ -1598,15 +1588,13 @@ $156 $103 $27 Jan 2020
 trigger window for non-ED 5%
 triggered episodes
 Urinary Tract Infection Follow-up care within the
-## 40
-% $4,963 $2,389 $368 Jan 2020
+40% $4,963 $2,389 $368 Jan 2020
 (UTI) Inpatient post-trigger window
-## 4
+4
 EVAW
 Minimum Care
 requirement of 5
-## 70
-%
+70%
 visits/claims during the
 episode window
 Long-acting stimulants for
@@ -1617,15 +1605,13 @@ Long-acting stimulants for
 (ADHD) 80%
 members aged 12 to 20
 Utilization of therapy for
-## 1
-Visit
+1 Visit
 members aged 4 and 5
 Follow-up care within the
 Bariatric Surgery 30% $13,544 $7,284 $6,333 Jan 2020
 post-trigger window
 Coronary Artery Bypass Follow-up care within the
-## 90
-% $57,517 $26,532 $23,072 Jan 2020
+90% $57,517 $26,532 $23,072 Jan 2020
 Graft (CABG) post-trigger window
 Congestive Heart
 Follow-up care within the
@@ -1640,29 +1626,25 @@ Disorder (ODD)
 management visit during
 the episode window
 Valve repair and Follow-up care within the
-## 90
-% $87,954 $39,494 $34,342 Jan 2020
+90% $87,954 $39,494 $34,342 Jan 2020
 replacement post-trigger window
-## 5
+5
 EVAW
 Appropriate diagnostic
-## 90
-%
+90%
 Breast Biopsy workup rate $2,807 $1,023 $603 Jan 2020
 Core needle biopsy rate 85%
 OME episodes without
-## 25
-%
+25%
 antibiotics filled
 Otitis media $263 $125 $31 Jan 2020
 Non-OME episode with
-## 60
-%
+60%
 amoxicillin filled
 Bleeding up to two days
 Tonsillectomy 5%1 $3,604 $2,301 $1,023 Jan 2020
 following the procedure
-## 6
+6
 EVAW
 SSTI Bacterial cultures when 50% $338 $170 $29 Jan 2020
 I&D performed-higher is
@@ -1741,16 +1723,14 @@ better | 50% | $338 | $170 | $29 | Jan 2020 |
 --- Page 30 ---
 
 SSTI episodes with a first
-## 85
-%
+85%
 line antibiotic
 HIV Periodic ART refill 85% $5,377 $673 $76 Jan 2020
 Follow-up care within 14
 Pancreatitis 35% $13,687 $1,763 $1,533 Jan 2020
 days
 Diabetes Acute Follow-up care within the
-## 30
-% $7,068 $4,201 $1,314 Jan 2020
+30% $7,068 $4,201 $1,314 Jan 2020
 Exacerbation first 14 days
 Provider Episode Episode-Based Retrospective Payment: 2020 Thresholds Waves 1-9
 Gain
@@ -1758,19 +1738,16 @@ Threshold for Quality Indicators Acceptable Commendable Effective
 Episodes Share
 Linked To Gain Sharing Threshold Threshold Date
 Limits
-## 7
+7
 evaW
 Difference in Average
 Back/ Neck Pain 0.0 $538 $231 $44 Jan 2020
 MED/day
-## 1
-. Follow-up care within
-## 30
-%
+1. Follow-up care within
+30%
 the post-trigger window
 Femur/ Pelvic Fracture $31,989 $16,300 $14,174 Jan 2020
-## 2
-. Difference in Average
+2. Difference in Average
 ## 8.0
 MED/day
 Difference in Average
@@ -1799,47 +1776,36 @@ Difference in Average
 ## 8.0
 $35,700 $10,644 $9,256 Jan 2020
 Spinal Fusion MED/day
-## 8
+8
 evaW
 Abdominal or pelvic CT or
-## 40
-% $786 $428 $65 Jan 2020
+40% $786 $428 $65 Jan 2020
 MRI in adults
 Acute Gastroenteritis Abdominal or pelvic CT or
-## 40
-%
+40%
 MRI in children
 Antibiotics utilization 30%
-## 1
-. Brain MRI utilization in
-## 10
-%
+1. Brain MRI utilization in
+10%
 focal epilepsy
 Acute Seizure 2. Prolonged EEG $1,862 $921 $176 Jan 2020
 monitoring utilization in 10%
 newly diagnosed seizure
-## 1
-. Abdominopelvic CT
-## 50
-%
+1. Abdominopelvic CT
+50%
 scans in children
 Appendectomy $6,190 $5,611 $1,655 Jan 2020
-## 2
-. Difference in Average
+2. Difference in Average
 ## 0.0
 MED/day
-## 1
-. Related admission
+1. Related admission
 during the post-trigger 10%
 window
 Bronchiolitis $922 $550 $120 Jan 2020
-## 2
-. Utilization of
-## 30
-%
+2. Utilization of
+30%
 bronchodilators
-## 3
-. Utilization of steroids 50%
+3. Utilization of steroids 50%
 Provider Episode Episode-Based Retrospective Payment: 2020 Thresholds Waves 1-9
 Tennessee Enterprise Provider Agreement 2020 Episode-Based Retro
 
@@ -1918,16 +1884,13 @@ Threshold for Quality Indicators Acceptable Commendable Effective
 Episodes Share
 Linked to Gain Sharing Threshold Threshold Date
 Limits
-## 8
+8
 evaW
-## 1
-. LEEP utilization under 26 10%
+1. LEEP utilization under 26 10%
 years old with no evidence
 Colposcopy of high-grade dysplasia $588 $269 $87 Jan 2020
-## 2
-. LEEP utilization with
-## 10
-%
+2. LEEP utilization with
+10%
 low-grade dysplasia
 Related follow-up care 20%
 GI Obstruction Difference in Average $22,775 $1,259 $1,095 Jan 2020
@@ -1936,23 +1899,18 @@ MED/day
 Difference in Average
 Hernia Repair 0.0 $5,179 $3,256 $1,529 Jan 2020
 MED/day
-## 1
-. Alternative treatments 20%
+1. Alternative treatments 20%
 $7,795 $6,254 $3,921 Jan 2020
 Hysterectomy 2. Related follow-up care 10%
-## 1
-. Related admission 10%
+1. Related admission 10%
 during the post-trigger
 window
-## 2
-. Utilization of macrolides 30%
+2. Utilization of macrolides 30%
 Pediatric Pneumonia $1,111 $633 $195 Jan 2020
 in patients under 6 years
 old
-## 3
-. Utilization of narrow
-## 50
-%
+3. Utilization of narrow
+50%
 spectrum antibiotics
 Carotid ultrasound imaging
 Syncope 10% $956 $251 $43 Jan 2020
@@ -1963,39 +1921,28 @@ Threshold for Quality Indicators Acceptable Commendable Effective
 Episodes Share
 Linked To Gain Sharing Threshold Threshold Date
 Limits
-## 9
+9
 evaW
-## 1
-. Difference in average
-## 0
-%
+1. Difference in average
+0%
 MED/day
-## 2
-. ED visit within the
+2. ED visit within the
 Cystourethroscopy 10% $1,495 $658 $176 Jan 2020
 post-trigger window
-## 3
-. Repeat
-## 5
-%
+3. Repeat
+5%
 Cystourethroscopy
-## 1
-. Difference in
-## 3
-%
+1. Difference in
+3%
 average MED/day
 Acute Kidney and Ureter
 $1,755 $650 $43 Jan 2020
 Stones
-## 2
-. ED visit within the
-## 15
-%
+2. ED visit within the
+15%
 post-trigger window
-## 1
-Change in quality metric threshold from 2019 CY.
-## 2
-New gain-sharing quality metric and threshold for 2020 CY.
+1 Change in quality metric threshold from 2019 CY.
+2 New gain-sharing quality metric and threshold for 2020 CY.
 Acceptable Cost Threshold: The dollar amount, as determined by to which the PAP's or QB's risk
 adjusted average episode cost (calculated in Section II below) for a Program Episode will be compared. The
 Acceptable Cost Threshold is used to determine the dollar amount of the Shared Risk Payment from the QB to
@@ -2968,8 +2915,7 @@ complete ownership, control and relationship information ("Disclosures") in acco
 through 455.106. Provider further agrees to notify within fourteen (14) days of any
 changes to the Disclosures. Providers that bill and/or receive funds as the result of the
 Agreement/contract shall submit routine disclosures in accordance with timeframes specified in 42 CFR Part
-## 455
-, Subpart B, and policies and procedures, including at the time of initial
+455, Subpart B, and policies and procedures, including at the time of initial
 contracting, contract renewal, at any time there is a change to any of the information on the disclosure form
 or disclosing entity, at least once every three (3) years, and at any time upon request. Providers may satisfy
 this requirement may be satisfied through TennCare's provider registration process. Failure to provide
@@ -3089,8 +3035,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
+04 claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
 applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service
 Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall
 not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that
@@ -3195,13 +3140,13 @@ receipt of the final fee schedule(s)/rate(s)/methodologies change from such Exte
 effective date of such final fee schedule(s)/rate(s)/methodologies change, whichever is later. The effective date of
 such final fee schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by
 External Sources. Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed
-prior to the implementation of the new [J Rate(s) in | payment system shall not be reprocessed,
+prior to the implementation of the new J Rate(s) in I payment system shall not be reprocessed,
 however, if reprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential
 under and/or over payment to a Provider, then may reconcile the Claim adjustments to determine the
-remaining amount Provider owes a owes to Provider. Any resultant overpayment
-recoveries (i.e. Provider ons ee, occur automatically without advance notification to Provider. Unless
-otherwise required by Regulatory Requirements, [EE Shall not be responsible for interest payments that may
-be the result of a late notification by External Sources to NJ of fee schedule(s)/rate(s)/methodologies
+remaining amount Provider owes ey owes to Provider. Any resultant overpayment
+recoveries (i.e. Provider a occur automatically without advance notification to Provider. Unless
+otherwise required by Regulatory Requirements, | shall not be responsible for interest payments that may
+be the result of a late notification by External Sources to J) of fee schedule(s)/rate(s)/methodologies
 change.
 # ARTICLE Ill
 PROVIDER TYPE
@@ -3210,30 +3155,30 @@ credentialed and licensed to perform.
 “Intellectual Disability Services" means services to treat a disability characterized by significant limitations in both
 intellectual functioning and in adaptive behavior, which covers many everyday social and practical skills.
 # ARTICLE IV
-SPECIFIC REIMBURSEMENT TERMS:
+SPECIFIC REIMBURSEMENT TERMS
 MEDICAID
-For purposes of determining the NIJ Rate. the total reimbursement amount that Provider and
+For purposes of determining the J Rate, the total reimbursement amount that Provider and
 have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on
 the date of service shall be as set forth below.
 Waivers
 Behavior Analyst Services Applicable Revenue Code 100% of the applicable Per 15 Minutes
 Assessment with applicable CPT/HCPCS | State of Tennessee 1915(c)
-Code IDD Waivers Rate
+canen | ere comers treme |
 Behavior Analyst Services: Applicable Revenue Code 100% of the applicable Per 15 Minutes
 Behavior Plan Development | with applicable CPT/HCPCS | State of Tennessee 1915(c)
 and Training of Staffonthe | Code IDD Waivers Rate
 Plan
-Behavior Analyst Services: Applicable Revenue Code 100% of the applicable
+Behavior Analyst Services: Applicable Revenue Code 100% of the applicable Per 15 Minutes
 Presentation At Meetings with applicable CPT/HCPCS | State of Tennessee 1915(c)
 Code IDD Waivers Rate
-Behavior Analyst Services: Applicable Revenue Code 100% of the applicable
+Behavior Analyst Services: Applicable Revenue Code 100% of the applicable Per 15 Minutes
 Other with applicable CPT/HCPCS | State of Tennessee 1915(c)
 Code IDD Waivers Rate
-Behavior Specialist Services | Applicable Revenue Code 100% of the applicable
+Behavior Specialist Services | Applicable Revenue Code 100% of the applicable Per 15 Minutes
 with applicable CPT/HCPCS | State of Tennessee 1915(c)
 Code IDD Waivers Rate
 Behavior Respite Services Applicable Revenue Code 100% of the applicable Per Day
-a oe ie
+Penevorsesrie Somers | ah appeaie CPrmcPCs | State ofTemessee 156) |_|
 
 
 
@@ -3275,22 +3220,18 @@ Code IDD Waivers Rate
 Occupational Therapy Initial Applicable Revenue Code 100% of the applicable Per Day
 Assessment and Plan with applicable CPT/HCPCS State of Tennessee 1915(c)
 Development (Rate 1, Rate Code IDD Waivers Rate
-## 2
-, Rate 3)
+2, Rate 3)
 Occupational Therapy Initial Applicable Revenue Code 100% of the applicable Per Day
 Assessment and Plan with applicable CPT/HCPCS State of Tennessee 1915(c)
 Development (Rate 1, Rate Code IDD Waivers Rate
-## 2
-, Rate 3)– For Assistive
+2, Rate 3)– For Assistive
 Technology/Specialized
 Medical Equipment
 Occupational Therapy (Rate Applicable Revenue Code 100% of the applicable Per 15 Minutes
-## 1
-, Rate 2, Rate 3) with applicable CPT/HCPCS State of Tennessee 1915(c)
+1, Rate 2, Rate 3) with applicable CPT/HCPCS State of Tennessee 1915(c)
 Code IDD Waivers Rate
 Occupational Therapy (Rate Applicable Revenue Code 100% of the applicable Per 15 Minutes
-## 1
-, Rate 2, Rate 3)– For with applicable CPT/HCPCS State of Tennessee 1915(c)
+1, Rate 2, Rate 3)– For with applicable CPT/HCPCS State of Tennessee 1915(c)
 Assistive Code IDD Waivers Rate
 Technology/Specialized
 Medical Equipment
@@ -3421,13 +3362,11 @@ Monitoring Code IDD Waivers Rate
 Physical Therapy Initial Applicable Revenue Code 100% of the applicable Per Day
 Assessment and Plan with applicable CPT/HCPCS State of Tennessee 1915(c)
 Development (Rate 1, Rate Code IDD Waivers Rate
-## 2
-, Rate 3)
+2, Rate 3)
 Physical Therapy Initial Applicable Revenue Code 100% of the applicable Per Day
 Assessment and Plan with applicable CPT/HCPCS State of Tennessee 1915(c)
 Development (Rate 1, Rate Code IDD Waivers Rate
-## 2
-, Rate 3)– For Assistive
+2, Rate 3)– For Assistive
 Technology/Specialized
 Medical Equipment
 Physical Therapy (Rate 1, Applicable Revenue Code 100% of the applicable Per 15 Minutes
@@ -3577,8 +3516,7 @@ Speech, Language, and Applicable Revenue Code 100% of the applicable Per Day
 Hearing Services Initial with applicable CPT/HCPCS State of Tennessee 1915(c)
 Assessment And Plan Code IDD Waivers Rate
 Development (Rate 1, Rate
-## 2
-, Rate 3)
+2, Rate 3)
 Speech, Language, and Applicable Revenue Code 100% of the applicable Per Day
 Hearing Services Initial with applicable CPT/HCPCS State of Tennessee 1915(c)
 Assessment And Plan Code IDD Waivers Rate
@@ -3616,8 +3554,7 @@ Levels 1-4 and Level 6) Code IDD Waivers Rate
 and Out of State
 Transitional Case Applicable Revenue Code 100% of the applicable Per Service
 Management (Rate 1, Rate with applicable CPT/HCPCS State of Tennessee 1915(c)
-## 2
-, Rate 3, Rate 4, Rate 5, Code IDD Waivers Rate
+2, Rate 3, Rate 4, Rate 5, Code IDD Waivers Rate
 Rate 6, Rate 7)
 Supported Employment– Applicable Revenue Code 100% of the applicable Per 15 Minutes
 Small Group with applicable CPT/HCPCS State of Tennessee 1915(c)

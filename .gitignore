@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-# chroma_db_qwen/
+chroma_db_qwen/
