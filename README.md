@@ -2,7 +2,7 @@
 
 A comprehensive end-to-end pipeline for intelligent contract analysis, from raw PDF processing to AI-powered chatbot interactions. This system combines advanced NLP, machine learning, and vector databases to provide deep insights into legal contracts.
 
-### Dashboard Video Link- https://drive.google.com/file/d/1WBuW1pyRfArpyJWL1Lwd-r3okGZK82T5/view?usp=drive_link](https://drive.google.com/drive/folders/16LKV8ijFvV2Cn0djcwVwgqLVKAfG0-Nf?usp=sharing)
+### Dashboard Video Link- https://drive.google.com/drive/folders/16LKV8ijFvV2Cn0djcwVwgqLVKAfG0-Nf?usp=drive_link
 ### Solution Report Link - https://drive.google.com/file/d/1pST0L2U305IMgpyUXHJbv0wQNm0GuzYL/view?usp=drive_link
 
 ## 🎯 Overview
