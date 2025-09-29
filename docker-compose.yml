@@ -1,98 +1,75 @@
-version: '3.8'
-
 services:
-  # Ollama service for LLM embeddings and chat
+  # ChromaDB Vector Database
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - "8001:8000"
+    networks:
+      - preprocess_network
+    healthcheck:
+      test: [ "CMD", "/bin/bash", "-c", "cat < /dev/null > /dev/tcp/localhost/8000" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Ollama Service for Local LLM Models
   ollama:
     image: ollama/ollama:latest
-    container_name: hilabs-ollama
+    container_name: ollama
     ports:
-      - "11434:11434"
+      - "11435:11434"
     volumes:
       - ollama_data:/root/.ollama
+      - ./models:/models
     environment:
       - OLLAMA_HOST=0.0.0.0
+    networks:
+      - preprocess_network
+    restart: unless-stopped
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      test: ["CMD", "ollama", "list"]
       interval: 30s
       timeout: 10s
       retries: 5
       start_period: 60s
-    restart: unless-stopped
-    networks:
-      - hilabs-network
 
-  # ChromaDB service for vector storage
-  chromadb:
-    image: chromadb/chroma:latest
-    container_name: hilabs-chromadb
-    ports:
-      - "8001:8000"
-    volumes:
-      - chromadb_data:/chroma/chroma
-    environment:
-      - CHROMA_SERVER_HOST=0.0.0.0
-      - CHROMA_SERVER_HTTP_PORT=8000
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-    restart: unless-stopped
-    networks:
-      - hilabs-network
-
-  # Main HiLABS preprocessing pipeline
-  hilabs-pipeline:
+  # Backend Service (FastAPI Orchestrator)
+  backend:
     build:
-      context: .
+      context: ./backend
       dockerfile: Dockerfile
-    container_name: hilabs-pipeline
+    container_name: backend_service
     ports:
       - "8000:8000"
     volumes:
-      - ./data:/app/data:ro
+      - ./backend:/app
+      - ./backend/metrics.json:/app/metrics.json:ro
       - ./outputs:/app/outputs
-      - pipeline_logs:/app/logs
+      - ./uploads:/app/uploads
     environment:
-      - PYTHONPATH=/app
-      - OLLAMA_URL=http://ollama:11434
       - CHROMADB_URL=http://chromadb:8000
-      - LOG_LEVEL=INFO
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - SLM_MODEL=phi3:mini
     depends_on:
-      ollama:
-        condition: service_healthy
       chromadb:
         condition: service_healthy
+      ollama:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - preprocess_network
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
       timeout: 10s
-      retries: 5
-      start_period: 120s
-    restart: unless-stopped
-    networks:
-      - hilabs-network
-    command: >
-      sh -c "
-        echo 'Waiting for services to be ready...' &&
-        sleep 30 &&
-        echo 'Pulling required Ollama models...' &&
-        curl -X POST http://ollama:11434/api/pull -d '{\"name\":\"qwen3-embedding:0.6b\"}' &&
-        curl -X POST http://ollama:11434/api/pull -d '{\"name\":\"phi3:mini\"}' &&
-        echo 'Installing spaCy model...' &&
-        python -m spacy download en_core_web_sm &&
-        echo 'Starting FastAPI server...' &&
-        python main.py --step 5
-      "
+      retries: 3
 
 volumes:
-  ollama_data:
-    driver: local
   chromadb_data:
     driver: local
-  pipeline_logs:
+  ollama_data:
     driver: local
 
 networks:
-  hilabs-network:
+  preprocess_network:
     driver: bridge
