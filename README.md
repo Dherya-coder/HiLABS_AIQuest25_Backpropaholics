@@ -4,6 +4,7 @@ A comprehensive end-to-end pipeline for intelligent contract analysis, from raw 
 
 ### Dashboard Video Link- https://drive.google.com/drive/folders/16LKV8ijFvV2Cn0djcwVwgqLVKAfG0-Nf?usp=drive_link
 ### Solution Report Link - https://drive.google.com/file/d/1pST0L2U305IMgpyUXHJbv0wQNm0GuzYL/view?usp=drive_link
+### Frontend Repository (Next.js) - https://github.com/Dherya-coder/HiLABS_Frontend
 
 ## 🎯 Overview
 
