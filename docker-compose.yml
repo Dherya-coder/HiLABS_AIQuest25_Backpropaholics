@@ -40,12 +40,12 @@ services:
     container_name: embeddings_service
     ports:
       - "8002:8000"
+    volumes:
+      - ./backend/metrics.json:/app/metrics.json:ro
     environment:
       - OLLAMA_BASE_URL=http://ollama:11434
       - EMBEDDING_MODEL=qwen3-embedding:0.6b
-    depends_on:
-      ollama:
-        condition: service_healthy
+    # embeddings can run independently to serve charts; Ollama is optional
     restart: unless-stopped
     networks:
       - preprocess_network
@@ -64,7 +64,8 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./preprocess:/app/preprocess
+      - ./backend:/app
+      - ./backend/metrics.json:/app/metrics.json:ro
       - ./outputs:/app/outputs
       - ./uploads:/app/uploads
     environment:

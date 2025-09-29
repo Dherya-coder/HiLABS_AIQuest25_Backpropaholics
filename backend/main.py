@@ -6,12 +6,16 @@ from fastapi import FastAPI, File, UploadFile, HTTPException, BackgroundTasks
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import uvicorn
+from routes.chart_routes import router as charts_router
 
 app = FastAPI(
     title="Contract Processing Backend",
     description="Orchestrates PDF parsing, chunking, embedding, and storage",
     version="1.0.0"
 )
+
+# Include routers
+app.include_router(charts_router)
 
 # Configuration
 CHROMADB_URL = os.getenv("CHROMADB_URL", "http://chromadb:8000")

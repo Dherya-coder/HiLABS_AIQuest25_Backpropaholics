@@ -1,0 +1,949 @@
+{
+  "summary": {
+    "method": "RRF (Dense + BM25)",
+    "total_attributes": 5,
+    "total_contracts": 446,
+    "top_k": 10,
+    "retrieval_k": null,
+    "rrf_k": 20
+  },
+  "matches": {
+    "Medicaid Timely Filing": {
+      "attribute_info": {
+        "number": 1,
+        "name": "Medicaid Timely Filing",
+        "content_preview": "Medicaid Timely Filing Submission and Adjudication of Medicaid Claims (Enterprise Agreement) This pr..."
+      },
+      "statistics": {
+        "avg_rrf_score": 0.06961760011134271,
+        "max_rrf_score": 0.09523809523809523,
+        "avg_dense_score": 0.33728752136230467,
+        "avg_bm25_score": 36.05581488353762,
+        "high_rrf_matches": 10
+      },
+      "top_matches": [
+        {
+          "rank": 1,
+          "rrf_score": 0.09523809523809523,
+          "page": 27,
+          "section": "section:ARTICLE III > clause:3.1",
+          "chunk_id": "WA_Standard_Redacted_p27_c209",
+          "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to P...",
+          "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s),\nwithin three hundred sixty-five (365) days from the date the Health Services are rendered or Plan may refuse\npayment. If Plan is the secondary payor, the three hundred sixty-five (365) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+          "score_breakdown": {
+            "dense_similarity": 0.8311935663223267,
+            "bm25_score": 131.66263806121262,
+            "dense_rank": 1,
+            "bm25_rank": 1,
+            "rrf_contribution_dense": 0.047619047619047616,
+            "rrf_contribution_bm25": 0.047619047619047616
+          }
+        },
+        {
+          "rank": 2,
+          "rrf_score": 0.09090909090909091,
+          "page": 42,
+          "section": "section:ARTICLE VI > clause:6.1",
+          "chunk_id": "WA_Standard_Redacted_p42_c342",
+          "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Plan's Medic...",
+          "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Plan's Medicare Advantage Program, or unless required by Regulatory\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s),\nwithin ninety (90) days from the date the Health Services are rendered or Plan will refuse payment. If Plan is\nthe secondary payor, the ninety (90) day period will not begin until Provider receives notification of primary\npayor's responsibility.",
+          "score_breakdown": {
+            "dense_similarity": 0.738444983959198,
+            "bm25_score": 110.59276683919211,
+            "dense_rank": 2,
+            "bm25_rank": 2,
+            "rrf_contribution_dense": 0.045454545454545456,
+            "rrf_contribution_bm25": 0.045454545454545456
+          }
+        },
+        {
+          "rank": 3,
+          "rrf_score": 0.08514492753623187,
+          "page": 27,
+          "section": "section:ARTICLE III > clause:3.1.2",
+          "chunk_id": "WA_Standard_Redacted_p27_c211",
+          "content_preview": "Provider agrees to provide to unless otherwise instructed, at no cost to Plan or\nthe Medicaid Member, all information necessary for Plan to determine ...",
+          "full_content": "Provider agrees to provide to unless otherwise instructed, at no cost to Plan or\nthe Medicaid Member, all information necessary for Plan to determine its payment liability. Such\ninformation includes, without limitation, accurate and Clean Claims for Medicaid Covered Services.\nIf or Plan asks for additional information so that Plan may process the Claim, Provider must\nprovide that information within sixty (60) days, or before the expiration of the three hundred sixty-five\n(365) day period referenced in section 3.1 above, whichever is longer.",
+          "score_breakdown": {
+            "dense_similarity": 0.45420539379119873,
+            "bm25_score": 24.30270952276319,
+            "dense_rank": 3,
+            "bm25_rank": 4,
+            "rrf_contribution_dense": 0.043478260869565216,
+            "rrf_contribution_bm25": 0.041666666666666664
+          }
+        },
+        {
+          "rank": 4,
+          "rrf_score": 0.07692307692307693,
+          "page": 3,
+          "section": "clause:2.5",
+          "chunk_id": "WA_Standard_Redacted_p3_c16",
+          "content_preview": "Submission and Adjudication of Claims. Provider shall submit, and Plan shall adjudicate, Claims in accordance\nwith the applicable Participation Attach...",
+          "full_content": "Submission and Adjudication of Claims. Provider shall submit, and Plan shall adjudicate, Claims in accordance\nwith the applicable Participation Attachment(s), the PCS, the provider manual(s) and Regulatory\nRequirements. If Provider submits Claims prior to receiving notice of approval pursuant to section",
+          "score_breakdown": {
+            "dense_similarity": 0.242037832736969,
+            "bm25_score": 19.50981227390947,
+            "dense_rank": 6,
+            "bm25_rank": 6,
+            "rrf_contribution_dense": 0.038461538461538464,
+            "rrf_contribution_bm25": 0.038461538461538464
+          }
+        },
+        {
+          "rank": 5,
+          "rrf_score": 0.06573275862068965,
+          "page": 53,
+          "section": "section:ARTICLE Il > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p53_c435",
+          "content_preview": "Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, Plan shall not pay\nany Claim(s) nor accept any E...",
+          "full_content": "Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, Plan shall not pay\nany Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits that result in\nidentification of Health Services that are not reported in accordance with the Coded Service Identifier(s) guidelines and\ninstructions, will be subject to recovery through remittance adjustment or other recovery action as may be set forth in\nthe provider manual(s).\nClaim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect new,\ndeleted or replacement codes. _qgggg shall use commercially reasonable efforts to update all applicable Coded\nService Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes are\nupdated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless of\nwhether this Agreement has been amended to reflect changes to standard billing codes. If Provider bills a revised code\nprior to the effective date of the revised code, the Claim will be rejected or denied and Provider shall resubmit Claim\nwith correct code. In addition, Claims with codes which have been deleted will be rejected or denied.",
+          "score_breakdown": {
+            "dense_similarity": 0.15825432538986206,
+            "bm25_score": 18.11373522337295,
+            "dense_rank": 12,
+            "bm25_rank": 9,
+            "rrf_contribution_dense": 0.03125,
+            "rrf_contribution_bm25": 0.034482758620689655
+          }
+        },
+        {
+          "rank": 6,
+          "rrf_score": 0.060123784261715295,
+          "page": 25,
+          "section": "clause:2.2.1",
+          "chunk_id": "WA_Standard_Redacted_p25_c192",
+          "content_preview": "To the extent mandated by Regulatory Requirements, Provider shall ensure that Medicaid Members\nhave access to twenty-four (24) hour-per-day, seven (7)...",
+          "full_content": "To the extent mandated by Regulatory Requirements, Provider shall ensure that Medicaid Members\nhave access to twenty-four (24) hour-per-day, seven (7) day-per-week urgent and Emergency\nServices, as defined in the PCS.",
+          "score_breakdown": {
+            "dense_similarity": 0.1959858536720276,
+            "bm25_score": 10.760319791849355,
+            "dense_rank": 9,
+            "bm25_rank": 19,
+            "rrf_contribution_dense": 0.034482758620689655,
+            "rrf_contribution_bm25": 0.02564102564102564
+          }
+        },
+        {
+          "rank": 7,
+          "rrf_score": 0.05928509154315606,
+          "page": 35,
+          "section": "section:ARTICLE VI > clause:6.1",
+          "chunk_id": "WA_Standard_Redacted_p35_c288",
+          "content_preview": "Termination of Medicaid Participation Attachment. Either party may terminate this Attachment without cause\nby giving at least one hundred eighty (180)...",
+          "full_content": "Termination of Medicaid Participation Attachment. Either party may terminate this Attachment without cause\nby giving at least one hundred eighty (180) days prior written notice of termination to the other party.",
+          "score_breakdown": {
+            "dense_similarity": 0.1417008638381958,
+            "bm25_score": 14.817082242699524,
+            "dense_rank": 17,
+            "bm25_rank": 11,
+            "rrf_contribution_dense": 0.02702702702702703,
+            "rrf_contribution_bm25": 0.03225806451612903
+          }
+        },
+        {
+          "rank": 8,
+          "rrf_score": 0.05469327420546933,
+          "page": 25,
+          "section": "clause:2.2.2",
+          "chunk_id": "WA_Standard_Redacted_p25_c193",
+          "content_preview": "Unless otherwise required under Regulatory Requirements, a PCP, as defined in the PCS, shall\nprovide Medicaid Covered Services or make arrangements fo...",
+          "full_content": "Unless otherwise required under Regulatory Requirements, a PCP, as defined in the PCS, shall\nprovide Medicaid Covered Services or make arrangements for the provision of Medicaid Covered\nServices to Medicaid Members on a twenty-four (24) hour-per-day, seven (7) day-per-week basis to\nassure availability, adequacy, and continuity of care to Medicaid Members. If Provider is unable to\nprovide Medicaid Covered Services, Provider shall arrange for another Participating Provider to cover\nProvider's patients in accordance with Policies. Provider and any PCPs employed by or\nunder contract with Provider may arrange for Medicaid Covered Services to Medicaid Members to\nbe performed by a Specialist Physician only in accordance with Policies.",
+          "score_breakdown": {
+            "dense_similarity": 0.13276779651641846,
+            "bm25_score": 13.034046812197271,
+            "dense_rank": 21,
+            "bm25_rank": 13,
+            "rrf_contribution_dense": 0.024390243902439025,
+            "rrf_contribution_bm25": 0.030303030303030304
+          }
+        },
+        {
+          "rank": 9,
+          "rrf_score": 0.05465367965367965,
+          "page": 27,
+          "section": "section:ARTICLE III > clause:3.1.4",
+          "chunk_id": "WA_Standard_Redacted_p27_c213",
+          "content_preview": "shall meet the timeliness of payment standards specified for Medicaid fee-for-service in\nSection 1902(a)(37)(A) of the Social Security Act, 42 C.F.R. ...",
+          "full_content": "shall meet the timeliness of payment standards specified for Medicaid fee-for-service in\nSection 1902(a)(37)(A) of the Social Security Act, 42 C.F.R. § 447.46 and specified for health carriers\nin WAC 284-170-431. To be compliant with both payment standards, shall pay ninety-five\npercent (95%) of the monthly volume of Clean Claims within thirty (30) calendar days of receipt and\nshall pay or deny ninety-five percent (95%) of the monthly volume of all Claims within sixty (60) days\nof receipt. Notwithstanding the foregoing, and Provider may agree to a different payment\nrequirement in writing on a claim by claim basis.",
+          "score_breakdown": {
+            "dense_similarity": 0.36531221866607666,
+            "bm25_score": 4.196819795529602,
+            "dense_rank": 4,
+            "bm25_rank": 57,
+            "rrf_contribution_dense": 0.041666666666666664,
+            "rrf_contribution_bm25": 0.012987012987012988
+          }
+        },
+        {
+          "rank": 10,
+          "rrf_score": 0.05347222222222223,
+          "page": 52,
+          "section": "section:ARTICLE Il",
+          "chunk_id": "WA_Standard_Redacted_p52_c433",
+          "content_preview": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-",
+          "full_content": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-",
+          "score_breakdown": {
+            "dense_similarity": 0.11297237873077393,
+            "bm25_score": 13.568218272650139,
+            "dense_rank": 25,
+            "bm25_rank": 12,
+            "rrf_contribution_dense": 0.022222222222222223,
+            "rrf_contribution_bm25": 0.03125
+          }
+        }
+      ]
+    },
+    "Medicare Timely Filing": {
+      "attribute_info": {
+        "number": 2,
+        "name": "Medicare Timely Filing",
+        "content_preview": "Medicare Timely Filing Submission and Adjudication of Medicare Advantage Claims (Enterprise Agreemen..."
+      },
+      "statistics": {
+        "avg_rrf_score": 0.07259172488967885,
+        "max_rrf_score": 0.09523809523809523,
+        "avg_dense_score": 0.30808480978012087,
+        "avg_bm25_score": 44.56052402758359,
+        "high_rrf_matches": 10
+      },
+      "top_matches": [
+        {
+          "rank": 1,
+          "rrf_score": 0.09523809523809523,
+          "page": 42,
+          "section": "section:ARTICLE VI > clause:6.1",
+          "chunk_id": "WA_Standard_Redacted_p42_c342",
+          "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Plan's Medic...",
+          "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Plan's Medicare Advantage Program, or unless required by Regulatory\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s),\nwithin ninety (90) days from the date the Health Services are rendered or Plan will refuse payment. If Plan is\nthe secondary payor, the ninety (90) day period will not begin until Provider receives notification of primary\npayor's responsibility.",
+          "score_breakdown": {
+            "dense_similarity": 0.8508756756782532,
+            "bm25_score": 165.2740391211219,
+            "dense_rank": 1,
+            "bm25_rank": 1,
+            "rrf_contribution_dense": 0.047619047619047616,
+            "rrf_contribution_bm25": 0.047619047619047616
+          }
+        },
+        {
+          "rank": 2,
+          "rrf_score": 0.09090909090909091,
+          "page": 27,
+          "section": "section:ARTICLE III > clause:3.1",
+          "chunk_id": "WA_Standard_Redacted_p27_c209",
+          "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to P...",
+          "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s),\nwithin three hundred sixty-five (365) days from the date the Health Services are rendered or Plan may refuse\npayment. If Plan is the secondary payor, the three hundred sixty-five (365) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+          "score_breakdown": {
+            "dense_similarity": 0.6459910869598389,
+            "bm25_score": 116.36827128674393,
+            "dense_rank": 2,
+            "bm25_rank": 2,
+            "rrf_contribution_dense": 0.045454545454545456,
+            "rrf_contribution_bm25": 0.045454545454545456
+          }
+        },
+        {
+          "rank": 3,
+          "rrf_score": 0.08051529790660225,
+          "page": 46,
+          "section": "clause:12.7",
+          "chunk_id": "WA_Standard_Redacted_p46_c389",
+          "content_preview": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required...",
+          "full_content": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required changes to Regulatory Requirements related to Medicare\nAdvantage Programs without the necessity of executing written amendments. For amendments not required\nby Regulatory Requirements related to Medicare Advantage Programs, shall make a good faith\neffort to provide notice to Provider at least thirty (30) days in advance of the effective date of the amendment.",
+          "score_breakdown": {
+            "dense_similarity": 0.34529030323028564,
+            "bm25_score": 25.507056795036238,
+            "dense_rank": 3,
+            "bm25_rank": 7,
+            "rrf_contribution_dense": 0.043478260869565216,
+            "rrf_contribution_bm25": 0.037037037037037035
+          }
+        },
+        {
+          "rank": 4,
+          "rrf_score": 0.07738095238095238,
+          "page": 42,
+          "section": "section:ARTICLE VI > clause:6.1.3",
+          "chunk_id": "WA_Standard_Redacted_p42_c345",
+          "content_preview": "If or Plan asks for additional information so that Plan may process the Claim, Provider must\nprovide that information within sixty (60) days, or befor...",
+          "full_content": "If or Plan asks for additional information so that Plan may process the Claim, Provider must\nprovide that information within sixty (60) days, or before the expiration of the ninety (90) day period\nreferenced in section 6.1 above, whichever is longer.",
+          "score_breakdown": {
+            "dense_similarity": 0.1990261673927307,
+            "bm25_score": 30.57154238678583,
+            "dense_rank": 8,
+            "bm25_rank": 4,
+            "rrf_contribution_dense": 0.03571428571428571,
+            "rrf_contribution_bm25": 0.041666666666666664
+          }
+        },
+        {
+          "rank": 5,
+          "rrf_score": 0.07179487179487179,
+          "page": 3,
+          "section": "clause:2.5",
+          "chunk_id": "WA_Standard_Redacted_p3_c16",
+          "content_preview": "Submission and Adjudication of Claims. Provider shall submit, and Plan shall adjudicate, Claims in accordance\nwith the applicable Participation Attach...",
+          "full_content": "Submission and Adjudication of Claims. Provider shall submit, and Plan shall adjudicate, Claims in accordance\nwith the applicable Participation Attachment(s), the PCS, the provider manual(s) and Regulatory\nRequirements. If Provider submits Claims prior to receiving notice of approval pursuant to section",
+          "score_breakdown": {
+            "dense_similarity": 0.2170618772506714,
+            "bm25_score": 20.982221683694572,
+            "dense_rank": 6,
+            "bm25_rank": 10,
+            "rrf_contribution_dense": 0.038461538461538464,
+            "rrf_contribution_bm25": 0.03333333333333333
+          }
+        },
+        {
+          "rank": 6,
+          "rrf_score": 0.06944444444444445,
+          "page": 27,
+          "section": "section:ARTICLE III > clause:3.1.2",
+          "chunk_id": "WA_Standard_Redacted_p27_c211",
+          "content_preview": "Provider agrees to provide to unless otherwise instructed, at no cost to Plan or\nthe Medicaid Member, all information necessary for Plan to determine ...",
+          "full_content": "Provider agrees to provide to unless otherwise instructed, at no cost to Plan or\nthe Medicaid Member, all information necessary for Plan to determine its payment liability. Such\ninformation includes, without limitation, accurate and Clean Claims for Medicaid Covered Services.\nIf or Plan asks for additional information so that Plan may process the Claim, Provider must\nprovide that information within sixty (60) days, or before the expiration of the three hundred sixty-five\n(365) day period referenced in section 3.1 above, whichever is longer.",
+          "score_breakdown": {
+            "dense_similarity": 0.2608720064163208,
+            "bm25_score": 15.766599969261936,
+            "dense_rank": 4,
+            "bm25_rank": 16,
+            "rrf_contribution_dense": 0.041666666666666664,
+            "rrf_contribution_bm25": 0.027777777777777776
+          }
+        },
+        {
+          "rank": 7,
+          "rrf_score": 0.06222222222222222,
+          "page": 39,
+          "section": "section:ARTICLE II > clause:2.1.1",
+          "chunk_id": "WA_Standard_Redacted_p39_c312",
+          "content_preview": "New Programs. Provider acknowledges that Plan has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with spe...",
+          "full_content": "New Programs. Provider acknowledges that Plan has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with specific participation criteria that may\ninclude but are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement,\nProvider shall be a Participating Provider in any such Network unless notifies Provider in\nwriting to the contrary. Plan shall notify Provider sixty (60) days in advance of any specific Network\nparticipation criteria. Any notice of non-inclusion in any of Plan's Medicare Advantage Network(s)\nshall be provided in writing sixty (60) days in advance.",
+          "score_breakdown": {
+            "dense_similarity": 0.23104888200759888,
+            "bm25_score": 13.626486791126394,
+            "dense_rank": 5,
+            "bm25_rank": 25,
+            "rrf_contribution_dense": 0.04,
+            "rrf_contribution_bm25": 0.022222222222222223
+          }
+        },
+        {
+          "rank": 8,
+          "rrf_score": 0.060714285714285714,
+          "page": 39,
+          "section": "section:ARTICLE II > clause:2.1",
+          "chunk_id": "WA_Standard_Redacted_p39_c311",
+          "content_preview": "Participation-Medicare Advantage. As a participant in Plan's Medicare Advantage Network, Provider will\nrender MA Covered Services to MA Members enroll...",
+          "full_content": "Participation-Medicare Advantage. As a participant in Plan's Medicare Advantage Network, Provider will\nrender MA Covered Services to MA Members enrolled in Plan's Medicare Advantage Program in accordance\nwith the terms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment,\nor in the PCS, all terms and conditions of the Agreement will apply to Provider's participation in Plan's Medicare\nAdvantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of\nand payment for Health Services provided to MA Members. This Agreement does not apply to any of Plan's\nMedicare Advantage Private Fee for Service or Medical Savings Account Programs. If Plan contracts with a\nthird party to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to\ncontract separately with such third party to maintain its status as a Participating Provider for such Network(s).",
+          "score_breakdown": {
+            "dense_similarity": 0.08943569660186768,
+            "bm25_score": 24.271448678289147,
+            "dense_rank": 20,
+            "bm25_rank": 8,
+            "rrf_contribution_dense": 0.025,
+            "rrf_contribution_bm25": 0.03571428571428571
+          }
+        },
+        {
+          "rank": 9,
+          "rrf_score": 0.05887445887445887,
+          "page": 44,
+          "section": "section:ARTICLE IX > clause:9.1",
+          "chunk_id": "WA_Standard_Redacted_p44_c362",
+          "content_preview": "Compliance: Medicare Laws/Regulations. Provider agrees to comply, and to require any of his/her/its\nsubcontractors to comply, with all applicable Medi...",
+          "full_content": "Compliance: Medicare Laws/Regulations. Provider agrees to comply, and to require any of his/her/its\nsubcontractors to comply, with all applicable Medicare Regulatory Requirements and CMS instructions.\nFurther, Provider agrees that any MA Covered Services provided by Provider or his/her/its subcontractors to\nor on the behalf of Plan's MA Member will be consistent with and will comply with Plan's Medicare Advantage\ncontractual obligations.",
+          "score_breakdown": {
+            "dense_similarity": 0.11814534664154053,
+            "bm25_score": 16.736587522212204,
+            "dense_rank": 15,
+            "bm25_rank": 13,
+            "rrf_contribution_dense": 0.02857142857142857,
+            "rrf_contribution_bm25": 0.030303030303030304
+          }
+        },
+        {
+          "rank": 10,
+          "rrf_score": 0.058823529411764705,
+          "page": 53,
+          "section": "section:ARTICLE Il > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p53_c435",
+          "content_preview": "Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, Plan shall not pay\nany Claim(s) nor accept any E...",
+          "full_content": "Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, Plan shall not pay\nany Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits that result in\nidentification of Health Services that are not reported in accordance with the Coded Service Identifier(s) guidelines and\ninstructions, will be subject to recovery through remittance adjustment or other recovery action as may be set forth in\nthe provider manual(s).\nClaim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect new,\ndeleted or replacement codes. _qgggg shall use commercially reasonable efforts to update all applicable Coded\nService Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes are\nupdated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless of\nwhether this Agreement has been amended to reflect changes to standard billing codes. If Provider bills a revised code\nprior to the effective date of the revised code, the Claim will be rejected or denied and Provider shall resubmit Claim\nwith correct code. In addition, Claims with codes which have been deleted will be rejected or denied.",
+          "score_breakdown": {
+            "dense_similarity": 0.12310105562210083,
+            "bm25_score": 16.50098604156375,
+            "dense_rank": 14,
+            "bm25_rank": 14,
+            "rrf_contribution_dense": 0.029411764705882353,
+            "rrf_contribution_bm25": 0.029411764705882353
+          }
+        }
+      ]
+    },
+    "No Steerage/SOC": {
+      "attribute_info": {
+        "number": 3,
+        "name": "No Steerage/SOC",
+        "content_preview": "No Steerage/SOC Networks and Provider Panels, Base, 2.11 Provision allows Elevance the right to deve..."
+      },
+      "statistics": {
+        "avg_rrf_score": 0.07530552745279964,
+        "max_rrf_score": 0.09523809523809523,
+        "avg_dense_score": 0.14201874732971193,
+        "avg_bm25_score": 50.98178450722707,
+        "high_rrf_matches": 10
+      },
+      "top_matches": [
+        {
+          "rank": 1,
+          "rrf_score": 0.09523809523809523,
+          "page": 5,
+          "section": "clause:2.11",
+          "chunk_id": "WA_Standard_Redacted_p5_c37",
+          "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+          "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\nPlan in its sole discretion, the date Provider has met Plan's applicable credentialing requirements, standards\nof participation and accreditation requirements. Provider acknowledges that Plan may develop, discontinue,\nor modify new or existing Networks, products and/or programs. In addition to those Networks designated on\nthe Provider Networks Attachment, may also identify Provider as a Participating Provider in\nadditional Networks, products and/or programs designated in writing from time to time by The terms\nand conditions of Provider's participation as a Participating Provider in such additional Networks, products\nand/or programs shall be on the terms and conditions as set forth in this Agreement unless otherwise agreed\nto in writing by Provider and\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO and Indemnity products), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Plan. Provider agrees to",
+          "score_breakdown": {
+            "dense_similarity": 0.44674497842788696,
+            "bm25_score": 212.2059196669031,
+            "dense_rank": 1,
+            "bm25_rank": 1,
+            "rrf_contribution_dense": 0.047619047619047616,
+            "rrf_contribution_bm25": 0.047619047619047616
+          }
+        },
+        {
+          "rank": 2,
+          "rrf_score": 0.08893280632411067,
+          "page": 16,
+          "section": "section:ARTICLE IX > clause:9.15.2",
+          "chunk_id": "WA_Standard_Redacted_p16_c145",
+          "content_preview": "PROVIDER NETWORKS ATTACHMENT\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date...",
+          "full_content": "PROVIDER NETWORKS ATTACHMENT\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date of this Agreement or; 2) as determined by Plan in its sole discretion, the date Provider has met\napplicable credentialing requirements, standards of participation and accreditation requirements:\nGovernment Programs:\nHealth Benefit Plans issued pursuant to an agreement between Plan and Agency in which Members have\naccess to a network of providers and receive an enhanced level of benefits when they obtain Covered Services\nfrom Participating Providers regardless of product licensure status. Provider participates in one or more of\nthe following Networks which support such Health Benefit Plans:\n• Medicaid Network\n• Medicare Advantage\nOther Programs:\n• Primary Care Physician Shared Savings Arrangement (Medicaid)\n• Primary Care Physician Risk Sharing Arrangement (Medicaid)\n• Provider Quality Incentive Program (PQIP) (Medicaid)\n• Provider Quality Incentive Program-Essentials (PQIP Essentials) (Medicaid)\n• Wraparound with Intensive Services (WISe) Program (Medicaid)\n• Behavioral Health Facility Incentive Program (BHFIP) (Medicaid)\n• Behavioral Health Quality Incentive Program (BHQIP) (Medicaid)\n• OB Quality Incentive Program (OBQIP) (Medicaid)\n• Freestanding Patient Centered Care Organization (FPCC)",
+          "score_breakdown": {
+            "dense_similarity": 0.16299891471862793,
+            "bm25_score": 77.81031509467859,
+            "dense_rank": 3,
+            "bm25_rank": 2,
+            "rrf_contribution_dense": 0.043478260869565216,
+            "rrf_contribution_bm25": 0.045454545454545456
+          }
+        },
+        {
+          "rank": 3,
+          "rrf_score": 0.08391608391608392,
+          "page": 6,
+          "section": "clause:2.13",
+          "chunk_id": "WA_Standard_Redacted_p6_c42",
+          "content_preview": "Provider Credentialing, Standards of Participation and Accreditation. Provider warrants that he/she/it meets\nall applicable Plan credentialing require...",
+          "full_content": "Provider Credentialing, Standards of Participation and Accreditation. Provider warrants that he/she/it meets\nall applicable Plan credentialing requirements, standards of participation, and accreditation requirements for\nthe Networks in which Provider participates. A description of the applicable credentialing requirements,\nstandards of participation, and accreditation requirements, are set forth in the provider manual(s) and/or in the\nPCS. Provider acknowledges that until such time as Provider has been determined to have fully met Plan's\ncredentialing requirements, standards of participation, and accreditation requirements, as applicable, Provider\nshall not be entitled to the benefits of participation under this Agreement, including without limitation the\nRates set forth in the PCS attached hereto.",
+          "score_breakdown": {
+            "dense_similarity": 0.17047852277755737,
+            "bm25_score": 21.297362718527374,
+            "dense_rank": 2,
+            "bm25_rank": 6,
+            "rrf_contribution_dense": 0.045454545454545456,
+            "rrf_contribution_bm25": 0.038461538461538464
+          }
+        },
+        {
+          "rank": 4,
+          "rrf_score": 0.08012820512820512,
+          "page": 39,
+          "section": "section:ARTICLE II > clause:2.1.1",
+          "chunk_id": "WA_Standard_Redacted_p39_c312",
+          "content_preview": "New Programs. Provider acknowledges that Plan has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with spe...",
+          "full_content": "New Programs. Provider acknowledges that Plan has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with specific participation criteria that may\ninclude but are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement,\nProvider shall be a Participating Provider in any such Network unless notifies Provider in\nwriting to the contrary. Plan shall notify Provider sixty (60) days in advance of any specific Network\nparticipation criteria. Any notice of non-inclusion in any of Plan's Medicare Advantage Network(s)\nshall be provided in writing sixty (60) days in advance.",
+          "score_breakdown": {
+            "dense_similarity": 0.12704408168792725,
+            "bm25_score": 60.47934083652638,
+            "dense_rank": 6,
+            "bm25_rank": 4,
+            "rrf_contribution_dense": 0.038461538461538464,
+            "rrf_contribution_bm25": 0.041666666666666664
+          }
+        },
+        {
+          "rank": 5,
+          "rrf_score": 0.08,
+          "page": 15,
+          "section": "section:ARTICLE IX > clause:9.15.2",
+          "chunk_id": "WA_Standard_Redacted_p15_c144",
+          "content_preview": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party ...",
+          "full_content": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this\nAgreement.\nProvider shall be designated as a Participating Provider in the Networks set forth on the Provider Network\nAttachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined by Plan in its sole\ndiscretion, the date Provider has met applicable credentialing requirements, standards of participation and\naccreditation requirements.\nPROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: [_______________________________]\nBy:\nSignature, Authorized Representative of Provider(s) Date\nPrinted:\nName Title\nAddress\nStreet City State Zip\nTax Identification Number (TIN):\n(Note: if any of the following is not applicable, please leave blank)\nPhone Number:\nWashington, Inc.\nINTERNAL USE ONLY\nTHE EFFECTIVE DATE OF THIS AGREEMENT IS: _[MM/DD/YYYY]_______________\nBy:\nSignature, Authorized Representative of Date\nPrinted:\nName Title",
+          "score_breakdown": {
+            "dense_similarity": 0.13148212432861328,
+            "bm25_score": 48.07895918123675,
+            "dense_rank": 5,
+            "bm25_rank": 5,
+            "rrf_contribution_dense": 0.04,
+            "rrf_contribution_bm25": 0.04
+          }
+        },
+        {
+          "rank": 6,
+          "rrf_score": 0.07796101949025487,
+          "page": 5,
+          "section": "clause:2.11",
+          "chunk_id": "WA_Standard_Redacted_p5_c38",
+          "content_preview": "to in writing by Provider and\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO an...",
+          "full_content": "to in writing by Provider and\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO and Indemnity products), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Plan. Provider agrees to\nrefer Members to such designated Participating Providers in a Health Services Designated Network for the\nprovision of certain Health Services, even if Provider performs such services. Notwithstanding any other\nprovision in this Agreement, if Provider provides a Health Service to a Member for which Provider is not a\ndesignated Participating Provider in a Health Services Designated Network, then Provider agrees that\nhe/she/it shall not be reimbursed for such services by Plan or the Member, unless Provider was\nauthorized to provide such Health Service by Plan.",
+          "score_breakdown": {
+            "dense_similarity": 0.0984002947807312,
+            "bm25_score": 62.08094037787448,
+            "dense_rank": 9,
+            "bm25_rank": 3,
+            "rrf_contribution_dense": 0.034482758620689655,
+            "rrf_contribution_bm25": 0.043478260869565216
+          }
+        },
+        {
+          "rank": 7,
+          "rrf_score": 0.06904761904761905,
+          "page": 17,
+          "section": "section:ARTICLE I > clause:1.7",
+          "chunk_id": "WA_Standard_Redacted_p17_c155",
+          "content_preview": "Participating Providers List.  \n|  |  |",
+          "full_content": "Participating Providers List.  \n|  |  |",
+          "score_breakdown": {
+            "dense_similarity": 0.10155034065246582,
+            "bm25_score": 11.405875642946489,
+            "dense_rank": 8,
+            "bm25_rank": 10,
+            "rrf_contribution_dense": 0.03571428571428571,
+            "rrf_contribution_bm25": 0.03333333333333333
+          }
+        },
+        {
+          "rank": 8,
+          "rrf_score": 0.061669829222011384,
+          "page": 13,
+          "section": "clause:9.3.3.1",
+          "chunk_id": "WA_Standard_Redacted_p13_c126",
+          "content_preview": "Addition or removal of individual provider(s) who are employed or subcontracted with\nProvider, if applicable. Any new individual providers must meet P...",
+          "full_content": "Addition or removal of individual provider(s) who are employed or subcontracted with\nProvider, if applicable. Any new individual providers must meet Plan's credentialing\nrequirements or other applicable standards of participation prior to being designated as a\nParticipating Provider; or",
+          "score_breakdown": {
+            "dense_similarity": 0.042299628257751465,
+            "bm25_score": 10.133362700801701,
+            "dense_rank": 14,
+            "bm25_rank": 11,
+            "rrf_contribution_dense": 0.029411764705882353,
+            "rrf_contribution_bm25": 0.03225806451612903
+          }
+        },
+        {
+          "rank": 9,
+          "rrf_score": 0.06060606060606061,
+          "page": 2,
+          "section": "section:ARTICLE I",
+          "chunk_id": "WA_Standard_Redacted_p2_c7",
+          "content_preview": "or self-insured programs.\n\"Participating Provider\" means a person, including but not limited to, a physician or other health care professional or\nenti...",
+          "full_content": "or self-insured programs.\n\"Participating Provider\" means a person, including but not limited to, a physician or other health care professional or\nentity, including but not limited to a hospital, health care facility, a partnership of such professionals, or a professional\ncorporation, or an employee or subcontractor of such person or entity, that is party to an agreement to provide Covered\nServices to Members that has met all applicable required Plan credentialing requirements, standards of participation\nand accreditation requirements for the services the Participating Provider provides, and that is designated by Plan to\nparticipate in one or more Network(s). Unless otherwise specifically delineated, all references herein to \"Provider\" may\nalso mean and refer to \"Participating Provider\".\n\"Participation Attachment(s)\" means the document(s) attached hereto and incorporated herein by reference, and which\nidentifies the additional duties and/or obligations related to Network(s), Government Program(s), Health Benefit Plan(s),\nand/or Plan programs such as quality and/or incentive programs.\n\"Plan\" means an Affiliate, and/or an Other Payor. For purposes of this Agreement, when the term \"Plan\"\napplies to an entity other than \"Plan\" shall be construed to only mean such entity (i.e., the financially\nresponsible Affiliate or Other Payor under the Member's Health Benefit Plan).",
+          "score_breakdown": {
+            "dense_similarity": 0.06063908338546753,
+            "bm25_score": 6.157354909693372,
+            "dense_rank": 13,
+            "bm25_rank": 13,
+            "rrf_contribution_dense": 0.030303030303030304,
+            "rrf_contribution_bm25": 0.030303030303030304
+          }
+        },
+        {
+          "rank": 10,
+          "rrf_score": 0.05555555555555555,
+          "page": 30,
+          "section": "clause:5.11",
+          "chunk_id": "WA_Standard_Redacted_p30_c245",
+          "content_preview": "Prohibited Practices. Nothing in this Agreement shall be construed as prohibiting any Participating Provider\nfrom:",
+          "full_content": "Prohibited Practices. Nothing in this Agreement shall be construed as prohibiting any Participating Provider\nfrom:",
+          "score_breakdown": {
+            "dense_similarity": 0.07854950428009033,
+            "bm25_score": 0.16841394308251512,
+            "dense_rank": 10,
+            "bm25_rank": 25,
+            "rrf_contribution_dense": 0.03333333333333333,
+            "rrf_contribution_bm25": 0.022222222222222223
+          }
+        }
+      ]
+    },
+    "Medicaid Fee Schedule": {
+      "attribute_info": {
+        "number": 4,
+        "name": "Medicaid Fee Schedule",
+        "content_preview": "Medicaid Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reim..."
+      },
+      "statistics": {
+        "avg_rrf_score": 0.07152507660977599,
+        "max_rrf_score": 0.09523809523809523,
+        "avg_dense_score": 0.19600038528442382,
+        "avg_bm25_score": 26.768801717494007,
+        "high_rrf_matches": 10
+      },
+      "top_matches": [
+        {
+          "rank": 1,
+          "rrf_score": 0.09523809523809523,
+          "page": 55,
+          "section": "section:ARTICLE Ill > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p55_c446",
+          "content_preview": "Fee Schedule: For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare\nAdvantage Network, Provider agrees to acc...",
+          "full_content": "Fee Schedule: For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare\nAdvantage Network, Provider agrees to accept an amount that is the lesser of Eligible Charges or the [REDACTED]\nMedicare Advantage Rate, minus applicable Cost Shares, and modified before payment as described below. Provider\nagrees that this amount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe [REDACTED] Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nMEDICAID\nFee Schedule:\nFor purposes of determining the █████ Rate, the total reimbursement amount that Provider and █████ have agreed\nupon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on the date of\nservice shall be as set forth below.\nThe parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by █████ at any time\nduring the term of this Agreement and will be applied on a prospective basis.\nWashington Enterprise Provider Agreement PCS 55 [###########]\n© 2024 July – Washington, Inc. [MM/DD/YYYY]",
+          "score_breakdown": {
+            "dense_similarity": 0.47199511528015137,
+            "bm25_score": 64.62722000025855,
+            "dense_rank": 1,
+            "bm25_rank": 1,
+            "rrf_contribution_dense": 0.047619047619047616,
+            "rrf_contribution_bm25": 0.047619047619047616
+          }
+        },
+        {
+          "rank": 2,
+          "rrf_score": 0.09090909090909091,
+          "page": 54,
+          "section": "section:ARTICLE Il > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p54_c443",
+          "content_preview": "fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee schedule(s)/rate(s)/methodologies; iii) vendor\nfee schedule(s)/rate(s)/methodo...",
+          "full_content": "fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee schedule(s)/rate(s)/methodologies; iii) vendor\nfee schedule(s)/rate(s)/methodologies; or iv) any other entity's published fee schedule(s)/rate(s)/methodologies\n(collectively \"External Sources\") no later than sixty (60) days after qu receipt of the final fee\nschedule(s)/rate(s)/methodologies change from such External Sources, or on the effective date of such final fee\nschedule(s)/rate(s)/methodologies change, whichever is later. The effective date of such final fee\nschedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by External Sources.\nFee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed prior to the\nimplementation of the new J Rate(s) in J payment system shall not be reprocessed, however, if\nreprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential under and/or\nover payment to a Provider, then Plan may reconcile the Claim adjustments to determine the remaining amount\nProvider owes Plan, or that Plan owes to Provider. Any resultant overpayment recoveries (i.e. Provider owes Plan)\nshall occur automatically without advance notification to Provider. Unless otherwise required by Regulatory\nRequirements, jg shall not be responsible for interest payments that may be the result of a late notification by",
+          "score_breakdown": {
+            "dense_similarity": 0.3163954019546509,
+            "bm25_score": 36.84740009267903,
+            "dense_rank": 2,
+            "bm25_rank": 2,
+            "rrf_contribution_dense": 0.045454545454545456,
+            "rrf_contribution_bm25": 0.045454545454545456
+          }
+        },
+        {
+          "rank": 3,
+          "rrf_score": 0.08333333333333333,
+          "page": 2,
+          "section": "section:ARTICLE I",
+          "chunk_id": "WA_Standard_Redacted_p2_c9",
+          "content_preview": "state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an\nAgency or government regulator in c...",
+          "full_content": "state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an\nAgency or government regulator in connection with the procurement, development or operation of a Health Benefit\nPlan, or the performance required by either party under this Agreement. The omission from this Agreement of an\nexpress reference to a Regulatory Requirement applicable to either party in connection with their duties and\nresponsibilities shall in no way limit such party's obligation to comply with such Regulatory Requirement.\n\" Rate\" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the\ntotal reimbursement amount that Provider and have agreed upon as set forth in the Plan Compensation\nSchedule (\"PCS\"). The Rate includes applicable Cost Shares, and shall represent payment in full to Provider\nfor Covered Services.",
+          "score_breakdown": {
+            "dense_similarity": 0.24129021167755127,
+            "bm25_score": 32.843104407567715,
+            "dense_rank": 4,
+            "bm25_rank": 4,
+            "rrf_contribution_dense": 0.041666666666666664,
+            "rrf_contribution_bm25": 0.041666666666666664
+          }
+        },
+        {
+          "rank": 4,
+          "rrf_score": 0.07573632538569425,
+          "page": 54,
+          "section": "section:ARTICLE Ill",
+          "chunk_id": "WA_Standard_Redacted_p54_c445",
+          "content_preview": "SPECIFIC REIMBURSEMENT TERMS:\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advant...",
+          "full_content": "SPECIFIC REIMBURSEMENT TERMS:\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the gy Medicare Advantage Rate,\nminus applicable Cost Shares, and modified before payment as described below. Provider agrees that this amount,\nplus applicable Cost Shares, is full compensation for Covered Services.",
+          "score_breakdown": {
+            "dense_similarity": 0.2861526608467102,
+            "bm25_score": 13.454013213455154,
+            "dense_rank": 3,
+            "bm25_rank": 11,
+            "rrf_contribution_dense": 0.043478260869565216,
+            "rrf_contribution_bm25": 0.03225806451612903
+          }
+        },
+        {
+          "rank": 5,
+          "rrf_score": 0.06971153846153846,
+          "page": 26,
+          "section": "clause:2.6",
+          "chunk_id": "WA_Standard_Redacted_p26_c201",
+          "content_preview": "Schedule of Benefits and Determination of Medicaid Covered Services. shall make available upon\nProvider's request schedules of Medicaid Covered Servic...",
+          "full_content": "Schedule of Benefits and Determination of Medicaid Covered Services. shall make available upon\nProvider's request schedules of Medicaid Covered Services for applicable Medicaid Program(s), and will notify\nProvider in a timely manner of any material amendments or modifications to such schedules.",
+          "score_breakdown": {
+            "dense_similarity": 0.1402629017829895,
+            "bm25_score": 22.071518866500917,
+            "dense_rank": 12,
+            "bm25_rank": 6,
+            "rrf_contribution_dense": 0.03125,
+            "rrf_contribution_bm25": 0.038461538461538464
+          }
+        },
+        {
+          "rank": 6,
+          "rrf_score": 0.0664488017429194,
+          "page": 51,
+          "section": "section:ARTICLE XII > clause:10.3",
+          "chunk_id": "WA_Standard_Redacted_p51_c426",
+          "content_preview": "PLAN COMPENSATION SCHEDULE (\"PCS\")\nARTICLE|\nDEFINITIONS\nThe definitions set forth below shall apply with respect to all of the terms outlined in this ...",
+          "full_content": "PLAN COMPENSATION SCHEDULE (\"PCS\")\nARTICLE|\nDEFINITIONS\nThe definitions set forth below shall apply with respect to all of the terms outlined in this PCS. Terms not otherwise\ndefined in this PCS and defined elsewhere in the Agreement shall carry the meanings set forth in the Agreement.\n\"Capitation\" means the amount paid by jg to a provider or management services organization on a per member\nper month basis for either specific services or the total cost of care for Covered Services.\n\"Case Rate\" means the all-inclusive jgggg Rate for an entire admission or one outpatient encounter for Covered\nServices.\n“Chargemaster\" or \"Charge Master\" means facility's listing of facility charges for products, services and supplies.\n\"Coded Service Identifier(s)\" means a listing of descriptive terms and identifying codes, updated from time to time by\nCMS or other industry source, for reporting Health Services on the CMS 1500 or CMS 1450/UB-04 claim form or its\nsuccessor as applicable based on the services provided. The codes include but are not limited to, American Medical\nAssociation Current Procedural Terminology (\"CPT®-4\"), CMS Healthcare Common Procedure Coding System\n(\"HCPCS\"), International Classification of Diseases, 10th Revision (\"ICD-10\"), National Uniform Billing Committee\n(\"Revenue Code\") and National Drug Code (\"NDC\") or their successors.",
+          "score_breakdown": {
+            "dense_similarity": 0.12794941663742065,
+            "bm25_score": 18.10209820176727,
+            "dense_rank": 14,
+            "bm25_rank": 7,
+            "rrf_contribution_dense": 0.029411764705882353,
+            "rrf_contribution_bm25": 0.037037037037037035
+          }
+        },
+        {
+          "rank": 7,
+          "rrf_score": 0.06380952380952382,
+          "page": 34,
+          "section": "clause:5.32.4",
+          "chunk_id": "WA_Standard_Redacted_p34_c283",
+          "content_preview": "In accordance with subsection 5.32.3 above, will reimburse Provider for a Medicaid\nCovered Service provided to a Medicaid Member through telemedicine ...",
+          "full_content": "In accordance with subsection 5.32.3 above, will reimburse Provider for a Medicaid\nCovered Service provided to a Medicaid Member through telemedicine as provided by Washington\nlaw, the same amount of compensation would pay Provider under this Agreement, if the\nMedicaid Covered Service was provided in person by Provider.",
+          "score_breakdown": {
+            "dense_similarity": 0.2220553159713745,
+            "bm25_score": 5.425956685732839,
+            "dense_rank": 5,
+            "bm25_rank": 22,
+            "rrf_contribution_dense": 0.04,
+            "rrf_contribution_bm25": 0.023809523809523808
+          }
+        },
+        {
+          "rank": 8,
+          "rrf_score": 0.06127659574468085,
+          "page": 54,
+          "section": "section:ARTICLE Il > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p54_c440",
+          "content_preview": "\"Non-Priced Codes\"). — shall only reimburse Non-Priced Codes for Covered Services in the following\nsituations: (i) the Non-Pri le does not have a publ...",
+          "full_content": "\"Non-Priced Codes\"). — shall only reimburse Non-Priced Codes for Covered Services in the following\nsituations: (i) the Non-Pri le does not have a published dollar amount on the then current applicable Plan, State\nor CMS Fee Schedule, (ii) the Non-Priced Code has a zero dollar amount listed, or (iii) the Non-Priced Code requires\nmanual pricing. In such situations, such Non-Priced Code shall be reimbursed at a rate established by a for\nsuch Covered Service. Notwithstanding the foregoing, Ng shall not price Non-Priced Codes that are not Covered\nServices under the Members Health Benefit Plan. J May require the submission of medical records, invoices,\nor other documentation for Claims payment consideration.\nReimbursement for Sa Rate Based on Eligible Charges. Notwithstanding any reimbursement amount set forth\nherein, Provider shall only be allowed to receive such reimbursement if such reimbursement is for an Eligible Charge.\nIn addition, if Provider reimbursement is under one or more of the following methodologies: Capitation, Case Rate,\nDRG Rate, Encounter Rate, Global Case Rate, Per Diem Rate, Per Relative Value Unit (RVU), and Per Visit Rate, then\nindividual services billed shall not be reimbursed separately, unless otherwise specified in the PCS Attachment(s).\nReimbursement for Subcontractors. Plan shall not be liable for any reimbursement in addition to the applicable",
+          "score_breakdown": {
+            "dense_similarity": 0.0762096643447876,
+            "bm25_score": 27.80942629350239,
+            "dense_rank": 27,
+            "bm25_rank": 5,
+            "rrf_contribution_dense": 0.02127659574468085,
+            "rrf_contribution_bm25": 0.04
+          }
+        },
+        {
+          "rank": 9,
+          "rrf_score": 0.06014492753623188,
+          "page": 54,
+          "section": "section:ARTICLE Il > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p54_c442",
+          "content_preview": "provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The gg Rates in this Agreement include...",
+          "full_content": "provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The gg Rates in this Agreement include all sales and use taxes and other taxes\non Provider revenue, gross earnings, profits, income and other taxes, charges or assessments of any nature\nwhatsoever (together with any related interest or penalties) now or hereafter imposed against or collectible by Provider\nwith respect to Covered Services, unless otherwise required by Agency pursuant to Regulatory Requirements. Neither\nProvider nor Plan shall add any amount to or deduct any amount from the (J Rates, whether on account of\ntaxes, assessments, tax penalties or tax exemptions.\nUpdates tog] Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements, and\nnotwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, I shall use commercially reasonable\nefforts to update the gy Rate(s) based on External Sources, which include but are not limited to, i) CMS Medicare\nfee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee schedule(s)/rate(s)/methodologies; iii) vendor\nfee schedule(s)/rate(s)/methodologies; or iv) any other entity's published fee schedule(s)/rate(s)/methodologies\n(collectively \"External Sources\") no later than sixty (60) days after qu receipt of the final fee",
+          "score_breakdown": {
+            "dense_similarity": 0.024570822715759277,
+            "bm25_score": 36.26940271089494,
+            "dense_rank": 40,
+            "bm25_rank": 3,
+            "rrf_contribution_dense": 0.016666666666666666,
+            "rrf_contribution_bm25": 0.043478260869565216
+          }
+        },
+        {
+          "rank": 10,
+          "rrf_score": 0.048642533936651584,
+          "page": 22,
+          "section": "clause:16",
+          "chunk_id": "WA_Standard_Redacted_p22_c179",
+          "content_preview": ". Payment of Claims.\nThe Managed Care Plan shall pay claims from the IHCP in accordance section 1932(h)(2) of the Act, (42 U.S.C.\n§1396u-2(h)), 42 C.F...",
+          "full_content": ". Payment of Claims.\nThe Managed Care Plan shall pay claims from the IHCP in accordance section 1932(h)(2) of the Act, (42 U.S.C.\n§1396u-2(h)), 42 C.F.R. 438.14(c)(2), and 457.1209 (the \"Federal Payment Amount Requirements\"), and shall pay at\neither the rate provided under the State plan in a Fee For Service payment methodology, or the applicable encounter\nrate published annually in the Federal Register by the IHS (the \"HIS Encounter Rate\"), whichever is higher; provided\nthat if the Managed Care Plan does not pay the IHS Encounter Rate, the state shall pay the difference between the\nIHS Encounter Rate and the amount paid by the Managed Care Plan such that the IHCP receives the amount to which\nit is entitled under the Federal Payment Amount Requirements.",
+          "score_breakdown": {
+            "dense_similarity": 0.05312234163284302,
+            "bm25_score": 10.237876702581296,
+            "dense_rank": 32,
+            "bm25_rank": 14,
+            "rrf_contribution_dense": 0.019230769230769232,
+            "rrf_contribution_bm25": 0.029411764705882353
+          }
+        }
+      ]
+    },
+    "Medicare Fee Schedule": {
+      "attribute_info": {
+        "number": 5,
+        "name": "Medicare Fee Schedule",
+        "content_preview": "Medicare Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reim..."
+      },
+      "statistics": {
+        "avg_rrf_score": 0.07507925478407886,
+        "max_rrf_score": 0.09307359307359307,
+        "avg_dense_score": 0.27972028851509095,
+        "avg_bm25_score": 58.27752760456203,
+        "high_rrf_matches": 10
+      },
+      "top_matches": [
+        {
+          "rank": 1,
+          "rrf_score": 0.09307359307359307,
+          "page": 54,
+          "section": "section:ARTICLE Ill",
+          "chunk_id": "WA_Standard_Redacted_p54_c445",
+          "content_preview": "SPECIFIC REIMBURSEMENT TERMS:\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advant...",
+          "full_content": "SPECIFIC REIMBURSEMENT TERMS:\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the gy Medicare Advantage Rate,\nminus applicable Cost Shares, and modified before payment as described below. Provider agrees that this amount,\nplus applicable Cost Shares, is full compensation for Covered Services.",
+          "score_breakdown": {
+            "dense_similarity": 0.6726701259613037,
+            "bm25_score": 159.57864645979157,
+            "dense_rank": 2,
+            "bm25_rank": 1,
+            "rrf_contribution_dense": 0.045454545454545456,
+            "rrf_contribution_bm25": 0.047619047619047616
+          }
+        },
+        {
+          "rank": 2,
+          "rrf_score": 0.09307359307359307,
+          "page": 55,
+          "section": "section:ARTICLE Ill > clause:04",
+          "chunk_id": "WA_Standard_Redacted_p55_c446",
+          "content_preview": "Fee Schedule: For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare\nAdvantage Network, Provider agrees to acc...",
+          "full_content": "Fee Schedule: For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare\nAdvantage Network, Provider agrees to accept an amount that is the lesser of Eligible Charges or the [REDACTED]\nMedicare Advantage Rate, minus applicable Cost Shares, and modified before payment as described below. Provider\nagrees that this amount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe [REDACTED] Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nMEDICAID\nFee Schedule:\nFor purposes of determining the █████ Rate, the total reimbursement amount that Provider and █████ have agreed\nupon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on the date of\nservice shall be as set forth below.\nThe parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by █████ at any time\nduring the term of this Agreement and will be applied on a prospective basis.\nWashington Enterprise Provider Agreement PCS 55 [###########]\n© 2024 July – Washington, Inc. [MM/DD/YYYY]",
+          "score_breakdown": {
+            "dense_similarity": 0.7161868810653687,
+            "bm25_score": 134.1338419589596,
+            "dense_rank": 1,
+            "bm25_rank": 2,
+            "rrf_contribution_dense": 0.047619047619047616,
+            "rrf_contribution_bm25": 0.045454545454545456
+          }
+        },
+        {
+          "rank": 3,
+          "rrf_score": 0.08193979933110368,
+          "page": 39,
+          "section": "section:ARTICLE II > clause:2.1",
+          "chunk_id": "WA_Standard_Redacted_p39_c311",
+          "content_preview": "Participation-Medicare Advantage. As a participant in Plan's Medicare Advantage Network, Provider will\nrender MA Covered Services to MA Members enroll...",
+          "full_content": "Participation-Medicare Advantage. As a participant in Plan's Medicare Advantage Network, Provider will\nrender MA Covered Services to MA Members enrolled in Plan's Medicare Advantage Program in accordance\nwith the terms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment,\nor in the PCS, all terms and conditions of the Agreement will apply to Provider's participation in Plan's Medicare\nAdvantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of\nand payment for Health Services provided to MA Members. This Agreement does not apply to any of Plan's\nMedicare Advantage Private Fee for Service or Medical Savings Account Programs. If Plan contracts with a\nthird party to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to\ncontract separately with such third party to maintain its status as a Participating Provider for such Network(s).",
+          "score_breakdown": {
+            "dense_similarity": 0.3445358872413635,
+            "bm25_score": 38.701935342468,
+            "dense_rank": 3,
+            "bm25_rank": 6,
+            "rrf_contribution_dense": 0.043478260869565216,
+            "rrf_contribution_bm25": 0.038461538461538464
+          }
+        },
+        {
+          "rank": 4,
+          "rrf_score": 0.08012820512820512,
+          "page": 2,
+          "section": "section:ARTICLE I",
+          "chunk_id": "WA_Standard_Redacted_p2_c9",
+          "content_preview": "state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an\nAgency or government regulator in c...",
+          "full_content": "state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an\nAgency or government regulator in connection with the procurement, development or operation of a Health Benefit\nPlan, or the performance required by either party under this Agreement. The omission from this Agreement of an\nexpress reference to a Regulatory Requirement applicable to either party in connection with their duties and\nresponsibilities shall in no way limit such party's obligation to comply with such Regulatory Requirement.\n\" Rate\" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the\ntotal reimbursement amount that Provider and have agreed upon as set forth in the Plan Compensation\nSchedule (\"PCS\"). The Rate includes applicable Cost Shares, and shall represent payment in full to Provider\nfor Covered Services.",
+          "score_breakdown": {
+            "dense_similarity": 0.2072519063949585,
+            "bm25_score": 41.83829535751006,
+            "dense_rank": 6,
+            "bm25_rank": 4,
+            "rrf_contribution_dense": 0.038461538461538464,
+            "rrf_contribution_bm25": 0.041666666666666664
+          }
+        },
+        {
+          "rank": 5,
+          "rrf_score": 0.07289002557544758,
+          "page": 38,
+          "section": "section:ARTICLE I",
+          "chunk_id": "WA_Standard_Redacted_p38_c308",
+          "content_preview": "only those Covered Services provided under Plan's Medicare Advantage Program.\n\"Medicare Advantage Member (\"MA Member\")\" means, for purposes of this At...",
+          "full_content": "only those Covered Services provided under Plan's Medicare Advantage Program.\n\"Medicare Advantage Member (\"MA Member\")\" means, for purposes of this Attachment, a Member who is\ncovered under a Medicare agreement between CMS and Plan under Part C of Title XVIII of the Social Security\nAct (\"Medicare Advantage Program\") and for Plan's DSNP Medicare Program, the beneficiary is also entitled\nto Medicaid under Title XIX of the Social Security Act, see 42 USC §1396 et seq..\n\"Medicare Advantage Network\" means Network of Providers that provides MA Covered Services to MA\nMembers.\n\"Related Entity(ies)\" means any entity that is related to by common ownership or control and (1)\nperforms some of management functions under contract or delegation; (2) furnishes services to\nMA Member under an oral or written agreement; or (3) leases real property or sells materials to at\na cost of more than twenty-five hundred dollars ($2,500) during a contract period.\n\"Urgently Needed Care\" means MA Covered Services provided when a MA Member is either: (1) temporarily\nabsent from Plan's Medicare Advantage service area and such MA Covered Services are Medically Necessary\nand immediately required: (a) as a result of an unforeseen illness, injury, or condition; and (b) it was not",
+          "score_breakdown": {
+            "dense_similarity": 0.08375132083892822,
+            "bm25_score": 44.361280999525,
+            "dense_rank": 14,
+            "bm25_rank": 3,
+            "rrf_contribution_dense": 0.029411764705882353,
+            "rrf_contribution_bm25": 0.043478260869565216
+          }
+        },
+        {
+          "rank": 6,
+          "rrf_score": 0.07023809523809524,
+          "page": 45,
+          "section": "section:ARTICLE XII > clause:12.2",
+          "chunk_id": "WA_Standard_Redacted_p45_c379",
+          "content_preview": "Interpret According to Medicare Laws. Provider and Plan intend that the terms of the Agreement and this\nAttachment as they relate to the provision of ...",
+          "full_content": "Interpret According to Medicare Laws. Provider and Plan intend that the terms of the Agreement and this\nAttachment as they relate to the provision of MA Covered Services under the Medicare Advantage Program\nshall be interpreted in a manner consistent with applicable requirements under Medicare Regulatory\nRequirements.",
+          "score_breakdown": {
+            "dense_similarity": 0.30323469638824463,
+            "bm25_score": 29.90933607040591,
+            "dense_rank": 4,
+            "bm25_rank": 15,
+            "rrf_contribution_dense": 0.041666666666666664,
+            "rrf_contribution_bm25": 0.02857142857142857
+          }
+        },
+        {
+          "rank": 7,
+          "rrf_score": 0.07019704433497537,
+          "page": 44,
+          "section": "section:ARTICLE IX > clause:9.1",
+          "chunk_id": "WA_Standard_Redacted_p44_c362",
+          "content_preview": "Compliance: Medicare Laws/Regulations. Provider agrees to comply, and to require any of his/her/its\nsubcontractors to comply, with all applicable Medi...",
+          "full_content": "Compliance: Medicare Laws/Regulations. Provider agrees to comply, and to require any of his/her/its\nsubcontractors to comply, with all applicable Medicare Regulatory Requirements and CMS instructions.\nFurther, Provider agrees that any MA Covered Services provided by Provider or his/her/its subcontractors to\nor on the behalf of Plan's MA Member will be consistent with and will comply with Plan's Medicare Advantage\ncontractual obligations.",
+          "score_breakdown": {
+            "dense_similarity": 0.13266032934188843,
+            "bm25_score": 35.403196953266544,
+            "dense_rank": 9,
+            "bm25_rank": 8,
+            "rrf_contribution_dense": 0.034482758620689655,
+            "rrf_contribution_bm25": 0.03571428571428571
+          }
+        },
+        {
+          "rank": 8,
+          "rrf_score": 0.06478578892371996,
+          "page": 41,
+          "section": "clause:5.6",
+          "chunk_id": "WA_Standard_Redacted_p41_c336",
+          "content_preview": "Hold Harmless. In addition to the hold harmless provision in the Agreement, Provider agrees that in no event,\nincluding but not limited to non-payment...",
+          "full_content": "Hold Harmless. In addition to the hold harmless provision in the Agreement, Provider agrees that in no event,\nincluding but not limited to non-payment by Plan, insolvency of Plan or breach of the Agreement, shall Provider\nbill, charge, collect a deposit from, seek compensation, remuneration or reimbursement from, or have any\nrecourse against a MA Member or persons other than Plan acting on their behalf for MA Covered Services\nprovided pursuant to this Attachment. This section does not prohibit the collection of supplemental charges\nor Cost Shares on Plan's behalf made in accordance with the terms of the MA Member's Health Benefit Plan\nor amounts due for services that have been correctly identified in advance as a non-MA Covered Service,\nsubject to medical coverage criteria, with appropriate disclosure to the MA Member of their financial obligation.\nThis advance notice must be provided in accordance with the CMS regulations for Medicare Advantage\norganizations. CMS regulations require that a coverage determination be made with a standard denial notice\n(Notice of Denial of Medical Coverage (or Payment)/CMS-10003) for a non-Covered Service when such\nHealth Service is typically not covered, but could be covered under specific conditions. If prior to rendering\nthe non-Covered Service, Provider obtains, or instructs the MA Member to obtain, a coverage determination\nof a non-Covered Service(s), the MA Member can be held financially responsible for non-Covered Services.",
+          "score_breakdown": {
+            "dense_similarity": 0.0972895622253418,
+            "bm25_score": 34.36585618379766,
+            "dense_rank": 13,
+            "bm25_rank": 9,
+            "rrf_contribution_dense": 0.030303030303030304,
+            "rrf_contribution_bm25": 0.034482758620689655
+          }
+        },
+        {
+          "rank": 9,
+          "rrf_score": 0.06272727272727273,
+          "page": 38,
+          "section": "section:ARTICLE VI > clause:7.7",
+          "chunk_id": "WA_Standard_Redacted_p38_c305",
+          "content_preview": "MEDICARE ADVANTAGE\nPARTICIPATION ATTACHMENT TO THE\nWASHINGTON, INC.\nPROVIDER AGREEMENT\nThis is a Medicare Advantage Participation Attachment (\"Attachm...",
+          "full_content": "MEDICARE ADVANTAGE\nPARTICIPATION ATTACHMENT TO THE\nWASHINGTON, INC.\nPROVIDER AGREEMENT\nThis is a Medicare Advantage Participation Attachment (\"Attachment\") to the Provider Agreement\n(\"Agreement\"), entered into by and between and Provider and is incorporated into the Agreement.",
+          "score_breakdown": {
+            "dense_similarity": 0.21898025274276733,
+            "bm25_score": 22.985778428332694,
+            "dense_rank": 5,
+            "bm25_rank": 24,
+            "rrf_contribution_dense": 0.04,
+            "rrf_contribution_bm25": 0.022727272727272728
+          }
+        },
+        {
+          "rank": 10,
+          "rrf_score": 0.06173913043478261,
+          "page": 3,
+          "section": "clause:2.6.1",
+          "chunk_id": "WA_Standard_Redacted_p3_c19",
+          "content_preview": "Provider agrees to accept as payment in full, in all circumstances, the applicable Rate\nwhether such payment is in the form of a Cost Share, a payment...",
+          "full_content": "Provider agrees to accept as payment in full, in all circumstances, the applicable Rate\nwhether such payment is in the form of a Cost Share, a payment by Plan, or a payment by another\nsource, such as through coordination of benefits or subrogation. Provider shall bill, collect, and\naccept compensation for Cost Shares. Provider agrees to make reasonable efforts to verify Cost\nShares prior to billing for such Cost Shares. In no event shall Plan be obligated to pay Provider or\nany person acting on behalf of Provider for services that are not Covered Services, or any amounts\nin excess of the Rate less Cost Shares or payment by another source, as set forth above.\nConsistent with the foregoing, Provider agrees to accept the Rate as payment in full if the\nMember has not yet satisfied his/her deductible.",
+          "score_breakdown": {
+            "dense_similarity": 0.02064192295074463,
+            "bm25_score": 41.49710829156332,
+            "dense_rank": 26,
+            "bm25_rank": 5,
+            "rrf_contribution_dense": 0.021739130434782608,
+            "rrf_contribution_bm25": 0.04
+          }
+        }
+      ]
+    }
+  },
+  "collection_info": {
+    "collection_key": "WAstandard",
+    "collection_name": "WAstandard",
+    "description": "WA Standard Template",
+    "top_k": 10,
+    "processed_at": "2025-09-29T01:48:14.809865"
+  }
+}

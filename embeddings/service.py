@@ -6,12 +6,16 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import uvicorn
 import numpy as np
+from routes.chart_routes import router as charts_router
 
 app = FastAPI(
     title="Embeddings Service",
     description="FastAPI wrapper for Ollama embeddings using Qwen3-Embedding 0.6B",
     version="1.0.0"
 )
+
+# Include charts router
+app.include_router(charts_router)
 
 # Configuration
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://ollama:11434")

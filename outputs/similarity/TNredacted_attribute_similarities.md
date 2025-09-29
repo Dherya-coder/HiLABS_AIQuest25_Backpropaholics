@@ -1,0 +1,5589 @@
+# Attribute Similarity Results — TNredacted
+
+Generated: 2025-09-29T02:06:56.708753
+
+## Collection Info
+
+```json
+{
+  "collection_key": "TNredacted",
+  "collection_name": "TNredacted",
+  "description": "TN Redacted Contracts",
+  "top_k": 20,
+  "processed_at": "2025-09-29T01:48:17.047548"
+}
+```
+
+## Summary
+
+```json
+{
+  "method": "RRF (Dense + BM25)",
+  "total_attributes": 5,
+  "total_contracts": 2404,
+  "top_k": 20,
+  "retrieval_k": null,
+  "rrf_k": 20
+}
+```
+
+## Matches
+
+### Attribute: Medicaid Timely Filing
+
+```json
+{
+  "attribute_info": {
+    "number": 1,
+    "name": "Medicaid Timely Filing",
+    "content_preview": "Medicaid Timely Filing Submission and Adjudication of Medicaid Claims (Enterprise Agreement) This pr..."
+  },
+  "statistics": {
+    "avg_rrf_score": 0.05605457521121767,
+    "max_rrf_score": 0.09109730848861283,
+    "avg_dense_score": 0.4219144359230995,
+    "avg_bm25_score": 88.92039137106121,
+    "high_rrf_matches": 20
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "rrf_score": 0.09109730848861283,
+      "page": 21,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract4_Redacted_p21_c169",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.8634896129369736,
+        "bm25_score": 176.30991218806855,
+        "dense_rank": 3,
+        "bm25_rank": 1,
+        "rrf_contribution_dense": 0.043478260869565216,
+        "rrf_contribution_bm25": 0.047619047619047616
+      }
+    },
+    {
+      "rank": 2,
+      "rrf_score": 0.08928571428571427,
+      "page": 35,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract3_Redacted_p35_c270",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day period\nwill not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.8650835007429123,
+        "bm25_score": 176.30991218806855,
+        "dense_rank": 1,
+        "bm25_rank": 4,
+        "rrf_contribution_dense": 0.047619047619047616,
+        "rrf_contribution_bm25": 0.041666666666666664
+      }
+    },
+    {
+      "rank": 3,
+      "rrf_score": 0.08514492753623187,
+      "page": 37,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract2_Redacted_p37_c320",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.859091579914093,
+        "bm25_score": 176.30991218806855,
+        "dense_rank": 4,
+        "bm25_rank": 3,
+        "rrf_contribution_dense": 0.041666666666666664,
+        "rrf_contribution_bm25": 0.043478260869565216
+      }
+    },
+    {
+      "rank": 4,
+      "rrf_score": 0.0757142857142857,
+      "page": 36,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract4_Redacted_p36_c291",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.7443642020225525,
+        "bm25_score": 123.08327927625596,
+        "dense_rank": 8,
+        "bm25_rank": 5,
+        "rrf_contribution_dense": 0.03571428571428571,
+        "rrf_contribution_bm25": 0.04
+      }
+    },
+    {
+      "rank": 5,
+      "rrf_score": 0.07448275862068965,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:3.1",
+      "chunk_id": "TN_Contract1_Redacted_p33_c259",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims ae u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims ae using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or",
+      "score_breakdown": {
+        "dense_similarity": 0.8146995306015015,
+        "bm25_score": 122.33947217485094,
+        "dense_rank": 5,
+        "bm25_rank": 9,
+        "rrf_contribution_dense": 0.04,
+        "rrf_contribution_bm25": 0.034482758620689655
+      }
+    },
+    {
+      "rank": 6,
+      "rrf_score": 0.07019704433497537,
+      "page": 50,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract3_Redacted_p50_c394",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to 's Medicare ...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to 's Medicare Advantage Program, or unless required by Regulatory\nRequirements, Provider shall submit Claims to , using appropriate and current Coded Service Identifier(s),\nwithin ninety (90) days from the date the Health Services are rendered or will refuse payment. If is the\nsecondary payor, the ninety (90) day period will not begin until Provider receives notification of primary\npayor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.7432507276535034,
+        "bm25_score": 122.5970871933765,
+        "dense_rank": 9,
+        "bm25_rank": 8,
+        "rrf_contribution_dense": 0.034482758620689655,
+        "rrf_contribution_bm25": 0.03571428571428571
+      }
+    },
+    {
+      "rank": 7,
+      "rrf_score": 0.05756578947368421,
+      "page": 21,
+      "section": "section:ARTICLE III > clause:3.1.2",
+      "chunk_id": "TN_Contract4_Redacted_p21_c171",
+      "content_preview": "Provider agrees to provide to unless otherwise instructed, at no cost to or\nthe Medicaid Member, all information necessary for to determine its paymen...",
+      "full_content": "Provider agrees to provide to unless otherwise instructed, at no cost to or\nthe Medicaid Member, all information necessary for to determine its payment liability.\nSuch information includes, without limitation, accurate and Clean Claims for Covered Services. If\nasks for additional information in order to process the Claim, Provider must provide\nthat information within sixty (60) days, or before the expiration of the one hundred twenty (120) day\nperiod referenced in section 3.1 above, whichever is longer.",
+      "score_breakdown": {
+        "dense_similarity": 0.4393031597137451,
+        "bm25_score": 48.259043327434604,
+        "dense_rank": 18,
+        "bm25_rank": 12,
+        "rrf_contribution_dense": 0.02631578947368421,
+        "rrf_contribution_bm25": 0.03125
+      }
+    },
+    {
+      "rank": 8,
+      "rrf_score": 0.05714285714285714,
+      "page": 35,
+      "section": "section:ARTICLE III > clause:3.1.2",
+      "chunk_id": "TN_Contract3_Redacted_p35_c272",
+      "content_preview": "Provider agrees to provide to unless otherwise instructed, at no cost to or the\nMedicaid Member, all information necessary for to determine its paymen...",
+      "full_content": "Provider agrees to provide to unless otherwise instructed, at no cost to or the\nMedicaid Member, all information necessary for to determine its payment liability. Such\ninformation includes, without limitation, accurate and Clean Claims for Covered Services. If\nasks for additional information in order to process the Claim, Provider must provide that\ninformation within sixty (60) days, or before the expiration of the one hundred twenty (120) day\nperiod referenced in section 3.1 above, whichever is longer.",
+      "score_breakdown": {
+        "dense_similarity": 0.45971769094467163,
+        "bm25_score": 48.259043327434604,
+        "dense_rank": 15,
+        "bm25_rank": 15,
+        "rrf_contribution_dense": 0.02857142857142857,
+        "rrf_contribution_bm25": 0.02857142857142857
+      }
+    },
+    {
+      "rank": 9,
+      "rrf_score": 0.05606758832565284,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:3.1.2",
+      "chunk_id": "TN_Contract1_Redacted_p33_c262",
+      "content_preview": "Provider agrees to provide i” unless otherwise instructed, at no cost am or\nthe Medicaid Member, all information necessary —_—_ to determine its payme...",
+      "full_content": "Provider agrees to provide i” unless otherwise instructed, at no cost am or\nthe Medicaid Member, all information necessary —_—_ to determine its payment liability.\nSuch information includes, without limitation, accurate an an Claims for Covered Services. If\nmame asks for additional information in order to process the Claim, Provider must provide\nat information within sixty (60) days, or before the expiration of the one hundred twenty (120) day\nperiod referenced in section 3.1 above, whichever is longer.",
+      "score_breakdown": {
+        "dense_similarity": 0.4077310562133789,
+        "bm25_score": 50.640275389861145,
+        "dense_rank": 22,
+        "bm25_rank": 11,
+        "rrf_contribution_dense": 0.023809523809523808,
+        "rrf_contribution_bm25": 0.03225806451612903
+      }
+    },
+    {
+      "rank": 10,
+      "rrf_score": 0.05469327420546933,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:3.1.1",
+      "chunk_id": "TN_Contract1_Redacted_p33_c261",
+      "content_preview": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notificat...",
+      "full_content": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notification from = of the Medicaid\nMember's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with\nindustry standards and acceptable a either (a) electronically through electronic data\ninterchange (\"EDI\"), or (b) if electronic submission is not available, utilizing paper forms as defined\nby the National Uniform Claim Committee (\"NUCC\").",
+      "score_breakdown": {
+        "dense_similarity": 0.4846147894859314,
+        "bm25_score": 33.67122421174728,
+        "dense_rank": 13,
+        "bm25_rank": 21,
+        "rrf_contribution_dense": 0.030303030303030304,
+        "rrf_contribution_bm25": 0.024390243902439025
+      }
+    },
+    {
+      "rank": 11,
+      "rrf_score": 0.05322128851540616,
+      "page": 21,
+      "section": "section:ARTICLE III > clause:3.1.1",
+      "chunk_id": "TN_Contract4_Redacted_p21_c170",
+      "content_preview": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notificat...",
+      "full_content": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notification from of the Medicaid\nMember's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with\nindustry standards and acceptable to either (a) electronically through electronic data\ninterchange (\"EDI\"), or (b) if electronic submission is not available, utilizing paper forms as defined\nby the National Uniform Claim Committee (\"NUCC\").",
+      "score_breakdown": {
+        "dense_similarity": 0.48163455724716187,
+        "bm25_score": 33.130443745177004,
+        "dense_rank": 14,
+        "bm25_rank": 22,
+        "rrf_contribution_dense": 0.029411764705882353,
+        "rrf_contribution_bm25": 0.023809523809523808
+      }
+    },
+    {
+      "rank": 12,
+      "rrf_score": 0.050505050505050504,
+      "page": 36,
+      "section": "clause:3.1.4",
+      "chunk_id": "TN_Contract3_Redacted_p36_c275",
+      "content_preview": "Provider shall have one hundred and twenty (120) calendar days from the date of rendering a\ncovered service to file a claim to except in situations re...",
+      "full_content": "Provider shall have one hundred and twenty (120) calendar days from the date of rendering a\ncovered service to file a claim to except in situations regarding (1) LEAs (Local\nEducational Agency) billing for IEP (Individualized Education Program), IHP (Individual Health\nPlan) or ISFP (Individual Family Service Plan) services and (2) coordination of benefits or\nsubrogation in which case the provider is pursuing payment from a third party or if an enrollee is\nenrolled in with a retroactive eligibility date. In situations involving LEAs, the LEA shall\nhave three hundred and sixty-five (365) calendar days from the date of rendering a medically\nnecessary covered IEP, IHP or IFSP service to file a claim. In situations of third-party benefits, the\nmaximum time frames for filing a claim shall begin on the date that the third-party documented\nresolution of the claim. In situations of enrollment in with a retroactive eligibility date, the\ntime frames for filing a claim shall begin on the date receives notification fron\nof the enrollee's eligibility/enrollment.",
+      "score_breakdown": {
+        "dense_similarity": 0.32771122455596924,
+        "bm25_score": 36.36992179760668,
+        "dense_rank": 24,
+        "bm25_rank": 16,
+        "rrf_contribution_dense": 0.022727272727272728,
+        "rrf_contribution_bm25": 0.027777777777777776
+      }
+    },
+    {
+      "rank": 13,
+      "rrf_score": 0.04871794871794872,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:7",
+      "chunk_id": "TN_Contract1_Redacted_p33_c260",
+      "content_preview": "may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary ...",
+      "full_content": "may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.19086462259292603,
+        "bm25_score": 109.53470260386342,
+        "dense_rank": 45,
+        "bm25_rank": 10,
+        "rrf_contribution_dense": 0.015384615384615385,
+        "rrf_contribution_bm25": 0.03333333333333333
+      }
+    },
+    {
+      "rank": 14,
+      "rrf_score": 0.04586691658856607,
+      "page": 46,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract5_Redacted_p46_c383",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 176.30991218806855,
+        "dense_rank": 2405,
+        "bm25_rank": 2,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.045454545454545456
+      }
+    },
+    {
+      "rank": 15,
+      "rrf_score": 0.03887390959555908,
+      "page": 60,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract5_Redacted_p60_c504",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 123.08327927625596,
+        "dense_rank": 2405,
+        "bm25_rank": 6,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.038461538461538464
+      }
+    },
+    {
+      "rank": 16,
+      "rrf_score": 0.03744940817105765,
+      "page": 48,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract1_Redacted_p48_c383",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 123.08327927625596,
+        "dense_rank": 2405,
+        "bm25_rank": 7,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.037037037037037035
+      }
+    },
+    {
+      "rank": 17,
+      "rrf_score": 0.035769349367869255,
+      "page": 51,
+      "section": "section:ARTICLE II > clause:04",
+      "chunk_id": "TN_Contract2_Redacted_p51_c414",
+      "content_preview": "claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or\napplicable Regulatory Requirements. Pr...",
+      "full_content": "claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or\napplicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service\nIdentifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall\nnot pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that\nresult in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)\nguidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may\nbe set forth in the provider manual(s).\nClaim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered. Unless otherwise required under Regulatory Requirements,\nshall not reimburse for any pharmaceuticals that are not administered to the Member and/or deemed\ncontaminated and/or considered waste.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect\nnew, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable\nCoded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes\nare updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless",
+      "score_breakdown": {
+        "dense_similarity": 0.1895378828048706,
+        "bm25_score": 27.617831137992194,
+        "dense_rank": 49,
+        "bm25_rank": 27,
+        "rrf_contribution_dense": 0.014492753623188406,
+        "rrf_contribution_bm25": 0.02127659574468085
+      }
+    },
+    {
+      "rank": 18,
+      "rrf_score": 0.03337041156840934,
+      "page": 3,
+      "section": "clause:2.5",
+      "chunk_id": "TN_Contract4_Redacted_p3_c15",
+      "content_preview": "Submission and Adjudication of Claims. Provider shall submit, and shall adjudicate, Claims in\naccordance with the applicable Participation Attachment(...",
+      "full_content": "Submission and Adjudication of Claims. Provider shall submit, and shall adjudicate, Claims in\naccordance with the applicable Participation Attachment(s), the ACS, the provider manual(s) and Regulatory\nRequirements. If Provider submits Claims prior to receiving notice of approval pursuant to\nsection 2.13, then such Claims must be submitted in accordance with prior authorization requirements, and\nshall be processed as out of network. shall not make retroactive adjustments with respect to\nsuch Claims.",
+      "score_breakdown": {
+        "dense_similarity": 0.19734060764312744,
+        "bm25_score": 21.218961385599275,
+        "dense_rank": 38,
+        "bm25_rank": 42,
+        "rrf_contribution_dense": 0.017241379310344827,
+        "rrf_contribution_bm25": 0.016129032258064516
+      }
+    },
+    {
+      "rank": 19,
+      "rrf_score": 0.033168859649122806,
+      "page": 57,
+      "section": "section:ARTICLE II > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p57_c454",
+      "content_preview": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims process...",
+      "full_content": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the right\nto use a code editing software as reasonably required by to ensure Claims adjudication in accordance with\nindustry standards, including, but not limited to, determining which services are considered part of, incidental to, or\ninclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis, frequency, and units\nbilled.\nModifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry\nstandard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.\nNew/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded\nService or New/Expanded Technology for consideration as a reimbursable service: (1) a description of the",
+      "score_breakdown": {
+        "dense_similarity": 0.19093537330627441,
+        "bm25_score": 24.60609439088833,
+        "dense_rank": 44,
+        "bm25_rank": 37,
+        "rrf_contribution_dense": 0.015625,
+        "rrf_contribution_bm25": 0.017543859649122806
+      }
+    },
+    {
+      "rank": 20,
+      "rrf_score": 0.03275681341719078,
+      "page": 43,
+      "section": "section:ARTICLE II > clause:04",
+      "chunk_id": "TN_Contract4_Redacted_p43_c352",
+      "content_preview": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims process...",
+      "full_content": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the\nright to use a code editing software as reasonably required by to ensure Claims adjudication in\naccordance with industry standards, including, but not limited to, determining which services are considered part of,\nincidental to, or inclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis,\nfrequency, and units billed.\nModifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry\nstandard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.\nNew/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded",
+      "score_breakdown": {
+        "dense_similarity": 0.17891860008239746,
+        "bm25_score": 25.674240154350173,
+        "dense_rank": 52,
+        "bm25_rank": 33,
+        "rrf_contribution_dense": 0.013888888888888888,
+        "rrf_contribution_bm25": 0.018867924528301886
+      }
+    }
+  ]
+}
+```
+
+#### Top Matches (detailed)
+
+- **Rank**: 1
+  - **RRF Score**: 0.09109730848861283
+  - **Page**: 21
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract4_Redacted_p21_c169
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.8634896129369736,
+  "bm25_score": 176.30991218806855,
+  "dense_rank": 3,
+  "bm25_rank": 1,
+  "rrf_contribution_dense": 0.043478260869565216,
+  "rrf_contribution_bm25": 0.047619047619047616
+}
+```
+
+- **Rank**: 2
+  - **RRF Score**: 0.08928571428571427
+  - **Page**: 35
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract3_Redacted_p35_c270
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day period
+will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.8650835007429123,
+  "bm25_score": 176.30991218806855,
+  "dense_rank": 1,
+  "bm25_rank": 4,
+  "rrf_contribution_dense": 0.047619047619047616,
+  "rrf_contribution_bm25": 0.041666666666666664
+}
+```
+
+- **Rank**: 3
+  - **RRF Score**: 0.08514492753623187
+  - **Page**: 37
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract2_Redacted_p37_c320
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.859091579914093,
+  "bm25_score": 176.30991218806855,
+  "dense_rank": 4,
+  "bm25_rank": 3,
+  "rrf_contribution_dense": 0.041666666666666664,
+  "rrf_contribution_bm25": 0.043478260869565216
+}
+```
+
+- **Rank**: 4
+  - **RRF Score**: 0.0757142857142857
+  - **Page**: 36
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract4_Redacted_p36_c291
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.7443642020225525,
+  "bm25_score": 123.08327927625596,
+  "dense_rank": 8,
+  "bm25_rank": 5,
+  "rrf_contribution_dense": 0.03571428571428571,
+  "rrf_contribution_bm25": 0.04
+}
+```
+
+- **Rank**: 5
+  - **RRF Score**: 0.07448275862068965
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:3.1
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c259
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims ae u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims ae using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.8146995306015015,
+  "bm25_score": 122.33947217485094,
+  "dense_rank": 5,
+  "bm25_rank": 9,
+  "rrf_contribution_dense": 0.04,
+  "rrf_contribution_bm25": 0.034482758620689655
+}
+```
+
+- **Rank**: 6
+  - **RRF Score**: 0.07019704433497537
+  - **Page**: 50
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract3_Redacted_p50_c394
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to 's Medicare ...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to 's Medicare Advantage Program, or unless required by Regulatory
+Requirements, Provider shall submit Claims to , using appropriate and current Coded Service Identifier(s),
+within ninety (90) days from the date the Health Services are rendered or will refuse payment. If is the
+secondary payor, the ninety (90) day period will not begin until Provider receives notification of primary
+payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.7432507276535034,
+  "bm25_score": 122.5970871933765,
+  "dense_rank": 9,
+  "bm25_rank": 8,
+  "rrf_contribution_dense": 0.034482758620689655,
+  "rrf_contribution_bm25": 0.03571428571428571
+}
+```
+
+- **Rank**: 7
+  - **RRF Score**: 0.05756578947368421
+  - **Page**: 21
+  - **Section**: section:ARTICLE III > clause:3.1.2
+  - **Chunk ID**: TN_Contract4_Redacted_p21_c171
+  - **Content Preview**: Provider agrees to provide to unless otherwise instructed, at no cost to or
+the Medicaid Member, all information necessary for to determine its paymen...
+  - **Full Content:**
+
+    ```
+Provider agrees to provide to unless otherwise instructed, at no cost to or
+the Medicaid Member, all information necessary for to determine its payment liability.
+Such information includes, without limitation, accurate and Clean Claims for Covered Services. If
+asks for additional information in order to process the Claim, Provider must provide
+that information within sixty (60) days, or before the expiration of the one hundred twenty (120) day
+period referenced in section 3.1 above, whichever is longer.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4393031597137451,
+  "bm25_score": 48.259043327434604,
+  "dense_rank": 18,
+  "bm25_rank": 12,
+  "rrf_contribution_dense": 0.02631578947368421,
+  "rrf_contribution_bm25": 0.03125
+}
+```
+
+- **Rank**: 8
+  - **RRF Score**: 0.05714285714285714
+  - **Page**: 35
+  - **Section**: section:ARTICLE III > clause:3.1.2
+  - **Chunk ID**: TN_Contract3_Redacted_p35_c272
+  - **Content Preview**: Provider agrees to provide to unless otherwise instructed, at no cost to or the
+Medicaid Member, all information necessary for to determine its paymen...
+  - **Full Content:**
+
+    ```
+Provider agrees to provide to unless otherwise instructed, at no cost to or the
+Medicaid Member, all information necessary for to determine its payment liability. Such
+information includes, without limitation, accurate and Clean Claims for Covered Services. If
+asks for additional information in order to process the Claim, Provider must provide that
+information within sixty (60) days, or before the expiration of the one hundred twenty (120) day
+period referenced in section 3.1 above, whichever is longer.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.45971769094467163,
+  "bm25_score": 48.259043327434604,
+  "dense_rank": 15,
+  "bm25_rank": 15,
+  "rrf_contribution_dense": 0.02857142857142857,
+  "rrf_contribution_bm25": 0.02857142857142857
+}
+```
+
+- **Rank**: 9
+  - **RRF Score**: 0.05606758832565284
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:3.1.2
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c262
+  - **Content Preview**: Provider agrees to provide i” unless otherwise instructed, at no cost am or
+the Medicaid Member, all information necessary —_—_ to determine its payme...
+  - **Full Content:**
+
+    ```
+Provider agrees to provide i” unless otherwise instructed, at no cost am or
+the Medicaid Member, all information necessary —_—_ to determine its payment liability.
+Such information includes, without limitation, accurate an an Claims for Covered Services. If
+mame asks for additional information in order to process the Claim, Provider must provide
+at information within sixty (60) days, or before the expiration of the one hundred twenty (120) day
+period referenced in section 3.1 above, whichever is longer.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4077310562133789,
+  "bm25_score": 50.640275389861145,
+  "dense_rank": 22,
+  "bm25_rank": 11,
+  "rrf_contribution_dense": 0.023809523809523808,
+  "rrf_contribution_bm25": 0.03225806451612903
+}
+```
+
+- **Rank**: 10
+  - **RRF Score**: 0.05469327420546933
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:3.1.1
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c261
+  - **Content Preview**: In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notificat...
+  - **Full Content:**
+
+    ```
+In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notification from = of the Medicaid
+Member's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with
+industry standards and acceptable a either (a) electronically through electronic data
+interchange ("EDI"), or (b) if electronic submission is not available, utilizing paper forms as defined
+by the National Uniform Claim Committee ("NUCC").
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4846147894859314,
+  "bm25_score": 33.67122421174728,
+  "dense_rank": 13,
+  "bm25_rank": 21,
+  "rrf_contribution_dense": 0.030303030303030304,
+  "rrf_contribution_bm25": 0.024390243902439025
+}
+```
+
+- **Rank**: 11
+  - **RRF Score**: 0.05322128851540616
+  - **Page**: 21
+  - **Section**: section:ARTICLE III > clause:3.1.1
+  - **Chunk ID**: TN_Contract4_Redacted_p21_c170
+  - **Content Preview**: In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notificat...
+  - **Full Content:**
+
+    ```
+In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notification from of the Medicaid
+Member's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with
+industry standards and acceptable to either (a) electronically through electronic data
+interchange ("EDI"), or (b) if electronic submission is not available, utilizing paper forms as defined
+by the National Uniform Claim Committee ("NUCC").
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.48163455724716187,
+  "bm25_score": 33.130443745177004,
+  "dense_rank": 14,
+  "bm25_rank": 22,
+  "rrf_contribution_dense": 0.029411764705882353,
+  "rrf_contribution_bm25": 0.023809523809523808
+}
+```
+
+- **Rank**: 12
+  - **RRF Score**: 0.050505050505050504
+  - **Page**: 36
+  - **Section**: clause:3.1.4
+  - **Chunk ID**: TN_Contract3_Redacted_p36_c275
+  - **Content Preview**: Provider shall have one hundred and twenty (120) calendar days from the date of rendering a
+covered service to file a claim to except in situations re...
+  - **Full Content:**
+
+    ```
+Provider shall have one hundred and twenty (120) calendar days from the date of rendering a
+covered service to file a claim to except in situations regarding (1) LEAs (Local
+Educational Agency) billing for IEP (Individualized Education Program), IHP (Individual Health
+Plan) or ISFP (Individual Family Service Plan) services and (2) coordination of benefits or
+subrogation in which case the provider is pursuing payment from a third party or if an enrollee is
+enrolled in with a retroactive eligibility date. In situations involving LEAs, the LEA shall
+have three hundred and sixty-five (365) calendar days from the date of rendering a medically
+necessary covered IEP, IHP or IFSP service to file a claim. In situations of third-party benefits, the
+maximum time frames for filing a claim shall begin on the date that the third-party documented
+resolution of the claim. In situations of enrollment in with a retroactive eligibility date, the
+time frames for filing a claim shall begin on the date receives notification fron
+of the enrollee's eligibility/enrollment.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.32771122455596924,
+  "bm25_score": 36.36992179760668,
+  "dense_rank": 24,
+  "bm25_rank": 16,
+  "rrf_contribution_dense": 0.022727272727272728,
+  "rrf_contribution_bm25": 0.027777777777777776
+}
+```
+
+- **Rank**: 13
+  - **RRF Score**: 0.04871794871794872
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:7
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c260
+  - **Content Preview**: may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary ...
+  - **Full Content:**
+
+    ```
+may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.19086462259292603,
+  "bm25_score": 109.53470260386342,
+  "dense_rank": 45,
+  "bm25_rank": 10,
+  "rrf_contribution_dense": 0.015384615384615385,
+  "rrf_contribution_bm25": 0.03333333333333333
+}
+```
+
+- **Rank**: 14
+  - **RRF Score**: 0.04586691658856607
+  - **Page**: 46
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract5_Redacted_p46_c383
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 176.30991218806855,
+  "dense_rank": 2405,
+  "bm25_rank": 2,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.045454545454545456
+}
+```
+
+- **Rank**: 15
+  - **RRF Score**: 0.03887390959555908
+  - **Page**: 60
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract5_Redacted_p60_c504
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 123.08327927625596,
+  "dense_rank": 2405,
+  "bm25_rank": 6,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.038461538461538464
+}
+```
+
+- **Rank**: 16
+  - **RRF Score**: 0.03744940817105765
+  - **Page**: 48
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract1_Redacted_p48_c383
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 123.08327927625596,
+  "dense_rank": 2405,
+  "bm25_rank": 7,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.037037037037037035
+}
+```
+
+- **Rank**: 17
+  - **RRF Score**: 0.035769349367869255
+  - **Page**: 51
+  - **Section**: section:ARTICLE II > clause:04
+  - **Chunk ID**: TN_Contract2_Redacted_p51_c414
+  - **Content Preview**: claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
+applicable Regulatory Requirements. Pr...
+  - **Full Content:**
+
+    ```
+claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
+applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service
+Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall
+not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that
+result in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)
+guidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may
+be set forth in the provider manual(s).
+Claim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard
+Coded Service Identifier(s), a National Drug Code ("NDC") number of the covered medication, a description of the
+product, and dosage and units administered. Unless otherwise required under Regulatory Requirements,
+shall not reimburse for any pharmaceuticals that are not administered to the Member and/or deemed
+contaminated and/or considered waste.
+Coding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect
+new, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable
+Coded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes
+are updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1895378828048706,
+  "bm25_score": 27.617831137992194,
+  "dense_rank": 49,
+  "bm25_rank": 27,
+  "rrf_contribution_dense": 0.014492753623188406,
+  "rrf_contribution_bm25": 0.02127659574468085
+}
+```
+
+- **Rank**: 18
+  - **RRF Score**: 0.03337041156840934
+  - **Page**: 3
+  - **Section**: clause:2.5
+  - **Chunk ID**: TN_Contract4_Redacted_p3_c15
+  - **Content Preview**: Submission and Adjudication of Claims. Provider shall submit, and shall adjudicate, Claims in
+accordance with the applicable Participation Attachment(...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Claims. Provider shall submit, and shall adjudicate, Claims in
+accordance with the applicable Participation Attachment(s), the ACS, the provider manual(s) and Regulatory
+Requirements. If Provider submits Claims prior to receiving notice of approval pursuant to
+section 2.13, then such Claims must be submitted in accordance with prior authorization requirements, and
+shall be processed as out of network. shall not make retroactive adjustments with respect to
+such Claims.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.19734060764312744,
+  "bm25_score": 21.218961385599275,
+  "dense_rank": 38,
+  "bm25_rank": 42,
+  "rrf_contribution_dense": 0.017241379310344827,
+  "rrf_contribution_bm25": 0.016129032258064516
+}
+```
+
+- **Rank**: 19
+  - **RRF Score**: 0.033168859649122806
+  - **Page**: 57
+  - **Section**: section:ARTICLE II > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p57_c454
+  - **Content Preview**: Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.
+Coding Software. Updates to Claims process...
+  - **Full Content:**
+
+    ```
+Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.
+Coding Software. Updates to Claims processing filters, code editing software, pricers, and any edits
+related thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take
+place automatically and do not require any notice, disclosure or amendment to Provider. reserves the right
+to use a code editing software as reasonably required by to ensure Claims adjudication in accordance with
+industry standards, including, but not limited to, determining which services are considered part of, incidental to, or
+inclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis, frequency, and units
+billed.
+Modifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry
+standard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.
+New/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the
+Agreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology
+(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the
+following documentation to at least sixty (60) days prior to the implementation of any New/Expanded
+Service or New/Expanded Technology for consideration as a reimbursable service: (1) a description of the
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.19093537330627441,
+  "bm25_score": 24.60609439088833,
+  "dense_rank": 44,
+  "bm25_rank": 37,
+  "rrf_contribution_dense": 0.015625,
+  "rrf_contribution_bm25": 0.017543859649122806
+}
+```
+
+- **Rank**: 20
+  - **RRF Score**: 0.03275681341719078
+  - **Page**: 43
+  - **Section**: section:ARTICLE II > clause:04
+  - **Chunk ID**: TN_Contract4_Redacted_p43_c352
+  - **Content Preview**: Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.
+Coding Software. Updates to Claims process...
+  - **Full Content:**
+
+    ```
+Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.
+Coding Software. Updates to Claims processing filters, code editing software, pricers, and any edits
+related thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take
+place automatically and do not require any notice, disclosure or amendment to Provider. reserves the
+right to use a code editing software as reasonably required by to ensure Claims adjudication in
+accordance with industry standards, including, but not limited to, determining which services are considered part of,
+incidental to, or inclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis,
+frequency, and units billed.
+Modifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry
+standard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.
+New/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the
+Agreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology
+(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the
+following documentation to at least sixty (60) days prior to the implementation of any New/Expanded
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.17891860008239746,
+  "bm25_score": 25.674240154350173,
+  "dense_rank": 52,
+  "bm25_rank": 33,
+  "rrf_contribution_dense": 0.013888888888888888,
+  "rrf_contribution_bm25": 0.018867924528301886
+}
+```
+
+### Attribute: Medicare Timely Filing
+
+```json
+{
+  "attribute_info": {
+    "number": 2,
+    "name": "Medicare Timely Filing",
+    "content_preview": "Medicare Timely Filing Submission and Adjudication of Medicare Advantage Claims (Enterprise Agreemen..."
+  },
+  "statistics": {
+    "avg_rrf_score": 0.053067009026442125,
+    "max_rrf_score": 0.08928571428571427,
+    "avg_dense_score": 0.3125457540154457,
+    "avg_bm25_score": 86.2758012210676,
+    "high_rrf_matches": 20
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "rrf_score": 0.08928571428571427,
+      "page": 36,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract4_Redacted_p36_c291",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.8660282492637634,
+        "bm25_score": 184.09011166168318,
+        "dense_rank": 4,
+        "bm25_rank": 1,
+        "rrf_contribution_dense": 0.041666666666666664,
+        "rrf_contribution_bm25": 0.047619047619047616
+      }
+    },
+    {
+      "rank": 2,
+      "rrf_score": 0.08928571428571427,
+      "page": 50,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract3_Redacted_p50_c394",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to 's Medicare ...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to 's Medicare Advantage Program, or unless required by Regulatory\nRequirements, Provider shall submit Claims to , using appropriate and current Coded Service Identifier(s),\nwithin ninety (90) days from the date the Health Services are rendered or will refuse payment. If is the\nsecondary payor, the ninety (90) day period will not begin until Provider receives notification of primary\npayor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.8700330853462219,
+        "bm25_score": 183.44051245271976,
+        "dense_rank": 1,
+        "bm25_rank": 4,
+        "rrf_contribution_dense": 0.047619047619047616,
+        "rrf_contribution_bm25": 0.041666666666666664
+      }
+    },
+    {
+      "rank": 3,
+      "rrf_score": 0.07703703703703704,
+      "page": 21,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract4_Redacted_p21_c169",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.6458422243595123,
+        "bm25_score": 130.16969257965187,
+        "dense_rank": 7,
+        "bm25_rank": 5,
+        "rrf_contribution_dense": 0.037037037037037035,
+        "rrf_contribution_bm25": 0.04
+      }
+    },
+    {
+      "rank": 4,
+      "rrf_score": 0.0757142857142857,
+      "page": 35,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract3_Redacted_p35_c270",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day period\nwill not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.6496689319610596,
+        "bm25_score": 130.16969257965187,
+        "dense_rank": 5,
+        "bm25_rank": 8,
+        "rrf_contribution_dense": 0.04,
+        "rrf_contribution_bm25": 0.03571428571428571
+      }
+    },
+    {
+      "rank": 5,
+      "rrf_score": 0.07275132275132275,
+      "page": 37,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract2_Redacted_p37_c320",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.6378637552261353,
+        "bm25_score": 130.16969257965187,
+        "dense_rank": 8,
+        "bm25_rank": 7,
+        "rrf_contribution_dense": 0.03571428571428571,
+        "rrf_contribution_bm25": 0.037037037037037035
+      }
+    },
+    {
+      "rank": 6,
+      "rrf_score": 0.06896551724137931,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:3.1",
+      "chunk_id": "TN_Contract1_Redacted_p33_c259",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims ae u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims ae using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or",
+      "score_breakdown": {
+        "dense_similarity": 0.6076102256774902,
+        "bm25_score": 82.16917255634662,
+        "dense_rank": 9,
+        "bm25_rank": 9,
+        "rrf_contribution_dense": 0.034482758620689655,
+        "rrf_contribution_bm25": 0.034482758620689655
+      }
+    },
+    {
+      "rank": 7,
+      "rrf_score": 0.05756578947368421,
+      "page": 40,
+      "section": "clause:12.7",
+      "chunk_id": "TN_Contract4_Redacted_p40_c339",
+      "content_preview": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required...",
+      "full_content": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required changes to Regulatory Requirements related to Medicare\nAdvantage Programs without the necessity of executing written amendments. For amendments not required\nby Regulatory Requirements related to Medicare Advantage Programs, shall make a good faith\neffort to provide notice to Provider at least thirty (30) days in advance of the effective date of the\namendment.",
+      "score_breakdown": {
+        "dense_similarity": 0.3515165448188782,
+        "bm25_score": 32.42652719915484,
+        "dense_rank": 12,
+        "bm25_rank": 18,
+        "rrf_contribution_dense": 0.03125,
+        "rrf_contribution_bm25": 0.02631578947368421
+      }
+    },
+    {
+      "rank": 8,
+      "rrf_score": 0.04586691658856607,
+      "page": 60,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract5_Redacted_p60_c504",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 184.09011166168318,
+        "dense_rank": 2405,
+        "bm25_rank": 2,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.045454545454545456
+      }
+    },
+    {
+      "rank": 9,
+      "rrf_score": 0.04532163742690058,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:3.1.1",
+      "chunk_id": "TN_Contract1_Redacted_p33_c261",
+      "content_preview": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notificat...",
+      "full_content": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notification from = of the Medicaid\nMember's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with\nindustry standards and acceptable a either (a) electronically through electronic data\ninterchange (\"EDI\"), or (b) if electronic submission is not available, utilizing paper forms as defined\nby the National Uniform Claim Committee (\"NUCC\").",
+      "score_breakdown": {
+        "dense_similarity": 0.32785218954086304,
+        "bm25_score": 26.32204967767217,
+        "dense_rank": 16,
+        "bm25_rank": 37,
+        "rrf_contribution_dense": 0.027777777777777776,
+        "rrf_contribution_bm25": 0.017543859649122806
+      }
+    },
+    {
+      "rank": 10,
+      "rrf_score": 0.04513888888888889,
+      "page": 63,
+      "section": "section:ARTICLE XII > clause:12.7",
+      "chunk_id": "TN_Contract5_Redacted_p63_c550",
+      "content_preview": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required...",
+      "full_content": "Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall\nbe automatically modified to conform to required changes to Regulatory Requirements related to Medicare\nAdvantage Programs without the necessity of executing written amendments. For amendments not required\nby Regulatory Requirements related to Medicare Advantage Programs, shall make a good faith",
+      "score_breakdown": {
+        "dense_similarity": 0.16089165210723877,
+        "bm25_score": 34.767309049181314,
+        "dense_rank": 52,
+        "bm25_rank": 12,
+        "rrf_contribution_dense": 0.013888888888888888,
+        "rrf_contribution_bm25": 0.03125
+      }
+    },
+    {
+      "rank": 11,
+      "rrf_score": 0.044444444444444446,
+      "page": 33,
+      "section": "section:ARTICLE Ill > clause:7",
+      "chunk_id": "TN_Contract1_Redacted_p33_c260",
+      "content_preview": "may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary ...",
+      "full_content": "may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.1148797869682312,
+        "bm25_score": 67.78157734899453,
+        "dense_rank": 70,
+        "bm25_rank": 10,
+        "rrf_contribution_dense": 0.011111111111111112,
+        "rrf_contribution_bm25": 0.03333333333333333
+      }
+    },
+    {
+      "rank": 12,
+      "rrf_score": 0.04433713784021071,
+      "page": 36,
+      "section": "section:ARTICLE VI > clause:6.1.3",
+      "chunk_id": "TN_Contract4_Redacted_p36_c294",
+      "content_preview": "If asks for additional information so that may process the Claim, Provider\nmust provide that information within sixty (60) days, or before the expirat...",
+      "full_content": "If asks for additional information so that may process the Claim, Provider\nmust provide that information within sixty (60) days, or before the expiration of the ninety (90) day\nperiod referenced in section 6.1 above, whichever is longer.",
+      "score_breakdown": {
+        "dense_similarity": 0.17425644397735596,
+        "bm25_score": 33.897712658240245,
+        "dense_rank": 47,
+        "bm25_rank": 14,
+        "rrf_contribution_dense": 0.014925373134328358,
+        "rrf_contribution_bm25": 0.029411764705882353
+      }
+    },
+    {
+      "rank": 13,
+      "rrf_score": 0.04389063200358583,
+      "page": 48,
+      "section": "section:ARTICLE VI > clause:6.1",
+      "chunk_id": "TN_Contract1_Redacted_p48_c383",
+      "content_preview": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Adv...",
+      "full_content": "Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider\nmanual(s) or Policies applicable to Medicare Advantage Program, or unless required by\nRegulatory Requirements, Provider shall submit Claims to using appropriate and current Coded\nService Identifier(s), within ninety (90) days from the date the Health Services are rendered or\nwill refuse payment. If is the secondary payor, the ninety (90) day period will not begin until\nProvider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 184.09011166168318,
+        "dense_rank": 2405,
+        "bm25_rank": 3,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.043478260869565216
+      }
+    },
+    {
+      "rank": 14,
+      "rrf_score": 0.0429000429000429,
+      "page": 21,
+      "section": "section:ARTICLE III > clause:3.1.1",
+      "chunk_id": "TN_Contract4_Redacted_p21_c170",
+      "content_preview": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notificat...",
+      "full_content": "In situations of enrollment in with a retroactive eligibility date, the time frames for filing a\nclaim shall begin on the date that receives notification from of the Medicaid\nMember's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with\nindustry standards and acceptable to either (a) electronically through electronic data\ninterchange (\"EDI\"), or (b) if electronic submission is not available, utilizing paper forms as defined\nby the National Uniform Claim Committee (\"NUCC\").",
+      "score_breakdown": {
+        "dense_similarity": 0.32744449377059937,
+        "bm25_score": 25.51087897781676,
+        "dense_rank": 17,
+        "bm25_rank": 43,
+        "rrf_contribution_dense": 0.02702702702702703,
+        "rrf_contribution_bm25": 0.015873015873015872
+      }
+    },
+    {
+      "rank": 15,
+      "rrf_score": 0.04265202702702703,
+      "page": 50,
+      "section": "section:ARTICLE VI > clause:6.1.3",
+      "chunk_id": "TN_Contract3_Redacted_p50_c397",
+      "content_preview": "If asks for additional information so that may process the Claim, Provider must provide\nthat information within sixty (60) days, or before the expirat...",
+      "full_content": "If asks for additional information so that may process the Claim, Provider must provide\nthat information within sixty (60) days, or before the expiration of the ninety (90) day period\nreferenced in section 6.1 above, whichever is longer.",
+      "score_breakdown": {
+        "dense_similarity": 0.17475968599319458,
+        "bm25_score": 33.897712658240245,
+        "dense_rank": 44,
+        "bm25_rank": 17,
+        "rrf_contribution_dense": 0.015625,
+        "rrf_contribution_bm25": 0.02702702702702703
+      }
+    },
+    {
+      "rank": 16,
+      "rrf_score": 0.03887390959555908,
+      "page": 46,
+      "section": "section:ARTICLE III > clause:3.1",
+      "chunk_id": "TN_Contract5_Redacted_p46_c383",
+      "content_preview": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to u...",
+      "full_content": "Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory\nRequirements, Provider shall submit Claims to using appropriate and current Coded Service\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or\nmay refuse payment. If is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of primary payor's responsibility.",
+      "score_breakdown": {
+        "dense_similarity": 0.0,
+        "bm25_score": 130.16969257965187,
+        "dense_rank": 2405,
+        "bm25_rank": 6,
+        "rrf_contribution_dense": 0.0004123711340206186,
+        "rrf_contribution_bm25": 0.038461538461538464
+      }
+    },
+    {
+      "rank": 17,
+      "rrf_score": 0.03600338286818896,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract5_Redacted_p16_c136",
+      "content_preview": "• Medicare Advantage - Health Maintenance Organization (HMO) Plans\n• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-S...",
+      "full_content": "• Medicare Advantage - Health Maintenance Organization (HMO) Plans\n• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)\n• Medicare Advantage - Preferred Provider Organization (MA PPO)\n• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)\n• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)\nOther Programs:\n• Episode-Based Retrospective Payment  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": -0.008855581283569336,
+        "bm25_score": 40.814250393005175,
+        "dense_rank": 247,
+        "bm25_rank": 11,
+        "rrf_contribution_dense": 0.003745318352059925,
+        "rrf_contribution_bm25": 0.03225806451612903
+      }
+    },
+    {
+      "rank": 18,
+      "rrf_score": 0.03456221198156682,
+      "page": 33,
+      "section": "section:ARTICLE II > clause:2.1",
+      "chunk_id": "TN_Contract4_Redacted_p33_c262",
+      "content_preview": "Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider\nwill render MA Covered Services to MA Members enrolled in M...",
+      "full_content": "Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider\nwill render MA Covered Services to MA Members enrolled in Medicare Advantage Program in\naccordance with the terms and conditions of the Agreement and this Attachment. Except as set forth in this\nAttachment, or in the ACS, all terms and conditions of the Agreement will apply to Provider's participation in\nMedicare Advantage Program(s). The terms and conditions set forth in this Attachment are\nlimited to the provision of and payment for Health Services provided to MA Members. This Agreement does\nnot apply to any of Medicare Advantage Private Fee for Service or Medical Savings Account\nPrograms. If contracts with a third party to manage all or any portion of its Medicare Advantage\nNetwork, then Provider shall be required to contract separately with such third party to maintain its status as\na Participating Provider for such Network(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.10883533954620361,
+        "bm25_score": 30.844753804412484,
+        "dense_rank": 73,
+        "bm25_rank": 22,
+        "rrf_contribution_dense": 0.010752688172043012,
+        "rrf_contribution_bm25": 0.023809523809523808
+      }
+    },
+    {
+      "rank": 19,
+      "rrf_score": 0.03356455582904453,
+      "page": 47,
+      "section": "section:ARTICLE II > clause:2.1",
+      "chunk_id": "TN_Contract3_Redacted_p47_c364",
+      "content_preview": "Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render\nMA Covered Services to MA Members enrolled i...",
+      "full_content": "Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render\nMA Covered Services to MA Members enrolled in 's Medicare Advantage Program in accordance with the\nterms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment, or in the\nWCS, all terms and conditions of the Agreement will apply to Provider's participation in 's Medicare\nAdvantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of\nand payment for Health Services provided to MA Members. This Agreement does not apply to any of 's\nMedicare Advantage Private Fee for Service or Medical Savings Account Programs. If contracts with a third\nparty to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to\ncontract separately with such third party to maintain its status as a Participating Provider for such\nNetwork(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.09656643867492676,
+        "bm25_score": 31.105852640807704,
+        "dense_rank": 89,
+        "bm25_rank": 21,
+        "rrf_contribution_dense": 0.009174311926605505,
+        "rrf_contribution_bm25": 0.024390243902439025
+      }
+    },
+    {
+      "rank": 20,
+      "rrf_score": 0.03317901234567901,
+      "page": 51,
+      "section": "section:ARTICLE II > clause:04",
+      "chunk_id": "TN_Contract2_Redacted_p51_c414",
+      "content_preview": "claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or\napplicable Regulatory Requirements. Pr...",
+      "full_content": "claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or\napplicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service\nIdentifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall\nnot pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that\nresult in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)\nguidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may\nbe set forth in the provider manual(s).\nClaim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered. Unless otherwise required under Regulatory Requirements,\nshall not reimburse for any pharmaceuticals that are not administered to the Member and/or deemed\ncontaminated and/or considered waste.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect\nnew, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable\nCoded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes\nare updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless",
+      "score_breakdown": {
+        "dense_similarity": 0.14572161436080933,
+        "bm25_score": 29.588609701103312,
+        "dense_rank": 61,
+        "bm25_rank": 28,
+        "rrf_contribution_dense": 0.012345679012345678,
+        "rrf_contribution_bm25": 0.020833333333333332
+      }
+    }
+  ]
+}
+```
+
+#### Top Matches (detailed)
+
+- **Rank**: 1
+  - **RRF Score**: 0.08928571428571427
+  - **Page**: 36
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract4_Redacted_p36_c291
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.8660282492637634,
+  "bm25_score": 184.09011166168318,
+  "dense_rank": 4,
+  "bm25_rank": 1,
+  "rrf_contribution_dense": 0.041666666666666664,
+  "rrf_contribution_bm25": 0.047619047619047616
+}
+```
+
+- **Rank**: 2
+  - **RRF Score**: 0.08928571428571427
+  - **Page**: 50
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract3_Redacted_p50_c394
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to 's Medicare ...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to 's Medicare Advantage Program, or unless required by Regulatory
+Requirements, Provider shall submit Claims to , using appropriate and current Coded Service Identifier(s),
+within ninety (90) days from the date the Health Services are rendered or will refuse payment. If is the
+secondary payor, the ninety (90) day period will not begin until Provider receives notification of primary
+payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.8700330853462219,
+  "bm25_score": 183.44051245271976,
+  "dense_rank": 1,
+  "bm25_rank": 4,
+  "rrf_contribution_dense": 0.047619047619047616,
+  "rrf_contribution_bm25": 0.041666666666666664
+}
+```
+
+- **Rank**: 3
+  - **RRF Score**: 0.07703703703703704
+  - **Page**: 21
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract4_Redacted_p21_c169
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6458422243595123,
+  "bm25_score": 130.16969257965187,
+  "dense_rank": 7,
+  "bm25_rank": 5,
+  "rrf_contribution_dense": 0.037037037037037035,
+  "rrf_contribution_bm25": 0.04
+}
+```
+
+- **Rank**: 4
+  - **RRF Score**: 0.0757142857142857
+  - **Page**: 35
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract3_Redacted_p35_c270
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day period
+will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6496689319610596,
+  "bm25_score": 130.16969257965187,
+  "dense_rank": 5,
+  "bm25_rank": 8,
+  "rrf_contribution_dense": 0.04,
+  "rrf_contribution_bm25": 0.03571428571428571
+}
+```
+
+- **Rank**: 5
+  - **RRF Score**: 0.07275132275132275
+  - **Page**: 37
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract2_Redacted_p37_c320
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6378637552261353,
+  "bm25_score": 130.16969257965187,
+  "dense_rank": 8,
+  "bm25_rank": 7,
+  "rrf_contribution_dense": 0.03571428571428571,
+  "rrf_contribution_bm25": 0.037037037037037035
+}
+```
+
+- **Rank**: 6
+  - **RRF Score**: 0.06896551724137931
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:3.1
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c259
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims ae u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims ae using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6076102256774902,
+  "bm25_score": 82.16917255634662,
+  "dense_rank": 9,
+  "bm25_rank": 9,
+  "rrf_contribution_dense": 0.034482758620689655,
+  "rrf_contribution_bm25": 0.034482758620689655
+}
+```
+
+- **Rank**: 7
+  - **RRF Score**: 0.05756578947368421
+  - **Page**: 40
+  - **Section**: clause:12.7
+  - **Chunk ID**: TN_Contract4_Redacted_p40_c339
+  - **Content Preview**: Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall
+be automatically modified to conform to required...
+  - **Full Content:**
+
+    ```
+Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall
+be automatically modified to conform to required changes to Regulatory Requirements related to Medicare
+Advantage Programs without the necessity of executing written amendments. For amendments not required
+by Regulatory Requirements related to Medicare Advantage Programs, shall make a good faith
+effort to provide notice to Provider at least thirty (30) days in advance of the effective date of the
+amendment.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3515165448188782,
+  "bm25_score": 32.42652719915484,
+  "dense_rank": 12,
+  "bm25_rank": 18,
+  "rrf_contribution_dense": 0.03125,
+  "rrf_contribution_bm25": 0.02631578947368421
+}
+```
+
+- **Rank**: 8
+  - **RRF Score**: 0.04586691658856607
+  - **Page**: 60
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract5_Redacted_p60_c504
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 184.09011166168318,
+  "dense_rank": 2405,
+  "bm25_rank": 2,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.045454545454545456
+}
+```
+
+- **Rank**: 9
+  - **RRF Score**: 0.04532163742690058
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:3.1.1
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c261
+  - **Content Preview**: In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notificat...
+  - **Full Content:**
+
+    ```
+In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notification from = of the Medicaid
+Member's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with
+industry standards and acceptable a either (a) electronically through electronic data
+interchange ("EDI"), or (b) if electronic submission is not available, utilizing paper forms as defined
+by the National Uniform Claim Committee ("NUCC").
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.32785218954086304,
+  "bm25_score": 26.32204967767217,
+  "dense_rank": 16,
+  "bm25_rank": 37,
+  "rrf_contribution_dense": 0.027777777777777776,
+  "rrf_contribution_bm25": 0.017543859649122806
+}
+```
+
+- **Rank**: 10
+  - **RRF Score**: 0.04513888888888889
+  - **Page**: 63
+  - **Section**: section:ARTICLE XII > clause:12.7
+  - **Chunk ID**: TN_Contract5_Redacted_p63_c550
+  - **Content Preview**: Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall
+be automatically modified to conform to required...
+  - **Full Content:**
+
+    ```
+Attachment Amendment. Notwithstanding the Amendment provision in the Agreement, this Attachment shall
+be automatically modified to conform to required changes to Regulatory Requirements related to Medicare
+Advantage Programs without the necessity of executing written amendments. For amendments not required
+by Regulatory Requirements related to Medicare Advantage Programs, shall make a good faith
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.16089165210723877,
+  "bm25_score": 34.767309049181314,
+  "dense_rank": 52,
+  "bm25_rank": 12,
+  "rrf_contribution_dense": 0.013888888888888888,
+  "rrf_contribution_bm25": 0.03125
+}
+```
+
+- **Rank**: 11
+  - **RRF Score**: 0.044444444444444446
+  - **Page**: 33
+  - **Section**: section:ARTICLE Ill > clause:7
+  - **Chunk ID**: TN_Contract1_Redacted_p33_c260
+  - **Content Preview**: may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary ...
+  - **Full Content:**
+
+    ```
+may refuse payment. ‘a is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1148797869682312,
+  "bm25_score": 67.78157734899453,
+  "dense_rank": 70,
+  "bm25_rank": 10,
+  "rrf_contribution_dense": 0.011111111111111112,
+  "rrf_contribution_bm25": 0.03333333333333333
+}
+```
+
+- **Rank**: 12
+  - **RRF Score**: 0.04433713784021071
+  - **Page**: 36
+  - **Section**: section:ARTICLE VI > clause:6.1.3
+  - **Chunk ID**: TN_Contract4_Redacted_p36_c294
+  - **Content Preview**: If asks for additional information so that may process the Claim, Provider
+must provide that information within sixty (60) days, or before the expirat...
+  - **Full Content:**
+
+    ```
+If asks for additional information so that may process the Claim, Provider
+must provide that information within sixty (60) days, or before the expiration of the ninety (90) day
+period referenced in section 6.1 above, whichever is longer.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.17425644397735596,
+  "bm25_score": 33.897712658240245,
+  "dense_rank": 47,
+  "bm25_rank": 14,
+  "rrf_contribution_dense": 0.014925373134328358,
+  "rrf_contribution_bm25": 0.029411764705882353
+}
+```
+
+- **Rank**: 13
+  - **RRF Score**: 0.04389063200358583
+  - **Page**: 48
+  - **Section**: section:ARTICLE VI > clause:6.1
+  - **Chunk ID**: TN_Contract1_Redacted_p48_c383
+  - **Content Preview**: Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Adv...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicare Advantage Claims. Unless otherwise instructed in the provider
+manual(s) or Policies applicable to Medicare Advantage Program, or unless required by
+Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded
+Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or
+will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until
+Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 184.09011166168318,
+  "dense_rank": 2405,
+  "bm25_rank": 3,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.043478260869565216
+}
+```
+
+- **Rank**: 14
+  - **RRF Score**: 0.0429000429000429
+  - **Page**: 21
+  - **Section**: section:ARTICLE III > clause:3.1.1
+  - **Chunk ID**: TN_Contract4_Redacted_p21_c170
+  - **Content Preview**: In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notificat...
+  - **Full Content:**
+
+    ```
+In situations of enrollment in with a retroactive eligibility date, the time frames for filing a
+claim shall begin on the date that receives notification from of the Medicaid
+Member's eligibility/enrollment. Provider agrees to submit Claims in a format consistent with
+industry standards and acceptable to either (a) electronically through electronic data
+interchange ("EDI"), or (b) if electronic submission is not available, utilizing paper forms as defined
+by the National Uniform Claim Committee ("NUCC").
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.32744449377059937,
+  "bm25_score": 25.51087897781676,
+  "dense_rank": 17,
+  "bm25_rank": 43,
+  "rrf_contribution_dense": 0.02702702702702703,
+  "rrf_contribution_bm25": 0.015873015873015872
+}
+```
+
+- **Rank**: 15
+  - **RRF Score**: 0.04265202702702703
+  - **Page**: 50
+  - **Section**: section:ARTICLE VI > clause:6.1.3
+  - **Chunk ID**: TN_Contract3_Redacted_p50_c397
+  - **Content Preview**: If asks for additional information so that may process the Claim, Provider must provide
+that information within sixty (60) days, or before the expirat...
+  - **Full Content:**
+
+    ```
+If asks for additional information so that may process the Claim, Provider must provide
+that information within sixty (60) days, or before the expiration of the ninety (90) day period
+referenced in section 6.1 above, whichever is longer.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.17475968599319458,
+  "bm25_score": 33.897712658240245,
+  "dense_rank": 44,
+  "bm25_rank": 17,
+  "rrf_contribution_dense": 0.015625,
+  "rrf_contribution_bm25": 0.02702702702702703
+}
+```
+
+- **Rank**: 16
+  - **RRF Score**: 0.03887390959555908
+  - **Page**: 46
+  - **Section**: section:ARTICLE III > clause:3.1
+  - **Chunk ID**: TN_Contract5_Redacted_p46_c383
+  - **Content Preview**: Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to u...
+  - **Full Content:**
+
+    ```
+Submission and Adjudication of Medicaid Claims. Unless otherwise instructed, or required by Regulatory
+Requirements, Provider shall submit Claims to using appropriate and current Coded Service
+Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or
+may refuse payment. If is the secondary payor, the one hundred twenty (120) day
+period will not begin until Provider receives notification of primary payor's responsibility.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.0,
+  "bm25_score": 130.16969257965187,
+  "dense_rank": 2405,
+  "bm25_rank": 6,
+  "rrf_contribution_dense": 0.0004123711340206186,
+  "rrf_contribution_bm25": 0.038461538461538464
+}
+```
+
+- **Rank**: 17
+  - **RRF Score**: 0.03600338286818896
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract5_Redacted_p16_c136
+  - **Content Preview**: • Medicare Advantage - Health Maintenance Organization (HMO) Plans
+• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-S...
+  - **Full Content:**
+
+    ```
+• Medicare Advantage - Health Maintenance Organization (HMO) Plans
+• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)
+• Medicare Advantage - Preferred Provider Organization (MA PPO)
+• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)
+• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)
+Other Programs:
+• Episode-Based Retrospective Payment  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": -0.008855581283569336,
+  "bm25_score": 40.814250393005175,
+  "dense_rank": 247,
+  "bm25_rank": 11,
+  "rrf_contribution_dense": 0.003745318352059925,
+  "rrf_contribution_bm25": 0.03225806451612903
+}
+```
+
+- **Rank**: 18
+  - **RRF Score**: 0.03456221198156682
+  - **Page**: 33
+  - **Section**: section:ARTICLE II > clause:2.1
+  - **Chunk ID**: TN_Contract4_Redacted_p33_c262
+  - **Content Preview**: Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider
+will render MA Covered Services to MA Members enrolled in M...
+  - **Full Content:**
+
+    ```
+Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider
+will render MA Covered Services to MA Members enrolled in Medicare Advantage Program in
+accordance with the terms and conditions of the Agreement and this Attachment. Except as set forth in this
+Attachment, or in the ACS, all terms and conditions of the Agreement will apply to Provider's participation in
+Medicare Advantage Program(s). The terms and conditions set forth in this Attachment are
+limited to the provision of and payment for Health Services provided to MA Members. This Agreement does
+not apply to any of Medicare Advantage Private Fee for Service or Medical Savings Account
+Programs. If contracts with a third party to manage all or any portion of its Medicare Advantage
+Network, then Provider shall be required to contract separately with such third party to maintain its status as
+a Participating Provider for such Network(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.10883533954620361,
+  "bm25_score": 30.844753804412484,
+  "dense_rank": 73,
+  "bm25_rank": 22,
+  "rrf_contribution_dense": 0.010752688172043012,
+  "rrf_contribution_bm25": 0.023809523809523808
+}
+```
+
+- **Rank**: 19
+  - **RRF Score**: 0.03356455582904453
+  - **Page**: 47
+  - **Section**: section:ARTICLE II > clause:2.1
+  - **Chunk ID**: TN_Contract3_Redacted_p47_c364
+  - **Content Preview**: Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render
+MA Covered Services to MA Members enrolled i...
+  - **Full Content:**
+
+    ```
+Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render
+MA Covered Services to MA Members enrolled in 's Medicare Advantage Program in accordance with the
+terms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment, or in the
+WCS, all terms and conditions of the Agreement will apply to Provider's participation in 's Medicare
+Advantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of
+and payment for Health Services provided to MA Members. This Agreement does not apply to any of 's
+Medicare Advantage Private Fee for Service or Medical Savings Account Programs. If contracts with a third
+party to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to
+contract separately with such third party to maintain its status as a Participating Provider for such
+Network(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.09656643867492676,
+  "bm25_score": 31.105852640807704,
+  "dense_rank": 89,
+  "bm25_rank": 21,
+  "rrf_contribution_dense": 0.009174311926605505,
+  "rrf_contribution_bm25": 0.024390243902439025
+}
+```
+
+- **Rank**: 20
+  - **RRF Score**: 0.03317901234567901
+  - **Page**: 51
+  - **Section**: section:ARTICLE II > clause:04
+  - **Chunk ID**: TN_Contract2_Redacted_p51_c414
+  - **Content Preview**: claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
+applicable Regulatory Requirements. Pr...
+  - **Full Content:**
+
+    ```
+claim form or its successor form(s) as applicable based on the services provided in accordance with Policies or
+applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service
+Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall
+not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that
+result in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)
+guidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may
+be set forth in the provider manual(s).
+Claim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard
+Coded Service Identifier(s), a National Drug Code ("NDC") number of the covered medication, a description of the
+product, and dosage and units administered. Unless otherwise required under Regulatory Requirements,
+shall not reimburse for any pharmaceuticals that are not administered to the Member and/or deemed
+contaminated and/or considered waste.
+Coding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect
+new, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable
+Coded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes
+are updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.14572161436080933,
+  "bm25_score": 29.588609701103312,
+  "dense_rank": 61,
+  "bm25_rank": 28,
+  "rrf_contribution_dense": 0.012345679012345678,
+  "rrf_contribution_bm25": 0.020833333333333332
+}
+```
+
+### Attribute: No Steerage/SOC
+
+```json
+{
+  "attribute_info": {
+    "number": 3,
+    "name": "No Steerage/SOC",
+    "content_preview": "No Steerage/SOC Networks and Provider Panels, Base, 2.11 Provision allows Elevance the right to deve..."
+  },
+  "statistics": {
+    "avg_rrf_score": 0.06321097629815174,
+    "max_rrf_score": 0.09523809523809523,
+    "avg_dense_score": 0.2251589387655258,
+    "avg_bm25_score": 127.23618768035651,
+    "high_rrf_matches": 20
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "rrf_score": 0.09523809523809523,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract1_Redacted_p4_c25",
+      "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+      "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\n| in its sole discretion, the date Provider has met a _ credentialing\nrequirements and accreditation requirements. Provider acknowledges that may develop,\ndiscontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks\ndesignated on the Provider Networks ‘tachment, may also identify Provider as a Participating\nProvider in additional Networks, products and/or programs designated in writing from time to time by",
+      "score_breakdown": {
+        "dense_similarity": 0.4986451268196106,
+        "bm25_score": 255.58254447213866,
+        "dense_rank": 1,
+        "bm25_rank": 1,
+        "rrf_contribution_dense": 0.047619047619047616,
+        "rrf_contribution_bm25": 0.047619047619047616
+      }
+    },
+    {
+      "rank": 2,
+      "rrf_score": 0.09090909090909091,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract4_Redacted_p4_c26",
+      "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+      "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\nin its sole discretion, the date Provider has met applicable credentialing\nrequirements and accreditation requirements. Provider acknowledges that may develop,\ndiscontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks\ndesignated on the Provider Networks Attachment, may also identify Provider as a Participating\nProvider in additional Networks, products and/or programs designated in writing from time to time by\nThe terms and conditions of Provider's participation as a Participating Provider in such\nadditional Networks, products and/or programs shall be on the terms and conditions as set forth in this\nAgreement unless otherwise agreed to in writing by Provider and\nIn addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory or behavioral health services, may be provided exclusively by designated",
+      "score_breakdown": {
+        "dense_similarity": 0.4483545422554016,
+        "bm25_score": 253.1420334011089,
+        "dense_rank": 2,
+        "bm25_rank": 2,
+        "rrf_contribution_dense": 0.045454545454545456,
+        "rrf_contribution_bm25": 0.045454545454545456
+      }
+    },
+    {
+      "rank": 3,
+      "rrf_score": 0.08514492753623187,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract5_Redacted_p4_c26",
+      "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+      "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\nin its sole discretion, the date Provider has met applicable credentialing\nrequirements and accreditation requirements. Provider acknowledges that may develop,\ndiscontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks\ndesignated on the Provider Networks Attachment, may also identify Provider as a Participating\nProvider in additional Networks, products and/or programs designated in writing from time to time by\nThe terms and conditions of Provider's participation as a Participating Provider in such\nadditional Networks, products and/or programs shall be on the terms and conditions as set forth in this\nAgreement unless otherwise agreed to in writing by Provider and\nIn addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Provider\nagrees to refer Members to such designated Participating Providers in a Health Services Designated",
+      "score_breakdown": {
+        "dense_similarity": 0.4290252923965454,
+        "bm25_score": 247.3420902743817,
+        "dense_rank": 4,
+        "bm25_rank": 3,
+        "rrf_contribution_dense": 0.041666666666666664,
+        "rrf_contribution_bm25": 0.043478260869565216
+      }
+    },
+    {
+      "rank": 4,
+      "rrf_score": 0.08347826086956522,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract3_Redacted_p4_c27",
+      "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+      "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\nin its sole discretion, the date Provider has met 's applicable credentialing requirements and accreditation\nrequirements. Provider acknowledges that may develop, discontinue, or modify new or existing Networks,\nproducts and/or programs. In addition to those Networks designated on the Provider Networks Attachment,\nmay also identify Provider as a Participating Provider in additional Networks, products and/or\nprograms designated in writing from time to time by The terms and conditions of Provider's\nparticipation as a Participating Provider in such additional Networks, products and/or programs shall be on\nthe terms and conditions as set forth in this Agreement unless otherwise agreed to in writing by Provider and\nIn addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,\nHMO and PPO), Provider further acknowledges that certain Health Services, including by way of example\nonly, laboratory or behavioral health services, may be provided exclusively by designated Participating\nProviders (a \"Health Services Designated Network\"), as determined by Provider agrees to refer\nMembers to such designated Participating Providers in a Health Services Designated Network for the",
+      "score_breakdown": {
+        "dense_similarity": 0.44286513328552246,
+        "bm25_score": 244.7328696745665,
+        "dense_rank": 3,
+        "bm25_rank": 5,
+        "rrf_contribution_dense": 0.043478260869565216,
+        "rrf_contribution_bm25": 0.04
+      }
+    },
+    {
+      "rank": 5,
+      "rrf_score": 0.08166666666666667,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract2_Redacted_p4_c25",
+      "content_preview": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this ...",
+      "full_content": "Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by\nin its sole discretion, the date Provider has met applicable credentialing\nrequirements and accreditation requirements. Provider acknowledges that may develop,\ndiscontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks\ndesignated on the Provider Networks Attachment, may also identify Provider as a Participating\nProvider in additional Networks, products and/or programs designated in writing from time to time by\nThe terms and conditions of Provider's participation as a Participating Provider in such\nadditional Networks, products and/or programs shall be on the terms and conditions as set forth in this\nAgreement unless otherwise agreed to in writing by Provider and\nIn addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory services, may be provided exclusively by designated Participating Providers\n(a \"Health Services Designated Network\"), as determined by Provider agrees to refer Members\nto such designated Participating Providers in a Health Services Designated Network for the provision of",
+      "score_breakdown": {
+        "dense_similarity": 0.4255260229110718,
+        "bm25_score": 247.19041521809814,
+        "dense_rank": 5,
+        "bm25_rank": 4,
+        "rrf_contribution_dense": 0.04,
+        "rrf_contribution_bm25": 0.041666666666666664
+      }
+    },
+    {
+      "rank": 6,
+      "rrf_score": 0.07417582417582418,
+      "page": 4,
+      "section": "clause:7",
+      "chunk_id": "TN_Contract1_Redacted_p4_c26",
+      "content_preview": "The terms and conditions of Provider's participation as a Participating Provider in such\nadditional Networks, products and/or programs shall be on the...",
+      "full_content": "The terms and conditions of Provider's participation as a Participating Provider in such\nadditional Networks, products and/or programs shall be on the terms and conditions as set forth in this\nAgreement unless otherwise agreed to in writing by Provider and i’\nIn addition to and separate from Networks that support some or all of ; products and/or\nnmranramec fan WAO and DDO) PDrnvider firrther acknnwlednec that certain Heal ‘Carvicec inchidingn hy",
+      "score_breakdown": {
+        "dense_similarity": 0.22642958164215088,
+        "bm25_score": 127.62832227255136,
+        "dense_rank": 8,
+        "bm25_rank": 6,
+        "rrf_contribution_dense": 0.03571428571428571,
+        "rrf_contribution_bm25": 0.038461538461538464
+      }
+    },
+    {
+      "rank": 7,
+      "rrf_score": 0.06929510155316607,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract3_Redacted_p16_c138",
+      "content_preview": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\n...",
+      "full_content": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider\nhas met applicable credentialing requirements and accreditation requirements:\nGovernment Programs:\nHealth Benefit Plans issued pursuant to an agreement between and and/or CMS in which\nMembers have access to a network of providers and receive benefits when they obtain Covered Services\nfrom Participating Providers. Provider participates in one or more of the following Networks which support\nsuch Health Benefit Plans:\n Medicaid Plan - TN\n Medicaid Plan - TN CoverKids\n Medicare Advantage\nOther Programs:\n Episode-Based Retrospective Payment  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.18845415115356445,
+        "bm25_score": 116.87969360317157,
+        "dense_rank": 11,
+        "bm25_rank": 7,
+        "rrf_contribution_dense": 0.03225806451612903,
+        "rrf_contribution_bm25": 0.037037037037037035
+      }
+    },
+    {
+      "rank": 8,
+      "rrf_score": 0.067816091954023,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract2_Redacted_p16_c132",
+      "content_preview": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\n...",
+      "full_content": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider\nhas met applicable credentialing requirements and accreditation requirements:\nGovernment Programs:\nHealth Benefit Plans issued pursuant to an agreement between and and/or CMS in\nwhich Members have access to a network of providers and receive benefits when they obtain Covered\nServices from Participating Providers. Provider participates in one or more of the following Networks which\nsupport such Health Benefit Plans:\n• Medicaid Plan - TN\n• Medicaid Plan - TN CoverKids\n• Medicaid Plan- TN 1915(c) Intellectual and Developmental Disabilities (IDD) Waivers ( Waivers)\nOther Programs:\n• Episode-Based Retrospective Payment  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.1898256540298462,
+        "bm25_score": 111.75848341007999,
+        "dense_rank": 10,
+        "bm25_rank": 9,
+        "rrf_contribution_dense": 0.03333333333333333,
+        "rrf_contribution_bm25": 0.034482758620689655
+      }
+    },
+    {
+      "rank": 9,
+      "rrf_score": 0.06696428571428571,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract4_Redacted_p16_c136",
+      "content_preview": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\n...",
+      "full_content": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider\nhas met applicable credentialing requirements and accreditation requirements:\nGovernment Programs:\nHealth Benefit Plans issued pursuant to an agreement between and and/or CMS in\nwhich Members have access to a network of providers and receive benefits when they obtain Covered\nServices from Participating Providers. Provider participates in one or more of the following Networks which\nsupport such Health Benefit Plans:\n Medicaid Plan - TN\n Medicaid Plan - TN CoverKids\n Medicare Advantage  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.1866837739944458,
+        "bm25_score": 111.83226787166903,
+        "dense_rank": 12,
+        "bm25_rank": 8,
+        "rrf_contribution_dense": 0.03125,
+        "rrf_contribution_bm25": 0.03571428571428571
+      }
+    },
+    {
+      "rank": 10,
+      "rrf_score": 0.06274509803921569,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract3_Redacted_p4_c28",
+      "content_preview": "In addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,\nHMO and PPO), Provider further acknowledges t...",
+      "full_content": "In addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,\nHMO and PPO), Provider further acknowledges that certain Health Services, including by way of example\nonly, laboratory or behavioral health services, may be provided exclusively by designated Participating\nProviders (a \"Health Services Designated Network\"), as determined by Provider agrees to refer\nMembers to such designated Participating Providers in a Health Services Designated Network for the\nprovision of certain Health Services, even if Provider performs such services. Notwithstanding any other  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.1747029423713684,
+        "bm25_score": 97.94090399144173,
+        "dense_rank": 14,
+        "bm25_rank": 10,
+        "rrf_contribution_dense": 0.029411764705882353,
+        "rrf_contribution_bm25": 0.03333333333333333
+      }
+    },
+    {
+      "rank": 11,
+      "rrf_score": 0.061553030303030304,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract5_Redacted_p4_c27",
+      "content_preview": "In addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that...",
+      "full_content": "In addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Provider\nagrees to refer Members to such designated Participating Providers in a Health Services Designated\nNetwork for the provision of certain Health Services, even if Provider performs such services.\nNotwithstanding any other provision in this Agreement, if Provider provides a Health Service to a Member for\nwhich Provider is not a designated Participating Provider in a Health Services Designated Network, then",
+      "score_breakdown": {
+        "dense_similarity": 0.1816786527633667,
+        "bm25_score": 90.72959026858446,
+        "dense_rank": 13,
+        "bm25_rank": 12,
+        "rrf_contribution_dense": 0.030303030303030304,
+        "rrf_contribution_bm25": 0.03125
+      }
+    },
+    {
+      "rank": 12,
+      "rrf_score": 0.05887445887445887,
+      "page": 4,
+      "section": "clause:2.11",
+      "chunk_id": "TN_Contract2_Redacted_p4_c26",
+      "content_preview": "In addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that...",
+      "full_content": "In addition to and separate from Networks that support some or all of products and/or\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by\nway of example only, laboratory services, may be provided exclusively by designated Participating Providers\n(a \"Health Services Designated Network\"), as determined by Provider agrees to refer Members\nto such designated Participating Providers in a Health Services Designated Network for the provision of\ncertain Health Services, even if Provider performs such services. Notwithstanding any other provision in this\nAgreement, if Provider provides a Health Service to a Member for which Provider is not a designated\nParticipating Provider in a Health Services Designated Network, then Provider agrees that he/she/it shall not",
+      "score_breakdown": {
+        "dense_similarity": 0.16703665256500244,
+        "bm25_score": 89.83593383704884,
+        "dense_rank": 15,
+        "bm25_rank": 13,
+        "rrf_contribution_dense": 0.02857142857142857,
+        "rrf_contribution_bm25": 0.030303030303030304
+      }
+    },
+    {
+      "rank": 13,
+      "rrf_score": 0.0555138784696174,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract5_Redacted_p16_c135",
+      "content_preview": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\n...",
+      "full_content": "PROVIDER NETWORKS ATTACHMENT for TENNESSEE\nProvider shall be designated as a Participating Provider in the following Networks on the later of: 1) the\nEffective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider\nhas met applicable credentialing requirements and accreditation requirements:\nGovernment Programs:\nHealth Benefit Plans issued pursuant to an agreement between and and/or CMS in\nwhich Members have access to a network of providers and receive benefits when they obtain Covered\nServices from Participating Providers. Provider participates in one or more of the following Networks which\nsupport such Health Benefit Plans:\n• Medicaid Plan - TN\n• Medicaid Plan - TN CoverKids\n• Medicaid Plan - TN Employment & Community First CHOICES ( LTSS ECF HCBS)\n• Medicaid Plan- TN 1915(c) Intellectual and Developmental Disabilities (IDD) Waivers ( Waivers)\n• Medicare Advantage Dual Plan - TN Amerivantage Dual Coordination (DSP)\n• Medicare Advantage - Health Maintenance Organization (HMO) Plans\n• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)\n• Medicare Advantage - Preferred Provider Organization (MA PPO)\n• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)\n• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)\nOther Programs:\n• Episode-Based Retrospective Payment  \n|  |\n| --- |",
+      "score_breakdown": {
+        "dense_similarity": 0.14328205585479736,
+        "bm25_score": 97.38783458282845,
+        "dense_rank": 23,
+        "bm25_rank": 11,
+        "rrf_contribution_dense": 0.023255813953488372,
+        "rrf_contribution_bm25": 0.03225806451612903
+      }
+    },
+    {
+      "rank": 14,
+      "rrf_score": 0.049754299754299756,
+      "page": 47,
+      "section": "section:ARTICLE II > clause:2.1.1",
+      "chunk_id": "TN_Contract3_Redacted_p47_c365",
+      "content_preview": "New Programs. Provider acknowledges that has or may develop Medicare Advantage Networks\nthat support certain products, programs or plans with specific...",
+      "full_content": "New Programs. Provider acknowledges that has or may develop Medicare Advantage Networks\nthat support certain products, programs or plans with specific participation criteria that may include\nbut are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement, Provider\nshall be a Participating Provider in any such Network unless notifies Provider in writing to\nthe contrary. shall notify Provider sixty (60) days in advance of any specific Network participation\ncriteria. Any notice of non-inclusion in any of 's Medicare Advantage Network(s) shall be provided\nin writing sixty (60) days in advance.",
+      "score_breakdown": {
+        "dense_similarity": 0.14194798469543457,
+        "bm25_score": 84.97537699997885,
+        "dense_rank": 24,
+        "bm25_rank": 17,
+        "rrf_contribution_dense": 0.022727272727272728,
+        "rrf_contribution_bm25": 0.02702702702702703
+      }
+    },
+    {
+      "rank": 15,
+      "rrf_score": 0.04889683959451401,
+      "page": 5,
+      "section": "clause:2.13",
+      "chunk_id": "TN_Contract4_Redacted_p5_c31",
+      "content_preview": "Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing\nrequirements, and accreditation requirements for th...",
+      "full_content": "Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing\nrequirements, and accreditation requirements for the Networks in which Provider participates. A description\nof the applicable credentialing requirements and accreditation requirements, are set forth in the provider\nmanual(s) and/or in the ACS. Provider acknowledges that until such time as Provider has been determined\nto have fully met credentialing requirements and accreditation requirements, as applicable,\nProvider shall not be entitled to the benefits of participation under this Agreement, including without limitation\nthe Rates set forth in the ACS attached hereto.",
+      "score_breakdown": {
+        "dense_similarity": 0.1634056568145752,
+        "bm25_score": 43.72935985771425,
+        "dense_rank": 19,
+        "bm25_rank": 23,
+        "rrf_contribution_dense": 0.02564102564102564,
+        "rrf_contribution_bm25": 0.023255813953488372
+      }
+    },
+    {
+      "rank": 16,
+      "rrf_score": 0.04759358288770053,
+      "page": 33,
+      "section": "section:ARTICLE II > clause:2.1.1",
+      "chunk_id": "TN_Contract4_Redacted_p33_c263",
+      "content_preview": "New Programs. Provider acknowledges that has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with specific...",
+      "full_content": "New Programs. Provider acknowledges that has or may develop Medicare Advantage\nNetworks that support certain products, programs or plans with specific participation criteria that\nmay include but are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement,\nProvider shall be a Participating Provider in any such Network unless notifies Provider\nin writing to the contrary. shall notify Provider sixty (60) days in advance of any\nspecific Network participation criteria. Any notice of non-inclusion in any of Medicare\nAdvantage Network(s) shall be provided in writing sixty (60) days in advance.",
+      "score_breakdown": {
+        "dense_similarity": 0.12460583448410034,
+        "bm25_score": 85.22533271355441,
+        "dense_rank": 35,
+        "bm25_rank": 14,
+        "rrf_contribution_dense": 0.01818181818181818,
+        "rrf_contribution_bm25": 0.029411764705882353
+      }
+    },
+    {
+      "rank": 17,
+      "rrf_score": 0.04230769230769231,
+      "page": 15,
+      "section": "clause:9.15.2 > section:ARTICLE IX",
+      "chunk_id": "TN_Contract1_Redacted_p15_c135",
+      "content_preview": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party ...",
+      "full_content": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this\nAgreement.\nTHIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION\nWHICH MAY BE ENFORCED BY THE PARTIES\nProvider shall be designated as a Participating Provider in the Networks set forth on the Provider Network\nAttachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined _ in its\nsole discretion, the date Provider has met applicable credentialing requirements and accreditation\nrequirements.\nPROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: ns College dba\nBE cou\nBy: ee\nSignature, Authorized Representative of Provider(s) Date\nPrinted:\nName Title\nAddress:\nStreet City State Zip\nTax Identification Number (TIN): — ** *REMOVED***\n(Note: if any of the following is not applicable, please leave blank)\nPhone Number:\nFY Tennessee, Inc. dba ‘Community Care\nHE STERNAL Use ONLY\nBy: a\nSignature, Authorized Representative of Date\nPrive:",
+      "score_breakdown": {
+        "dense_similarity": 0.09342169761657715,
+        "bm25_score": 64.98089680364966,
+        "dense_rank": 40,
+        "bm25_rank": 19,
+        "rrf_contribution_dense": 0.016666666666666666,
+        "rrf_contribution_bm25": 0.02564102564102564
+      }
+    },
+    {
+      "rank": 18,
+      "rrf_score": 0.04139344262295082,
+      "page": 15,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract5_Redacted_p15_c134",
+      "content_preview": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party ...",
+      "full_content": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this\nAgreement.\nTHIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION\nWHICH MAY BE ENFORCED BY THE PARTIES\nProvider shall be designated as a Participating Provider in the Networks set forth on the Provider Network\nAttachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined by in its\nsole discretion, the date Provider has met applicable credentialing requirements and accreditation\nrequirements.\nPROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: Inc.\nBy:\nSignature, Authorized Representative of Provider(s) Date\nPrinted:\nName Title\nAddress:\nStreet City State Zip\nTax Identification Number (TIN): ***REMOVED***\n(Note: if any of the following is not applicable, please leave blank)\nPhone Number:\nTennessee, Inc. d/b/a Community Care\nINTERNAL USE ONLY\nBy:\nSignature, Authorized Representative of Date\nPrinted: Regional Provider Solutions\nName Title",
+      "score_breakdown": {
+        "dense_similarity": 0.08698803186416626,
+        "bm25_score": 64.60745827018661,
+        "dense_rank": 41,
+        "bm25_rank": 20,
+        "rrf_contribution_dense": 0.01639344262295082,
+        "rrf_contribution_bm25": 0.025
+      }
+    },
+    {
+      "rank": 19,
+      "rrf_score": 0.040884438881935756,
+      "page": 5,
+      "section": "clause:2.13",
+      "chunk_id": "TN_Contract3_Redacted_p5_c33",
+      "content_preview": "Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing\nrequirements, and accreditation requirements for th...",
+      "full_content": "Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing\nrequirements, and accreditation requirements for the Networks in which Provider participates. A description\nof the applicable credentialing requirements and accreditation requirements, are set forth in the provider\nmanual(s) and/or in the WCS. Provider acknowledges that until such time as Provider has been determined\nto have fully met credentialing requirements and accreditation requirements, as applicable,\nProvider shall not be entitled to the benefits of participation under this Agreement, including without limitation\nthe Rates set forth in the WCS attached hereto.",
+      "score_breakdown": {
+        "dense_similarity": 0.12989872694015503,
+        "bm25_score": 43.72935985771425,
+        "dense_rank": 31,
+        "bm25_rank": 27,
+        "rrf_contribution_dense": 0.0196078431372549,
+        "rrf_contribution_bm25": 0.02127659574468085
+      }
+    },
+    {
+      "rank": 20,
+      "rrf_score": 0.04001441961067051,
+      "page": 15,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract3_Redacted_p15_c137",
+      "content_preview": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party ...",
+      "full_content": "Each party warrants that it has full power and authority to enter into this Agreement and the person signing this\nAgreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this\nAgreement.\nTHIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION\nWHICH MAY BE ENFORCED BY THE PARTIES\nProvider shall be designated as a Participating Provider in the Networks set forth on the Provider Network\nAttachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined by in its sole\ndiscretion, the date Provider has met applicable credentialing requirements and accreditation requirements.\nPROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A:\nBy:\nSignature, Authorized Representative of Provider(s) Date\nPrinted: Practice Manager\nName Title\nAddress: TN\nStreet City State Zip\nTax Identification Number (TIN): ***REMOVED***\n(Note: if any of the following is not applicable, please leave blank)\nPhone Number:\nTennessee, Inc.\nINTERNAL USE ONLY\nTHE EFFECTIVE DATE OF THIS AGREEMENT IS: _________________________\nBy:\nSignature, Authorized Representative of Date\nPrinted:\nName Title",
+      "score_breakdown": {
+        "dense_similarity": 0.06040126085281372,
+        "bm25_score": 65.49298622666258,
+        "dense_rank": 53,
+        "bm25_rank": 18,
+        "rrf_contribution_dense": 0.0136986301369863,
+        "rrf_contribution_bm25": 0.02631578947368421
+      }
+    }
+  ]
+}
+```
+
+#### Top Matches (detailed)
+
+- **Rank**: 1
+  - **RRF Score**: 0.09523809523809523
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract1_Redacted_p4_c25
+  - **Content Preview**: Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this ...
+  - **Full Content:**
+
+    ```
+Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
+Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
+| in its sole discretion, the date Provider has met a _ credentialing
+requirements and accreditation requirements. Provider acknowledges that may develop,
+discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks
+designated on the Provider Networks ‘tachment, may also identify Provider as a Participating
+Provider in additional Networks, products and/or programs designated in writing from time to time by
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4986451268196106,
+  "bm25_score": 255.58254447213866,
+  "dense_rank": 1,
+  "bm25_rank": 1,
+  "rrf_contribution_dense": 0.047619047619047616,
+  "rrf_contribution_bm25": 0.047619047619047616
+}
+```
+
+- **Rank**: 2
+  - **RRF Score**: 0.09090909090909091
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract4_Redacted_p4_c26
+  - **Content Preview**: Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this ...
+  - **Full Content:**
+
+    ```
+Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
+Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
+in its sole discretion, the date Provider has met applicable credentialing
+requirements and accreditation requirements. Provider acknowledges that may develop,
+discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks
+designated on the Provider Networks Attachment, may also identify Provider as a Participating
+Provider in additional Networks, products and/or programs designated in writing from time to time by
+The terms and conditions of Provider's participation as a Participating Provider in such
+additional Networks, products and/or programs shall be on the terms and conditions as set forth in this
+Agreement unless otherwise agreed to in writing by Provider and
+In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+way of example only, laboratory or behavioral health services, may be provided exclusively by designated
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4483545422554016,
+  "bm25_score": 253.1420334011089,
+  "dense_rank": 2,
+  "bm25_rank": 2,
+  "rrf_contribution_dense": 0.045454545454545456,
+  "rrf_contribution_bm25": 0.045454545454545456
+}
+```
+
+- **Rank**: 3
+  - **RRF Score**: 0.08514492753623187
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract5_Redacted_p4_c26
+  - **Content Preview**: Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this ...
+  - **Full Content:**
+
+    ```
+Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
+Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
+in its sole discretion, the date Provider has met applicable credentialing
+requirements and accreditation requirements. Provider acknowledges that may develop,
+discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks
+designated on the Provider Networks Attachment, may also identify Provider as a Participating
+Provider in additional Networks, products and/or programs designated in writing from time to time by
+The terms and conditions of Provider's participation as a Participating Provider in such
+additional Networks, products and/or programs shall be on the terms and conditions as set forth in this
+Agreement unless otherwise agreed to in writing by Provider and
+In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+way of example only, laboratory or behavioral health services, may be provided exclusively by designated
+Participating Providers (a "Health Services Designated Network"), as determined by Provider
+agrees to refer Members to such designated Participating Providers in a Health Services Designated
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4290252923965454,
+  "bm25_score": 247.3420902743817,
+  "dense_rank": 4,
+  "bm25_rank": 3,
+  "rrf_contribution_dense": 0.041666666666666664,
+  "rrf_contribution_bm25": 0.043478260869565216
+}
+```
+
+- **Rank**: 4
+  - **RRF Score**: 0.08347826086956522
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract3_Redacted_p4_c27
+  - **Content Preview**: Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this ...
+  - **Full Content:**
+
+    ```
+Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
+Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
+in its sole discretion, the date Provider has met 's applicable credentialing requirements and accreditation
+requirements. Provider acknowledges that may develop, discontinue, or modify new or existing Networks,
+products and/or programs. In addition to those Networks designated on the Provider Networks Attachment,
+may also identify Provider as a Participating Provider in additional Networks, products and/or
+programs designated in writing from time to time by The terms and conditions of Provider's
+participation as a Participating Provider in such additional Networks, products and/or programs shall be on
+the terms and conditions as set forth in this Agreement unless otherwise agreed to in writing by Provider and
+In addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,
+HMO and PPO), Provider further acknowledges that certain Health Services, including by way of example
+only, laboratory or behavioral health services, may be provided exclusively by designated Participating
+Providers (a "Health Services Designated Network"), as determined by Provider agrees to refer
+Members to such designated Participating Providers in a Health Services Designated Network for the
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.44286513328552246,
+  "bm25_score": 244.7328696745665,
+  "dense_rank": 3,
+  "bm25_rank": 5,
+  "rrf_contribution_dense": 0.043478260869565216,
+  "rrf_contribution_bm25": 0.04
+}
+```
+
+- **Rank**: 5
+  - **RRF Score**: 0.08166666666666667
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract2_Redacted_p4_c25
+  - **Content Preview**: Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this ...
+  - **Full Content:**
+
+    ```
+Networks and Provider Panels. Provider shall be eligible to participate only in those Networks designated on
+the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating
+Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by
+in its sole discretion, the date Provider has met applicable credentialing
+requirements and accreditation requirements. Provider acknowledges that may develop,
+discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks
+designated on the Provider Networks Attachment, may also identify Provider as a Participating
+Provider in additional Networks, products and/or programs designated in writing from time to time by
+The terms and conditions of Provider's participation as a Participating Provider in such
+additional Networks, products and/or programs shall be on the terms and conditions as set forth in this
+Agreement unless otherwise agreed to in writing by Provider and
+In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+way of example only, laboratory services, may be provided exclusively by designated Participating Providers
+(a "Health Services Designated Network"), as determined by Provider agrees to refer Members
+to such designated Participating Providers in a Health Services Designated Network for the provision of
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4255260229110718,
+  "bm25_score": 247.19041521809814,
+  "dense_rank": 5,
+  "bm25_rank": 4,
+  "rrf_contribution_dense": 0.04,
+  "rrf_contribution_bm25": 0.041666666666666664
+}
+```
+
+- **Rank**: 6
+  - **RRF Score**: 0.07417582417582418
+  - **Page**: 4
+  - **Section**: clause:7
+  - **Chunk ID**: TN_Contract1_Redacted_p4_c26
+  - **Content Preview**: The terms and conditions of Provider's participation as a Participating Provider in such
+additional Networks, products and/or programs shall be on the...
+  - **Full Content:**
+
+    ```
+The terms and conditions of Provider's participation as a Participating Provider in such
+additional Networks, products and/or programs shall be on the terms and conditions as set forth in this
+Agreement unless otherwise agreed to in writing by Provider and i’
+In addition to and separate from Networks that support some or all of ; products and/or
+nmranramec fan WAO and DDO) PDrnvider firrther acknnwlednec that certain Heal ‘Carvicec inchidingn hy
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.22642958164215088,
+  "bm25_score": 127.62832227255136,
+  "dense_rank": 8,
+  "bm25_rank": 6,
+  "rrf_contribution_dense": 0.03571428571428571,
+  "rrf_contribution_bm25": 0.038461538461538464
+}
+```
+
+- **Rank**: 7
+  - **RRF Score**: 0.06929510155316607
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract3_Redacted_p16_c138
+  - **Content Preview**: PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+...
+  - **Full Content:**
+
+    ```
+PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+Effective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider
+has met applicable credentialing requirements and accreditation requirements:
+Government Programs:
+Health Benefit Plans issued pursuant to an agreement between and and/or CMS in which
+Members have access to a network of providers and receive benefits when they obtain Covered Services
+from Participating Providers. Provider participates in one or more of the following Networks which support
+such Health Benefit Plans:
+ Medicaid Plan - TN
+ Medicaid Plan - TN CoverKids
+ Medicare Advantage
+Other Programs:
+ Episode-Based Retrospective Payment  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.18845415115356445,
+  "bm25_score": 116.87969360317157,
+  "dense_rank": 11,
+  "bm25_rank": 7,
+  "rrf_contribution_dense": 0.03225806451612903,
+  "rrf_contribution_bm25": 0.037037037037037035
+}
+```
+
+- **Rank**: 8
+  - **RRF Score**: 0.067816091954023
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract2_Redacted_p16_c132
+  - **Content Preview**: PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+...
+  - **Full Content:**
+
+    ```
+PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+Effective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider
+has met applicable credentialing requirements and accreditation requirements:
+Government Programs:
+Health Benefit Plans issued pursuant to an agreement between and and/or CMS in
+which Members have access to a network of providers and receive benefits when they obtain Covered
+Services from Participating Providers. Provider participates in one or more of the following Networks which
+support such Health Benefit Plans:
+• Medicaid Plan - TN
+• Medicaid Plan - TN CoverKids
+• Medicaid Plan- TN 1915(c) Intellectual and Developmental Disabilities (IDD) Waivers ( Waivers)
+Other Programs:
+• Episode-Based Retrospective Payment  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1898256540298462,
+  "bm25_score": 111.75848341007999,
+  "dense_rank": 10,
+  "bm25_rank": 9,
+  "rrf_contribution_dense": 0.03333333333333333,
+  "rrf_contribution_bm25": 0.034482758620689655
+}
+```
+
+- **Rank**: 9
+  - **RRF Score**: 0.06696428571428571
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract4_Redacted_p16_c136
+  - **Content Preview**: PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+...
+  - **Full Content:**
+
+    ```
+PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+Effective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider
+has met applicable credentialing requirements and accreditation requirements:
+Government Programs:
+Health Benefit Plans issued pursuant to an agreement between and and/or CMS in
+which Members have access to a network of providers and receive benefits when they obtain Covered
+Services from Participating Providers. Provider participates in one or more of the following Networks which
+support such Health Benefit Plans:
+ Medicaid Plan - TN
+ Medicaid Plan - TN CoverKids
+ Medicare Advantage  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1866837739944458,
+  "bm25_score": 111.83226787166903,
+  "dense_rank": 12,
+  "bm25_rank": 8,
+  "rrf_contribution_dense": 0.03125,
+  "rrf_contribution_bm25": 0.03571428571428571
+}
+```
+
+- **Rank**: 10
+  - **RRF Score**: 0.06274509803921569
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract3_Redacted_p4_c28
+  - **Content Preview**: In addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,
+HMO and PPO), Provider further acknowledges t...
+  - **Full Content:**
+
+    ```
+In addition to and separate from Networks that support some or all of 's products and/or programs (e.g.,
+HMO and PPO), Provider further acknowledges that certain Health Services, including by way of example
+only, laboratory or behavioral health services, may be provided exclusively by designated Participating
+Providers (a "Health Services Designated Network"), as determined by Provider agrees to refer
+Members to such designated Participating Providers in a Health Services Designated Network for the
+provision of certain Health Services, even if Provider performs such services. Notwithstanding any other  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1747029423713684,
+  "bm25_score": 97.94090399144173,
+  "dense_rank": 14,
+  "bm25_rank": 10,
+  "rrf_contribution_dense": 0.029411764705882353,
+  "rrf_contribution_bm25": 0.03333333333333333
+}
+```
+
+- **Rank**: 11
+  - **RRF Score**: 0.061553030303030304
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract5_Redacted_p4_c27
+  - **Content Preview**: In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that...
+  - **Full Content:**
+
+    ```
+In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+way of example only, laboratory or behavioral health services, may be provided exclusively by designated
+Participating Providers (a "Health Services Designated Network"), as determined by Provider
+agrees to refer Members to such designated Participating Providers in a Health Services Designated
+Network for the provision of certain Health Services, even if Provider performs such services.
+Notwithstanding any other provision in this Agreement, if Provider provides a Health Service to a Member for
+which Provider is not a designated Participating Provider in a Health Services Designated Network, then
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1816786527633667,
+  "bm25_score": 90.72959026858446,
+  "dense_rank": 13,
+  "bm25_rank": 12,
+  "rrf_contribution_dense": 0.030303030303030304,
+  "rrf_contribution_bm25": 0.03125
+}
+```
+
+- **Rank**: 12
+  - **RRF Score**: 0.05887445887445887
+  - **Page**: 4
+  - **Section**: clause:2.11
+  - **Chunk ID**: TN_Contract2_Redacted_p4_c26
+  - **Content Preview**: In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that...
+  - **Full Content:**
+
+    ```
+In addition to and separate from Networks that support some or all of products and/or
+programs (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including by
+way of example only, laboratory services, may be provided exclusively by designated Participating Providers
+(a "Health Services Designated Network"), as determined by Provider agrees to refer Members
+to such designated Participating Providers in a Health Services Designated Network for the provision of
+certain Health Services, even if Provider performs such services. Notwithstanding any other provision in this
+Agreement, if Provider provides a Health Service to a Member for which Provider is not a designated
+Participating Provider in a Health Services Designated Network, then Provider agrees that he/she/it shall not
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.16703665256500244,
+  "bm25_score": 89.83593383704884,
+  "dense_rank": 15,
+  "bm25_rank": 13,
+  "rrf_contribution_dense": 0.02857142857142857,
+  "rrf_contribution_bm25": 0.030303030303030304
+}
+```
+
+- **Rank**: 13
+  - **RRF Score**: 0.0555138784696174
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract5_Redacted_p16_c135
+  - **Content Preview**: PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+...
+  - **Full Content:**
+
+    ```
+PROVIDER NETWORKS ATTACHMENT for TENNESSEE
+Provider shall be designated as a Participating Provider in the following Networks on the later of: 1) the
+Effective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider
+has met applicable credentialing requirements and accreditation requirements:
+Government Programs:
+Health Benefit Plans issued pursuant to an agreement between and and/or CMS in
+which Members have access to a network of providers and receive benefits when they obtain Covered
+Services from Participating Providers. Provider participates in one or more of the following Networks which
+support such Health Benefit Plans:
+• Medicaid Plan - TN
+• Medicaid Plan - TN CoverKids
+• Medicaid Plan - TN Employment & Community First CHOICES ( LTSS ECF HCBS)
+• Medicaid Plan- TN 1915(c) Intellectual and Developmental Disabilities (IDD) Waivers ( Waivers)
+• Medicare Advantage Dual Plan - TN Amerivantage Dual Coordination (DSP)
+• Medicare Advantage - Health Maintenance Organization (HMO) Plans
+• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)
+• Medicare Advantage - Preferred Provider Organization (MA PPO)
+• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)
+• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)
+Other Programs:
+• Episode-Based Retrospective Payment  
+|  |
+| --- |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.14328205585479736,
+  "bm25_score": 97.38783458282845,
+  "dense_rank": 23,
+  "bm25_rank": 11,
+  "rrf_contribution_dense": 0.023255813953488372,
+  "rrf_contribution_bm25": 0.03225806451612903
+}
+```
+
+- **Rank**: 14
+  - **RRF Score**: 0.049754299754299756
+  - **Page**: 47
+  - **Section**: section:ARTICLE II > clause:2.1.1
+  - **Chunk ID**: TN_Contract3_Redacted_p47_c365
+  - **Content Preview**: New Programs. Provider acknowledges that has or may develop Medicare Advantage Networks
+that support certain products, programs or plans with specific...
+  - **Full Content:**
+
+    ```
+New Programs. Provider acknowledges that has or may develop Medicare Advantage Networks
+that support certain products, programs or plans with specific participation criteria that may include
+but are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement, Provider
+shall be a Participating Provider in any such Network unless notifies Provider in writing to
+the contrary. shall notify Provider sixty (60) days in advance of any specific Network participation
+criteria. Any notice of non-inclusion in any of 's Medicare Advantage Network(s) shall be provided
+in writing sixty (60) days in advance.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.14194798469543457,
+  "bm25_score": 84.97537699997885,
+  "dense_rank": 24,
+  "bm25_rank": 17,
+  "rrf_contribution_dense": 0.022727272727272728,
+  "rrf_contribution_bm25": 0.02702702702702703
+}
+```
+
+- **Rank**: 15
+  - **RRF Score**: 0.04889683959451401
+  - **Page**: 5
+  - **Section**: clause:2.13
+  - **Chunk ID**: TN_Contract4_Redacted_p5_c31
+  - **Content Preview**: Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing
+requirements, and accreditation requirements for th...
+  - **Full Content:**
+
+    ```
+Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing
+requirements, and accreditation requirements for the Networks in which Provider participates. A description
+of the applicable credentialing requirements and accreditation requirements, are set forth in the provider
+manual(s) and/or in the ACS. Provider acknowledges that until such time as Provider has been determined
+to have fully met credentialing requirements and accreditation requirements, as applicable,
+Provider shall not be entitled to the benefits of participation under this Agreement, including without limitation
+the Rates set forth in the ACS attached hereto.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1634056568145752,
+  "bm25_score": 43.72935985771425,
+  "dense_rank": 19,
+  "bm25_rank": 23,
+  "rrf_contribution_dense": 0.02564102564102564,
+  "rrf_contribution_bm25": 0.023255813953488372
+}
+```
+
+- **Rank**: 16
+  - **RRF Score**: 0.04759358288770053
+  - **Page**: 33
+  - **Section**: section:ARTICLE II > clause:2.1.1
+  - **Chunk ID**: TN_Contract4_Redacted_p33_c263
+  - **Content Preview**: New Programs. Provider acknowledges that has or may develop Medicare Advantage
+Networks that support certain products, programs or plans with specific...
+  - **Full Content:**
+
+    ```
+New Programs. Provider acknowledges that has or may develop Medicare Advantage
+Networks that support certain products, programs or plans with specific participation criteria that
+may include but are not limited to, quality and/or cost of care metrics. Pursuant to this Agreement,
+Provider shall be a Participating Provider in any such Network unless notifies Provider
+in writing to the contrary. shall notify Provider sixty (60) days in advance of any
+specific Network participation criteria. Any notice of non-inclusion in any of Medicare
+Advantage Network(s) shall be provided in writing sixty (60) days in advance.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.12460583448410034,
+  "bm25_score": 85.22533271355441,
+  "dense_rank": 35,
+  "bm25_rank": 14,
+  "rrf_contribution_dense": 0.01818181818181818,
+  "rrf_contribution_bm25": 0.029411764705882353
+}
+```
+
+- **Rank**: 17
+  - **RRF Score**: 0.04230769230769231
+  - **Page**: 15
+  - **Section**: clause:9.15.2 > section:ARTICLE IX
+  - **Chunk ID**: TN_Contract1_Redacted_p15_c135
+  - **Content Preview**: Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party ...
+  - **Full Content:**
+
+    ```
+Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this
+Agreement.
+THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION
+WHICH MAY BE ENFORCED BY THE PARTIES
+Provider shall be designated as a Participating Provider in the Networks set forth on the Provider Network
+Attachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined _ in its
+sole discretion, the date Provider has met applicable credentialing requirements and accreditation
+requirements.
+PROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: ns College dba
+BE cou
+By: ee
+Signature, Authorized Representative of Provider(s) Date
+Printed:
+Name Title
+Address:
+Street City State Zip
+Tax Identification Number (TIN): — ** *REMOVED***
+(Note: if any of the following is not applicable, please leave blank)
+Phone Number:
+FY Tennessee, Inc. dba ‘Community Care
+HE STERNAL Use ONLY
+By: a
+Signature, Authorized Representative of Date
+Prive:
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.09342169761657715,
+  "bm25_score": 64.98089680364966,
+  "dense_rank": 40,
+  "bm25_rank": 19,
+  "rrf_contribution_dense": 0.016666666666666666,
+  "rrf_contribution_bm25": 0.02564102564102564
+}
+```
+
+- **Rank**: 18
+  - **RRF Score**: 0.04139344262295082
+  - **Page**: 15
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract5_Redacted_p15_c134
+  - **Content Preview**: Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party ...
+  - **Full Content:**
+
+    ```
+Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this
+Agreement.
+THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION
+WHICH MAY BE ENFORCED BY THE PARTIES
+Provider shall be designated as a Participating Provider in the Networks set forth on the Provider Network
+Attachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined by in its
+sole discretion, the date Provider has met applicable credentialing requirements and accreditation
+requirements.
+PROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A: Inc.
+By:
+Signature, Authorized Representative of Provider(s) Date
+Printed:
+Name Title
+Address:
+Street City State Zip
+Tax Identification Number (TIN): ***REMOVED***
+(Note: if any of the following is not applicable, please leave blank)
+Phone Number:
+Tennessee, Inc. d/b/a Community Care
+INTERNAL USE ONLY
+By:
+Signature, Authorized Representative of Date
+Printed: Regional Provider Solutions
+Name Title
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.08698803186416626,
+  "bm25_score": 64.60745827018661,
+  "dense_rank": 41,
+  "bm25_rank": 20,
+  "rrf_contribution_dense": 0.01639344262295082,
+  "rrf_contribution_bm25": 0.025
+}
+```
+
+- **Rank**: 19
+  - **RRF Score**: 0.040884438881935756
+  - **Page**: 5
+  - **Section**: clause:2.13
+  - **Chunk ID**: TN_Contract3_Redacted_p5_c33
+  - **Content Preview**: Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing
+requirements, and accreditation requirements for th...
+  - **Full Content:**
+
+    ```
+Provider Credentialing and Accreditation. Provider warrants that he/she/it meets all credentialing
+requirements, and accreditation requirements for the Networks in which Provider participates. A description
+of the applicable credentialing requirements and accreditation requirements, are set forth in the provider
+manual(s) and/or in the WCS. Provider acknowledges that until such time as Provider has been determined
+to have fully met credentialing requirements and accreditation requirements, as applicable,
+Provider shall not be entitled to the benefits of participation under this Agreement, including without limitation
+the Rates set forth in the WCS attached hereto.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.12989872694015503,
+  "bm25_score": 43.72935985771425,
+  "dense_rank": 31,
+  "bm25_rank": 27,
+  "rrf_contribution_dense": 0.0196078431372549,
+  "rrf_contribution_bm25": 0.02127659574468085
+}
+```
+
+- **Rank**: 20
+  - **RRF Score**: 0.04001441961067051
+  - **Page**: 15
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract3_Redacted_p15_c137
+  - **Content Preview**: Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party ...
+  - **Full Content:**
+
+    ```
+Each party warrants that it has full power and authority to enter into this Agreement and the person signing this
+Agreement on behalf of either party warrants that he/she has been duly authorized and empowered to enter into this
+Agreement.
+THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION
+WHICH MAY BE ENFORCED BY THE PARTIES
+Provider shall be designated as a Participating Provider in the Networks set forth on the Provider Network
+Attachment on the later of: (1) the Effective Date of this Agreement or; (2) as determined by in its sole
+discretion, the date Provider has met applicable credentialing requirements and accreditation requirements.
+PROVIDER LEGAL NAME ACCORDING TO W-9 FORM WITH D/B/A:
+By:
+Signature, Authorized Representative of Provider(s) Date
+Printed: Practice Manager
+Name Title
+Address: TN
+Street City State Zip
+Tax Identification Number (TIN): ***REMOVED***
+(Note: if any of the following is not applicable, please leave blank)
+Phone Number:
+Tennessee, Inc.
+INTERNAL USE ONLY
+THE EFFECTIVE DATE OF THIS AGREEMENT IS: _________________________
+By:
+Signature, Authorized Representative of Date
+Printed:
+Name Title
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.06040126085281372,
+  "bm25_score": 65.49298622666258,
+  "dense_rank": 53,
+  "bm25_rank": 18,
+  "rrf_contribution_dense": 0.0136986301369863,
+  "rrf_contribution_bm25": 0.02631578947368421
+}
+```
+
+### Attribute: Medicaid Fee Schedule
+
+```json
+{
+  "attribute_info": {
+    "number": 4,
+    "name": "Medicaid Fee Schedule",
+    "content_preview": "Medicaid Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reim..."
+  },
+  "statistics": {
+    "avg_rrf_score": 0.06101261362015651,
+    "max_rrf_score": 0.08193979933110368,
+    "avg_dense_score": 0.3485758274793625,
+    "avg_bm25_score": 53.56265301731662,
+    "high_rrf_matches": 20
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "rrf_score": 0.08193979933110368,
+      "page": 59,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p59_c464",
+      "content_preview": "The _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the n...",
+      "full_content": "The _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nProfessional and Technical Applicable CPT/HCPCS, Medicare Physician Fee\nServices Code(s) Schedule multiplied by\nninety percent (90%)\nPart B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee Per Unit\nBiologicals Code(s) Schedule multiplied by one\nhundred percent (100%)\nLaboratory Services Applicable CPT/HCPCS. Medicare Clinical\nCode(s) Laboratory Fee Schedule\nmultiplied by thirty five\npercent (35%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nOrthotics, Prosthetics and Code(s) Equipment,\nSupplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the",
+      "score_breakdown": {
+        "dense_similarity": 0.39212536811828613,
+        "bm25_score": 63.05237126503488,
+        "dense_rank": 6,
+        "bm25_rank": 3,
+        "rrf_contribution_dense": 0.038461538461538464,
+        "rrf_contribution_bm25": 0.043478260869565216
+      }
+    },
+    {
+      "rank": 2,
+      "rrf_score": 0.07323232323232323,
+      "page": 61,
+      "section": "clause:106 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p61_c467",
+      "content_preview": "\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for ...",
+      "full_content": "\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.45725733041763306,
+        "bm25_score": 52.47990595820051,
+        "dense_rank": 2,
+        "bm25_rank": 16,
+        "rrf_contribution_dense": 0.045454545454545456,
+        "rrf_contribution_bm25": 0.027777777777777776
+      }
+    },
+    {
+      "rank": 3,
+      "rrf_score": 0.07196969696969696,
+      "page": 61,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p61_c472",
+      "content_preview": "by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rat...",
+      "full_content": "by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule for\nthe market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective basis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary rate\nthat may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee\nSchedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference Laboratory\nFee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS codes.",
+      "score_breakdown": {
+        "dense_similarity": 0.3467133641242981,
+        "bm25_score": 61.23257761000259,
+        "dense_rank": 13,
+        "bm25_rank": 4,
+        "rrf_contribution_dense": 0.030303030303030304,
+        "rrf_contribution_bm25": 0.041666666666666664
+      }
+    },
+    {
+      "rank": 4,
+      "rrf_score": 0.06797235023041474,
+      "page": 57,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p57_c454",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the == Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe = Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nProgram: Medicare Advantage CSNP\nMedicare Advantage Dual Plan\nMedicare Advantage FIDE SNP\nMedicare Advantage HMO\nMedicare Advantage ISNP\nMedicare Ad tage PPO\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%)\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npercent (65%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)",
+      "score_breakdown": {
+        "dense_similarity": 0.3683227300643921,
+        "bm25_score": 55.08404792813618,
+        "dense_rank": 8,
+        "bm25_rank": 11,
+        "rrf_contribution_dense": 0.03571428571428571,
+        "rrf_contribution_bm25": 0.03225806451612903
+      }
+    },
+    {
+      "rank": 5,
+      "rrf_score": 0.06761904761904762,
+      "page": 59,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p59_c467",
+      "content_preview": "previously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for ...",
+      "full_content": "previously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for the same date of service. In addition, ae 3 not retroactively\nadjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes\nto payment system logic and data. Provider shall not request adjustments solely based on these differences,\nupdates, or changes.\nMEDICAID\nFor purposes of determining ‘he a Rate, the total reimbursement amount that Provider and have\nagreed upon for the applicable provider type(s) for Covered Services provided under this Agreement sl je one\nhundred percent (100%) of the J Professional Provider Market Master Fee Schedule A in effect on the date of\nservice.",
+      "score_breakdown": {
+        "dense_similarity": 0.26362013816833496,
+        "bm25_score": 79.20446865140634,
+        "dense_rank": 30,
+        "bm25_rank": 1,
+        "rrf_contribution_dense": 0.02,
+        "rrf_contribution_bm25": 0.047619047619047616
+      }
+    },
+    {
+      "rank": 6,
+      "rrf_score": 0.06628787878787878,
+      "page": 70,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract5_Redacted_p70_c576",
+      "content_preview": "payment groupings, or federal and provider-specific factors) that are available systems at the time\n= processes the Provider's Claim. Lecnierarm shall...",
+      "full_content": "payment groupings, or federal and provider-specific factors) that are available systems at the time\n= processes the Provider's Claim. Lecnierarm shall not retroactively adjust Provider's compensation for\npreviously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for the same date of service. In addition, | shall not retroactively\nadjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes\nto payment system logic and data. Provider shall not request adjustments solely based on these differences,\nupdates, or changes.\nMEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and Lrasiaiarc\nhave agreed upon for the appli provider type(s) for Covered Services provided under this Agreement s|\none hundred percent (100%) of ‘he a Professional Provider Market Master Fee Schedule A in effect on the\ndate of service except as set forth below.\nThe parties acknowledge and agree that he 7 Professional Provider Market Master Fee Schedule A is\nsubject to modification by JJ at any time during the term of this Agreement and will be applied on a\nprospective basis.\nWaivers\nIntellectual Disability Services\nBehavior Analyst Services Applicable Revenue Code 100% of the applicable\nAssessment with applicable CPT/HCPCS | State of Tennessee 1915(c)\nCode IDD Waivers Rate",
+      "score_breakdown": {
+        "dense_similarity": 0.2691112756729126,
+        "bm25_score": 73.04611548160028,
+        "dense_rank": 28,
+        "bm25_rank": 2,
+        "rrf_contribution_dense": 0.020833333333333332,
+        "rrf_contribution_bm25": 0.045454545454545456
+      }
+    },
+    {
+      "rank": 7,
+      "rrf_score": 0.06512605042016806,
+      "page": 60,
+      "section": "clause:106 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p60_c464",
+      "content_preview": "Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodolog...",
+      "full_content": "Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary\nrate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee",
+      "score_breakdown": {
+        "dense_similarity": 0.3452865481376648,
+        "bm25_score": 55.55423823365809,
+        "dense_rank": 14,
+        "bm25_rank": 8,
+        "rrf_contribution_dense": 0.029411764705882353,
+        "rrf_contribution_bm25": 0.03571428571428571
+      }
+    },
+    {
+      "rank": 8,
+      "rrf_score": 0.06431159420289854,
+      "page": 46,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract4_Redacted_p46_c367",
+      "content_preview": "MEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) ...",
+      "full_content": "MEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nServices with CPT/HCPCS Codes\nwith CPT/HCPCS Codes\nEligible Outpatient Facility Applicable Revenue Codes _ | 85% of the [\"CMS\"] Per Service\nServices with CPT/HCPCS Codes Outpatient Prospective\nPayment System (\"OPPS\")\nCalendar Year 2018\nEligible Outpatient Facility Applicable Revenue Codes | $400.00 Per Case\nServices Emergency with CPT/HCPCS Codes\nDepartment Services:\ners",
+      "score_breakdown": {
+        "dense_similarity": 0.45692670345306396,
+        "bm25_score": 43.78679968863365,
+        "dense_rank": 3,
+        "bm25_rank": 28,
+        "rrf_contribution_dense": 0.043478260869565216,
+        "rrf_contribution_bm25": 0.020833333333333332
+      }
+    },
+    {
+      "rank": 9,
+      "rrf_score": 0.061717352415026835,
+      "page": 58,
+      "section": "clause:04 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p58_c456",
+      "content_preview": "Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%\nClin...",
+      "full_content": "Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npercent (65%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment",
+      "score_breakdown": {
+        "dense_similarity": 0.29425472021102905,
+        "bm25_score": 58.41133042550771,
+        "dense_rank": 23,
+        "bm25_rank": 6,
+        "rrf_contribution_dense": 0.023255813953488372,
+        "rrf_contribution_bm25": 0.038461538461538464
+      }
+    },
+    {
+      "rank": 10,
+      "rrf_score": 0.06077694235588972,
+      "page": 60,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p60_c468",
+      "content_preview": "The parties acknowledge and agree that the Professional Provider Market Master Fee Schedule A is\nsubject to modification by at any time during the ter...",
+      "full_content": "The parties acknowledge and agree that the Professional Provider Market Master Fee Schedule A is\nsubject to modification by at any time during the term of this Agreement and will be applied on a\nprospective basis.\nIn accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not\nreimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current\nMedicare rates or inflation indexes unless otherwise allowed by\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type",
+      "score_breakdown": {
+        "dense_similarity": 0.5484222173690796,
+        "bm25_score": 28.29588529823029,
+        "dense_rank": 1,
+        "bm25_rank": 56,
+        "rrf_contribution_dense": 0.047619047619047616,
+        "rrf_contribution_bm25": 0.013157894736842105
+      }
+    },
+    {
+      "rank": 11,
+      "rrf_score": 0.060123784261715295,
+      "page": 78,
+      "section": "section:ARTICLE IV > clause:06",
+      "chunk_id": "TN_Contract5_Redacted_p78_c623",
+      "content_preview": "information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe...",
+      "full_content": "information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an\nRate, the applicable state methodology on which such fee schedule is based, shall be used to determine the\nappropriate level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all\nsupplies, oxygen, equipment, medicines and solutions provided during ambulance service.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nLAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.",
+      "score_breakdown": {
+        "dense_similarity": 0.3634225130081177,
+        "bm25_score": 50.762833199581564,
+        "dense_rank": 9,
+        "bm25_rank": 19,
+        "rrf_contribution_dense": 0.034482758620689655,
+        "rrf_contribution_bm25": 0.02564102564102564
+      }
+    },
+    {
+      "rank": 12,
+      "rrf_score": 0.05772357723577236,
+      "page": 69,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract5_Redacted_p69_c573",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the = Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentages, if applicable.\nProgram: Medicare Advantage CSNP\nMedicare Advantage Dual Plan\nMedicare Advantage FIDE SNP\nMedicare Advantage HMO\nMedicare Advantage ISNP\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee\nServices Codes Schedule multiplied by\nninety five percent (95%)\nLaboratory Services Applicable CPT/HCPCS forty five percent (45%) of\nCodes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty percent\n(60%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee",
+      "score_breakdown": {
+        "dense_similarity": 0.362975537776947,
+        "bm25_score": 49.186918868388034,
+        "dense_rank": 10,
+        "bm25_rank": 21,
+        "rrf_contribution_dense": 0.03333333333333333,
+        "rrf_contribution_bm25": 0.024390243902439025
+      }
+    },
+    {
+      "rank": 13,
+      "rrf_score": 0.055218855218855216,
+      "page": 46,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract4_Redacted_p46_c366",
+      "content_preview": "lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\n—_— shall not adjust Provider's compen...",
+      "full_content": "lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\n—_— shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.\na shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available a systems at the time\n= processes the Provider's Claim. asia shall not retroactively adjust Provider's compensation for\npreviously processed Claims to reconcile any difference with the payment system logic and data being used by\nMedicare on the same processing date for the same date of service. In addition, | shall not retroactively\nadjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes\nto payment system logic and data. Provider shall not request adjustments solely based on these differences,\nupdates, or changes.\nMEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nDate Range: 07/14/2022 to 12/31/2099\nProgram: Medicaid Plan - TN\nMedicaid Plan - TN CoverKids\nServices with CPT/HCPCS Codes",
+      "score_breakdown": {
+        "dense_similarity": 0.39052724838256836,
+        "bm25_score": 37.69618161218301,
+        "dense_rank": 7,
+        "bm25_rank": 35,
+        "rrf_contribution_dense": 0.037037037037037035,
+        "rrf_contribution_bm25": 0.01818181818181818
+      }
+    },
+    {
+      "rank": 14,
+      "rrf_score": 0.054411764705882354,
+      "page": 60,
+      "section": "clause:106 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p60_c465",
+      "content_preview": "Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(...",
+      "full_content": "Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary\nrate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee\nSchedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference\nLaboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS\ncodes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.",
+      "score_breakdown": {
+        "dense_similarity": 0.3090136647224426,
+        "bm25_score": 54.254440518314546,
+        "dense_rank": 20,
+        "bm25_rank": 14,
+        "rrf_contribution_dense": 0.025,
+        "rrf_contribution_bm25": 0.029411764705882353
+      }
+    },
+    {
+      "rank": 15,
+      "rrf_score": 0.05347222222222223,
+      "page": 78,
+      "section": "section:ARTICLE IV > clause:06",
+      "chunk_id": "TN_Contract5_Redacted_p78_c624",
+      "content_preview": "LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) sh...",
+      "full_content": "LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary\nrate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee",
+      "score_breakdown": {
+        "dense_similarity": 0.2777666449546814,
+        "bm25_score": 54.50649104680062,
+        "dense_rank": 25,
+        "bm25_rank": 12,
+        "rrf_contribution_dense": 0.022222222222222223,
+        "rrf_contribution_bm25": 0.03125
+      }
+    },
+    {
+      "rank": 16,
+      "rrf_score": 0.052941176470588235,
+      "page": 79,
+      "section": "section:ARTICLE IV > clause:06",
+      "chunk_id": "TN_Contract5_Redacted_p79_c626",
+      "content_preview": "\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, wh...",
+      "full_content": "\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.2539958953857422,
+        "bm25_score": 55.09151696387968,
+        "dense_rank": 31,
+        "bm25_rank": 10,
+        "rrf_contribution_dense": 0.0196078431372549,
+        "rrf_contribution_bm25": 0.03333333333333333
+      }
+    },
+    {
+      "rank": 17,
+      "rrf_score": 0.05195681511470985,
+      "page": 58,
+      "section": "section:ARTICLE IV > clause:2",
+      "chunk_id": "TN_Contract2_Redacted_p58_c462",
+      "content_preview": "Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(...",
+      "full_content": "Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary\nrate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee\nSchedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference\nLaboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS\ncodes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.",
+      "score_breakdown": {
+        "dense_similarity": 0.3178154230117798,
+        "bm25_score": 51.27588861931206,
+        "dense_rank": 19,
+        "bm25_rank": 18,
+        "rrf_contribution_dense": 0.02564102564102564,
+        "rrf_contribution_bm25": 0.02631578947368421
+      }
+    },
+    {
+      "rank": 18,
+      "rrf_score": 0.05131578947368421,
+      "page": 60,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p60_c469",
+      "content_preview": "state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and sh...",
+      "full_content": "state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an Rate,\nthe applicable state methodology on which such fee schedule is based, shall be used to determine the appropriate\nlevel of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all supplies,\noxygen, equipment, medicines and solutions provided during ambulance service.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nLAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.",
+      "score_breakdown": {
+        "dense_similarity": 0.3201611638069153,
+        "bm25_score": 49.88807544692723,
+        "dense_rank": 18,
+        "bm25_rank": 20,
+        "rrf_contribution_dense": 0.02631578947368421,
+        "rrf_contribution_bm25": 0.025
+      }
+    },
+    {
+      "rank": 19,
+      "rrf_score": 0.0512987012987013,
+      "page": 47,
+      "section": "clause:2018",
+      "chunk_id": "TN_Contract4_Redacted_p47_c370",
+      "content_preview": "Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is e...",
+      "full_content": "Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an\nRate, the applicable state methodology on which such fee schedule is based, shall be used to determine the\nappropriate level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all\nsupplies, oxygen, equipment, medicines and solutions provided during ambulance service.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nLAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory",
+      "score_breakdown": {
+        "dense_similarity": 0.33939141035079956,
+        "bm25_score": 46.087089841742355,
+        "dense_rank": 15,
+        "bm25_rank": 24,
+        "rrf_contribution_dense": 0.02857142857142857,
+        "rrf_contribution_bm25": 0.022727272727272728
+      }
+    },
+    {
+      "rank": 20,
+      "rrf_score": 0.05083655083655084,
+      "page": 69,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract5_Redacted_p69_c574",
+      "content_preview": "Codes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, ...",
+      "full_content": "Codes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty percent\n(60%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\na",
+      "score_breakdown": {
+        "dense_similarity": 0.2944066524505615,
+        "bm25_score": 52.35588368879282,
+        "dense_rank": 22,
+        "bm25_rank": 17,
+        "rrf_contribution_dense": 0.023809523809523808,
+        "rrf_contribution_bm25": 0.02702702702702703
+      }
+    }
+  ]
+}
+```
+
+#### Top Matches (detailed)
+
+- **Rank**: 1
+  - **RRF Score**: 0.08193979933110368
+  - **Page**: 59
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p59_c464
+  - **Content Preview**: The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the n...
+  - **Full Content:**
+
+    ```
+The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
+Professional and Technical Applicable CPT/HCPCS, Medicare Physician Fee
+Services Code(s) Schedule multiplied by
+ninety percent (90%)
+Part B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee Per Unit
+Biologicals Code(s) Schedule multiplied by one
+hundred percent (100%)
+Laboratory Services Applicable CPT/HCPCS. Medicare Clinical
+Code(s) Laboratory Fee Schedule
+multiplied by thirty five
+percent (35%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Orthotics, Prosthetics and Code(s) Equipment,
+Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.39212536811828613,
+  "bm25_score": 63.05237126503488,
+  "dense_rank": 6,
+  "bm25_rank": 3,
+  "rrf_contribution_dense": 0.038461538461538464,
+  "rrf_contribution_bm25": 0.043478260869565216
+}
+```
+
+- **Rank**: 2
+  - **RRF Score**: 0.07323232323232323
+  - **Page**: 61
+  - **Section**: clause:106 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p61_c467
+  - **Content Preview**: "Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for ...
+  - **Full Content:**
+
+    ```
+"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable
+Medicaid Program(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.45725733041763306,
+  "bm25_score": 52.47990595820051,
+  "dense_rank": 2,
+  "bm25_rank": 16,
+  "rrf_contribution_dense": 0.045454545454545456,
+  "rrf_contribution_bm25": 0.027777777777777776
+}
+```
+
+- **Rank**: 3
+  - **RRF Score**: 0.07196969696969696
+  - **Page**: 61
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p61_c472
+  - **Content Preview**: by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rat...
+  - **Full Content:**
+
+    ```
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable
+Medicaid Program(s).
+" DMEPOS and PEN Fee Schedule" means the applicable DMEPOS and PEN Fee Schedule for
+the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the
+DMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary rate
+that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+Schedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee
+Schedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.
+" Reference Laboratory Fee Schedule" means the Rate that is the Reference Laboratory
+Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS codes.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3467133641242981,
+  "bm25_score": 61.23257761000259,
+  "dense_rank": 13,
+  "bm25_rank": 4,
+  "rrf_contribution_dense": 0.030303030303030304,
+  "rrf_contribution_bm25": 0.041666666666666664
+}
+```
+
+- **Rank**: 4
+  - **RRF Score**: 0.06797235023041474
+  - **Page**: 57
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p57_c454
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the == Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+The = Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
+Program: Medicare Advantage CSNP
+Medicare Advantage Dual Plan
+Medicare Advantage FIDE SNP
+Medicare Advantage HMO
+Medicare Advantage ISNP
+Medicare Ad tage PPO
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%)
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+percent (65%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3683227300643921,
+  "bm25_score": 55.08404792813618,
+  "dense_rank": 8,
+  "bm25_rank": 11,
+  "rrf_contribution_dense": 0.03571428571428571,
+  "rrf_contribution_bm25": 0.03225806451612903
+}
+```
+
+- **Rank**: 5
+  - **RRF Score**: 0.06761904761904762
+  - **Page**: 59
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p59_c467
+  - **Content Preview**: previously processed Claims to reconcile any difference with the payment system logic and data being used by
+Medicare on the same processing date for ...
+  - **Full Content:**
+
+    ```
+previously processed Claims to reconcile any difference with the payment system logic and data being used by
+Medicare on the same processing date for the same date of service. In addition, ae 3 not retroactively
+adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
+to payment system logic and data. Provider shall not request adjustments solely based on these differences,
+updates, or changes.
+MEDICAID
+For purposes of determining ‘he a Rate, the total reimbursement amount that Provider and have
+agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement sl je one
+hundred percent (100%) of the J Professional Provider Market Master Fee Schedule A in effect on the date of
+service.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.26362013816833496,
+  "bm25_score": 79.20446865140634,
+  "dense_rank": 30,
+  "bm25_rank": 1,
+  "rrf_contribution_dense": 0.02,
+  "rrf_contribution_bm25": 0.047619047619047616
+}
+```
+
+- **Rank**: 6
+  - **RRF Score**: 0.06628787878787878
+  - **Page**: 70
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract5_Redacted_p70_c576
+  - **Content Preview**: payment groupings, or federal and provider-specific factors) that are available systems at the time
+= processes the Provider's Claim. Lecnierarm shall...
+  - **Full Content:**
+
+    ```
+payment groupings, or federal and provider-specific factors) that are available systems at the time
+= processes the Provider's Claim. Lecnierarm shall not retroactively adjust Provider's compensation for
+previously processed Claims to reconcile any difference with the payment system logic and data being used by
+Medicare on the same processing date for the same date of service. In addition, | shall not retroactively
+adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
+to payment system logic and data. Provider shall not request adjustments solely based on these differences,
+updates, or changes.
+MEDICAID
+For purposes of determining he Rate, the total reimbursement amount that Provider and Lrasiaiarc
+have agreed upon for the appli provider type(s) for Covered Services provided under this Agreement s|
+one hundred percent (100%) of ‘he a Professional Provider Market Master Fee Schedule A in effect on the
+date of service except as set forth below.
+The parties acknowledge and agree that he 7 Professional Provider Market Master Fee Schedule A is
+subject to modification by JJ at any time during the term of this Agreement and will be applied on a
+prospective basis.
+Waivers
+Intellectual Disability Services
+Behavior Analyst Services Applicable Revenue Code 100% of the applicable
+Assessment with applicable CPT/HCPCS | State of Tennessee 1915(c)
+Code IDD Waivers Rate
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2691112756729126,
+  "bm25_score": 73.04611548160028,
+  "dense_rank": 28,
+  "bm25_rank": 2,
+  "rrf_contribution_dense": 0.020833333333333332,
+  "rrf_contribution_bm25": 0.045454545454545456
+}
+```
+
+- **Rank**: 7
+  - **RRF Score**: 0.06512605042016806
+  - **Page**: 60
+  - **Section**: clause:106 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p60_c464
+  - **Content Preview**: Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
+Requirements for the applicable methodolog...
+  - **Full Content:**
+
+    ```
+Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
+Requirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based
+on an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
+shall be used to determine the appropriate level of reimbursement.
+"Ambulatory Patient Group" ("APG") means the Rate that is a fixed reimbursement to a facility for
+Outpatient Services and which incorporates data regarding the reason for the visit and patient data.
+"Ambulatory Payment Classification" ("APC") or its successor shall have the meaning set forth in the Medicare law
+and CMS regulations and guidance.
+" DMEPOS and PEN Fee Schedule" means the applicable DMEPOS and PEN Fee Schedule
+for the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the
+DMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary
+rate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+Schedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3452865481376648,
+  "bm25_score": 55.55423823365809,
+  "dense_rank": 14,
+  "bm25_rank": 8,
+  "rrf_contribution_dense": 0.029411764705882353,
+  "rrf_contribution_bm25": 0.03571428571428571
+}
+```
+
+- **Rank**: 8
+  - **RRF Score**: 0.06431159420289854
+  - **Page**: 46
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract4_Redacted_p46_c367
+  - **Content Preview**: MEDICAID
+For purposes of determining he Rate, the total reimbursement amount that Provider and a
+have agreed upon for the applicable provider type(s) ...
+  - **Full Content:**
+
+    ```
+MEDICAID
+For purposes of determining he Rate, the total reimbursement amount that Provider and a
+have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on
+the date of service shall be as set forth below.
+Date Range: 07/14/2022 to 12/31/2099
+Program: Medicaid Plan - TN
+Medicaid Plan - TN CoverKids
+Services with CPT/HCPCS Codes
+with CPT/HCPCS Codes
+Eligible Outpatient Facility Applicable Revenue Codes _ | 85% of the ["CMS"] Per Service
+Services with CPT/HCPCS Codes Outpatient Prospective
+Payment System ("OPPS")
+Calendar Year 2018
+Eligible Outpatient Facility Applicable Revenue Codes | $400.00 Per Case
+Services Emergency with CPT/HCPCS Codes
+Department Services:
+ers
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.45692670345306396,
+  "bm25_score": 43.78679968863365,
+  "dense_rank": 3,
+  "bm25_rank": 28,
+  "rrf_contribution_dense": 0.043478260869565216,
+  "rrf_contribution_bm25": 0.020833333333333332
+}
+```
+
+- **Rank**: 9
+  - **RRF Score**: 0.061717352415026835
+  - **Page**: 58
+  - **Section**: clause:04 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p58_c456
+  - **Content Preview**: Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%
+Clin...
+  - **Full Content:**
+
+    ```
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+percent (65%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit
+Biologicals Codes Schedule multiplied by one
+hundred percent (100%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.29425472021102905,
+  "bm25_score": 58.41133042550771,
+  "dense_rank": 23,
+  "bm25_rank": 6,
+  "rrf_contribution_dense": 0.023255813953488372,
+  "rrf_contribution_bm25": 0.038461538461538464
+}
+```
+
+- **Rank**: 10
+  - **RRF Score**: 0.06077694235588972
+  - **Page**: 60
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p60_c468
+  - **Content Preview**: The parties acknowledge and agree that the Professional Provider Market Master Fee Schedule A is
+subject to modification by at any time during the ter...
+  - **Full Content:**
+
+    ```
+The parties acknowledge and agree that the Professional Provider Market Master Fee Schedule A is
+subject to modification by at any time during the term of this Agreement and will be applied on a
+prospective basis.
+In accordance with Program Contractor Risk Agreement (CRA) section A.2.13.2.2, shall not
+reimburse providers based on automatic escalators or linkages to other methodologies that escalate such as current
+Medicare rates or inflation indexes unless otherwise allowed by
+Medicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar
+benefits under similar programs as the programs covered hereunder ("Medicaid Affiliates"). The parties acknowledge
+that Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to
+Medicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to
+Regulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's
+state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
+Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
+for which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide
+information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
+Reimbursement Specific to Provider Type
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.5484222173690796,
+  "bm25_score": 28.29588529823029,
+  "dense_rank": 1,
+  "bm25_rank": 56,
+  "rrf_contribution_dense": 0.047619047619047616,
+  "rrf_contribution_bm25": 0.013157894736842105
+}
+```
+
+- **Rank**: 11
+  - **RRF Score**: 0.060123784261715295
+  - **Page**: 78
+  - **Section**: section:ARTICLE IV > clause:06
+  - **Chunk ID**: TN_Contract5_Redacted_p78_c623
+  - **Content Preview**: information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
+Reimbursement Specific to Provider Type
+The...
+  - **Full Content:**
+
+    ```
+information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
+Reimbursement Specific to Provider Type
+The following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free
+Standing Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.
+Ambulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the
+applicable methodology based on the referenced fee schedule. If such reimbursement is based on an
+Rate, the applicable state methodology on which such fee schedule is based, shall be used to determine the
+appropriate level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all
+supplies, oxygen, equipment, medicines and solutions provided during ambulance service.
+Hospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,
+pastoral, bereavement counseling, DME, medical supplies and administration of medication.
+LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.
+Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
+Requirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based
+on an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
+shall be used to determine the appropriate level of reimbursement.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3634225130081177,
+  "bm25_score": 50.762833199581564,
+  "dense_rank": 9,
+  "bm25_rank": 19,
+  "rrf_contribution_dense": 0.034482758620689655,
+  "rrf_contribution_bm25": 0.02564102564102564
+}
+```
+
+- **Rank**: 12
+  - **RRF Score**: 0.05772357723577236
+  - **Page**: 69
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract5_Redacted_p69_c573
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the = Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multiplied by the stated percentages, if applicable.
+Program: Medicare Advantage CSNP
+Medicare Advantage Dual Plan
+Medicare Advantage FIDE SNP
+Medicare Advantage HMO
+Medicare Advantage ISNP
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee
+Services Codes Schedule multiplied by
+ninety five percent (95%)
+Laboratory Services Applicable CPT/HCPCS forty five percent (45%) of
+Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty percent
+(60%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.362975537776947,
+  "bm25_score": 49.186918868388034,
+  "dense_rank": 10,
+  "bm25_rank": 21,
+  "rrf_contribution_dense": 0.03333333333333333,
+  "rrf_contribution_bm25": 0.024390243902439025
+}
+```
+
+- **Rank**: 13
+  - **RRF Score**: 0.055218855218855216
+  - **Page**: 46
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract4_Redacted_p46_c366
+  - **Content Preview**: lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+—_— shall not adjust Provider's compen...
+  - **Full Content:**
+
+    ```
+lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+—_— shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
+to Provider based on a settlement.
+a shall compensate Provider using the relevant payment system logic and data (for example: calculations,
+payment groupings, or federal and provider-specific factors) that are available a systems at the time
+= processes the Provider's Claim. asia shall not retroactively adjust Provider's compensation for
+previously processed Claims to reconcile any difference with the payment system logic and data being used by
+Medicare on the same processing date for the same date of service. In addition, | shall not retroactively
+adjust Provider's compensation for previously processed claims to reflect Medicare's retroactive updates or changes
+to payment system logic and data. Provider shall not request adjustments solely based on these differences,
+updates, or changes.
+MEDICAID
+For purposes of determining he Rate, the total reimbursement amount that Provider and a
+have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on
+the date of service shall be as set forth below.
+Date Range: 07/14/2022 to 12/31/2099
+Program: Medicaid Plan - TN
+Medicaid Plan - TN CoverKids
+Services with CPT/HCPCS Codes
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.39052724838256836,
+  "bm25_score": 37.69618161218301,
+  "dense_rank": 7,
+  "bm25_rank": 35,
+  "rrf_contribution_dense": 0.037037037037037035,
+  "rrf_contribution_bm25": 0.01818181818181818
+}
+```
+
+- **Rank**: 14
+  - **RRF Score**: 0.054411764705882354
+  - **Page**: 60
+  - **Section**: clause:106 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p60_c465
+  - **Content Preview**: Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(...
+  - **Full Content:**
+
+    ```
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary
+rate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+Schedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee
+Schedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.
+" Reference Laboratory Fee Schedule" means the Rate that is the Reference
+Laboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS
+codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.
+"CMS Outpatient Prospective Payment System" ("OPPS") shall have the meaning set forth in Medicare law and CMS
+regulations and guidance.
+"Medical Care Management Rate" means the amount paid by to Provider on a per member per month
+basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more
+effectively.
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3090136647224426,
+  "bm25_score": 54.254440518314546,
+  "dense_rank": 20,
+  "bm25_rank": 14,
+  "rrf_contribution_dense": 0.025,
+  "rrf_contribution_bm25": 0.029411764705882353
+}
+```
+
+- **Rank**: 15
+  - **RRF Score**: 0.05347222222222223
+  - **Page**: 78
+  - **Section**: section:ARTICLE IV > clause:06
+  - **Chunk ID**: TN_Contract5_Redacted_p78_c624
+  - **Content Preview**: LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.
+Specialty Provider Individual and/or group (Non-MD or DO) sh...
+  - **Full Content:**
+
+    ```
+LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.
+Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
+Requirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based
+on an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
+shall be used to determine the appropriate level of reimbursement.
+"Ambulatory Patient Group" ("APG") means the Rate that is a fixed reimbursement to a facility for
+Outpatient Services and which incorporates data regarding the reason for the visit and patient data.
+"Ambulatory Payment Classification" ("APC") or its successor shall have the meaning set forth in the Medicare law
+and CMS regulations and guidance.
+" DMEPOS and PEN Fee Schedule" means the applicable DMEPOS and PEN Fee Schedule
+for the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the
+DMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary
+rate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2777666449546814,
+  "bm25_score": 54.50649104680062,
+  "dense_rank": 25,
+  "bm25_rank": 12,
+  "rrf_contribution_dense": 0.022222222222222223,
+  "rrf_contribution_bm25": 0.03125
+}
+```
+
+- **Rank**: 16
+  - **RRF Score**: 0.052941176470588235
+  - **Page**: 79
+  - **Section**: section:ARTICLE IV > clause:06
+  - **Chunk ID**: TN_Contract5_Redacted_p79_c626
+  - **Content Preview**: "Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, wh...
+  - **Full Content:**
+
+    ```
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Medicare LUPA National Base Rate" means the Medicare LUPA ("Low Utilization Payment Adjustment") National
+Base rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time
+the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a
+prospective basis.
+"Medicare Part B Drug Average Sales Price ("ASP") Fee Schedule" means the Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable
+Medicaid Program(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2539958953857422,
+  "bm25_score": 55.09151696387968,
+  "dense_rank": 31,
+  "bm25_rank": 10,
+  "rrf_contribution_dense": 0.0196078431372549,
+  "rrf_contribution_bm25": 0.03333333333333333
+}
+```
+
+- **Rank**: 17
+  - **RRF Score**: 0.05195681511470985
+  - **Page**: 58
+  - **Section**: section:ARTICLE IV > clause:2
+  - **Chunk ID**: TN_Contract2_Redacted_p58_c462
+  - **Content Preview**: Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(...
+  - **Full Content:**
+
+    ```
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective
+basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary
+rate that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+Schedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee
+Schedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.
+" Reference Laboratory Fee Schedule" means the Rate that is the Reference
+Laboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS
+codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3178154230117798,
+  "bm25_score": 51.27588861931206,
+  "dense_rank": 19,
+  "bm25_rank": 18,
+  "rrf_contribution_dense": 0.02564102564102564,
+  "rrf_contribution_bm25": 0.02631578947368421
+}
+```
+
+- **Rank**: 18
+  - **RRF Score**: 0.05131578947368421
+  - **Page**: 60
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p60_c469
+  - **Content Preview**: state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
+Medicaid Affiliate's state program, and sh...
+  - **Full Content:**
+
+    ```
+state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
+Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
+for which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide
+information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
+Reimbursement Specific to Provider Type
+The following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free
+Standing Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.
+Ambulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the
+applicable methodology based on the referenced fee schedule. If such reimbursement is based on an Rate,
+the applicable state methodology on which such fee schedule is based, shall be used to determine the appropriate
+level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all supplies,
+oxygen, equipment, medicines and solutions provided during ambulance service.
+Hospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,
+pastoral, bereavement counseling, DME, medical supplies and administration of medication.
+LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3201611638069153,
+  "bm25_score": 49.88807544692723,
+  "dense_rank": 18,
+  "bm25_rank": 20,
+  "rrf_contribution_dense": 0.02631578947368421,
+  "rrf_contribution_bm25": 0.025
+}
+```
+
+- **Rank**: 19
+  - **RRF Score**: 0.0512987012987013
+  - **Page**: 47
+  - **Section**: clause:2018
+  - **Chunk ID**: TN_Contract4_Redacted_p47_c370
+  - **Content Preview**: Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
+for which a Medicaid Member is e...
+  - **Full Content:**
+
+    ```
+Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
+for which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide
+information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
+Reimbursement Specific to Provider Type
+The following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free
+Standing Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.
+Ambulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the
+applicable methodology based on the referenced fee schedule. If such reimbursement is based on an
+Rate, the applicable state methodology on which such fee schedule is based, shall be used to determine the
+appropriate level of reimbursement. Reimbursement includes wait time, extra attendant, parking fees, tolls, and all
+supplies, oxygen, equipment, medicines and solutions provided during ambulance service.
+Hospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,
+pastoral, bereavement counseling, DME, medical supplies and administration of medication.
+LAB services not specified on the Reference Laboratory Fee Schedule are not reimbursable.
+Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.33939141035079956,
+  "bm25_score": 46.087089841742355,
+  "dense_rank": 15,
+  "bm25_rank": 24,
+  "rrf_contribution_dense": 0.02857142857142857,
+  "rrf_contribution_bm25": 0.022727272727272728
+}
+```
+
+- **Rank**: 20
+  - **RRF Score**: 0.05083655083655084
+  - **Page**: 69
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract5_Redacted_p69_c574
+  - **Content Preview**: Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, ...
+  - **Full Content:**
+
+    ```
+Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty percent
+(60%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
+Biologicals Codes Schedule multiplied by one
+hundred percent (100%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+a
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2944066524505615,
+  "bm25_score": 52.35588368879282,
+  "dense_rank": 22,
+  "bm25_rank": 17,
+  "rrf_contribution_dense": 0.023809523809523808,
+  "rrf_contribution_bm25": 0.02702702702702703
+}
+```
+
+### Attribute: Medicare Fee Schedule
+
+```json
+{
+  "attribute_info": {
+    "number": 5,
+    "name": "Medicare Fee Schedule",
+    "content_preview": "Medicare Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reim..."
+  },
+  "statistics": {
+    "avg_rrf_score": 0.05926940417761071,
+    "max_rrf_score": 0.09307359307359307,
+    "avg_dense_score": 0.34428912997245786,
+    "avg_bm25_score": 73.6723796794728,
+    "high_rrf_matches": 20
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "rrf_score": 0.09307359307359307,
+      "page": 57,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p57_c454",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the == Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe = Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nProgram: Medicare Advantage CSNP\nMedicare Advantage Dual Plan\nMedicare Advantage FIDE SNP\nMedicare Advantage HMO\nMedicare Advantage ISNP\nMedicare Ad tage PPO\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%)\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npercent (65%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)",
+      "score_breakdown": {
+        "dense_similarity": 0.7105925679206848,
+        "bm25_score": 153.78956086579637,
+        "dense_rank": 1,
+        "bm25_rank": 2,
+        "rrf_contribution_dense": 0.047619047619047616,
+        "rrf_contribution_bm25": 0.045454545454545456
+      }
+    },
+    {
+      "rank": 2,
+      "rrf_score": 0.09109730848861283,
+      "page": 58,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract3_Redacted_p58_c463",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.",
+      "score_breakdown": {
+        "dense_similarity": 0.6677153706550598,
+        "bm25_score": 166.60431635019148,
+        "dense_rank": 3,
+        "bm25_rank": 1,
+        "rrf_contribution_dense": 0.043478260869565216,
+        "rrf_contribution_bm25": 0.047619047619047616
+      }
+    },
+    {
+      "rank": 3,
+      "rrf_score": 0.08893280632411067,
+      "page": 69,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract5_Redacted_p69_c573",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the = Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentages, if applicable.\nProgram: Medicare Advantage CSNP\nMedicare Advantage Dual Plan\nMedicare Advantage FIDE SNP\nMedicare Advantage HMO\nMedicare Advantage ISNP\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee\nServices Codes Schedule multiplied by\nninety five percent (95%)\nLaboratory Services Applicable CPT/HCPCS forty five percent (45%) of\nCodes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty percent\n(60%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee",
+      "score_breakdown": {
+        "dense_similarity": 0.6912578344345093,
+        "bm25_score": 153.50783119958007,
+        "dense_rank": 2,
+        "bm25_rank": 3,
+        "rrf_contribution_dense": 0.045454545454545456,
+        "rrf_contribution_bm25": 0.043478260869565216
+      }
+    },
+    {
+      "rank": 4,
+      "rrf_score": 0.08333333333333333,
+      "page": 45,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract4_Redacted_p45_c362",
+      "content_preview": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...",
+      "full_content": "SPECIFIC REIMBURSEMENT TERMS\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the 7 Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe 7 Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nLY ospital\nBilling Cod Rate/Methodolog\nInpatient Services Applicable Revenue Codes _ | Rate from CMS Medicare Per Diem\nAdministrative Contractor\nletter multiplied by one\nhundred percent (100%)\nInpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient NIA\nServices Psychiatric Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient NIA\nServices Rehabilitation Facility\nProspective Payment\nSystem multiplied by one\nhundred percent (100%)\nInpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem\nServices (Swing Bed) Applicable Revenue Administrative Contractor\nCode(s) letter multiplied by one\nhundred percent (100%)",
+      "score_breakdown": {
+        "dense_similarity": 0.6387730240821838,
+        "bm25_score": 126.09931416477627,
+        "dense_rank": 4,
+        "bm25_rank": 4,
+        "rrf_contribution_dense": 0.041666666666666664,
+        "rrf_contribution_bm25": 0.041666666666666664
+      }
+    },
+    {
+      "rank": 5,
+      "rrf_score": 0.08,
+      "page": 59,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p59_c464",
+      "content_preview": "The _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the n...",
+      "full_content": "The _ Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.\nProfessional and Technical Applicable CPT/HCPCS, Medicare Physician Fee\nServices Code(s) Schedule multiplied by\nninety percent (90%)\nPart B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee Per Unit\nBiologicals Code(s) Schedule multiplied by one\nhundred percent (100%)\nLaboratory Services Applicable CPT/HCPCS. Medicare Clinical\nCode(s) Laboratory Fee Schedule\nmultiplied by thirty five\npercent (35%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nOrthotics, Prosthetics and Code(s) Equipment,\nSupplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the",
+      "score_breakdown": {
+        "dense_similarity": 0.4837099313735962,
+        "bm25_score": 75.19408224911723,
+        "dense_rank": 5,
+        "bm25_rank": 5,
+        "rrf_contribution_dense": 0.04,
+        "rrf_contribution_bm25": 0.04
+      }
+    },
+    {
+      "rank": 6,
+      "rrf_score": 0.06971153846153846,
+      "page": 59,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p59_c465",
+      "content_preview": "Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medica...",
+      "full_content": "Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nrocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\n— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act of\nongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable to\nProvider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nHE Ss)! not compensate Provider for the bad debts of its Medicare Advantage members.\nmem and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical",
+      "score_breakdown": {
+        "dense_similarity": 0.3922687768936157,
+        "bm25_score": 53.86047643255159,
+        "dense_rank": 6,
+        "bm25_rank": 12,
+        "rrf_contribution_dense": 0.038461538461538464,
+        "rrf_contribution_bm25": 0.03125
+      }
+    },
+    {
+      "rank": 7,
+      "rrf_score": 0.06003584229390681,
+      "page": 79,
+      "section": "section:ARTICLE IV > clause:06",
+      "chunk_id": "TN_Contract5_Redacted_p79_c626",
+      "content_preview": "\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, wh...",
+      "full_content": "\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.29419493675231934,
+        "bm25_score": 54.62196637418752,
+        "dense_rank": 16,
+        "bm25_rank": 11,
+        "rrf_contribution_dense": 0.027777777777777776,
+        "rrf_contribution_bm25": 0.03225806451612903
+      }
+    },
+    {
+      "rank": 8,
+      "rrf_score": 0.05489417989417989,
+      "page": 58,
+      "section": "clause:04 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p58_c456",
+      "content_preview": "Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%\nClin...",
+      "full_content": "Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npercent (65%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment",
+      "score_breakdown": {
+        "dense_similarity": 0.2113584280014038,
+        "bm25_score": 56.1540011393743,
+        "dense_rank": 36,
+        "bm25_rank": 7,
+        "rrf_contribution_dense": 0.017857142857142856,
+        "rrf_contribution_bm25": 0.037037037037037035
+      }
+    },
+    {
+      "rank": 9,
+      "rrf_score": 0.0521680216802168,
+      "page": 60,
+      "section": "clause:106 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p60_c466",
+      "content_preview": "basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" mea...",
+      "full_content": "basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.",
+      "score_breakdown": {
+        "dense_similarity": 0.2651413679122925,
+        "bm25_score": 53.21407721006116,
+        "dense_rank": 21,
+        "bm25_rank": 16,
+        "rrf_contribution_dense": 0.024390243902439025,
+        "rrf_contribution_bm25": 0.027777777777777776
+      }
+    },
+    {
+      "rank": 10,
+      "rrf_score": 0.05202661826981246,
+      "page": 33,
+      "section": "section:ARTICLE II > clause:2.1",
+      "chunk_id": "TN_Contract4_Redacted_p33_c262",
+      "content_preview": "Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider\nwill render MA Covered Services to MA Members enrolled in M...",
+      "full_content": "Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider\nwill render MA Covered Services to MA Members enrolled in Medicare Advantage Program in\naccordance with the terms and conditions of the Agreement and this Attachment. Except as set forth in this\nAttachment, or in the ACS, all terms and conditions of the Agreement will apply to Provider's participation in\nMedicare Advantage Program(s). The terms and conditions set forth in this Attachment are\nlimited to the provision of and payment for Health Services provided to MA Members. This Agreement does\nnot apply to any of Medicare Advantage Private Fee for Service or Medical Savings Account\nPrograms. If contracts with a third party to manage all or any portion of its Medicare Advantage\nNetwork, then Provider shall be required to contract separately with such third party to maintain its status as\na Participating Provider for such Network(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.3744352459907532,
+        "bm25_score": 45.88527436929484,
+        "dense_rank": 9,
+        "bm25_rank": 37,
+        "rrf_contribution_dense": 0.034482758620689655,
+        "rrf_contribution_bm25": 0.017543859649122806
+      }
+    },
+    {
+      "rank": 11,
+      "rrf_score": 0.05184331797235023,
+      "page": 1,
+      "section": "section:ARTICLE I",
+      "chunk_id": "TN_Contract2_Redacted_p1_c3",
+      "content_preview": "reference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which\nProvider participates. The ACS may include addi...",
+      "full_content": "reference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which\nProvider participates. The ACS may include additional Provider obligations and specific compensation\nrelated terms and requirements.\n\" Rate\" means the lesser of Eligible Charges for Covered Services, or the total reimbursement amount\nthat Provider and have agreed upon as set forth in the Compensation Schedule (\"ACS\").\nThe Rate includes applicable Cost Shares, and shall represent payment in full to Provider for Covered\nServices.\n\"Audit\" means a review of the Claim(s) and supporting clinical information submitted by Provider to ensure payment\naccuracy. The review ensures Claim(s) comply with all pertinent aspects of payment including, but not limited to,\ncontractual terms, Regulatory Requirements, Coded Service Identifiers (as defined in the ACS) guidelines and\ninstructions, medical policies and clinical utilization management guidelines, reimbursement policies, and\ngenerally accepted medical practices. Audit does not include medical record review for quality and risk adjustment\ninitiatives.\n\"Claim\" means either the uniform bill claim form or electronic claim form in the format prescribed by\nsubmitted by a provider for payment by a for Health Services rendered to a Member.\n\"CMS\" means the Centers for Medicare & Medicaid Services, an administrative agency within the United States\nDepartment of Health & Human Services (\"HHS\").\n\"Cost Share\" means, with respect to Covered Services, an amount which a Member is required to pay under the",
+      "score_breakdown": {
+        "dense_similarity": 0.1942046880722046,
+        "bm25_score": 55.19065827029201,
+        "dense_rank": 42,
+        "bm25_rank": 8,
+        "rrf_contribution_dense": 0.016129032258064516,
+        "rrf_contribution_bm25": 0.03571428571428571
+      }
+    },
+    {
+      "rank": 12,
+      "rrf_score": 0.050107758620689655,
+      "page": 16,
+      "section": "section:ARTICLE IX > clause:9.15.2",
+      "chunk_id": "TN_Contract5_Redacted_p16_c136",
+      "content_preview": "• Medicare Advantage - Health Maintenance Organization (HMO) Plans\n• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-S...",
+      "full_content": "• Medicare Advantage - Health Maintenance Organization (HMO) Plans\n• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)\n• Medicare Advantage - Preferred Provider Organization (MA PPO)\n• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)\n• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)\nOther Programs:\n• Episode-Based Retrospective Payment  \n|  |\n| --- |\n|  |",
+      "score_breakdown": {
+        "dense_similarity": 0.18507200479507446,
+        "bm25_score": 55.062853454870435,
+        "dense_rank": 44,
+        "bm25_rank": 9,
+        "rrf_contribution_dense": 0.015625,
+        "rrf_contribution_bm25": 0.034482758620689655
+      }
+    },
+    {
+      "rank": 13,
+      "rrf_score": 0.049450549450549455,
+      "page": 57,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p57_c455",
+      "content_preview": "hundred percent (100%)\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npe...",
+      "full_content": "hundred percent (100%)\nClinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by sixty five\npercent (65%)\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty five\npercent (65%)\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nProgram: Medicare Advantage CSNP\nMedicare Advantage Dual Plan\nMedicare Advantage FIDE SNP\nrigs PO ey",
+      "score_breakdown": {
+        "dense_similarity": 0.13044285774230957,
+        "bm25_score": 74.58908409734573,
+        "dense_rank": 71,
+        "bm25_rank": 6,
+        "rrf_contribution_dense": 0.01098901098901099,
+        "rrf_contribution_bm25": 0.038461538461538464
+      }
+    },
+    {
+      "rank": 14,
+      "rrf_score": 0.049206349206349205,
+      "page": 69,
+      "section": "section:ARTICLE IV",
+      "chunk_id": "TN_Contract5_Redacted_p69_c574",
+      "content_preview": "Codes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, ...",
+      "full_content": "Codes the [\"CMS\"] Clinical\nLaboratory Fee Schedule\nDurable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical\nProsthetics, Orthotics, and Codes Equipment,\n‘Supplies Prosthetics/Orthotics, and\nSupplies Fee Schedule\nmultiplied by sixty percent\n(60%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\na",
+      "score_breakdown": {
+        "dense_similarity": 0.18779736757278442,
+        "bm25_score": 54.919483255647734,
+        "dense_rank": 43,
+        "bm25_rank": 10,
+        "rrf_contribution_dense": 0.015873015873015872,
+        "rrf_contribution_bm25": 0.03333333333333333
+      }
+    },
+    {
+      "rank": 15,
+      "rrf_score": 0.048651507139079855,
+      "page": 47,
+      "section": "section:ARTICLE II > clause:2.1",
+      "chunk_id": "TN_Contract3_Redacted_p47_c364",
+      "content_preview": "Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render\nMA Covered Services to MA Members enrolled i...",
+      "full_content": "Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render\nMA Covered Services to MA Members enrolled in 's Medicare Advantage Program in accordance with the\nterms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment, or in the\nWCS, all terms and conditions of the Agreement will apply to Provider's participation in 's Medicare\nAdvantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of\nand payment for Health Services provided to MA Members. This Agreement does not apply to any of 's\nMedicare Advantage Private Fee for Service or Medical Savings Account Programs. If contracts with a third\nparty to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to\ncontract separately with such third party to maintain its status as a Participating Provider for such\nNetwork(s).",
+      "score_breakdown": {
+        "dense_similarity": 0.3647512197494507,
+        "bm25_score": 45.484730662333696,
+        "dense_rank": 11,
+        "bm25_rank": 41,
+        "rrf_contribution_dense": 0.03225806451612903,
+        "rrf_contribution_bm25": 0.01639344262295082
+      }
+    },
+    {
+      "rank": 16,
+      "rrf_score": 0.04666666666666667,
+      "page": 58,
+      "section": "clause:04 > section:ARTICLE IV",
+      "chunk_id": "TN_Contract1_Redacted_p58_c457",
+      "content_preview": "whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment am...",
+      "full_content": "whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\na notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nCongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nHEE shall not compensate Provider for the bad debts of its Medicare Advantage members.\n= and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical\nlucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and\na shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation\nto Provider based on a settlement.",
+      "score_breakdown": {
+        "dense_similarity": 0.37043309211730957,
+        "bm25_score": 43.78804167408061,
+        "dense_rank": 10,
+        "bm25_rank": 55,
+        "rrf_contribution_dense": 0.03333333333333333,
+        "rrf_contribution_bm25": 0.013333333333333334
+      }
+    },
+    {
+      "rank": 17,
+      "rrf_score": 0.04220779220779221,
+      "page": 59,
+      "section": "section:ARTICLE IV > clause:2",
+      "chunk_id": "TN_Contract2_Redacted_p59_c463",
+      "content_preview": "\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care ...",
+      "full_content": "\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales",
+      "score_breakdown": {
+        "dense_similarity": 0.13507789373397827,
+        "bm25_score": 53.471440671644615,
+        "dense_rank": 64,
+        "bm25_rank": 13,
+        "rrf_contribution_dense": 0.011904761904761904,
+        "rrf_contribution_bm25": 0.030303030303030304
+      }
+    },
+    {
+      "rank": 18,
+      "rrf_score": 0.04159519725557462,
+      "page": 61,
+      "section": "section:ARTICLE IV > clause:04",
+      "chunk_id": "TN_Contract3_Redacted_p61_c472",
+      "content_preview": "by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rat...",
+      "full_content": "by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Tennessee Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule for\nthe market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective basis.\n\" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies \" means the proprietary rate\nthat may be based on, but is not limited to, the applicable Professional Provider Market Master Fee\nSchedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee\nSchedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference Laboratory\nFee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS codes.",
+      "score_breakdown": {
+        "dense_similarity": 0.24298495054244995,
+        "bm25_score": 48.187147564771024,
+        "dense_rank": 24,
+        "bm25_rank": 33,
+        "rrf_contribution_dense": 0.022727272727272728,
+        "rrf_contribution_bm25": 0.018867924528301886
+      }
+    },
+    {
+      "rank": 19,
+      "rrf_score": 0.04061962134251291,
+      "page": 48,
+      "section": "section:ARTICLE IV > clause:2018",
+      "chunk_id": "TN_Contract4_Redacted_p48_c373",
+      "content_preview": "codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"CMS Outpatient Prospective Payment System\" (\"OPP...",
+      "full_content": "codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered",
+      "score_breakdown": {
+        "dense_similarity": 0.1369389295578003,
+        "bm25_score": 53.292406743044,
+        "dense_rank": 63,
+        "bm25_rank": 15,
+        "rrf_contribution_dense": 0.012048192771084338,
+        "rrf_contribution_bm25": 0.02857142857142857
+      }
+    },
+    {
+      "rank": 20,
+      "rrf_score": 0.03976608187134503,
+      "page": 2,
+      "section": "section:ARTICLE I",
+      "chunk_id": "TN_Contract3_Redacted_p2_c8",
+      "content_preview": "\"Regulatory Requirements\" means any requirements, as amended from time to time, imposed by applicable federal,\nstate or local laws, rules, regulations...",
+      "full_content": "\"Regulatory Requirements\" means any requirements, as amended from time to time, imposed by applicable federal,\nstate or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an\nAgency or government regulator in connection with the procurement, development or operation of a Health Benefit\nPlan, or the performance required by either party under this Agreement. The omission from this Agreement of an\nexpress reference to a Regulatory Requirement applicable to either party in connection with their duties and\nresponsibilities shall in no way limit such party's obligation to comply with such Regulatory Requirement.\n\" Rate\" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the\ntotal reimbursement amount that Provider and have agreed upon as set forth in the\nCompensation Schedule (\"WCS\"). The Rate includes applicable Cost Shares, and shall represent payment\nin full to Provider for Covered Services.\n\" Compensation Schedule\" (\"WCS\") means the document(s) attached hereto and incorporated herein by\nreference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which\nProvider participates. The WCS may include additional Provider obligations and specific compensation\nrelated terms and requirements.",
+      "score_breakdown": {
+        "dense_similarity": 0.20863211154937744,
+        "bm25_score": 50.53084684049522,
+        "dense_rank": 37,
+        "bm25_rank": 25,
+        "rrf_contribution_dense": 0.017543859649122806,
+        "rrf_contribution_bm25": 0.022222222222222223
+      }
+    }
+  ]
+}
+```
+
+#### Top Matches (detailed)
+
+- **Rank**: 1
+  - **RRF Score**: 0.09307359307359307
+  - **Page**: 57
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p57_c454
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the == Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+The = Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
+Program: Medicare Advantage CSNP
+Medicare Advantage Dual Plan
+Medicare Advantage FIDE SNP
+Medicare Advantage HMO
+Medicare Advantage ISNP
+Medicare Ad tage PPO
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%)
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+percent (65%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.7105925679206848,
+  "bm25_score": 153.78956086579637,
+  "dense_rank": 1,
+  "bm25_rank": 2,
+  "rrf_contribution_dense": 0.047619047619047616,
+  "rrf_contribution_bm25": 0.045454545454545456
+}
+```
+
+- **Rank**: 2
+  - **RRF Score**: 0.09109730848861283
+  - **Page**: 58
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract3_Redacted_p58_c463
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6677153706550598,
+  "bm25_score": 166.60431635019148,
+  "dense_rank": 3,
+  "bm25_rank": 1,
+  "rrf_contribution_dense": 0.043478260869565216,
+  "rrf_contribution_bm25": 0.047619047619047616
+}
+```
+
+- **Rank**: 3
+  - **RRF Score**: 0.08893280632411067
+  - **Page**: 69
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract5_Redacted_p69_c573
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the = Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multiplied by the stated percentages, if applicable.
+Program: Medicare Advantage CSNP
+Medicare Advantage Dual Plan
+Medicare Advantage FIDE SNP
+Medicare Advantage HMO
+Medicare Advantage ISNP
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee
+Services Codes Schedule multiplied by
+ninety five percent (95%)
+Laboratory Services Applicable CPT/HCPCS forty five percent (45%) of
+Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty percent
+(60%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6912578344345093,
+  "bm25_score": 153.50783119958007,
+  "dense_rank": 2,
+  "bm25_rank": 3,
+  "rrf_contribution_dense": 0.045454545454545456,
+  "rrf_contribution_bm25": 0.043478260869565216
+}
+```
+
+- **Rank**: 4
+  - **RRF Score**: 0.08333333333333333
+  - **Page**: 45
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract4_Redacted_p45_c362
+  - **Content Preview**: SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advanta...
+  - **Full Content:**
+
+    ```
+SPECIFIC REIMBURSEMENT TERMS
+MEDICARE ADVANTAGE
+For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the 7 Medicare Advantage
+Rate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this
+amount, plus applicable Cost Shares, is full compensation for Covered Services.
+The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
+LY ospital
+Billing Cod Rate/Methodolog
+Inpatient Services Applicable Revenue Codes _ | Rate from CMS Medicare Per Diem
+Administrative Contractor
+letter multiplied by one
+hundred percent (100%)
+Inpatient Psychiatric Applicable Revenue Codes | Medicare Inpatient NIA
+Services Psychiatric Facility
+Prospective Payment
+System multiplied by one
+hundred percent (100%)
+Inpatient Rehabilitation Applicable Revenue Codes | Medicare Inpatient NIA
+Services Rehabilitation Facility
+Prospective Payment
+System multiplied by one
+hundred percent (100%)
+Inpatient Skilled Nursing Type of Bill 18x with Rate from CMS Medicare Per Diem
+Services (Swing Bed) Applicable Revenue Administrative Contractor
+Code(s) letter multiplied by one
+hundred percent (100%)
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.6387730240821838,
+  "bm25_score": 126.09931416477627,
+  "dense_rank": 4,
+  "bm25_rank": 4,
+  "rrf_contribution_dense": 0.041666666666666664,
+  "rrf_contribution_bm25": 0.041666666666666664
+}
+```
+
+- **Rank**: 5
+  - **RRF Score**: 0.08
+  - **Page**: 59
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p59_c464
+  - **Content Preview**: The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the n...
+  - **Full Content:**
+
+    ```
+The _ Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+for each service, adjusted as described in the notes, and multipled by the stated percentages, if applicable.
+Professional and Technical Applicable CPT/HCPCS, Medicare Physician Fee
+Services Code(s) Schedule multiplied by
+ninety percent (90%)
+Part B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee Per Unit
+Biologicals Code(s) Schedule multiplied by one
+hundred percent (100%)
+Laboratory Services Applicable CPT/HCPCS. Medicare Clinical
+Code(s) Laboratory Fee Schedule
+multiplied by thirty five
+percent (35%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Orthotics, Prosthetics and Code(s) Equipment,
+Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.4837099313735962,
+  "bm25_score": 75.19408224911723,
+  "dense_rank": 5,
+  "bm25_rank": 5,
+  "rrf_contribution_dense": 0.04,
+  "rrf_contribution_bm25": 0.04
+}
+```
+
+- **Rank**: 6
+  - **RRF Score**: 0.06971153846153846
+  - **Page**: 59
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p59_c465
+  - **Content Preview**: Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medica...
+  - **Full Content:**
+
+    ```
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+rocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
+— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act of
+ongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable to
+Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
+amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
+same percentage amount as payment is changed by CMS to Provider.
+HE Ss)! not compensate Provider for the bad debts of its Medicare Advantage members.
+mem and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3922687768936157,
+  "bm25_score": 53.86047643255159,
+  "dense_rank": 6,
+  "bm25_rank": 12,
+  "rrf_contribution_dense": 0.038461538461538464,
+  "rrf_contribution_bm25": 0.03125
+}
+```
+
+- **Rank**: 7
+  - **RRF Score**: 0.06003584229390681
+  - **Page**: 79
+  - **Section**: section:ARTICLE IV > clause:06
+  - **Chunk ID**: TN_Contract5_Redacted_p79_c626
+  - **Content Preview**: "Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, wh...
+  - **Full Content:**
+
+    ```
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Medicare LUPA National Base Rate" means the Medicare LUPA ("Low Utilization Payment Adjustment") National
+Base rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time
+the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a
+prospective basis.
+"Medicare Part B Drug Average Sales Price ("ASP") Fee Schedule" means the Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable
+Medicaid Program(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.29419493675231934,
+  "bm25_score": 54.62196637418752,
+  "dense_rank": 16,
+  "bm25_rank": 11,
+  "rrf_contribution_dense": 0.027777777777777776,
+  "rrf_contribution_bm25": 0.03225806451612903
+}
+```
+
+- **Rank**: 8
+  - **RRF Score**: 0.05489417989417989
+  - **Page**: 58
+  - **Section**: clause:04 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p58_c456
+  - **Content Preview**: Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%
+Clin...
+  - **Full Content:**
+
+    ```
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Services Codes Schedule multiplied by one
+hundred percent (100%
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+percent (65%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee Per Unit
+Biologicals Codes Schedule multiplied by one
+hundred percent (100%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2113584280014038,
+  "bm25_score": 56.1540011393743,
+  "dense_rank": 36,
+  "bm25_rank": 7,
+  "rrf_contribution_dense": 0.017857142857142856,
+  "rrf_contribution_bm25": 0.037037037037037035
+}
+```
+
+- **Rank**: 9
+  - **RRF Score**: 0.0521680216802168
+  - **Page**: 60
+  - **Section**: clause:106 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p60_c466
+  - **Content Preview**: basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more
+effectively.
+"Medicare Fee Schedule" mea...
+  - **Full Content:**
+
+    ```
+basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more
+effectively.
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Medicare LUPA National Base Rate" means the Medicare LUPA ("Low Utilization Payment Adjustment") National
+Base rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time
+the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a
+prospective basis.
+"Medicare Part B Drug Average Sales Price ("ASP") Fee Schedule" means the Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rate changes will be applied on a prospective basis.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.2651413679122925,
+  "bm25_score": 53.21407721006116,
+  "dense_rank": 21,
+  "bm25_rank": 16,
+  "rrf_contribution_dense": 0.024390243902439025,
+  "rrf_contribution_bm25": 0.027777777777777776
+}
+```
+
+- **Rank**: 10
+  - **RRF Score**: 0.05202661826981246
+  - **Page**: 33
+  - **Section**: section:ARTICLE II > clause:2.1
+  - **Chunk ID**: TN_Contract4_Redacted_p33_c262
+  - **Content Preview**: Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider
+will render MA Covered Services to MA Members enrolled in M...
+  - **Full Content:**
+
+    ```
+Participation-Medicare Advantage. As a participant in Medicare Advantage Network, Provider
+will render MA Covered Services to MA Members enrolled in Medicare Advantage Program in
+accordance with the terms and conditions of the Agreement and this Attachment. Except as set forth in this
+Attachment, or in the ACS, all terms and conditions of the Agreement will apply to Provider's participation in
+Medicare Advantage Program(s). The terms and conditions set forth in this Attachment are
+limited to the provision of and payment for Health Services provided to MA Members. This Agreement does
+not apply to any of Medicare Advantage Private Fee for Service or Medical Savings Account
+Programs. If contracts with a third party to manage all or any portion of its Medicare Advantage
+Network, then Provider shall be required to contract separately with such third party to maintain its status as
+a Participating Provider for such Network(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3744352459907532,
+  "bm25_score": 45.88527436929484,
+  "dense_rank": 9,
+  "bm25_rank": 37,
+  "rrf_contribution_dense": 0.034482758620689655,
+  "rrf_contribution_bm25": 0.017543859649122806
+}
+```
+
+- **Rank**: 11
+  - **RRF Score**: 0.05184331797235023
+  - **Page**: 1
+  - **Section**: section:ARTICLE I
+  - **Chunk ID**: TN_Contract2_Redacted_p1_c3
+  - **Content Preview**: reference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The ACS may include addi...
+  - **Full Content:**
+
+    ```
+reference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The ACS may include additional Provider obligations and specific compensation
+related terms and requirements.
+" Rate" means the lesser of Eligible Charges for Covered Services, or the total reimbursement amount
+that Provider and have agreed upon as set forth in the Compensation Schedule ("ACS").
+The Rate includes applicable Cost Shares, and shall represent payment in full to Provider for Covered
+Services.
+"Audit" means a review of the Claim(s) and supporting clinical information submitted by Provider to ensure payment
+accuracy. The review ensures Claim(s) comply with all pertinent aspects of payment including, but not limited to,
+contractual terms, Regulatory Requirements, Coded Service Identifiers (as defined in the ACS) guidelines and
+instructions, medical policies and clinical utilization management guidelines, reimbursement policies, and
+generally accepted medical practices. Audit does not include medical record review for quality and risk adjustment
+initiatives.
+"Claim" means either the uniform bill claim form or electronic claim form in the format prescribed by
+submitted by a provider for payment by a for Health Services rendered to a Member.
+"CMS" means the Centers for Medicare & Medicaid Services, an administrative agency within the United States
+Department of Health & Human Services ("HHS").
+"Cost Share" means, with respect to Covered Services, an amount which a Member is required to pay under the
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1942046880722046,
+  "bm25_score": 55.19065827029201,
+  "dense_rank": 42,
+  "bm25_rank": 8,
+  "rrf_contribution_dense": 0.016129032258064516,
+  "rrf_contribution_bm25": 0.03571428571428571
+}
+```
+
+- **Rank**: 12
+  - **RRF Score**: 0.050107758620689655
+  - **Page**: 16
+  - **Section**: section:ARTICLE IX > clause:9.15.2
+  - **Chunk ID**: TN_Contract5_Redacted_p16_c136
+  - **Content Preview**: • Medicare Advantage - Health Maintenance Organization (HMO) Plans
+• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-S...
+  - **Full Content:**
+
+    ```
+• Medicare Advantage - Health Maintenance Organization (HMO) Plans
+• Medicare Advantage - Fully Integrated Dual Eligible Special Needs Program (FIDE-SNP)
+• Medicare Advantage - Preferred Provider Organization (MA PPO)
+• Medicare Advantage - Chronic Special Needs Plan (MA CSNP)
+• Medicare Advantage - Institutional Special Needs Plan (MA ISNP)
+Other Programs:
+• Episode-Based Retrospective Payment  
+|  |
+| --- |
+|  |
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.18507200479507446,
+  "bm25_score": 55.062853454870435,
+  "dense_rank": 44,
+  "bm25_rank": 9,
+  "rrf_contribution_dense": 0.015625,
+  "rrf_contribution_bm25": 0.034482758620689655
+}
+```
+
+- **Rank**: 13
+  - **RRF Score**: 0.049450549450549455
+  - **Page**: 57
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p57_c455
+  - **Content Preview**: hundred percent (100%)
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+pe...
+  - **Full Content:**
+
+    ```
+hundred percent (100%)
+Clinical Laboratory Services | Applicable CPT/HCPCS Medicare Clinical
+Codes Laboratory Fee Schedule
+multiplied by sixty five
+percent (65%)
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical Per Unit
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty five
+percent (65%)
+Biologicals Codes Schedule multiplied by one
+hundred percent (100%)
+Program: Medicare Advantage CSNP
+Medicare Advantage Dual Plan
+Medicare Advantage FIDE SNP
+rigs PO ey
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.13044285774230957,
+  "bm25_score": 74.58908409734573,
+  "dense_rank": 71,
+  "bm25_rank": 6,
+  "rrf_contribution_dense": 0.01098901098901099,
+  "rrf_contribution_bm25": 0.038461538461538464
+}
+```
+
+- **Rank**: 14
+  - **RRF Score**: 0.049206349206349205
+  - **Page**: 69
+  - **Section**: section:ARTICLE IV
+  - **Chunk ID**: TN_Contract5_Redacted_p69_c574
+  - **Content Preview**: Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, ...
+  - **Full Content:**
+
+    ```
+Codes the ["CMS"] Clinical
+Laboratory Fee Schedule
+Durable Medical Equipment, | Applicable CPT/HCPCS Medicare Durable Medical
+Prosthetics, Orthotics, and Codes Equipment,
+‘Supplies Prosthetics/Orthotics, and
+Supplies Fee Schedule
+multiplied by sixty percent
+(60%)
+Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
+Biologicals Codes Schedule multiplied by one
+hundred percent (100%)
+Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
+percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
+When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+a
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.18779736757278442,
+  "bm25_score": 54.919483255647734,
+  "dense_rank": 43,
+  "bm25_rank": 10,
+  "rrf_contribution_dense": 0.015873015873015872,
+  "rrf_contribution_bm25": 0.03333333333333333
+}
+```
+
+- **Rank**: 15
+  - **RRF Score**: 0.048651507139079855
+  - **Page**: 47
+  - **Section**: section:ARTICLE II > clause:2.1
+  - **Chunk ID**: TN_Contract3_Redacted_p47_c364
+  - **Content Preview**: Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render
+MA Covered Services to MA Members enrolled i...
+  - **Full Content:**
+
+    ```
+Participation-Medicare Advantage. As a participant in 's Medicare Advantage Network, Provider will render
+MA Covered Services to MA Members enrolled in 's Medicare Advantage Program in accordance with the
+terms and conditions of the Agreement and this Attachment. Except as set forth in this Attachment, or in the
+WCS, all terms and conditions of the Agreement will apply to Provider's participation in 's Medicare
+Advantage Program(s). The terms and conditions set forth in this Attachment are limited to the provision of
+and payment for Health Services provided to MA Members. This Agreement does not apply to any of 's
+Medicare Advantage Private Fee for Service or Medical Savings Account Programs. If contracts with a third
+party to manage all or any portion of its Medicare Advantage Network, then Provider shall be required to
+contract separately with such third party to maintain its status as a Participating Provider for such
+Network(s).
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.3647512197494507,
+  "bm25_score": 45.484730662333696,
+  "dense_rank": 11,
+  "bm25_rank": 41,
+  "rrf_contribution_dense": 0.03225806451612903,
+  "rrf_contribution_bm25": 0.01639344262295082
+}
+```
+
+- **Rank**: 16
+  - **RRF Score**: 0.04666666666666667
+  - **Page**: 58
+  - **Section**: clause:04 > section:ARTICLE IV
+  - **Chunk ID**: TN_Contract1_Redacted_p58_c457
+  - **Content Preview**: whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment am...
+  - **Full Content:**
+
+    ```
+whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
+refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
+same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
+any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
+process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
+a notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
+to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
+amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
+same percentage amount as payment is changed by CMS to Provider.
+HEE shall not compensate Provider for the bad debts of its Medicare Advantage members.
+= and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical
+lucation, disproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and
+a shall not adjust Provider's compensation through a settlement, even if Medicare adjusts its compensation
+to Provider based on a settlement.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.37043309211730957,
+  "bm25_score": 43.78804167408061,
+  "dense_rank": 10,
+  "bm25_rank": 55,
+  "rrf_contribution_dense": 0.03333333333333333,
+  "rrf_contribution_bm25": 0.013333333333333334
+}
+```
+
+- **Rank**: 17
+  - **RRF Score**: 0.04220779220779221
+  - **Page**: 59
+  - **Section**: section:ARTICLE IV > clause:2
+  - **Chunk ID**: TN_Contract2_Redacted_p59_c463
+  - **Content Preview**: "CMS Outpatient Prospective Payment System" ("OPPS") shall have the meaning set forth in Medicare law and CMS
+regulations and guidance.
+"Medical Care ...
+  - **Full Content:**
+
+    ```
+"CMS Outpatient Prospective Payment System" ("OPPS") shall have the meaning set forth in Medicare law and CMS
+regulations and guidance.
+"Medical Care Management Rate" means the amount paid by to Provider on a per member per month
+basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more
+effectively.
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Medicare LUPA National Base Rate" means the Medicare LUPA ("Low Utilization Payment Adjustment") National
+Base rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time
+the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a
+prospective basis.
+"Medicare Part B Drug Average Sales Price ("ASP") Fee Schedule" means the Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.13507789373397827,
+  "bm25_score": 53.471440671644615,
+  "dense_rank": 64,
+  "bm25_rank": 13,
+  "rrf_contribution_dense": 0.011904761904761904,
+  "rrf_contribution_bm25": 0.030303030303030304
+}
+```
+
+- **Rank**: 18
+  - **RRF Score**: 0.04159519725557462
+  - **Page**: 61
+  - **Section**: section:ARTICLE IV > clause:04
+  - **Chunk ID**: TN_Contract3_Redacted_p61_c472
+  - **Content Preview**: by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rat...
+  - **Full Content:**
+
+    ```
+by the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Tennessee Medicaid Rate(s)/Fee Schedule(s)/Methodologies" means the Tennessee Medicaid Rate(s)/Fee
+Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable
+Medicaid Program(s).
+" DMEPOS and PEN Fee Schedule" means the applicable DMEPOS and PEN Fee Schedule for
+the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the
+DMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the
+Agreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective basis.
+" Professional Provider Market Master Fee Schedule(s)/Rate(s)/Methodologies " means the proprietary rate
+that may be based on, but is not limited to, the applicable Professional Provider Market Master Fee
+Schedule(s)/ Rate(s)/ Methodologies, CMS and/or Medicare Fee Schedule(s)/ Rate(s)/ Methodologies, or the Fee
+Schedule(s)/ Rate(s)/ Methodologies developed by in accordance with industry standards.
+" Reference Laboratory Fee Schedule" means the Rate that is the Reference Laboratory
+Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS codes.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.24298495054244995,
+  "bm25_score": 48.187147564771024,
+  "dense_rank": 24,
+  "bm25_rank": 33,
+  "rrf_contribution_dense": 0.022727272727272728,
+  "rrf_contribution_bm25": 0.018867924528301886
+}
+```
+
+- **Rank**: 19
+  - **RRF Score**: 0.04061962134251291
+  - **Page**: 48
+  - **Section**: section:ARTICLE IV > clause:2018
+  - **Chunk ID**: TN_Contract4_Redacted_p48_c373
+  - **Content Preview**: codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.
+"CMS Outpatient Prospective Payment System" ("OPP...
+  - **Full Content:**
+
+    ```
+codes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.
+"CMS Outpatient Prospective Payment System" ("OPPS") shall have the meaning set forth in Medicare law and CMS
+regulations and guidance.
+"Medical Care Management Rate" means the amount paid by to Provider on a per member per month
+basis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more
+effectively.
+"Medicare Fee Schedule" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,
+including payment conversion factor, where applicable, and in effect on the date of the service is initiated to
+Members. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.
+"Medicare LUPA National Base Rate" means the Medicare LUPA ("Low Utilization Payment Adjustment") National
+Base rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time
+the Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a
+prospective basis.
+"Medicare Part B Drug Average Sales Price ("ASP") Fee Schedule" means the Medicare Part B Drug Average Sales
+Price ("ASP") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.1369389295578003,
+  "bm25_score": 53.292406743044,
+  "dense_rank": 63,
+  "bm25_rank": 15,
+  "rrf_contribution_dense": 0.012048192771084338,
+  "rrf_contribution_bm25": 0.02857142857142857
+}
+```
+
+- **Rank**: 20
+  - **RRF Score**: 0.03976608187134503
+  - **Page**: 2
+  - **Section**: section:ARTICLE I
+  - **Chunk ID**: TN_Contract3_Redacted_p2_c8
+  - **Content Preview**: "Regulatory Requirements" means any requirements, as amended from time to time, imposed by applicable federal,
+state or local laws, rules, regulations...
+  - **Full Content:**
+
+    ```
+"Regulatory Requirements" means any requirements, as amended from time to time, imposed by applicable federal,
+state or local laws, rules, regulations, guidelines, instructions, Government Contract, or otherwise imposed by an
+Agency or government regulator in connection with the procurement, development or operation of a Health Benefit
+Plan, or the performance required by either party under this Agreement. The omission from this Agreement of an
+express reference to a Regulatory Requirement applicable to either party in connection with their duties and
+responsibilities shall in no way limit such party's obligation to comply with such Regulatory Requirement.
+" Rate" means the lesser of one hundred percent (100%) of Eligible Charges for Covered Services, or the
+total reimbursement amount that Provider and have agreed upon as set forth in the
+Compensation Schedule ("WCS"). The Rate includes applicable Cost Shares, and shall represent payment
+in full to Provider for Covered Services.
+" Compensation Schedule" ("WCS") means the document(s) attached hereto and incorporated herein by
+reference, and which sets forth the Rate(s) and compensation related terms for the Network(s) in which
+Provider participates. The WCS may include additional Provider obligations and specific compensation
+related terms and requirements.
+```
+
+  - **Score Breakdown:**
+
+```json
+{
+  "dense_similarity": 0.20863211154937744,
+  "bm25_score": 50.53084684049522,
+  "dense_rank": 37,
+  "bm25_rank": 25,
+  "rrf_contribution_dense": 0.017543859649122806,
+  "rrf_contribution_bm25": 0.022222222222222223
+}
+```
+
+---
+End of report for TNredacted

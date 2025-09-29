@@ -1,0 +1,55 @@
+{
+  "pipeline_info": {
+    "name": "Attribute Similarity Pipeline",
+    "method": "RRF (Reciprocal Rank Fusion)",
+    "attribute_collection": "attributes_simple",
+    "processed_at": "2025-09-29T01:48:18.777398",
+    "total_collections": 4
+  },
+  "collections_summary": {
+    "TNstandard": {
+      "collection_name": "TNstandard",
+      "description": "TN Standard Template",
+      "top_k": 10,
+      "attributes_processed": 5,
+      "total_matches": 0,
+      "avg_rrf_score": 0.0,
+      "high_quality_matches": 0
+    },
+    "WAstandard": {
+      "collection_name": "WAstandard",
+      "description": "WA Standard Template",
+      "top_k": 10,
+      "attributes_processed": 5,
+      "total_matches": 0,
+      "avg_rrf_score": 0.0,
+      "high_quality_matches": 0
+    },
+    "TNredacted": {
+      "collection_name": "TNredacted",
+      "description": "TN Redacted Contracts",
+      "top_k": 20,
+      "attributes_processed": 5,
+      "total_matches": 0,
+      "avg_rrf_score": 0.0,
+      "high_quality_matches": 0
+    },
+    "WAredacted": {
+      "collection_name": "WAredacted",
+      "description": "WA Redacted Contracts",
+      "top_k": 20,
+      "attributes_processed": 5,
+      "total_matches": 0,
+      "avg_rrf_score": 0.0,
+      "high_quality_matches": 0
+    }
+  },
+  "attribute_statistics": {},
+  "top_performing_attributes": [],
+  "overall_statistics": {
+    "total_attributes_processed": 20,
+    "total_matches_found": 0,
+    "avg_matches_per_attribute": 0.0,
+    "collections_processed": 4
+  }
+}
