@@ -36,9 +36,7 @@ def format_for_markdown(text):
                 buffer_text = []
             match = re.match(r'^(\d+(\.\d+)*)', line)
             clause_no = match.group(1)
-            # Normalize subclauses like '2.1', '2.2' to parent clause header '2'
-            parent_clause = clause_no.split('.')[0]
-            md_lines.append(f"## {parent_clause}")
+            md_lines.append(f"## {clause_no}")
             rest = line[len(clause_no):].strip()
             if rest:
                 buffer_text.append(rest)

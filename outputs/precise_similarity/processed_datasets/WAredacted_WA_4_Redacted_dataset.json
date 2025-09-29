@@ -36,7 +36,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": 0.024250805377960205,
+    "semantic_similarity": 0.9690994471311569
   },
   {
     "collection_key": "WAredacted",
@@ -75,7 +79,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": -0.0024873018264770508,
+    "semantic_similarity": 0.9193774461746216
   },
   {
     "collection_key": "WAredacted",
@@ -114,7 +122,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.426 (threshold: 0.7)",
+    "paraphrase_similarity": 0.4257528781890869,
+    "semantic_similarity": 0.6248996257781982
   },
   {
     "collection_key": "WAredacted",
@@ -153,7 +165,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.449 (threshold: 0.7)",
+    "paraphrase_similarity": 0.4489786624908447,
+    "semantic_similarity": 0.7109517455101013
   },
   {
     "collection_key": "WAredacted",
@@ -192,7 +208,14 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step4_nli",
+    "classification_reasoning": "NLI failed: Contradiction detected",
+    "paraphrase_similarity": 0.7515201568603516,
+    "semantic_similarity": 0.6730652749538422,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": []
   },
   {
     "collection_key": "WAredacted",
@@ -231,7 +254,9 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 1
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template"
   },
   {
     "collection_key": "WAredacted",
@@ -270,7 +295,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": -0.0484541654586792,
+    "semantic_similarity": 0.8188332915306091
   },
   {
     "collection_key": "WAredacted",
@@ -309,7 +338,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": -0.0024873018264770508,
+    "semantic_similarity": 0.9193774461746216
   },
   {
     "collection_key": "WAredacted",
@@ -348,7 +381,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": 0.024250805377960205,
+    "semantic_similarity": 0.9690994471311569
   },
   {
     "collection_key": "WAredacted",
@@ -387,7 +424,9 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 1
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template"
   },
   {
     "collection_key": "WAredacted",
@@ -426,7 +465,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.257 (threshold: 0.7)",
+    "paraphrase_similarity": 0.2565652132034302,
+    "semantic_similarity": 0.581742525100708
   },
   {
     "collection_key": "WAredacted",
@@ -465,7 +508,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.369 (threshold: 0.7)",
+    "paraphrase_similarity": 0.3686840534210205,
+    "semantic_similarity": 0.5675796568393707
   },
   {
     "collection_key": "WAredacted",
@@ -504,7 +551,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.017 (threshold: 0.7)",
+    "paraphrase_similarity": 0.0165635347366333,
+    "semantic_similarity": 0.6875844895839691
   },
   {
     "collection_key": "WAredacted",
@@ -543,7 +594,9 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 1
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template"
   },
   {
     "collection_key": "WAredacted",
@@ -582,7 +635,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": 0.02651923894882202,
+    "semantic_similarity": 0.992069510743022
   },
   {
     "collection_key": "WAredacted",
@@ -621,7 +678,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 1,
+    "classification_step": "step1_exact_match",
+    "classification_reasoning": "Exact structural match with template",
+    "paraphrase_similarity": -0.06102418899536133,
+    "semantic_similarity": 0.8078697025775909
   },
   {
     "collection_key": "WAredacted",
@@ -660,7 +721,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.371 (threshold: 0.7)",
+    "paraphrase_similarity": 0.3713911175727844,
+    "semantic_similarity": 0.6241485476493835
   },
   {
     "collection_key": "WAredacted",
@@ -699,7 +764,14 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.588 (threshold: 0.7)",
+    "paraphrase_similarity": 0.5877266526222229,
+    "semantic_similarity": 0.5712197422981262,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": []
   },
   {
     "collection_key": "WAredacted",
@@ -738,7 +810,17 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.563 (threshold: 0.7)",
+    "paraphrase_similarity": 0.5634723901748657,
+    "semantic_similarity": 0.5731343924999237,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "Different negation counts: candidate=1, template=0",
+    "rule_flags": [
+      "exceptions: \\bexcept\\b",
+      "exceptions: \\bhowever\\b"
+    ]
   },
   {
     "collection_key": "WAredacted",
@@ -777,7 +859,17 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.588 (threshold: 0.7)",
+    "paraphrase_similarity": 0.5883851051330566,
+    "semantic_similarity": 0.693138062953949,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": [
+      "exceptions: \\bnotwithstanding\\b",
+      "methodology_shift: \\bmedicare\\b"
+    ]
   },
   {
     "collection_key": "WAredacted",
@@ -816,7 +908,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.246 (threshold: 0.7)",
+    "paraphrase_similarity": 0.2456699013710022,
+    "semantic_similarity": 0.45575374364852905
   },
   {
     "collection_key": "WAredacted",
@@ -855,7 +951,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.132 (threshold: 0.7)",
+    "paraphrase_similarity": 0.13225197792053223,
+    "semantic_similarity": 0.35817939043045044
   },
   {
     "collection_key": "WAredacted",
@@ -894,7 +994,17 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.551 (threshold: 0.7)",
+    "paraphrase_similarity": 0.551218569278717,
+    "semantic_similarity": 0.7832512259483337,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": [
+      "methodology_shift: \\bmedicare\\b",
+      "methodology_shift: \\bper diem\\b"
+    ]
   },
   {
     "collection_key": "WAredacted",
@@ -933,7 +1043,16 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.547 (threshold: 0.7)",
+    "paraphrase_similarity": 0.54688960313797,
+    "semantic_similarity": 0.7330220937728882,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": [
+      "methodology_shift: \\bmedicare\\b"
+    ]
   },
   {
     "collection_key": "WAredacted",
@@ -972,7 +1091,16 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.667 (threshold: 0.7)",
+    "paraphrase_similarity": 0.666941225528717,
+    "semantic_similarity": 0.7174821496009827,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": [
+      "methodology_shift: \\bmedicare\\b"
+    ]
   },
   {
     "collection_key": "WAredacted",
@@ -1011,7 +1139,11 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.375 (threshold: 0.7)",
+    "paraphrase_similarity": 0.3750479817390442,
+    "semantic_similarity": 0.440393328666687
   },
   {
     "collection_key": "WAredacted",
@@ -1050,6 +1182,15 @@
         "number_word_masking"
       ]
     },
-    "isStandard": 0
+    "isStandard": 0,
+    "classification_step": "step3_paraphrase_failed",
+    "classification_reasoning": "Paraphrase similarity: 0.505 (threshold: 0.7)",
+    "paraphrase_similarity": 0.505312979221344,
+    "semantic_similarity": 0.5271126925945282,
+    "nli_reasoning": "Contradiction detected",
+    "negation_reasoning": "No negations in either text",
+    "rule_flags": [
+      "methodology_shift: \\bmedicare\\b"
+    ]
   }
 ]
