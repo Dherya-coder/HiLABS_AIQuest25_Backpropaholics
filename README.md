@@ -1,7 +1,7 @@
 # HiLABS Complete Contract Analysis Pipeline
 
 A comprehensive end-to-end pipeline for intelligent contract analysis, from raw PDF processing to AI-powered chatbot interactions. This system combines advanced NLP, machine learning, and vector databases to provide deep insights into legal contracts.
-
+## Solution Report Link- https://drive.google.com/file/d/1pST0L2U305IMgpyUXHJbv0wQNm0GuzYL/view?usp=drive_link
 ## 🎯 Overview
 
 HiLABS transforms raw contract PDFs into an intelligent analysis system through a sophisticated 5-step pipeline:
