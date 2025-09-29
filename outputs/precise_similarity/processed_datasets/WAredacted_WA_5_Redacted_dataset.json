@@ -39,8 +39,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.628 (threshold: 0.7)",
-    "paraphrase_similarity": 0.6279340982437134,
-    "semantic_similarity": 0.7337209582328796,
+    "paraphrase_similarity": 0.627933919429779,
+    "semantic_similarity": 0.7359027862548828,
     "nli_reasoning": "One-way or neutral entailment (pred1=0, pred2=1)",
     "negation_reasoning": "No negations in either text",
     "rule_flags": []
@@ -84,9 +84,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.448 (threshold: 0.7)",
-    "paraphrase_similarity": 0.4479334354400635,
-    "semantic_similarity": 0.6723220944404602
+    "classification_reasoning": "Paraphrase similarity: 0.475 (threshold: 0.7)",
+    "paraphrase_similarity": 0.47494083642959595,
+    "semantic_similarity": 0.692656010389328
   },
   {
     "collection_key": "WAredacted",
@@ -127,9 +127,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.219 (threshold: 0.7)",
-    "paraphrase_similarity": 0.21853113174438477,
-    "semantic_similarity": 0.6747631430625916
+    "classification_reasoning": "Paraphrase similarity: 0.239 (threshold: 0.7)",
+    "paraphrase_similarity": 0.23872917890548706,
+    "semantic_similarity": 0.6721583008766174
   },
   {
     "collection_key": "WAredacted",
@@ -171,8 +171,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.452 (threshold: 0.7)",
-    "paraphrase_similarity": 0.452436625957489,
-    "semantic_similarity": 0.5741778314113617
+    "paraphrase_similarity": 0.4524364471435547,
+    "semantic_similarity": 0.5838951468467712
   },
   {
     "collection_key": "WAredacted",
@@ -213,9 +213,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.422 (threshold: 0.7)",
-    "paraphrase_similarity": 0.42189639806747437,
-    "semantic_similarity": 0.5298388004302979
+    "classification_reasoning": "Paraphrase similarity: 0.555 (threshold: 0.7)",
+    "paraphrase_similarity": 0.554523378610611,
+    "semantic_similarity": 0.6454728841781616
   },
   {
     "collection_key": "WAredacted",
@@ -256,9 +256,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: -0.016 (threshold: 0.7)",
-    "paraphrase_similarity": -0.015526890754699707,
-    "semantic_similarity": 0.45665067434310913
+    "classification_reasoning": "Paraphrase similarity: 0.147 (threshold: 0.7)",
+    "paraphrase_similarity": 0.1468072533607483,
+    "semantic_similarity": 0.4563480615615845
   },
   {
     "collection_key": "WAredacted",
@@ -299,9 +299,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.299 (threshold: 0.7)",
-    "paraphrase_similarity": 0.29866963624954224,
-    "semantic_similarity": 0.5815712511539459
+    "classification_reasoning": "Paraphrase similarity: 0.417 (threshold: 0.7)",
+    "paraphrase_similarity": 0.4169520139694214,
+    "semantic_similarity": 0.5815650820732117
   },
   {
     "collection_key": "WAredacted",
@@ -343,8 +343,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.628 (threshold: 0.7)",
-    "paraphrase_similarity": 0.6279340982437134,
-    "semantic_similarity": 0.529572606086731,
+    "paraphrase_similarity": 0.627933919429779,
+    "semantic_similarity": 0.6083966493606567,
     "nli_reasoning": "One-way or neutral entailment (pred1=0, pred2=1)",
     "negation_reasoning": "No negations in either text",
     "rule_flags": []
@@ -389,8 +389,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.588 (threshold: 0.7)",
-    "paraphrase_similarity": 0.5877234935760498,
-    "semantic_similarity": 0.7147672176361084,
+    "paraphrase_similarity": 0.5877232551574707,
+    "semantic_similarity": 0.7166607677936554,
     "nli_reasoning": "Contradiction detected",
     "negation_reasoning": "No negations in either text",
     "rule_flags": []
@@ -436,7 +436,7 @@
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.297 (threshold: 0.7)",
     "paraphrase_similarity": 0.29682642221450806,
-    "semantic_similarity": 0.6747631430625916
+    "semantic_similarity": 0.6721583008766174
   },
   {
     "collection_key": "WAredacted",
@@ -477,9 +477,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.299 (threshold: 0.7)",
-    "paraphrase_similarity": 0.29866963624954224,
-    "semantic_similarity": 0.5815712511539459
+    "classification_reasoning": "Paraphrase similarity: 0.417 (threshold: 0.7)",
+    "paraphrase_similarity": 0.4169520139694214,
+    "semantic_similarity": 0.5815650820732117
   },
   {
     "collection_key": "WAredacted",
@@ -521,8 +521,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.452 (threshold: 0.7)",
-    "paraphrase_similarity": 0.452436625957489,
-    "semantic_similarity": 0.5741778314113617
+    "paraphrase_similarity": 0.4524364471435547,
+    "semantic_similarity": 0.5838951468467712
   },
   {
     "collection_key": "WAredacted",
@@ -564,8 +564,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.173 (threshold: 0.7)",
-    "paraphrase_similarity": 0.17266488075256348,
-    "semantic_similarity": 0.5432518720626831
+    "paraphrase_similarity": 0.17266499996185303,
+    "semantic_similarity": 0.5437380075454712
   },
   {
     "collection_key": "WAredacted",
@@ -606,9 +606,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.499 (threshold: 0.7)",
-    "paraphrase_similarity": 0.4987450838088989,
-    "semantic_similarity": 0.4018601179122925
+    "classification_reasoning": "Paraphrase similarity: 0.504 (threshold: 0.7)",
+    "paraphrase_similarity": 0.503724068403244,
+    "semantic_similarity": 0.4004164934158325
   },
   {
     "collection_key": "WAredacted",
@@ -651,7 +651,7 @@
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: -0.335 (threshold: 0.7)",
     "paraphrase_similarity": -0.33545374870300293,
-    "semantic_similarity": 0.045719146728515625
+    "semantic_similarity": 0.062169432640075684
   },
   {
     "collection_key": "WAredacted",
@@ -693,8 +693,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: -0.415 (threshold: 0.7)",
-    "paraphrase_similarity": -0.4152427911758423,
-    "semantic_similarity": 0.09453296661376953
+    "paraphrase_similarity": -0.41524291038513184,
+    "semantic_similarity": 0.09690791368484497
   },
   {
     "collection_key": "WAredacted",
@@ -737,7 +737,7 @@
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: -0.296 (threshold: 0.7)",
     "paraphrase_similarity": -0.29595816135406494,
-    "semantic_similarity": 0.2683715224266052
+    "semantic_similarity": 0.27053123712539673
   },
   {
     "collection_key": "WAredacted",
@@ -779,8 +779,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.148 (threshold: 0.7)",
-    "paraphrase_similarity": 0.14750689268112183,
-    "semantic_similarity": 0.5123721957206726
+    "paraphrase_similarity": 0.1475069522857666,
+    "semantic_similarity": 0.5125890672206879
   },
   {
     "collection_key": "WAredacted",
@@ -822,8 +822,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.148 (threshold: 0.7)",
-    "paraphrase_similarity": 0.14750689268112183,
-    "semantic_similarity": 0.5123721957206726
+    "paraphrase_similarity": 0.1475069522857666,
+    "semantic_similarity": 0.5125890672206879
   },
   {
     "collection_key": "WAredacted",
@@ -864,9 +864,9 @@
     },
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
-    "classification_reasoning": "Paraphrase similarity: 0.315 (threshold: 0.7)",
-    "paraphrase_similarity": 0.3150620460510254,
-    "semantic_similarity": 0.520592600107193
+    "classification_reasoning": "Paraphrase similarity: 0.350 (threshold: 0.7)",
+    "paraphrase_similarity": 0.34993600845336914,
+    "semantic_similarity": 0.5151995420455933
   },
   {
     "collection_key": "WAredacted",
@@ -908,8 +908,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.481 (threshold: 0.7)",
-    "paraphrase_similarity": 0.481408953666687,
-    "semantic_similarity": 0.6681566536426544
+    "paraphrase_similarity": 0.48140883445739746,
+    "semantic_similarity": 0.6603430509567261
   },
   {
     "collection_key": "WAredacted",
@@ -951,8 +951,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.091 (threshold: 0.7)",
-    "paraphrase_similarity": 0.09095901250839233,
-    "semantic_similarity": 0.47049057483673096
+    "paraphrase_similarity": 0.09095895290374756,
+    "semantic_similarity": 0.4666411876678467
   },
   {
     "collection_key": "WAredacted",
@@ -994,8 +994,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.420 (threshold: 0.7)",
-    "paraphrase_similarity": 0.4197375774383545,
-    "semantic_similarity": 0.4748234748840332
+    "paraphrase_similarity": 0.4197375178337097,
+    "semantic_similarity": 0.5328064262866974
   },
   {
     "collection_key": "WAredacted",
@@ -1037,8 +1037,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.420 (threshold: 0.7)",
-    "paraphrase_similarity": 0.4197375774383545,
-    "semantic_similarity": 0.4748234748840332
+    "paraphrase_similarity": 0.4197375178337097,
+    "semantic_similarity": 0.5328064262866974
   },
   {
     "collection_key": "WAredacted",
@@ -1080,8 +1080,8 @@
     "isStandard": 0,
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.430 (threshold: 0.7)",
-    "paraphrase_similarity": 0.43008172512054443,
-    "semantic_similarity": 0.4813917875289917
+    "paraphrase_similarity": 0.4300816059112549,
+    "semantic_similarity": 0.5497053861618042
   },
   {
     "collection_key": "WAredacted",
@@ -1124,7 +1124,7 @@
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.419 (threshold: 0.7)",
     "paraphrase_similarity": 0.4191018342971802,
-    "semantic_similarity": 0.4612581729888916
+    "semantic_similarity": 0.5295736789703369
   },
   {
     "collection_key": "WAredacted",
@@ -1167,6 +1167,6 @@
     "classification_step": "step3_paraphrase_failed",
     "classification_reasoning": "Paraphrase similarity: 0.267 (threshold: 0.7)",
     "paraphrase_similarity": 0.26694315671920776,
-    "semantic_similarity": 0.520592600107193
+    "semantic_similarity": 0.5151995420455933
   }
 ]

@@ -1,0 +1,47 @@
+================================================================================
+HEALTHCARE CONTRACT CLAUSE CLASSIFICATION ANALYSIS
+================================================================================
+
+OVERALL SUMMARY
+----------------------------------------
+Total Clauses Analyzed: 270
+Standard Clauses: 102 (37.8%)
+Non-Standard Clauses: 168
+
+CLASSIFICATION BY STEP
+----------------------------------------
+step1_exact_match: 57 (21.1%)
+step2_semantic: 45 (16.7%)
+step3_paraphrase_failed: 149 (55.2%)
+step4_nli: 4 (1.5%)
+step6_rule_flags: 15 (5.6%)
+
+CLASSIFICATION BY ATTRIBUTE
+----------------------------------------
+Attribute 1: 39/70 Standard (55.7%)
+Attribute 2: 39/70 Standard (55.7%)
+Attribute 3: 15/30 Standard (50.0%)
+Attribute 4: 3/50 Standard (6.0%)
+Attribute 5: 6/50 Standard (12.0%)
+
+CLASSIFICATION BY STATE
+----------------------------------------
+TN: 60/135 Standard (44.4%)
+WA: 42/135 Standard (31.1%)
+
+MOST COMMON RULE FLAGS
+----------------------------------------
+methodology_shift: \bmedicare\b: 39
+exceptions: \bunless\b: 8
+exceptions: \bnotwithstanding\b: 7
+forbidden_conditions: \bsole discretion\b: 3
+exceptions: \bexcept\b: 3
+exceptions: \bhowever\b: 2
+methodology_shift: \bper diem\b: 2
+
+SIMILARITY STATISTICS
+----------------------------------------
+Average Semantic Similarity: 0.638 (n=213)
+Average Paraphrase Similarity: 0.343 (n=211)
+
+================================================================================

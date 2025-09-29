@@ -1,9 +1,3 @@
-# WA_5_Redacted
-
-
-
---- Batch 1 ---
-
 
 
 --- Page 1 ---
@@ -96,7 +90,7 @@ authorization requirements, provider manual guidelines, administrative, clinical
 and reimbursement policies, and code editing logic. The allowed amount reimbursed for the
 eligible charge is based on the applicable fee schedule or contracted/negotiated rate after
 application of coinsurance, co-payments, deductibles, and coordination of benefits.
-## 2
+2
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -127,8 +121,7 @@ stabilize an emergency medical condition (42 CFR 438.114(a)).
 ## 1.10
 HIPAA Regulations. "HIPAA Regulations" shall mean those regulations adopted
 pursuant to the Health Insurance Portability and Accountability Act of 1996 and codified at Title
-## 45
-of the Code of Federal Regulations ("C.F.R.") relating to the privacy and security of protected
+45 of the Code of Federal Regulations ("C.F.R.") relating to the privacy and security of protected
 health information, and including, without limitation, any amendments or successor laws, rules
 or regulations thereto.
 ## 1.11
@@ -151,7 +144,7 @@ the convenience of the provider or hospital;
 Service; and
 (vi) There are no other effective and more conservative or substantially
 less costly treatment, service and setting available.
-## 3
+3
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -203,7 +196,7 @@ PCP is inclusive of primary care physician as it is used in 42 CFR 438. All fede
 applicable to primary care physicians will also be applicable to primary care providers as the
 term is used herein. PCPs shall be credentialed in accordance with
 credentialing requirements for Primary Care Providers.
-## 4
+4
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -258,7 +251,7 @@ otherwise effect the delivery of managed health care services to Covered Persons
 shall provide electronic access to its Provider Manual through
 website. shall provide Provider with at least sixty (60) days
 prior notice of any material modifications to such Provider Manual thereafter.
-## 5
+5
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -268,11 +261,7 @@ Revised
 
 
 
---- Batch 2 ---
-
-
-
---- Page 1 ---
+--- Page 6 ---
 
 ## 2.3
 Policies and Procedures. shall reference material policies and
@@ -317,7 +306,7 @@ services will be furnished in accordance with the terms and conditions of the Pr
 Notwithstanding the above, for purposes of this Section, "Affiliate Services" shall mean those
 services required to be furnished to an Affiliate's members pursuant to the applicable Program in
 the state in which the Affiliate is responsible for furnishing services.
-## 6
+6
 WA & Facility Agreement v4
 Revised
 
@@ -326,7 +315,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 7 ---
 
 (b)
 shall be responsible for coordinating between Provider and
@@ -371,7 +360,7 @@ Identification number ("NPI") as required by applicable law.
 Covered Person Verification. Provider shall establish a Covered Person's
 eligibility for services prior to rendering services, except in the case of an Emergency Medical
 Condition where such verification may be impractical. In the case of an Emergency Medical
-## 7
+7
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -381,7 +370,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 8 ---
 
 Condition, Provider shall establish a Covered Person's eligibility as soon as reasonably practical.
 shall provide a system for Providers to contact to verify
@@ -428,7 +417,7 @@ Grievance, Coordination of Benefits, Third Party Liability and other Rules, Regu
 and Procedures. Provider shall comply and cooperate with all and Regulatory
 Requirements related to credentialing, utilization management, quality assurance, grievances,
 coordination of benefits, third party liability, and any applicable performance improvement
-## 8
+8
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -438,7 +427,7 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 9 ---
 
 projects. Provider shall comply with the terms of the Provider Manual. Provider shall comply
 with ancillary surety bond requirement (Section 4708(d) of the Balanced Budget Act of 1997).
@@ -479,7 +468,7 @@ maintains actuarially sound reserves related to such self-funded plan and provid
 on a semi-annual basis an opinion letter from an independent actuarial firm or
 other proof reasonably acceptable to attesting to the financial adequacy of such
 reserves.
-## 9
+9
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -489,7 +478,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 10 ---
 
 ## 3.9
 Contracted Provider Requirements. Unless otherwise approved by
@@ -532,7 +521,7 @@ obtained through its respective performance under the Agreement as confidential 
 the extent that confidential treatment is required under applicable law and regulations, including
 without limitation 42 C.F.R. 422.118 and 45 C.F.R. Parts 160 and 164, as may be amended
 from time to time, and shall not use any information so obtained in any manner except as
-## 10
+10
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -542,11 +531,7 @@ Revised
 
 
 
---- Batch 3 ---
-
-
-
---- Page 1 ---
+--- Page 11 ---
 
 necessary to the proper discharge of its obligations and securing of its rights hereunder. Provider
 and shall each have a system in effect to protect all records and all other
@@ -590,7 +575,7 @@ Reporting Fraud and Abuse. Provider shall cooperate with
 ## 3.12
 anti-fraud compliance program. If Provider identifies any actual or suspected fraud, abuse or
 misconduct in connection with the services rendered hereunder, in violation of state or federal
-## 11
+11
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -600,7 +585,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 12 ---
 
 law, Provider immediately shall report such activity directly to in accordance
 with the Provider Manual. Provider shall comply with HCA approved fraud and abuse policies
@@ -641,7 +626,7 @@ of the corporate owner(s);
 Number;
 (6) if Provider has a five percent (5%) ownership interest in any of its
 subcontractors, the tax identification number of the subcontractor(s);
-## 12
+12
 Snoqualmis
 WA & Facility Agreement v4
 Revised
@@ -651,7 +636,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 13 ---
 
 (7) whether any person with an ownership or control interest in
 Provider is related by marriage or blood as a spouse, parent, child, or sibling to any other person
@@ -690,14 +675,14 @@ Provider must use HIPAA compliant billing codes when billing or submitting encou
 data. This applies to both electronic and paper claims. When billing codes are updated, Provider
 is required to use appropriate replacement codes for submitted claims for Covered Services. In
 its discretion, may amend the Agreement as it deems necessary to clarify
-## 13
+13
 Morion-Snoqualmic
 WA & Facility Agreement v4
 Revised
 
 
 
---- Page 4 ---
+--- Page 14 ---
 
 changes to standard billing codes. Regardless of whether so amends the
 Agreement, shall not pay any claims submitted using non-compliant billing
@@ -742,7 +727,7 @@ Regulatory Requirements.
 With respect to Medicaid Covered Services, shall pay Provider interest
 at the rate of one (1) percent per month, as set forth in WAC 284-43-321(2)(d), which section
 may be amended or recodified from time to time, on the unpaid portion of Medicaid Clean
-## 14
+14
 Snoqualmic
 WA & Facility Agreement V4
 Revised
@@ -752,7 +737,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 15 ---
 
 Claims not adjudicated within such period as required under applicable prompt pay
 requirements. With respect to Medicare Covered Services, shall pay Provider
@@ -794,7 +779,7 @@ policies and procedures related to third party liability recovery in the event c
 rendered by Provider to a Covered Person are related to an illness or injury for which a third
 party may be liable, including, without limitation, claims that may be covered by automobile
 insurance, workers' compensation coverage, other health insurance, or otherwise give rise to a
-## 15
+15
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -804,11 +789,7 @@ Revised
 
 
 
---- Batch 4 ---
-
-
-
---- Page 1 ---
+--- Page 16 ---
 
 claim for third party liability, coordination of benefits or subrogation (to the extent permitted by
 Regulatory Requirements). Provider shall take all reasonable actions required by
@@ -855,7 +836,7 @@ AND FACILITY PROVIDERS
 Primary Care Provider Services. If Provider is furnishing Primary Care Services
 under this Agreement, Provider shall, and shall cause the Primary Care Providers employed by or
 under contract with Provider to, accept as patients all Covered Persons who are eligible and have
-## 16
+16
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -865,7 +846,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 17 ---
 
 chosen a Primary Care Physician with an open panel to receive their Primary Care Services from
 Provider or a Primary Care Provider employed by or under contract with Provider. Provider
@@ -910,7 +891,7 @@ Automatic Termination: Automatic Exclusion.
 (a) Automatic Termination. If Provider is an individual Provider, in addition
 to the other termination provisions set forth in this Agreement, this Agreement shall
 automatically and immediately terminate upon the expiration, surrender, revocation or restriction
-## 17
+17
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -920,7 +901,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 18 ---
 
 of Provider's medical staff privileges at any one or more Participating Hospitals or if Provider
 fails to maintain active staff privileges with respect to at least one (1) Participating Hospital.
@@ -964,7 +945,7 @@ outpatient Covered Services to a Covered Person. Notwithstanding any provision c
 this Agreement, no notification to, or coverage verification or pre-authorization from,
 is required prior to Provider rendering Emergency Services to a Covered
 Person.
-## 18
+18
 Snoqualmic
 WA & Facility Agreement V4
 Revised
@@ -974,7 +955,7 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 19 ---
 
 (b) If Emergency Services are required for an Emergency Medical Condition
 affecting a Covered Person and such Covered Person's condition cannot be treated at Provider's
@@ -1020,7 +1001,7 @@ Person or persons acting on such Covered Person's behalf. Provider agrees and un
 willfully collecting or attempting to collect an amount from a covered person knowing that
 collection to be in violation of the participating provider or facility contract constitutes a class C
 felony under RCW 48.80.030(5). Provider agrees, in the event of insolvency,
-## 19
+19
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1030,7 +1011,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 20 ---
 
 to continue to provide the services promised in this Agreement to Covered Persons of
 for the duration of the period for which premiums on behalf of the Covered
@@ -1076,7 +1057,7 @@ that Provider may collect from a Medicare-eligible Covered Person in connection 
 Services. Provider acknowledges that Medicaid cost-sharing requirements may preclude
 Provider's collection of co-payments or deductibles from dual eligible Medicare and Medicaid
 Covered Persons,
-## 20
+20
 Snoqualmic
 WA & Facility Agreement v4
 Revised 6+1-16
@@ -1086,11 +1067,7 @@ Revised 6+1-16
 
 
 
---- Batch 5 ---
-
-
-
---- Page 1 ---
+--- Page 21 ---
 
 (b) Provider shall be responsible for collecting any known and applicable
 Medicare Program co-payments or deductibles in accordance with the policies and procedures
@@ -1134,7 +1111,7 @@ symptomatic office visits shall be available from the Covered Person's PCP or an
 within twenty-four (24) hours. An urgent, symptomatic visit is associated with the presentation
 of medical signs that require immediate attention, but are not life threatening; and (f) Emergency
 medical care shall be available twenty-four (24) hours per day, seven (7) days per week.
-## 21
+21
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1144,7 +1121,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 22 ---
 
 ## 6.6
 Non-Discrimination. Provider shall abide by the federal Civil Rights Act of 1964,
@@ -1189,7 +1166,7 @@ discussions even if critical of a carrier.
 Authorizations. Provider shall comply with preauthorization
 and authorization processes and procedures applicable to Provider as more fully set forth in the
 Provider Manual.
-## 22
+22
 WA & Facility Agreement v4
 Revised
 
@@ -1198,7 +1175,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 23 ---
 
 ## 6.10
 Non-Discrimination Against Participating Providers. Neither
@@ -1246,7 +1223,7 @@ which Provider, or a member of Provider's immediate family, has a financial rela
 Cooperation upon Transfers of Members. Provider agrees to fully cooperate with
 ## 6.16
 and with providers of other health plans in connection with any transition of
-## 23
+23
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1256,7 +1233,7 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 24 ---
 
 care of a Covered Person to another provider so as to assure maximum health outcomes for any
 such Covered Person.
@@ -1302,7 +1279,7 @@ only delegate activities or functions to a provider, related entity, contractor,
 manner consistent with the requirements set forth in 42 C.F.R. $422.504(i)(4). In accordance
 with 42 C.F.R. 422.504(i), shall oversee and be ultimately responsible to CMS
 for all responsibilities described in this Agreement.
-## 24
+24
 WA & Facility Agreement v4
 Revised
 
@@ -1311,7 +1288,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 25 ---
 
 ## 6.20
 Laboratory Compliance. Provider shall comply with all requirements of the
@@ -1357,7 +1334,7 @@ carry out their authorized duties, reviews, audits, administrative, civil and/or
 investigations and/or prosecutions. Provider shall cooperate fully in any audit, investigation or
 review by Agency, MPI, MFCU, or other state or federal entity and in any
 subsequent legal action that may result from such an audit, investigation or review involving this
-## 25
+25
 Snoquaimic
 WA & Facility Agreement v4
 Revised
@@ -1367,11 +1344,7 @@ Revised
 
 
 
---- Batch 6 ---
-
-
-
---- Page 1 ---
+--- Page 26 ---
 
 Agreement, including promptly supplying all data and information requested for such
 investigation; provided that nothing in this section shall be construed to limit a Provider's right
@@ -1418,7 +1391,7 @@ Monitoring. Provider agrees to monitoring Provider's
 performance on an ongoing basis and subject to formal review, which review shall be accordance
 with a periodic schedule established by HCA consistent with industry standards and Regulatory
 Requirements. Formal review must be completed no less than once every three years and must
-## 26
+26
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1428,7 +1401,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 27 ---
 
 identify deficiencies or areas for improvement and provide for corrective action in accordance
 with 42 CFR 438.230(b).
@@ -1461,8 +1434,7 @@ the Program did not exist.
 Program Integrity Requirements. Provider shall comply with
 HCA approved Program Integrity policies and procedures and the Program Integrity
 requirements of the Program Contract, including but not limited to compliance with Section
-## 1902
-(a)(68) of the Social Security Act, 42 C.F.R. § 438.610, 42 C.F.R. 455, 42 C.F.R. §1000
+1902(a)(68) of the Social Security Act, 42 C.F.R. § 438.610, 42 C.F.R. 455, 42 C.F.R. §1000
 through 1008 and Chapter 182-502A WAC.
 If Provider is defined as a subcontractor under the Program Contract, Provider shall verify that
 services billed by Provider were actually provided to Covered Persons and shall conduct
@@ -1474,7 +1446,7 @@ treatment from Covered Persons, or persons authorized to consent on behalf of a 
 Person, and shall comply with the provisions of the Natural Death Act (RCW 70.122) and state
 and federal Medicaid rules concerning advance directives, and, when appropriate, inform
 Covered Persons of their right to make anatomical gifts.
-## 27
+27
 Snoqualmic
 WA & Facility Agreement V4
 Revised
@@ -1484,7 +1456,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 28 ---
 
 ## 6.36
 Coordination of Care. If Provider is a PCP, then Provider shall, in consultation
@@ -1531,7 +1503,7 @@ any government entity, including, but not limited to, all claims or Provider hav
 or may have against any entity that directly or indirectly receives funds under the Program
 Contract including, but not limited to, any health care provider, manufacturer, wholesale or retail
 supplier, sales representative, laboratory, or other provider in the design, manufacture,
-## 28
+28
 WA & Facility Agreement v4
 Revised
 
@@ -1540,7 +1512,7 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 29 ---
 
 marketing, pricing, or quality of drugs, pharmaceuticals, medical supplies, medical devices,
 durable medical equipment, or other health care related products or services.
@@ -1570,8 +1542,7 @@ reserves the right to assess Provider for any penalties resulting from Provider'
 submission of false data.
 (3) Risk Adjustment Data. Provider's Risk Adjustment Data shall
 include all information necessary for to submit such data to CMS as set forth in
-## 42
-CFR § 422.310 or any subsequent or additional regulatory provisions. If Provider fails to
+42 CFR § 422.310 or any subsequent or additional regulatory provisions. If Provider fails to
 submit his/her/its Risk Adjustment Data accurately, completely and truthfully, in the format
 described in the 42 CFR § 422.310 or any subsequent or additional regulatory provisions, then
 this will result in denials and/or delays in payment of Provider's claims.
@@ -1582,7 +1553,7 @@ of every fiscal year or as required by CMS while Provider participates in the
 Medicare program pursuant to the Agreement, Provider agrees to provide with
 Risk Adjustment Data that is true, complete and correct, in a format that
 specifies.
-## 29
+29
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1592,7 +1563,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 30 ---
 
 (c) Medicare Non-Covered Services. Notwithstanding any other provision in
 this Agreement applicable to non-Covered Services, Provider is not prohibited from the
@@ -1636,7 +1607,7 @@ claim payment. An emergency fill is only applicable when:
 The dispensing pharmacy cannot reach prior
 authorization department by phone as it is outside of that department's
 business hours; or
-## 30
+30
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1646,11 +1617,7 @@ Revised
 
 
 
---- Batch 7 ---
-
-
-
---- Page 1 ---
+--- Page 31 ---
 
 (2) is available to respond to phone calls from a
 dispensing pharmacy regarding a covered benefit, but
@@ -1694,7 +1661,7 @@ Requirements, and shall assume the cost associated therewith. Following a Covere
 request for record transfer, Provider shall use best efforts to transfer such Covered Person's
 medical records in Provider's custody within ten (10) days following the request, or such other
 time period required under applicable Regulatory Requirements.
-## 31
+31
 S
 WA & Facility Agreement v4
 Revised
@@ -1704,7 +1671,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 32 ---
 
 # ARTICLE VIII
 COMPLAINT/DISPUTE RESOLUTION
@@ -1744,7 +1711,7 @@ grievance procedures established for Covered Persons.
 (3) must allow not less than thirty (30) days after the action
 giving rise to a dispute for providers to complain and initiate the dispute resolution process.
 (4) may not require alternative dispute resolution to the
-## 32
+32
 WA & Facility Agreement v4
 Revised
 
@@ -1753,7 +1720,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 33 ---
 
 exclusion of judicial remedies; however, may require alternative dispute
 resolution prior to judicial remedies.
@@ -1796,7 +1763,7 @@ written notice to Provider notifying Provider of such termination.
 (b) Automatic Termination. This Agreement shall automatically and
 immediately terminate upon the expiration, surrender, revocation, restriction or suspension of
 any professional license required for Provider to perform the services contemplated hereunder or
-## 33
+33
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1806,7 +1773,7 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 34 ---
 
 Provider's participation in any applicable Program. In addition, if Provider is terminated, barred,
 suspended or otherwise excluded from participation in, or has voluntarily withdrawn as the result
@@ -1848,7 +1815,7 @@ medical competence or professional behavior), Provider shall continue to furnish
 Services to all Medicare Covered Persons hospitalized as of the date of such termination up
 through the discharge of such Covered Persons. shall pay Provider for such
 Covered Services in accordance with the terms of Attachment A - Medicare. In addition,
-## 34
+34
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1858,7 +1825,7 @@ Revised
 
 
 
---- Page 5 ---
+--- Page 35 ---
 
 Provider agrees that in the event of insolvency, termination of the CMS
 contract or other cessation of operations, Covered Services to Covered Persons will continue
@@ -1898,7 +1865,7 @@ evidence such an addition or deletion; it being agreed that written notice by Pr
 shall be sufficient. To the extent that Provider desires to operate under a new
 d/b/a name (or operating location), any addition of a d/b/a name (or operating location) shall not
 be effective until such entity is credentialed in accordance with requirements.
-## 35
+35
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1908,11 +1875,7 @@ Revised
 
 
 
---- Batch 8 ---
-
-
-
---- Page 1 ---
+--- Page 36 ---
 
 ## 10.2
 Non-Exclusivity; Volume. This Agreement shall not, nor shall it be construed to,
@@ -1955,7 +1918,7 @@ otherwise.
 (d) Provider agrees to indemnify and hold harmless HCA and its employees
 against all injuries, deaths, losses, damages, claims, suits, liabilities, judgments, costs and
 expenses which may in any manner accrue against HCA or its employees through the intentional
-## 36
+36
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -1965,7 +1928,7 @@ Revised
 
 
 
---- Page 2 ---
+--- Page 37 ---
 
 misconduct, negligence, or omission of the Provider, its agents, officers, employees or
 contractors.
@@ -2008,7 +1971,7 @@ Agreement.
 Captions. The section headings in this Agreement are for convenience of
 reference only, shall not define or limit the provisions hereof, and shall have no legal effect
 whatsoever.
-## 37
+37
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -2018,7 +1981,7 @@ Revised
 
 
 
---- Page 3 ---
+--- Page 38 ---
 
 ## 10.12
 Coordination of Defense of Claims. The parties hereto shall make all reasonable
@@ -2044,7 +2007,7 @@ is subject to regulation by state and federal governmental authorities. In the e
 of any such governmental authority impairs, limits, or delays either party's performance of any
 obligation hereunder, that party shall be excused from such performance, and party's failure to
 perform such obligation for such reason shall not constitute a breach of this Agreement.
-## 38
+38
 Snoqualmic
 WA & Facility Agreement v4
 Revised
@@ -2054,31 +2017,27 @@ Revised
 
 
 
---- Page 4 ---
+--- Page 39 ---
 
 
 
---- Page 4 (OCR) ---
-
-
-
-
-
---- Page 5 ---
-
-
-
---- Page 5 (OCR) ---
+--- Page 39 (OCR) ---
 
 
 
 
 
---- Batch 9 ---
+--- Page 40 ---
 
 
 
---- Page 1 ---
+--- Page 40 (OCR) ---
+
+
+
+
+
+--- Page 41 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District 3 of
@@ -2095,22 +2054,19 @@ Provider Manual in an amount equal to the lesser of Eligible Charges or the
 amounts shown below unless otherwise specified.
 # Section I: Inpatient Facility Services
 Service Description Billing Code Rate Method
-## 106
-% of the
+106% of the
 Inpatient Facility Applicable Inpatient Washington Medicaid
 Per Service
 Services Revenue Codes
 Rates
 # Section II: Outpatient Facility Services
 Service Description Billing Code Rate Method
-## 106
-% of the
+106% of the
 Outpatient Facility Applicable Revenue Codes Washington Medicaid
 Per Service
 Services with CPT/HCPCS Code
 Rates
-## 1
-. Inpatient Facility Services and Outpatient Facility Services are payable based on the
+1. Inpatient Facility Services and Outpatient Facility Services are payable based on the
 Washington Medicaid (" rates applicable to Provider as
 published by Washington Department of Social and Health Services ("DSHS").
 shall update the rates no more than sixty (60) days
@@ -2118,8 +2074,7 @@ from the date of receipt of notice of final changes to Provider's rates or on th
 date of such changes, whichever is later. Such changes will be applied on a prospective
 basis. will not be responsible for interest payments that are the result of
 late notification to of changes.
-## 2
-. Provider shall give notice to in writing regarding changes in Provider's
+2. Provider shall give notice to in writing regarding changes in Provider's
 Charge Master within 30 (thirty) days of any adjustments to the charge amounts set
 CRS_ District 3 of District #4, WA/ Hospital District No.1WA
 Services
@@ -2130,7 +2085,7 @@ Rev.
 
 
 
---- Page 2 ---
+--- Page 42 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2140,11 +2095,9 @@ Hospital District No.1
 forth in the Provider's Charge Master for a Covered Service set forth above for which
 Provider's reimbursement hereunder is based on a percentage of Eligible Charges.
 # Section III: Notes
-## 1
-. All services billed by Provider will be submitted on CMS - 1450 (or its successor) forms
+1. All services billed by Provider will be submitted on CMS - 1450 (or its successor) forms
 or corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2155,10 +2108,8 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section IV: Exclusions
-## 1
-. Payments are for facility services only; professional services are excluded.
-## 2
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Payments are for facility services only; professional services are excluded.
+2. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable, In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable State Rate/Fee Schedule, has a zero dollar amount listed, or
@@ -2173,7 +2124,7 @@ Rev.
 
 
 
---- Page 3 ---
+--- Page 43 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District 3 of
@@ -2191,20 +2142,17 @@ amounts shown below unless otherwise specified.
 # Section I: Fee Schedule Reimbursement
 Service Description Billing Code
 Rate Method
-## 106
-% of Washington
+106 % of Washington
 Evaluation and Applicable CPT/HCPCS
 State Medicaid Fee Per Service
 Management Code
 Schedule
-## 106
-% of Washington
+106 % of Washington
 Applicable CPT/HCPCS
 Professional Services State Medicaid Fee Per Service
 Code
 Schedule
-## 1
-. Payments specified as Washington State Medicaid Fee Schedule refer to the applicable
+1. Payments specified as Washington State Medicaid Fee Schedule refer to the applicable
 Washington State Medicaid Fee Schedule in effect as of the date of service for the
 market(s) and program(s) covered by the Agreement at the time the Covered Service is
 initiated to the Covered Persons. will update the Fee Schedule no more
@@ -2213,11 +2161,9 @@ date of such changes, whichever is later. Fee Schedule changes will be applied o
 prospective basis. will not be responsible for interest payments that are the
 result of late notification to of Fee Schedule changes.
 All appropriate modifiers must be used in accordance with standard billing guidelines, if
-## 2
-.
+2.
 applicable.
-## 3
-. Allied Health professionals are reimbursed in accordance with the applicable
+3. Allied Health professionals are reimbursed in accordance with the applicable
 methodology for the above referenced fee schedule. If fee schedule is
 proprietary fee schedule, the applicable state methodology on which such fee schedule
 is based on shall be used to determine the appropriate level of reimbursement.
@@ -2230,7 +2176,7 @@ Rev.
 
 
 
---- Page 4 ---
+--- Page 44 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2238,11 +2184,9 @@ District 3 of
 District #4, WA
 Hospital District No.1
 # Section II: Notes
-## 1
-. All services billed by Provider will be submitted on CMS-1500 (or its successor) forms or
+1. All services billed by Provider will be submitted on CMS-1500 (or its successor) forms or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions and
 requirements: Covered Person program eligibility, provider program eligibility, benefit
@@ -2253,8 +2197,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 coordination of benefits. will not reimburse provider for services or items the
 provider receives and/or provides free of charge.
 # Section III: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a Covered
 Service for a payable code does not have a published dollar amount on the then current
 applicable State Fee Schedule, has a zero dollar amount listed, or requires manual pricing,
@@ -2269,7 +2212,7 @@ Rev.
 
 
 
---- Page 5 ---
+--- Page 45 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District #4, WA
@@ -2287,12 +2230,10 @@ Rate Method
 Eligible Inpatient Facility Applicable Revenue 100 % CMS Critical
 Per Service
 Services Codes Access Hospital Rates
-## 1
-. Inpatient Facility Services are based on the applicable CMS Rates
+1. Inpatient Facility Services are based on the applicable CMS Rates
 as defined by the Provider's Fiscal Intermediary Rate Letter in effect as of the date of
 discharge.
-## 2
-. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
+2. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
 the applicable Medicare allowable amount otherwise payable by CMS for the market(s),
 program(s) and related items and services covered by the Agreement net of applicable
 member cost sharing. In the event CMS reduces compensation to as a result
@@ -2307,19 +2248,14 @@ changes will be applied on a prospective basis. will not be responsible for
 interest payments that are the result of late notification to of CMS Fee
 Schedule(s), Rates and/or CMS methodology changes.
 Provider must submit a copy of their most current Fiscal Intermediary Rate Letter within
-## 3
-.
+3.
 sixty (60) days upon of receipt, or the above percentage shall be reduced by no more
 than five percent (5%).
 MCR WA Services
 
 
 
---- Batch 10 ---
-
-
-
---- Page 1 ---
+--- Page 46 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2329,19 +2265,16 @@ Service Description Billing Code
 Rate Method
 Applicable Revenue
 Eligible Outpatient Facility
-## 100
-% CMS Critical
+100 % CMS Critical
 Codes with applicable
 Per Service
 Services
 Access Hospital Rates
 CPT/HCPCS Codes
-## 1
-. Outpatient Facility Services are based on the applicable CMS
+1. Outpatient Facility Services are based on the applicable CMS
 Rates as defined by the Provider's Fiscal Intermediary Rate Letter in effect as of the date
 of discharge.
-## 2
-. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
+2. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
 the applicable Medicare allowable amount otherwise payable by CMS for the market(s),
 program(s) and related Items and services covered by the Agreement net of applicable
 member cost sharing. In the event CMS reduces compensation to as a result
@@ -2355,16 +2288,13 @@ changes, whichever is later. CMS Fee Schedule(s), Rates and/or CMS methodology
 changes will be applied on a prospective basis. will not be responsible for
 interest payments that are the result of late notification to of CMS Fee
 Schedule(s), Rates and/or CMS methodology changes.
-## 3
-. Provider must submit a copy of their most current Fiscal Intermediary Rate Letter within
+3. Provider must submit a copy of their most current Fiscal Intermediary Rate Letter within
 sixty (60) days upon of receipt, or the above percentage shall be reduced by no more
 than five percent (5%).
 # Section III: Notes
-## 1
-. All services billed by Provider will be submitted on CMS - 1450(or its successor) forms or
+1. All services billed by Provider will be submitted on CMS - 1450(or its successor) forms or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2375,7 +2305,7 @@ MCR WA Services
 
 
 
---- Page 2 ---
+--- Page 47 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District #4, WA
@@ -2383,10 +2313,8 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section IV: Exclusions
-## 1
-. Payments are for facility services only; professional services of physicians are excluded.
-## 2
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Payments are for facility services only; professional services of physicians are excluded.
+2. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable CMS Rate/Fee Schedule, has a zero dollar amount listed, or
@@ -2396,7 +2324,7 @@ MCR WA Services
 
 
 
---- Page 3 ---
+--- Page 48 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2415,16 +2343,14 @@ Service Description
 Billing Code
 Rate
 Method
-## 100
-%
+100 %
 Applicable
 Professional Services
 of CMS Physician
 Per Service
 CPT/HCPCS code
 Fee Schedule
-## 45
-%
+45 %
 Applicable
 Clinical Laboratory Services
 of CMS Clinical Laboratory
@@ -2432,8 +2358,7 @@ Per Service
 CPT/HCPCS code
 Fee Schedule
 Durable Medical Equipment,
-## 65
-%
+65 %
 Applicable
 Prosthetics, Orthotics and
 of CMS DMEPOS
@@ -2441,8 +2366,7 @@ Per Service
 CPT/HCPCS code
 Supplies (DMEPOS)
 Fee Schedule
-## 100
-%
+100 %
 Applicable
 of Medicare Part B Drug
 Drugs & Biologicals
@@ -2451,8 +2375,7 @@ Per Service
 Average Sales Price ("ASP")
 code
 Fee Schedule
-## 1
-. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
+1. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
 the applicable Medicare allowable amount otherwise payable by CMS for the market(s),
 program(s) and related items and services covered by the Agreement net of applicable
 member cost sharing. In the event CMS reduces compensation to as a result
@@ -2468,26 +2391,22 @@ MC WA Primary Care Physician and Services
 
 
 
---- Page 4 ---
+--- Page 49 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District #4, WA
 interest payments that are the result of late notification to of CMS Fee
 Schedule(s), Rates and/or CMS methodology changes.
-## 2
-. Each drug/product must be billed using the standard CPT/HCPCS code, National Drug
+2. Each drug/product must be billed using the standard CPT/HCPCS code, National Drug
 Code (NDC) number of the covered medication, description of product, dosage and units
 administered. Drugs are priced using CPT/HCPCS codes and reimbursed from the
 contracted fee schedule.
-## 3
-. All appropriate modifiers must be used in accordance with standard billing guidelines, if
+3. All appropriate modifiers must be used in accordance with standard billing guidelines, if
 applicable.
 # Section II: Notes
-## 1
-. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
+1. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2498,8 +2417,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section III: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable CMS Fee Schedule, has a zero dollar amount listed, or requires
@@ -2509,7 +2427,7 @@ MC WA Primary Care Physician and Services
 
 
 
---- Page 5 ---
+--- Page 50 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2528,8 +2446,7 @@ Service Description Billing Code
 Rate
 Method
 Applicable Revenue
-## 100
-%
+100 %
 All Outpatient Covered
 Code with applicable
 of National Encounter
@@ -2537,16 +2454,14 @@ Per Visit
 Services
 CPT/HCPCS Code
 Rate
-## 1
-. Payments specified as "National Encounter Rate" refer to the CMS National Per
+1. Payments specified as "National Encounter Rate" refer to the CMS National Per
 Visit Limit rate for RHC's, in effect as of the date of service for the market(s) and
 program(s), covered by the Agreement at the time the Covered Service is initiated to the
 Covered Person. This rate is all inclusive of professional, technical and facility charges
 including evaluation and management, routine surgical and therapeutic procedures, and
 diagnostic testing (including laboratory and radiology) capable of being performed on
 site.
-## 2
-. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
+2. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
 the applicable Medicare allowable amount otherwise payable by CMS for the market(s),
 program(s) and related items and services covered by the Agreement net of applicable
 member cost sharing. In the event CMS reduces compensation to as a result
@@ -2562,22 +2477,16 @@ MC WA
 
 
 
---- Batch 11 ---
-
-
-
---- Page 1 ---
+--- Page 51 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
 District #4, WA
 interest payments that are the result of late notification to of CMS Fee
 Schedule(s), Rates and/or CMS methodology changes.
-## 3
-. Provider must specify all services rendered during encounter, and all services rendered
+3. Provider must specify all services rendered during encounter, and all services rendered
 will be reimbursed under the all-inclusive Per Visit rate.
-## 4
-. Laboratory, radiology and medications administered are not reimbursed separately. To
+4. Laboratory, radiology and medications administered are not reimbursed separately. To
 the extent that the provider has the capabilities to provide these services and has
 historically provided these services, the shall continue to provide such services.
 The bundling of therapeutic and diagnostic testing ("ancillary") services into the per visit
@@ -2585,15 +2494,12 @@ rate is not meant to imply that the shall vend or refer out such ancillary servi
 other network providers merely for the purpose of maximizing
 reimbursement. reserves the right to audit historical charging patterns to
 ensure that this is observed.
-## 5
-. All appropriate modifiers must be used in accordance with standard billing guidelines, if
+5. All appropriate modifiers must be used in accordance with standard billing guidelines, if
 applicable.
 # Section II: Notes
-## 1
-. All services billed by Provider will be submitted on a CMS - 1450 (or its successor) form
+1. All services billed by Provider will be submitted on a CMS - 1450 (or its successor) form
 or corresponding electronic format
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2604,8 +2510,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section III: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable CMS Fee Schedule, has a zero dollar amount listed, or requires
@@ -2615,7 +2520,7 @@ MC WA
 
 
 
---- Page 2 ---
+--- Page 52 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2632,16 +2537,14 @@ amounts shown below unless otherwise specified.
 # Section I: Reimbursement
 Service Description Billing Code
 Rate Method
-## 100
-%
+100 %
 Applicable
 Professional Services
 of CMS Physician
 Per Service
 CPT/HCPCS code
 Fee Schedule
-## 45
-%
+45 %
 Applicable
 Clinical Laboratory Services
 of CMS Clinical Laboratory
@@ -2649,8 +2552,7 @@ Per Service
 CPT/HCPCS code
 Fee Schedule
 Durable Medical Equipment,
-## 65
-%
+65 %
 Applicable
 Prosthetics, Orthotics and
 of CMS DMEPOS
@@ -2658,8 +2560,7 @@ Per Service
 CPT/HCPCS code
 Supplies (DMEPOS)
 Fee Schedule
-## 100
-%
+100 %
 Applicable
 of Medicare Part B Drug
 Drugs & Biologicals
@@ -2668,8 +2569,7 @@ Per Service
 Average Sales Price ("ASP")
 code
 Fee Schedule
-## 1
-. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
+1. Payments specified as CMS Fee Schedule(s), Rates and/or CMS methodologies refer to
 the applicable Medicare allowable amount otherwise payable by CMS for the market(s),
 program(s) and related items and services covered by the Agreement net of applicable
 member cost sharing. In the event CMS reduces compensation to as a result
@@ -2685,26 +2585,22 @@ MC WA Specialists and Services
 
 
 
---- Page 3 ---
+--- Page 53 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District #4, WA
 interest payments that are the result of late notification to of CMS Fee
 Schedule(s), Rates and/or CMS methodology changes.
-## 2
-. Each drug/product must be billed using the standard CPT/HCPCS code, National Drug
+2. Each drug/product must be billed using the standard CPT/HCPCS code, National Drug
 Code (NDC) number of the covered medication, description of product, dosage and units
 administered. Drugs are priced using CPT/HCPCS codes and reimbursed from the
 contracted fee schedule.
-## 3
-. All appropriate modifiers must be used in accordance with standard billing guidelines, if
+3. All appropriate modifiers must be used in accordance with standard billing guidelines, if
 applicable.
 # Section II: Notes
-## 1
-. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
+1. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2715,8 +2611,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section III: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable CMS Fee Schedule, has a zero dollar amount listed, or requires
@@ -2726,7 +2621,7 @@ MC WA Specialists and Services
 
 
 
---- Page 4 ---
+--- Page 54 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2747,24 +2642,21 @@ amounts shown below unless otherwise specified.
 Service Description Billing Code
 Rate
 Method
-## 106
-% of Washington
+106 % of Washington
 Evaluation and Applicable CPT/HCPCS
 State Medicaid Fee
 Per Service
 Management
 Code
 Schedule
-## 106
-% of Washington
+106 % of Washington
 Applicable CPT/HCPCS
 Professional Services
 State Medicaid Fee
 Per Service
 Code
 Schedule
-## 1
-. Payments specified as Washington State Medicaid Fee Schedule refer to the applicable
+1. Payments specified as Washington State Medicaid Fee Schedule refer to the applicable
 Washington State Medicaid Fee Schedule in effect as of the date of service for the
 market(s) and program(s) covered by the Agreement at the time the Covered Service is
 initiated to the Covered Persons. will update the Fee Schedule no more
@@ -2772,11 +2664,9 @@ than sixty (60) days from the date of receipt of notice of final changes or on t
 date of such changes, whichever is later. Fee Schedule changes will be applied on a
 prospective basis. will not be responsible for interest payments that are the
 result of late notification to of Fee Schedule changes.
-## 2
-. All appropriate modifiers must be used in accordance with standard billing guidelines, if
+2. All appropriate modifiers must be used in accordance with standard billing guidelines, if
 applicable.
-## 3
-. Allied Health professionals are reimbursed in accordance with the applicable
+3. Allied Health professionals are reimbursed in accordance with the applicable
 methodology for the above referenced fee schedule. If fee schedule is
 proprietary fee schedule, the applicable state methodology on which such fee schedule
 is based on shall be used to determine the appropriate level of reimbursement.
@@ -2789,7 +2679,7 @@ Rev.
 
 
 
---- Page 5 ---
+--- Page 55 ---
 
 Name According to W-9 Form, with d/b/a:
 Federal Tax Identification Number:
@@ -2805,16 +2695,13 @@ MEDICAL CARE MANAGEMENT
 Product
 Rate PM/PM
 Medicaid $3.00 PMPM
-## 1
-. Such payment shall be made monthly on or before the 20th of the month following the
+1. Such payment shall be made monthly on or before the 20th of the month following the
 calculation of membership. shall provide a listing of all members which the
 monthly medical care management reimbursement is based upon.
 # Section III: Notes
-## 1
-. All services billed by Provider will be submitted on CMS-1500 (or its successor) forms or
+1. All services billed by Provider will be submitted on CMS-1500 (or its successor) forms or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions and
 requirements: Covered Person program eligibility, provider program eligibility, benefit
@@ -2825,8 +2712,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 coordination of benefits. will not reimburse provider for services or items the
 provider receives and/or provides free of charge.
 # Section IV: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a Covered
 Service for a payable code does not have a published dollar amount on the then current
 applicable State Fee Schedule, has a zero dollar amount listed, or requires manual pricing,
@@ -2841,11 +2727,7 @@ Rev.
 
 
 
---- Batch 12 ---
-
-
-
---- Page 1 ---
+--- Page 56 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District 3 of
@@ -2863,16 +2745,14 @@ amounts shown below unless otherwise specified.
 # Section I: Fee Reimbursement
 Service Description Billing Code
 Rate Method
-## 106
-%
+106%
 Applicable CPT/HCPCS
 Professional Services
 of the Washington State
 Per Service
 Codes
 Medicaid Fee Schedule
-## 1
-. Payments specified as "Washington State Medicaid Fee Schedule" refer to the
+1. Payments specified as "Washington State Medicaid Fee Schedule" refer to the
 applicable Washington State Medicaid Fee Schedule in effect as of the date of service
 for the market(s) and program(s) covered by the Agreement at the time the Covered
 Service is initiated to the Covered Persons. will update the Fee Schedule no
@@ -2880,8 +2760,7 @@ more than sixty (60) days from the date of receipt of notice of final changes or
 effective date of such changes, whichever is later. Fee Schedule changes will be applied
 on a prospective basis. will not be responsible for interest payments that
 are the result of late notification to of Fee Schedule changes.
-## 2
-. All appropriate modifiers must be used in accordance with standard billing guidelines, if
+2. All appropriate modifiers must be used in accordance with standard billing guidelines, if
 applicable.
 # Section II: Medical Care Management Reimbursement effective upon the Arrangement
 Effective Date set forth in the Attachment A-2 to the Agreement through
@@ -2897,7 +2776,7 @@ Rev.
 
 
 
---- Page 2 ---
+--- Page 57 ---
 
 Name According to W-9 Form, with d/b/a: Federal Tax Identification Number:
 District 3 of
@@ -2907,16 +2786,13 @@ MEDICAL CARE MANAGEMENT
 Product
 Rate PM/PM
 Medicaid $3.00 PMPM
-## 1
-. Such payment shall be made monthly on or before the 20th of the month following the
+1. Such payment shall be made monthly on or before the 20th of the month following the
 calculation of membership. shall provide a listing of all members which the
 monthly medical care management reimbursement is based upon.
 # Section III: Notes
-## 1
-. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
+1. All services billed by Provider will be submitted on a CMS 1500 (or its successor) form or
 corresponding electronic format.
-## 2
-. Eligible Charges are those charges billed by the Provider subject to conditions and
+2. Eligible Charges are those charges billed by the Provider subject to conditions and
 requirements which make the service eligible for reimbursement. Eligibility for
 reimbursement of the service is dependent upon application of the following conditions
 and requirements: Covered Person program eligibility, provider program eligibility,
@@ -2927,8 +2803,7 @@ contracted/negotiated rate after application of coinsurance, co-payments, deduct
 and coordination of benefits. will not reimburse provider for services or
 items the provider receives and/or provides free of charge.
 # Section IV: Exclusions
-## 1
-. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
+1. Any services not specified in this Attachment A or in the referenced Fee Schedule(s)
 according to the reimbursement table above are not reimbursable. In the event a
 Covered Service for a payable code does not have a published dollar amount on the
 then current applicable State Fee Schedule, has a zero dollar amount listed, or requires
@@ -2943,7 +2818,7 @@ Rev.
 
 
 
---- Page 3 ---
+--- Page 58 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -2980,8 +2855,7 @@ of inclusion in the calculation of Total Premium.
 Member: A Covered Person, as defined in the Agreement, that is assigned to Provider or
 Provider's PCPs for purposes of the Arrangement.
 Attachment A-2 Medicaid Shared Savings Arrangement = WA (EXISTING GROUPS)
-## 10
-/2015
+10/2015
 Page I of 15
 
 |  |  |  |
@@ -2989,7 +2863,7 @@ Page I of 15
 
 
 
---- Page 4 ---
+--- Page 59 ---
 
 PROVIDER NAME: FEDERAL TAX ID NUMBER:
 Hospital District No. 1
@@ -3031,15 +2905,14 @@ Plus the Stop-Loss Expense
 Minus the Stop-Loss Credits
 S c
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
-## 10
-/2015 Page 2 of 15
+10/2015 Page 2 of 15
 
 |  |  |
 | --- | --- |
 
 
 
---- Page 5 ---
+--- Page 60 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3071,11 +2944,9 @@ Exhibit 4 and made a part hereof.
 This Attachment A-2 shall become effective following written notice from of
 Provider's satisfaction of all of the requirements set forth in subsections (a) - (c) above, and shall
 be made effective as of the date specified in such written notice, which shall be the later of: the
-## 1
-st day of the calendar quarter following satisfaction of all of the requirements set forth in
+1st day of the calendar quarter following satisfaction of all of the requirements set forth in
 subsections (a) - (c) above, or, if this Agreement requires approval by an applicable Agency, the
-## 1
-st day of the calendar quarter following receipt of such approval by whichever is
+1st day of the calendar quarter following receipt of such approval by whichever is
 later. Provider acknowledges that the requirements referenced in subsections (a) and (b) above
 are ongoing requirements, and that retains the right to monitor and enforce
 Provider's compliance with such requirements throughout the term of this Agreement, and to
@@ -3084,8 +2955,7 @@ Prior to the Arrangement Effective Date, Provider's sole compensation under the 
 shall be in accordance with the Attachment A-1,
 Snoqualmic
 Attachment A-2 Medicaid Shared Savings WA (EXISTING GROUPS)
-## 10
-/2015
+10/2015
 Page 3 of 15
 
 |  |  |
@@ -3093,11 +2963,7 @@ Page 3 of 15
 
 
 
---- Batch 13 ---
-
-
-
---- Page 1 ---
+--- Page 61 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3133,8 +2999,7 @@ regarding the distribution of any amounts paid under the Arrangement to any of
 the three (3) entities. District 3 of shall manage the participation
 of Hospital District No. 1, District 3 of and
 District #4, WA under a single Arrangement and District
-## 3
-of will be solely responsible for the distribution of any shared savings surplus
+3 of will be solely responsible for the distribution of any shared savings surplus
 funds between Hospital District No. 1, District 3 of
 and District #4, WA in accordance with a separate
 agreement between Hospital District No. 1, District 3 of
@@ -3144,15 +3009,14 @@ requirements of 42 CFR 42 C.F.R. 422.208 and 42 C.F.R. 417.122. District 3 of
 agrees to defend, indemnify and hold harmless for claims related to
 Snoqualmic
 Attachment A-2 Medicaid Shared Savings Arrangement - WA {EXISTING GROUPS}
-## 10
-/2015 Page 4 of 15
+10/2015 Page 4 of 15
 
 |  |  |
 | --- | --- |
 
 
 
---- Page 2 ---
+--- Page 62 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3183,8 +3047,7 @@ must meet or exceed the Quality Threshold Target requirements set forth in Exhib
 thereto in order to qualify for any shared savings distribution as set forth in this Attachment A-2,
 and as calculated in Exhibit 1. reserves the right to revise the Quality Threshold
 Target criteria set forth in Exhibit 3 annually in accordance with the terms of this Attachment A-
-## 2
-as a prerequisite for continued participation in the Arrangement. Provider and its Participating
+2 as a prerequisite for continued participation in the Arrangement. Provider and its Participating
 Providers shall not discriminate in the acceptance or care of any Member based on health needs
 or status. Provider and its Participating Providers may not seek to transfer a Member to a
 different provider based on the degree of utilization of medical services needed by such Member
@@ -3200,8 +3063,7 @@ to their health status, shall have the right to suspend the compensation provisi
 this Attachment A-2, and limit Provider's compensation to the reimbursement previously set
 forth on Attachment A-I hereto, and/or to deem Provider in material breach of the Agreement.
 Attachment A-2 Medicaid Shared Savings Arrangement - WA {EXISTING GROUPS)
-## 10
-/2015
+10/2015
 Page 5 of 15
 
 |  |  |  |
@@ -3209,7 +3071,7 @@ Page 5 of 15
 
 
 
---- Page 3 ---
+--- Page 63 ---
 
 PROVIDER NAME: FEDERAL TAX ID NUMBER:
 Hospital District No. 1
@@ -3241,15 +3103,14 @@ to review the data. If, after the meeting, determines that inappropriate
 Member turnover has occurred, shall terminate the Arrangement.
 Snoqualmic
 Attachment A-2 Medicaid Shared Savings Arrangement - WA {EXISTING GROUPS)
-## 10
-/2015 Page 6 of 15
+10/2015 Page 6 of 15
 
 |  |  |
 | --- | --- |
 
 
 
---- Page 4 ---
+--- Page 64 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3261,28 +3122,24 @@ Washington, Inc.
 Primary Care Physician Reimbursement
 Medicaid
 Shared Savings Arrangement Calculation
-## 1
-. Shared Savings Arrangement Calculation
+1. Shared Savings Arrangement Calculation
 A. If the Arrangement Year MLR is less than the Target MLR, the Provider is eligible to
 receive a shared savings payment.
-## 1
-) The calculation of the shared savings amount equals the Shared Savings Percentage
+1) The calculation of the shared savings amount equals the Shared Savings Percentage
 set forth in Exhibit 2 times the difference between the Target MLR and the
 Arrangement Year MLR, times the Arrangement Year Total Premium. The shared
 savings amount is subject to the limitation described immediately below in Section
 I.A.2. The calculation is: Shared Savings If {(Target MLR minus the Arrangement
 Year MLR) times the Shared Savings Percentage} times the Arrangement Year Total
 Premium}.
-## 2
-) The total incentive-based payments to the Provider from inclusive of
+2) The total incentive-based payments to the Provider from inclusive of
 payments under this Arrangement, are limited to no more than the Overall Shared
 Savings Limit percentage (as specified in Exhibit 2) of the total reimbursement the
 Provider receives from for direct services delivered to
 Members during the Arrangement Year.
 B. If the Arrangement Year MLR is more than the Target MLR, no shared savings is earned.
 The Provider is not required to pay any deficit to
-## 2
-. Interim Quarterly Reconciliations and Payments
+2. Interim Quarterly Reconciliations and Payments
 Interim quarterly reconciliations will be completed by the Interim Quarterly Reconciliation
 Timeframe specified in Exhibit 2, using the Interim Quarterly Reconciliation Claims Run-out
 Period as specified in Exhibit 2 and subject to the Interim Quarterly Reconciliation
@@ -3296,8 +3153,7 @@ Interim quarterly reconciliations will be performed on an Arrangement Year-to-da
 the Arrangement Year-to-date interim quarterly reconciliation results in an Arrangement
 Snoqualmic
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS}
-## 10
-/2015
+10/2015
 Page 7 of 15
 
 |  |  |
@@ -3305,7 +3161,7 @@ Page 7 of 15
 
 
 
---- Page 5 ---
+--- Page 65 ---
 
 PROVIDER NAME: FEDERAL TAX ID NUMBER:
 Hospital District No. 1
@@ -3318,8 +3174,7 @@ Year interim quarterly shared savings payments, and if there is a positive diffe
 amount, will be remitted. If there is a negative difference, it will carry over to the next
 interim quarterly reconciliation, or the final Arrangement Year reconciliation if no further
 interim reconciliation periods remain.
-## 3
-. Interim Final Arrangement Year Reconciliation and Payment
+3. Interim Final Arrangement Year Reconciliation and Payment
 The interim final Arrangement Year reconciliation will be completed by the Interim Final
 Arrangement Year Reconciliation Timeframe specified in Exhibit 2, using the Interim Final
 Arrangement Year Reconciliation Claims Run-out Period as specified in Exhibit 2. Any
@@ -3328,17 +3183,14 @@ will be processed and mailed by on or about the end of the Interim Final
 Arrangement Year Reconciliation Timeframe specified in Exhibit 2.
 The interim final Arrangement Year shared savings amount shall be net of all interim
 Arrangement Year distribution amounts, and will be determined in accordance with Sections
-## 3
-.A and 3.B below.
+3.A and 3.B below.
 A. If the interim final Arrangement Year reconciliation results in an earned shared
 savings payment, the amount of the earned shared savings payment (subject to section
 I.A.2. above) will be compared to all previous Arrangement Year interim quarterly
 shared savings payments:
-## 1
-) If there is a positive difference, the full amount of the difference will
+1) If there is a positive difference, the full amount of the difference will
 be remitted.
-## 2
-) If there is a negative difference (shortfall), the Provider shall repay the
+2) If there is a negative difference (shortfall), the Provider shall repay the
 total amount of the shortfall, within 60 days of notice by
 The Provider's obligation to repay will not exceed the
 amount of Arrangement Year-to-date interim payments made to the
@@ -3348,19 +3200,14 @@ shared savings payment, any Arrangement Year-to-date interim shared savings
 payments shall be paid back to by the Provider. The Provider's
 Snoqualmic
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
-## 10
-/2015 Page 8 of 15
+10/2015 Page 8 of 15
 
 |  |  |
 | --- | --- |
 
 
 
---- Batch 14 ---
-
-
-
---- Page 1 ---
+--- Page 66 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3369,8 +3216,7 @@ District 3 of
 District #4, WA
 obligation to repay will not exceed the amount of Arrangement Year-to-
 date interim shared savings payments made to the Provider.
-## 4
-. Final Arrangement Year Reconciliation and Payment
+4. Final Arrangement Year Reconciliation and Payment
 The final Arrangement Year reconciliation will be completed by the Final Arrangement Year
 Reconciliation Timeframe specified in Exhibit 2, using the Final Arrangement Year
 Reconciliation Claims Run-out Period as specified in Exhibit 2. Any final Arrangement Year
@@ -3386,10 +3232,8 @@ A. If the final Arrangement Year reconciliation results in an earned shared savi
 the amount of the earned shared savings payment (subject to Section I.A.2. above) will
 be compared to all previous Arrangement Year interim quarterly and interim final shared
 savings payments for such Arrangement Year:
-## 1
-) If there is a positive difference, the full amount of the difference will be remitted.
-## 2
-) If there is a negative difference (shortfall), the Provider shall repay the total amount
+1) If there is a positive difference, the full amount of the difference will be remitted.
+2) If there is a negative difference (shortfall), the Provider shall repay the total amount
 of the shortfall, within 60 days of notice by The Provider's obligation to
 repay will not exceed the amount of Arrangement Year-to-date interim
 payments made to the Provider.
@@ -3398,19 +3242,17 @@ payment, any Arrangement Year-to-date interim shared savings payments shall be p
 back to by the Provider. The Provider's obligation to repay will
 not exceed the amount of Arrangement Year-to-date interim shared savings payments
 made to the Provider.
-## 5
-. Dispute Resolution
+5. Dispute Resolution
 If the Provider objects in writing to an interim or final reconciliation within 30 days
 following receipt of such reconciliation report, and if the parties cannot reach agreement on
 Merton-
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
-## 10
-/2015
+10/2015
 Page 9 of 15
 
 
 
---- Page 2 ---
+--- Page 67 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3429,15 +3271,14 @@ issuance by the CPA of his/her opinion. If the Provider does not object in writi
 interim or final reconciliation within 30 days following receipt of such reconciliation report,
 the Provider shall be deemed to have accepted such reconciliation.
 Attachment A-2 Medicaid Shared Savings WA (EXISTING GROUPS)
-## 10
-/2015 Page 10 of 15
+10/2015 Page 10 of 15
 
 |  |  |  |
 | --- | --- | --- |
 
 
 
---- Page 3 ---
+--- Page 68 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3449,21 +3290,18 @@ Washington, Inc.
 Primary Care Physician Summary of Shared Savings Arrangement Terms
 Medicaid
 Membership
-## 500
-Members
+500 Members
 Threshold
 Target MLR
 Previous Arrangement
 Target MLR *
 Year Actual MLR
 = or > 89% Actual MLR minus 2% but not less than 89%
-## 82
-% - 89%
+82% - 89%
 Actual MLR
 Actual MLR plus 4% but not greater than
 V 82%
-## 82
-%
+82%
 Claims incurred from and paid through will
 determine the target for the Arrangement year plus an
 allowance for IBNR calculated consistent with annual
@@ -3472,15 +3310,12 @@ such prior calendar year. This methodology will roll forward by one
 calendar year and a 3 month claim run out for subsequent years. The
 target will be determined in early May of each year.
 Target MLR Floor
-## 5
-% Less than target MLR
+5% Less than target MLR
 Shared Savings
-## 50
-%
+50%
 Percentage
 Overall Shared
-## 25
-%
+25%
 Savings Limit
 Stop-Loss $6,000.00 per Member per Year
 Deductible
@@ -3488,8 +3323,7 @@ Stop-Loss Expense Actual total claim amounts in excess of the Stop-Loss Deductib
 the Stop-Loss Credit Percentage) for all Members for the
 calendar year immediately preceding the Arrangement Year, divided
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
-## 10
-/2015 Page 11 of IS
+10/2015 Page 11 of IS
 
 |  |  |
 | --- | --- |
@@ -3502,7 +3336,7 @@ Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
 
 
 
---- Page 4 ---
+--- Page 69 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3512,8 +3346,7 @@ District #4, WA
 by the total member months for Medicaid members for the
 calendar year immediately preceding the Arrangement Year
 Stop-Loss Credit
-## 90
-%
+90%
 Percentage
 Reconciliation
 Interim Quarterly: 3 months
@@ -3534,15 +3367,14 @@ Interim Final: 100%
 Percentage
 Final: 100%
 Attachment A-2 Medicaid Shared Savings WA (EXISTING GROUPS}
-## 10
-/2015 Page 12 of 15
+10/2015 Page 12 of 15
 
 |  |  |  |
 | --- | --- | --- |
 
 
 
---- Page 5 ---
+--- Page 70 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3557,8 +3389,7 @@ As a condition of participation in the Arrangement, Provider shall meet or excee
 Threshold Target set forth in this Exhibit 3. shall review Provider's performance
 with respect to the Quality Threshold Target set forth in this Exhibit 3 annually. This annual
 review will determine the Providers eligibility for participation in the Arrangement for that year.
-## 1
-. Quality Threshold Target
+1. Quality Threshold Target
 The Quality Threshold Target, as defined below, must be met for any combination of the 5
 measures specified below for the Arrangement Year:
 Shared
@@ -3568,37 +3399,30 @@ Savings
 Value
 Previous Year Score + 5 percentage points or
 Blood Sugar (HbA1C) poor control (CDC >9%)
-## 20
-%
+20%
 NCQA 75th Percentile
 Previous Year Score + 5 percentage points or
-## 20
-%
+20%
 Kidneys Disease Screening (CDC-NEPH) NCQA 75th Percentile
 Previous Year Score + 5 percentage points or
-## 20
-%
+20%
 Breast Cancer Screening (BCS) NCQA 75th Percentile
 Previous Year Score + 5 percentage points or
-## 20
-%
+20%
 Controlling Blood Pressure (CBP) NCQA 75th Percentile
 Previous Year Score + 5 percentage points or
-## 20
-%
+20%
 Weight Assessment Ages 18-74 (ABA) NCQA 75th Percentile
 The HEDIS Measure Targets will be the rates listed above under the Quality Threshold Target
 column. The first Previous Year for the Quality Threshold Targets will be the calendar year
-## 2016
-levels and will roll forward by one calendar year for subsequent years (e.g. 2017). The
+2016 levels and will roll forward by one calendar year for subsequent years (e.g. 2017). The
 Quality Threshold Target for any given year will be deemed to have been met if the Provider
 achieves any of the above 5 HEDIS Measures paid to the applicable 50% Shared Savings at the
 percentages listed above. If the Quality Threshold Target defined above is met, the Provider
 shall be deemed to meet the Quality Threshold Target condition set forth in Section 6 of this
 Attachment A-2.
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS)
-## 10
-/2015
+10/2015
 Page 13 of 15
 
 |  |  |  |
@@ -3606,11 +3430,7 @@ Page 13 of 15
 
 
 
---- Batch 15 ---
-
-
-
---- Page 1 ---
+--- Page 71 ---
 
 PROVIDER NAME:
 FEDERAL TAX ID NUMBER:
@@ -3627,8 +3447,7 @@ the reimbursement provisions set forth in Attachment A-2, but prior to
 conversion of Provider's compensation to the terms of such Attachment A-2, a senior officer of
 Provider (President, CEO or CFO), with authority to issue a certification on behalf of Provider.
 shall execute and deliver to the written notice and certification as set forth below:
-## 1
-.
+1.
 certify that Hospital District No. 1,
 ,
 District 3 of and District #4, WA
@@ -3653,19 +3472,18 @@ the Provider in material breach of the Agreement.
 PROVIDER:
 Hospital District No. I
 Attachment A-2 Medicaid Shared Savings Arrangement - WA (EXISTING GROUPS}
-## 10
-/2015 Page 14 of 15
+10/2015 Page 14 of 15
 
 |  |  |  |
 | --- | --- | --- |
 
 
 
---- Page 2 ---
+--- Page 72 ---
 
 
 
---- Page 2 (OCR) ---
+--- Page 72 (OCR) ---
 
 
 

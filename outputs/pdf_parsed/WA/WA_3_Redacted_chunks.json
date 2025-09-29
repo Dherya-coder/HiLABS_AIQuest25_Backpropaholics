@@ -604,23 +604,13 @@
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3",
     "chunk_index": 1,
-    "content": "Dispute Resolution. Except as expressly permitted under Regulatory Requirements or regulations governing\ndispute resolution, no process for the resolution of disputes arising out of a participating provider contract\nshall be considered fair under RCW 48.43.055 unless the process meets all the provisions of WAC 284-170-",
-    "token_count": 62,
+    "content": "Dispute Resolution. Except as expressly permitted under Regulatory Requirements or regulations governing\ndispute resolution, no process for the resolution of disputes arising out of a participating provider contract\nshall be considered fair under RCW 48.43.055 unless the process meets all the provisions of WAC 284-170-\n440.",
+    "token_count": 64,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
     "chunk_id": "WA_3_Redacted_p8_c62",
-    "page_number": 8,
-    "header_path": "section:ARTICLE VII > clause:440",
-    "chunk_index": 1,
-    "content": ".",
-    "token_count": 1,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p8_c63",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3.1",
     "chunk_index": 1,
@@ -630,7 +620,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p8_c64",
+    "chunk_id": "WA_3_Redacted_p8_c63",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3.2",
     "chunk_index": 1,
@@ -640,7 +630,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p8_c65",
+    "chunk_id": "WA_3_Redacted_p8_c64",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3.3",
     "chunk_index": 1,
@@ -650,7 +640,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p8_c66",
+    "chunk_id": "WA_3_Redacted_p8_c65",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3.4",
     "chunk_index": 1,
@@ -660,7 +650,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p8_c67",
+    "chunk_id": "WA_3_Redacted_p8_c66",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.3.5",
     "chunk_index": 1,
@@ -670,7 +660,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p8_c68",
+    "chunk_id": "WA_3_Redacted_p8_c67",
     "page_number": 8,
     "header_path": "section:ARTICLE VII > clause:7.4",
     "chunk_index": 1,
@@ -680,7 +670,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c69",
+    "chunk_id": "WA_3_Redacted_p9_c68",
     "page_number": 9,
     "header_path": "section:ARTICLE VII > clause:7.4",
     "chunk_index": 1,
@@ -690,7 +680,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c70",
+    "chunk_id": "WA_3_Redacted_p9_c69",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII",
     "chunk_index": 1,
@@ -700,7 +690,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c71",
+    "chunk_id": "WA_3_Redacted_p9_c70",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.1",
     "chunk_index": 1,
@@ -710,7 +700,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c72",
+    "chunk_id": "WA_3_Redacted_p9_c71",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.2",
     "chunk_index": 1,
@@ -720,7 +710,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c73",
+    "chunk_id": "WA_3_Redacted_p9_c72",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.3",
     "chunk_index": 1,
@@ -730,7 +720,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c74",
+    "chunk_id": "WA_3_Redacted_p9_c73",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4",
     "chunk_index": 1,
@@ -740,7 +730,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c75",
+    "chunk_id": "WA_3_Redacted_p9_c74",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1",
     "chunk_index": 1,
@@ -750,7 +740,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c76",
+    "chunk_id": "WA_3_Redacted_p9_c75",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.1",
     "chunk_index": 1,
@@ -760,7 +750,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c77",
+    "chunk_id": "WA_3_Redacted_p9_c76",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.2",
     "chunk_index": 1,
@@ -770,7 +760,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c78",
+    "chunk_id": "WA_3_Redacted_p9_c77",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.3",
     "chunk_index": 1,
@@ -780,7 +770,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c79",
+    "chunk_id": "WA_3_Redacted_p9_c78",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.4",
     "chunk_index": 1,
@@ -790,7 +780,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c80",
+    "chunk_id": "WA_3_Redacted_p9_c79",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.5",
     "chunk_index": 1,
@@ -800,7 +790,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c81",
+    "chunk_id": "WA_3_Redacted_p9_c80",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.6",
     "chunk_index": 1,
@@ -810,7 +800,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c82",
+    "chunk_id": "WA_3_Redacted_p9_c81",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.7",
     "chunk_index": 1,
@@ -820,7 +810,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p9_c83",
+    "chunk_id": "WA_3_Redacted_p9_c82",
     "page_number": 9,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.8",
     "chunk_index": 1,
@@ -830,7 +820,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c84",
+    "chunk_id": "WA_3_Redacted_p10_c83",
     "page_number": 10,
     "header_path": "section:ARTICLE VIII > clause:8.4.1.8",
     "chunk_index": 1,
@@ -840,7 +830,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c85",
+    "chunk_id": "WA_3_Redacted_p10_c84",
     "page_number": 10,
     "header_path": "clause:8.4.1.9",
     "chunk_index": 1,
@@ -850,7 +840,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c86",
+    "chunk_id": "WA_3_Redacted_p10_c85",
     "page_number": 10,
     "header_path": "clause:8.4.2",
     "chunk_index": 1,
@@ -860,7 +850,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c87",
+    "chunk_id": "WA_3_Redacted_p10_c86",
     "page_number": 10,
     "header_path": "clause:8.4.2.1",
     "chunk_index": 1,
@@ -870,7 +860,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c88",
+    "chunk_id": "WA_3_Redacted_p10_c87",
     "page_number": 10,
     "header_path": "clause:8.4.2.2",
     "chunk_index": 1,
@@ -880,7 +870,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c89",
+    "chunk_id": "WA_3_Redacted_p10_c88",
     "page_number": 10,
     "header_path": "clause:8.4.2.3",
     "chunk_index": 1,
@@ -890,7 +880,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c90",
+    "chunk_id": "WA_3_Redacted_p10_c89",
     "page_number": 10,
     "header_path": "clause:8.5",
     "chunk_index": 1,
@@ -900,7 +890,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c91",
+    "chunk_id": "WA_3_Redacted_p10_c90",
     "page_number": 10,
     "header_path": "clause:8.6",
     "chunk_index": 1,
@@ -910,7 +900,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c92",
+    "chunk_id": "WA_3_Redacted_p10_c91",
     "page_number": 10,
     "header_path": "clause:8.7",
     "chunk_index": 1,
@@ -920,7 +910,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c93",
+    "chunk_id": "WA_3_Redacted_p10_c92",
     "page_number": 10,
     "header_path": "clause:8.8",
     "chunk_index": 1,
@@ -930,7 +920,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c94",
+    "chunk_id": "WA_3_Redacted_p10_c93",
     "page_number": 10,
     "header_path": "clause:8.8.1",
     "chunk_index": 1,
@@ -940,7 +930,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c95",
+    "chunk_id": "WA_3_Redacted_p10_c94",
     "page_number": 10,
     "header_path": "clause:8.8.2",
     "chunk_index": 1,
@@ -950,7 +940,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c96",
+    "chunk_id": "WA_3_Redacted_p10_c95",
     "page_number": 10,
     "header_path": "clause:8.8.3",
     "chunk_index": 1,
@@ -960,7 +950,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c97",
+    "chunk_id": "WA_3_Redacted_p10_c96",
     "page_number": 10,
     "header_path": "clause:8.8.4",
     "chunk_index": 1,
@@ -970,7 +960,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c98",
+    "chunk_id": "WA_3_Redacted_p10_c97",
     "page_number": 10,
     "header_path": "clause:8.8.5",
     "chunk_index": 1,
@@ -980,7 +970,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c99",
+    "chunk_id": "WA_3_Redacted_p10_c98",
     "page_number": 10,
     "header_path": "clause:8.8.6",
     "chunk_index": 1,
@@ -990,7 +980,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c100",
+    "chunk_id": "WA_3_Redacted_p10_c99",
     "page_number": 10,
     "header_path": "clause:8.8.7",
     "chunk_index": 1,
@@ -1000,7 +990,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c101",
+    "chunk_id": "WA_3_Redacted_p10_c100",
     "page_number": 10,
     "header_path": "clause:8.8.8",
     "chunk_index": 1,
@@ -1010,7 +1000,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p10_c102",
+    "chunk_id": "WA_3_Redacted_p10_c101",
     "page_number": 10,
     "header_path": "section:ARTICLE IX",
     "chunk_index": 1,
@@ -1020,7 +1010,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c103",
+    "chunk_id": "WA_3_Redacted_p11_c102",
     "page_number": 11,
     "header_path": "clause:9.1",
     "chunk_index": 1,
@@ -1030,7 +1020,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c104",
+    "chunk_id": "WA_3_Redacted_p11_c103",
     "page_number": 11,
     "header_path": "clause:9.1.1",
     "chunk_index": 1,
@@ -1040,7 +1030,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c105",
+    "chunk_id": "WA_3_Redacted_p11_c104",
     "page_number": 11,
     "header_path": "clause:9.1.2",
     "chunk_index": 1,
@@ -1050,7 +1040,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c106",
+    "chunk_id": "WA_3_Redacted_p11_c105",
     "page_number": 11,
     "header_path": "clause:9.1.3",
     "chunk_index": 1,
@@ -1060,7 +1050,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c107",
+    "chunk_id": "WA_3_Redacted_p11_c106",
     "page_number": 11,
     "header_path": "clause:9.2",
     "chunk_index": 1,
@@ -1070,7 +1060,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c108",
+    "chunk_id": "WA_3_Redacted_p11_c107",
     "page_number": 11,
     "header_path": "clause:9.3",
     "chunk_index": 1,
@@ -1080,7 +1070,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c109",
+    "chunk_id": "WA_3_Redacted_p11_c108",
     "page_number": 11,
     "header_path": "clause:9.3.1",
     "chunk_index": 1,
@@ -1090,7 +1080,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c110",
+    "chunk_id": "WA_3_Redacted_p11_c109",
     "page_number": 11,
     "header_path": "clause:9.3.1.1",
     "chunk_index": 1,
@@ -1100,7 +1090,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c111",
+    "chunk_id": "WA_3_Redacted_p11_c110",
     "page_number": 11,
     "header_path": "clause:9.3.1.2",
     "chunk_index": 1,
@@ -1110,7 +1100,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c112",
+    "chunk_id": "WA_3_Redacted_p11_c111",
     "page_number": 11,
     "header_path": "clause:9.3.1.3",
     "chunk_index": 1,
@@ -1120,7 +1110,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c113",
+    "chunk_id": "WA_3_Redacted_p11_c112",
     "page_number": 11,
     "header_path": "clause:9.3.1.4",
     "chunk_index": 1,
@@ -1130,7 +1120,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p11_c114",
+    "chunk_id": "WA_3_Redacted_p11_c113",
     "page_number": 11,
     "header_path": "clause:9.3.1.5",
     "chunk_index": 1,
@@ -1140,7 +1130,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c115",
+    "chunk_id": "WA_3_Redacted_p12_c114",
     "page_number": 12,
     "header_path": "clause:9.3.2",
     "chunk_index": 1,
@@ -1150,7 +1140,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c116",
+    "chunk_id": "WA_3_Redacted_p12_c115",
     "page_number": 12,
     "header_path": "clause:9.3.1",
     "chunk_index": 1,
@@ -1160,7 +1150,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c117",
+    "chunk_id": "WA_3_Redacted_p12_c116",
     "page_number": 12,
     "header_path": "clause:9.3.3",
     "chunk_index": 1,
@@ -1170,7 +1160,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c118",
+    "chunk_id": "WA_3_Redacted_p12_c117",
     "page_number": 12,
     "header_path": "clause:9.3.3.1",
     "chunk_index": 1,
@@ -1180,7 +1170,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c119",
+    "chunk_id": "WA_3_Redacted_p12_c118",
     "page_number": 12,
     "header_path": "clause:9.3.3.2",
     "chunk_index": 1,
@@ -1190,7 +1180,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c120",
+    "chunk_id": "WA_3_Redacted_p12_c119",
     "page_number": 12,
     "header_path": "clause:9.3.4",
     "chunk_index": 1,
@@ -1200,7 +1190,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c121",
+    "chunk_id": "WA_3_Redacted_p12_c120",
     "page_number": 12,
     "header_path": "clause:9.4",
     "chunk_index": 1,
@@ -1210,7 +1200,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c122",
+    "chunk_id": "WA_3_Redacted_p12_c121",
     "page_number": 12,
     "header_path": "clause:9.5",
     "chunk_index": 1,
@@ -1220,7 +1210,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c123",
+    "chunk_id": "WA_3_Redacted_p12_c122",
     "page_number": 12,
     "header_path": "clause:9.6",
     "chunk_index": 1,
@@ -1230,7 +1220,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c124",
+    "chunk_id": "WA_3_Redacted_p12_c123",
     "page_number": 12,
     "header_path": "clause:9.7",
     "chunk_index": 1,
@@ -1240,7 +1230,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p12_c125",
+    "chunk_id": "WA_3_Redacted_p12_c124",
     "page_number": 12,
     "header_path": "clause:9.7.1",
     "chunk_index": 1,
@@ -1250,7 +1240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c126",
+    "chunk_id": "WA_3_Redacted_p13_c125",
     "page_number": 13,
     "header_path": "clause:9.8",
     "chunk_index": 1,
@@ -1260,7 +1250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c127",
+    "chunk_id": "WA_3_Redacted_p13_c126",
     "page_number": 13,
     "header_path": "clause:9.9",
     "chunk_index": 1,
@@ -1270,7 +1260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c128",
+    "chunk_id": "WA_3_Redacted_p13_c127",
     "page_number": 13,
     "header_path": "clause:9.10",
     "chunk_index": 1,
@@ -1280,7 +1270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c129",
+    "chunk_id": "WA_3_Redacted_p13_c128",
     "page_number": 13,
     "header_path": "clause:9.11",
     "chunk_index": 1,
@@ -1290,7 +1280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c130",
+    "chunk_id": "WA_3_Redacted_p13_c129",
     "page_number": 13,
     "header_path": "clause:9.12",
     "chunk_index": 1,
@@ -1300,7 +1290,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c131",
+    "chunk_id": "WA_3_Redacted_p13_c130",
     "page_number": 13,
     "header_path": "clause:9.13",
     "chunk_index": 1,
@@ -1310,7 +1300,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c132",
+    "chunk_id": "WA_3_Redacted_p13_c131",
     "page_number": 13,
     "header_path": "clause:9.14",
     "chunk_index": 1,
@@ -1320,7 +1310,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c133",
+    "chunk_id": "WA_3_Redacted_p13_c132",
     "page_number": 13,
     "header_path": "clause:9.15",
     "chunk_index": 1,
@@ -1330,7 +1320,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c134",
+    "chunk_id": "WA_3_Redacted_p13_c133",
     "page_number": 13,
     "header_path": "clause:9.15.1",
     "chunk_index": 1,
@@ -1340,7 +1330,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p13_c135",
+    "chunk_id": "WA_3_Redacted_p13_c134",
     "page_number": 13,
     "header_path": "clause:9.15.2",
     "chunk_index": 1,
@@ -1350,7 +1340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p15_c136",
+    "chunk_id": "WA_3_Redacted_p15_c135",
     "page_number": 15,
     "header_path": "section:ARTICLE IX > clause:9.15.2",
     "chunk_index": 1,
@@ -1360,7 +1350,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p16_c137",
+    "chunk_id": "WA_3_Redacted_p16_c136",
     "page_number": 16,
     "header_path": "section:ARTICLE IX > clause:9.15.2",
     "chunk_index": 1,
@@ -1370,7 +1360,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p16_c138",
+    "chunk_id": "WA_3_Redacted_p16_c137",
     "page_number": 16,
     "header_path": "section:ARTICLE I",
     "chunk_index": 1,
@@ -1380,27 +1370,27 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p16_c139",
+    "chunk_id": "WA_3_Redacted_p16_c138",
     "page_number": 16,
     "header_path": "section:ARTICLE I",
     "chunk_index": 2,
-    "content": "Plan's Medicaid Program(s); health care services that HCA determines are covered for enrollees, those health care\nservices (including Behavioral Health Care Services) that a Medicaid Member is entitled to receive through\npursuant to Regulatory Requirements, and for which a PCS is attached hereto setting forth the Providers'\nreimbursement under one or more Programs. Medicaid Covered Services do not include the preventable adverse\nevents as set forth in the provider manual(s).\n\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled in Plan's Medicaid\nProgram(s).\n\"Medically Necessary/Medical Necessity\" means services that are \"medically necessary\" as is defined in WAC 182-",
-    "token_count": 148,
+    "content": "Plan's Medicaid Program(s); health care services that HCA determines are covered for enrollees, those health care\nservices (including Behavioral Health Care Services) that a Medicaid Member is entitled to receive through\npursuant to Regulatory Requirements, and for which a PCS is attached hereto setting forth the Providers'\nreimbursement under one or more Programs. Medicaid Covered Services do not include the preventable adverse\nevents as set forth in the provider manual(s).\n\"Medicaid Member\" means, for purposes of this Attachment, a Member who is enrolled in Plan's Medicaid\nProgram(s).\n\"Medically Necessary/Medical Necessity\" means services that are \"medically necessary\" as is defined in WAC 182-\n500-0070 those services, based upon generally accepted medical practices in light of the Medicaid Covered\nMember's condition at the time of treatment, that are: (i) appropriate and consistent with the diagnosis of the treating\nprovider and the omission of which could adversely affect the Medicaid Member's medical condition; (ii) compatible\nwith the standards of acceptable medical practice in the community; (iii) provided in a safe, appropriate, and cost-\neffective setting given the nature of the diagnosis and the severity of the symptoms; (iv) not provided solely for the\nconvenience of the Medicaid Member or the convenience of the provider or hospital; (v) not primarily custodial care",
+    "token_count": 285,
+    "source_file": "WA_3_Redacted.md",
+    "document_type": "legal_contract"
+  },
+  {
+    "chunk_id": "WA_3_Redacted_p16_c139",
+    "page_number": 16,
+    "header_path": "section:ARTICLE I",
+    "chunk_index": 3,
+    "content": "provider and the omission of which could adversely affect the Medicaid Member's medical condition; (ii) compatible\nwith the standards of acceptable medical practice in the community; (iii) provided in a safe, appropriate, and cost-\neffective setting given the nature of the diagnosis and the severity of the symptoms; (iv) not provided solely for the\nconvenience of the Medicaid Member or the convenience of the provider or hospital; (v) not primarily custodial care\nunless custodial care is a Medicaid Covered Service; and (vi) there are no other effective and more conservative or\nsubstantially less costly treatment, service and setting available.\n\"State Agency\" means the Washington Health Care Authority (\"HCA\") or other duly authorized state agency.",
+    "token_count": 150,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
     "chunk_id": "WA_3_Redacted_p16_c140",
-    "page_number": 16,
-    "header_path": "section:ARTICLE I > clause:500",
-    "chunk_index": 1,
-    "content": "-0070 those services, based upon generally accepted medical practices in light of the Medicaid Covered\nMember's condition at the time of treatment, that are: (i) appropriate and consistent with the diagnosis of the treating\nprovider and the omission of which could adversely affect the Medicaid Member's medical condition; (ii) compatible\nwith the standards of acceptable medical practice in the community; (iii) provided in a safe, appropriate, and cost-\neffective setting given the nature of the diagnosis and the severity of the symptoms; (iv) not provided solely for the\nconvenience of the Medicaid Member or the convenience of the provider or hospital; (v) not primarily custodial care\nunless custodial care is a Medicaid Covered Service; and (vi) there are no other effective and more conservative or\nsubstantially less costly treatment, service and setting available.\n\"State Agency\" means the Washington Health Care Authority (\"HCA\") or other duly authorized state agency.",
-    "token_count": 194,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p16_c141",
     "page_number": 16,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
@@ -1410,7 +1400,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p16_c142",
+    "chunk_id": "WA_3_Redacted_p16_c141",
     "page_number": 16,
     "header_path": "section:ARTICLE II > clause:2.1",
     "chunk_index": 1,
@@ -1420,7 +1410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c143",
+    "chunk_id": "WA_3_Redacted_p17_c142",
     "page_number": 17,
     "header_path": "clause:2.2",
     "chunk_index": 1,
@@ -1430,7 +1420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c144",
+    "chunk_id": "WA_3_Redacted_p17_c143",
     "page_number": 17,
     "header_path": "clause:2.2.1",
     "chunk_index": 1,
@@ -1440,7 +1430,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c145",
+    "chunk_id": "WA_3_Redacted_p17_c144",
     "page_number": 17,
     "header_path": "clause:2.2.2",
     "chunk_index": 1,
@@ -1450,7 +1440,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c146",
+    "chunk_id": "WA_3_Redacted_p17_c145",
     "page_number": 17,
     "header_path": "clause:2.2.3",
     "chunk_index": 1,
@@ -1460,7 +1450,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c147",
+    "chunk_id": "WA_3_Redacted_p17_c146",
     "page_number": 17,
     "header_path": "clause:2.2.4",
     "chunk_index": 1,
@@ -1470,7 +1460,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c148",
+    "chunk_id": "WA_3_Redacted_p17_c147",
     "page_number": 17,
     "header_path": "clause:2.3",
     "chunk_index": 1,
@@ -1480,7 +1470,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c149",
+    "chunk_id": "WA_3_Redacted_p17_c148",
     "page_number": 17,
     "header_path": "clause:2.3.1",
     "chunk_index": 1,
@@ -1490,7 +1480,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c150",
+    "chunk_id": "WA_3_Redacted_p17_c149",
     "page_number": 17,
     "header_path": "clause:2.3.2",
     "chunk_index": 1,
@@ -1500,7 +1490,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p17_c151",
+    "chunk_id": "WA_3_Redacted_p17_c150",
     "page_number": 17,
     "header_path": "clause:2.4",
     "chunk_index": 1,
@@ -1510,7 +1500,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c152",
+    "chunk_id": "WA_3_Redacted_p18_c151",
     "page_number": 18,
     "header_path": "section:ARTICLE II > clause:2.4",
     "chunk_index": 1,
@@ -1520,7 +1510,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c153",
+    "chunk_id": "WA_3_Redacted_p18_c152",
     "page_number": 18,
     "header_path": "clause:2.5",
     "chunk_index": 1,
@@ -1530,7 +1520,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c154",
+    "chunk_id": "WA_3_Redacted_p18_c153",
     "page_number": 18,
     "header_path": "clause:2.6",
     "chunk_index": 1,
@@ -1540,7 +1530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c155",
+    "chunk_id": "WA_3_Redacted_p18_c154",
     "page_number": 18,
     "header_path": "clause:2.7",
     "chunk_index": 1,
@@ -1550,7 +1540,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c156",
+    "chunk_id": "WA_3_Redacted_p18_c155",
     "page_number": 18,
     "header_path": "clause:2.8",
     "chunk_index": 1,
@@ -1560,7 +1550,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c157",
+    "chunk_id": "WA_3_Redacted_p18_c156",
     "page_number": 18,
     "header_path": "clause:2.9",
     "chunk_index": 1,
@@ -1570,7 +1560,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c158",
+    "chunk_id": "WA_3_Redacted_p18_c157",
     "page_number": 18,
     "header_path": "clause:2.10",
     "chunk_index": 1,
@@ -1580,7 +1570,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p18_c159",
+    "chunk_id": "WA_3_Redacted_p18_c158",
     "page_number": 18,
     "header_path": "clause:2.11",
     "chunk_index": 1,
@@ -1590,7 +1580,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c160",
+    "chunk_id": "WA_3_Redacted_p19_c159",
     "page_number": 19,
     "header_path": "section:ARTICLE II > clause:2.11",
     "chunk_index": 1,
@@ -1600,7 +1590,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c161",
+    "chunk_id": "WA_3_Redacted_p19_c160",
     "page_number": 19,
     "header_path": "clause:3.1",
     "chunk_index": 1,
@@ -1610,7 +1600,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c162",
+    "chunk_id": "WA_3_Redacted_p19_c161",
     "page_number": 19,
     "header_path": "clause:3.1.1",
     "chunk_index": 1,
@@ -1620,7 +1610,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c163",
+    "chunk_id": "WA_3_Redacted_p19_c162",
     "page_number": 19,
     "header_path": "clause:3.1.2",
     "chunk_index": 1,
@@ -1630,7 +1620,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c164",
+    "chunk_id": "WA_3_Redacted_p19_c163",
     "page_number": 19,
     "header_path": "clause:3.1.3",
     "chunk_index": 1,
@@ -1640,7 +1630,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c165",
+    "chunk_id": "WA_3_Redacted_p19_c164",
     "page_number": 19,
     "header_path": "clause:3.1.4",
     "chunk_index": 1,
@@ -1650,7 +1640,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c166",
+    "chunk_id": "WA_3_Redacted_p19_c165",
     "page_number": 19,
     "header_path": "clause:3.1.5",
     "chunk_index": 1,
@@ -1660,7 +1650,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c167",
+    "chunk_id": "WA_3_Redacted_p19_c166",
     "page_number": 19,
     "header_path": "clause:3.1.6",
     "chunk_index": 1,
@@ -1670,7 +1660,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c168",
+    "chunk_id": "WA_3_Redacted_p19_c167",
     "page_number": 19,
     "header_path": "clause:3.2",
     "chunk_index": 1,
@@ -1680,7 +1670,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c169",
+    "chunk_id": "WA_3_Redacted_p19_c168",
     "page_number": 19,
     "header_path": "clause:3.3",
     "chunk_index": 1,
@@ -1690,7 +1680,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c170",
+    "chunk_id": "WA_3_Redacted_p19_c169",
     "page_number": 19,
     "header_path": "clause:3.4",
     "chunk_index": 1,
@@ -1700,7 +1690,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p19_c171",
+    "chunk_id": "WA_3_Redacted_p19_c170",
     "page_number": 19,
     "header_path": "clause:3.4.1",
     "chunk_index": 1,
@@ -1710,7 +1700,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c172",
+    "chunk_id": "WA_3_Redacted_p20_c171",
     "page_number": 20,
     "header_path": "section:ARTICLE II > clause:3.4.1",
     "chunk_index": 1,
@@ -1720,7 +1710,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c173",
+    "chunk_id": "WA_3_Redacted_p20_c172",
     "page_number": 20,
     "header_path": "clause:3.4.2",
     "chunk_index": 1,
@@ -1730,7 +1720,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c174",
+    "chunk_id": "WA_3_Redacted_p20_c173",
     "page_number": 20,
     "header_path": "clause:3.4.2",
     "chunk_index": 2,
@@ -1740,7 +1730,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c175",
+    "chunk_id": "WA_3_Redacted_p20_c174",
     "page_number": 20,
     "header_path": "clause:3.4.2",
     "chunk_index": 3,
@@ -1750,7 +1740,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c176",
+    "chunk_id": "WA_3_Redacted_p20_c175",
     "page_number": 20,
     "header_path": "clause:3.4.3",
     "chunk_index": 1,
@@ -1760,7 +1750,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c177",
+    "chunk_id": "WA_3_Redacted_p20_c176",
     "page_number": 20,
     "header_path": "clause:3.4.4",
     "chunk_index": 1,
@@ -1770,7 +1760,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c178",
+    "chunk_id": "WA_3_Redacted_p20_c177",
     "page_number": 20,
     "header_path": "clause:3.5",
     "chunk_index": 1,
@@ -1780,7 +1770,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c179",
+    "chunk_id": "WA_3_Redacted_p20_c178",
     "page_number": 20,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 1,
@@ -1790,27 +1780,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c180",
+    "chunk_id": "WA_3_Redacted_p20_c179",
     "page_number": 20,
     "header_path": "section:ARTICLE IV > clause:4.1",
     "chunk_index": 1,
-    "content": "Federal Funds. Provider acknowledges that payments Provider receives from Plan to provide Medicaid\nCovered Services to Medicaid Members are, in whole or part, from federal funds. Therefore, Provider and\nany of his/her/its subcontractors are subject to certain laws that are applicable to individuals and entities\nreceiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act of 1964 as\nimplemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;\nthe Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by",
-    "token_count": 132,
+    "content": "Federal Funds. Provider acknowledges that payments Provider receives from Plan to provide Medicaid\nCovered Services to Medicaid Members are, in whole or part, from federal funds. Therefore, Provider and\nany of his/her/its subcontractors are subject to certain laws that are applicable to individuals and entities\nreceiving federal funds, which may include but are not limited to, Title VI of the Civil Rights Act of 1964 as\nimplemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;\nthe Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by\n45 CFR Part 93 and 31 USC 1352, Title IX of the Educational Amendments of 1972, as amended (30 U.S.C.\nsections 1681, 1783, and 1685-1686) and any other regulations applicable to recipients of federal funds.",
+    "token_count": 193,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c181",
-    "page_number": 20,
-    "header_path": "section:ARTICLE IV > clause:45",
-    "chunk_index": 1,
-    "content": "CFR Part 93 and 31 USC 1352, Title IX of the Educational Amendments of 1972, as amended (30 U.S.C.\nsections 1681, 1783, and 1685-1686) and any other regulations applicable to recipients of federal funds.",
-    "token_count": 60,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p20_c182",
+    "chunk_id": "WA_3_Redacted_p20_c180",
     "page_number": 20,
     "header_path": "section:ARTICLE IV > clause:4.2",
     "chunk_index": 1,
@@ -1820,7 +1800,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p20_c183",
+    "chunk_id": "WA_3_Redacted_p20_c181",
     "page_number": 20,
     "header_path": "section:ARTICLE IV > clause:4.3",
     "chunk_index": 1,
@@ -1830,7 +1810,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c184",
+    "chunk_id": "WA_3_Redacted_p21_c182",
     "page_number": 21,
     "header_path": "section:ARTICLE IV > clause:4.3",
     "chunk_index": 1,
@@ -1840,7 +1820,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c185",
+    "chunk_id": "WA_3_Redacted_p21_c183",
     "page_number": 21,
     "header_path": "section:ARTICLE V",
     "chunk_index": 1,
@@ -1850,7 +1830,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c186",
+    "chunk_id": "WA_3_Redacted_p21_c184",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.1",
     "chunk_index": 1,
@@ -1860,7 +1840,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c187",
+    "chunk_id": "WA_3_Redacted_p21_c185",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.2",
     "chunk_index": 1,
@@ -1870,7 +1850,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c188",
+    "chunk_id": "WA_3_Redacted_p21_c186",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.3",
     "chunk_index": 1,
@@ -1880,7 +1860,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c189",
+    "chunk_id": "WA_3_Redacted_p21_c187",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.4",
     "chunk_index": 1,
@@ -1890,7 +1870,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c190",
+    "chunk_id": "WA_3_Redacted_p21_c188",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.5",
     "chunk_index": 1,
@@ -1900,7 +1880,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c191",
+    "chunk_id": "WA_3_Redacted_p21_c189",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.6",
     "chunk_index": 1,
@@ -1910,7 +1890,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c192",
+    "chunk_id": "WA_3_Redacted_p21_c190",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.7",
     "chunk_index": 1,
@@ -1920,7 +1900,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c193",
+    "chunk_id": "WA_3_Redacted_p21_c191",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.8",
     "chunk_index": 1,
@@ -1930,7 +1910,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p21_c194",
+    "chunk_id": "WA_3_Redacted_p21_c192",
     "page_number": 21,
     "header_path": "section:ARTICLE V > clause:5.9",
     "chunk_index": 1,
@@ -1940,7 +1920,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c195",
+    "chunk_id": "WA_3_Redacted_p22_c193",
     "page_number": 22,
     "header_path": "section:ARTICLE V > clause:5.9",
     "chunk_index": 1,
@@ -1950,7 +1930,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c196",
+    "chunk_id": "WA_3_Redacted_p22_c194",
     "page_number": 22,
     "header_path": "clause:5.10",
     "chunk_index": 1,
@@ -1960,7 +1940,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c197",
+    "chunk_id": "WA_3_Redacted_p22_c195",
     "page_number": 22,
     "header_path": "clause:5.10",
     "chunk_index": 2,
@@ -1970,7 +1950,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c198",
+    "chunk_id": "WA_3_Redacted_p22_c196",
     "page_number": 22,
     "header_path": "clause:5.11",
     "chunk_index": 1,
@@ -1980,7 +1960,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c199",
+    "chunk_id": "WA_3_Redacted_p22_c197",
     "page_number": 22,
     "header_path": "clause:5.11.1",
     "chunk_index": 1,
@@ -1990,7 +1970,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c200",
+    "chunk_id": "WA_3_Redacted_p22_c198",
     "page_number": 22,
     "header_path": "clause:5.11.2",
     "chunk_index": 1,
@@ -2000,7 +1980,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c201",
+    "chunk_id": "WA_3_Redacted_p22_c199",
     "page_number": 22,
     "header_path": "clause:5.11.3",
     "chunk_index": 1,
@@ -2010,7 +1990,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c202",
+    "chunk_id": "WA_3_Redacted_p22_c200",
     "page_number": 22,
     "header_path": "clause:5.11.4",
     "chunk_index": 1,
@@ -2020,7 +2000,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c203",
+    "chunk_id": "WA_3_Redacted_p22_c201",
     "page_number": 22,
     "header_path": "clause:5.12",
     "chunk_index": 1,
@@ -2030,7 +2010,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p22_c204",
+    "chunk_id": "WA_3_Redacted_p22_c202",
     "page_number": 22,
     "header_path": "clause:5.13",
     "chunk_index": 1,
@@ -2040,7 +2020,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c205",
+    "chunk_id": "WA_3_Redacted_p23_c203",
     "page_number": 23,
     "header_path": "clause:5.14",
     "chunk_index": 1,
@@ -2050,7 +2030,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c206",
+    "chunk_id": "WA_3_Redacted_p23_c204",
     "page_number": 23,
     "header_path": "clause:5.15",
     "chunk_index": 1,
@@ -2060,7 +2040,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c207",
+    "chunk_id": "WA_3_Redacted_p23_c205",
     "page_number": 23,
     "header_path": "clause:5.16",
     "chunk_index": 1,
@@ -2070,7 +2050,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c208",
+    "chunk_id": "WA_3_Redacted_p23_c206",
     "page_number": 23,
     "header_path": "clause:5.17",
     "chunk_index": 1,
@@ -2080,7 +2060,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c209",
+    "chunk_id": "WA_3_Redacted_p23_c207",
     "page_number": 23,
     "header_path": "clause:5.18",
     "chunk_index": 1,
@@ -2090,7 +2070,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c210",
+    "chunk_id": "WA_3_Redacted_p23_c208",
     "page_number": 23,
     "header_path": "clause:5.19",
     "chunk_index": 1,
@@ -2100,7 +2080,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c211",
+    "chunk_id": "WA_3_Redacted_p23_c209",
     "page_number": 23,
     "header_path": "clause:5.20",
     "chunk_index": 1,
@@ -2110,7 +2090,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c212",
+    "chunk_id": "WA_3_Redacted_p23_c210",
     "page_number": 23,
     "header_path": "clause:5.21",
     "chunk_index": 1,
@@ -2120,7 +2100,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p23_c213",
+    "chunk_id": "WA_3_Redacted_p23_c211",
     "page_number": 23,
     "header_path": "clause:5.22",
     "chunk_index": 1,
@@ -2130,7 +2110,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c214",
+    "chunk_id": "WA_3_Redacted_p24_c212",
     "page_number": 24,
     "header_path": "clause:5.23",
     "chunk_index": 1,
@@ -2140,7 +2120,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c215",
+    "chunk_id": "WA_3_Redacted_p24_c213",
     "page_number": 24,
     "header_path": "clause:5.24",
     "chunk_index": 1,
@@ -2150,7 +2130,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c216",
+    "chunk_id": "WA_3_Redacted_p24_c214",
     "page_number": 24,
     "header_path": "clause:5.25",
     "chunk_index": 1,
@@ -2160,7 +2140,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c217",
+    "chunk_id": "WA_3_Redacted_p24_c215",
     "page_number": 24,
     "header_path": "clause:5.25",
     "chunk_index": 2,
@@ -2170,7 +2150,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c218",
+    "chunk_id": "WA_3_Redacted_p24_c216",
     "page_number": 24,
     "header_path": "clause:5.26",
     "chunk_index": 1,
@@ -2180,7 +2160,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c219",
+    "chunk_id": "WA_3_Redacted_p24_c217",
     "page_number": 24,
     "header_path": "clause:5.27",
     "chunk_index": 1,
@@ -2190,7 +2170,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c220",
+    "chunk_id": "WA_3_Redacted_p24_c218",
     "page_number": 24,
     "header_path": "clause:5.27.1",
     "chunk_index": 1,
@@ -2200,7 +2180,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p24_c221",
+    "chunk_id": "WA_3_Redacted_p24_c219",
     "page_number": 24,
     "header_path": "clause:5.28",
     "chunk_index": 1,
@@ -2210,7 +2190,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c222",
+    "chunk_id": "WA_3_Redacted_p25_c220",
     "page_number": 25,
     "header_path": "clause:5.28.1",
     "chunk_index": 1,
@@ -2220,7 +2200,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c223",
+    "chunk_id": "WA_3_Redacted_p25_c221",
     "page_number": 25,
     "header_path": "clause:5.28.2",
     "chunk_index": 1,
@@ -2230,7 +2210,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c224",
+    "chunk_id": "WA_3_Redacted_p25_c222",
     "page_number": 25,
     "header_path": "clause:5.28.3",
     "chunk_index": 1,
@@ -2240,7 +2220,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c225",
+    "chunk_id": "WA_3_Redacted_p25_c223",
     "page_number": 25,
     "header_path": "clause:5.28.4",
     "chunk_index": 1,
@@ -2250,7 +2230,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c226",
+    "chunk_id": "WA_3_Redacted_p25_c224",
     "page_number": 25,
     "header_path": "clause:5.29",
     "chunk_index": 1,
@@ -2260,7 +2240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c227",
+    "chunk_id": "WA_3_Redacted_p25_c225",
     "page_number": 25,
     "header_path": "clause:5.30",
     "chunk_index": 1,
@@ -2270,7 +2250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c228",
+    "chunk_id": "WA_3_Redacted_p25_c226",
     "page_number": 25,
     "header_path": "clause:5.31",
     "chunk_index": 1,
@@ -2280,7 +2260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c229",
+    "chunk_id": "WA_3_Redacted_p25_c227",
     "page_number": 25,
     "header_path": "clause:5.32",
     "chunk_index": 1,
@@ -2290,7 +2270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c230",
+    "chunk_id": "WA_3_Redacted_p25_c228",
     "page_number": 25,
     "header_path": "clause:5.32.1",
     "chunk_index": 1,
@@ -2300,7 +2280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p25_c231",
+    "chunk_id": "WA_3_Redacted_p25_c229",
     "page_number": 25,
     "header_path": "clause:5.32.2",
     "chunk_index": 1,
@@ -2310,7 +2290,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c232",
+    "chunk_id": "WA_3_Redacted_p26_c230",
     "page_number": 26,
     "header_path": "section:ARTICLE V > clause:5.32.2",
     "chunk_index": 1,
@@ -2320,7 +2300,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c233",
+    "chunk_id": "WA_3_Redacted_p26_c231",
     "page_number": 26,
     "header_path": "clause:6.1",
     "chunk_index": 1,
@@ -2330,7 +2310,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c234",
+    "chunk_id": "WA_3_Redacted_p26_c232",
     "page_number": 26,
     "header_path": "clause:6.2",
     "chunk_index": 1,
@@ -2340,7 +2320,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c235",
+    "chunk_id": "WA_3_Redacted_p26_c233",
     "page_number": 26,
     "header_path": "clause:6.3",
     "chunk_index": 1,
@@ -2350,7 +2330,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c236",
+    "chunk_id": "WA_3_Redacted_p26_c234",
     "page_number": 26,
     "header_path": "clause:6.4",
     "chunk_index": 1,
@@ -2360,7 +2340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c237",
+    "chunk_id": "WA_3_Redacted_p26_c235",
     "page_number": 26,
     "header_path": "clause:6.4.1",
     "chunk_index": 1,
@@ -2370,7 +2350,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c238",
+    "chunk_id": "WA_3_Redacted_p26_c236",
     "page_number": 26,
     "header_path": "clause:6.4.2",
     "chunk_index": 1,
@@ -2380,7 +2360,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c239",
+    "chunk_id": "WA_3_Redacted_p26_c237",
     "page_number": 26,
     "header_path": "section:ARTICLE VII",
     "chunk_index": 1,
@@ -2390,7 +2370,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c240",
+    "chunk_id": "WA_3_Redacted_p26_c238",
     "page_number": 26,
     "header_path": "section:ARTICLE VII > clause:7.1",
     "chunk_index": 1,
@@ -2400,7 +2380,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c241",
+    "chunk_id": "WA_3_Redacted_p26_c239",
     "page_number": 26,
     "header_path": "section:ARTICLE VII > clause:7.2",
     "chunk_index": 1,
@@ -2410,7 +2390,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p26_c242",
+    "chunk_id": "WA_3_Redacted_p26_c240",
     "page_number": 26,
     "header_path": "section:ARTICLE VII > clause:7.3",
     "chunk_index": 1,
@@ -2420,7 +2400,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c243",
+    "chunk_id": "WA_3_Redacted_p27_c241",
     "page_number": 27,
     "header_path": "section:ARTICLE VII > clause:7.3",
     "chunk_index": 1,
@@ -2430,7 +2410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c244",
+    "chunk_id": "WA_3_Redacted_p27_c242",
     "page_number": 27,
     "header_path": "clause:7.4",
     "chunk_index": 1,
@@ -2440,7 +2420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c245",
+    "chunk_id": "WA_3_Redacted_p27_c243",
     "page_number": 27,
     "header_path": "clause:7.4.1",
     "chunk_index": 1,
@@ -2450,7 +2430,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c246",
+    "chunk_id": "WA_3_Redacted_p27_c244",
     "page_number": 27,
     "header_path": "clause:7.4.2",
     "chunk_index": 1,
@@ -2460,7 +2440,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c247",
+    "chunk_id": "WA_3_Redacted_p27_c245",
     "page_number": 27,
     "header_path": "clause:7.5",
     "chunk_index": 1,
@@ -2470,7 +2450,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c248",
+    "chunk_id": "WA_3_Redacted_p27_c246",
     "page_number": 27,
     "header_path": "clause:7.6",
     "chunk_index": 1,
@@ -2480,7 +2460,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p27_c249",
+    "chunk_id": "WA_3_Redacted_p27_c247",
     "page_number": 27,
     "header_path": "clause:7.7",
     "chunk_index": 1,
@@ -2490,7 +2470,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p28_c250",
+    "chunk_id": "WA_3_Redacted_p28_c248",
     "page_number": 28,
     "header_path": "section:ARTICLE VII > clause:7.7",
     "chunk_index": 1,
@@ -2500,7 +2480,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p28_c251",
+    "chunk_id": "WA_3_Redacted_p28_c249",
     "page_number": 28,
     "header_path": "section:ARTICLE I",
     "chunk_index": 1,
@@ -2510,7 +2490,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p28_c252",
+    "chunk_id": "WA_3_Redacted_p28_c250",
     "page_number": 28,
     "header_path": "section:ARTICLE I",
     "chunk_index": 2,
@@ -2520,7 +2500,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p28_c253",
+    "chunk_id": "WA_3_Redacted_p28_c251",
     "page_number": 28,
     "header_path": "section:ARTICLE I",
     "chunk_index": 3,
@@ -2530,7 +2510,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c254",
+    "chunk_id": "WA_3_Redacted_p29_c252",
     "page_number": 29,
     "header_path": "section:ARTICLE I > clause:7.7",
     "chunk_index": 1,
@@ -2540,7 +2520,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c255",
+    "chunk_id": "WA_3_Redacted_p29_c253",
     "page_number": 29,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
@@ -2550,7 +2530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c256",
+    "chunk_id": "WA_3_Redacted_p29_c254",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.1",
     "chunk_index": 1,
@@ -2560,7 +2540,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c257",
+    "chunk_id": "WA_3_Redacted_p29_c255",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.1.1",
     "chunk_index": 1,
@@ -2570,7 +2550,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c258",
+    "chunk_id": "WA_3_Redacted_p29_c256",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.2",
     "chunk_index": 1,
@@ -2580,7 +2560,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c259",
+    "chunk_id": "WA_3_Redacted_p29_c257",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.3",
     "chunk_index": 1,
@@ -2590,7 +2570,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c260",
+    "chunk_id": "WA_3_Redacted_p29_c258",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.4",
     "chunk_index": 1,
@@ -2600,7 +2580,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c261",
+    "chunk_id": "WA_3_Redacted_p29_c259",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.4.1",
     "chunk_index": 1,
@@ -2610,7 +2590,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c262",
+    "chunk_id": "WA_3_Redacted_p29_c260",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.4.2",
     "chunk_index": 1,
@@ -2620,7 +2600,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c263",
+    "chunk_id": "WA_3_Redacted_p29_c261",
     "page_number": 29,
     "header_path": "section:ARTICLE II > clause:2.5",
     "chunk_index": 1,
@@ -2630,7 +2610,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c264",
+    "chunk_id": "WA_3_Redacted_p29_c262",
     "page_number": 29,
     "header_path": "section:ARTICLE III",
     "chunk_index": 1,
@@ -2640,7 +2620,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p29_c265",
+    "chunk_id": "WA_3_Redacted_p29_c263",
     "page_number": 29,
     "header_path": "section:ARTICLE III > clause:3.1",
     "chunk_index": 1,
@@ -2650,7 +2630,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c266",
+    "chunk_id": "WA_3_Redacted_p30_c264",
     "page_number": 30,
     "header_path": "section:ARTICLE III > clause:3.1",
     "chunk_index": 1,
@@ -2660,7 +2640,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c267",
+    "chunk_id": "WA_3_Redacted_p30_c265",
     "page_number": 30,
     "header_path": "section:section can subject Provider to a fifteen thousand dollar ($15,000) penalty for each day of failure to comply. > clause:3.2",
     "chunk_index": 1,
@@ -2670,7 +2650,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c268",
+    "chunk_id": "WA_3_Redacted_p30_c266",
     "page_number": 30,
     "header_path": "section:ARTICLE IV",
     "chunk_index": 1,
@@ -2680,7 +2660,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c269",
+    "chunk_id": "WA_3_Redacted_p30_c267",
     "page_number": 30,
     "header_path": "section:ARTICLE IV > clause:4.1",
     "chunk_index": 1,
@@ -2690,7 +2670,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c270",
+    "chunk_id": "WA_3_Redacted_p30_c268",
     "page_number": 30,
     "header_path": "section:ARTICLE IV > clause:4.2",
     "chunk_index": 1,
@@ -2700,7 +2680,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c271",
+    "chunk_id": "WA_3_Redacted_p30_c269",
     "page_number": 30,
     "header_path": "section:ARTICLE IV > clause:4.3",
     "chunk_index": 1,
@@ -2710,7 +2690,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c272",
+    "chunk_id": "WA_3_Redacted_p30_c270",
     "page_number": 30,
     "header_path": "section:ARTICLE IV > clause:4.4",
     "chunk_index": 1,
@@ -2720,7 +2700,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c273",
+    "chunk_id": "WA_3_Redacted_p30_c271",
     "page_number": 30,
     "header_path": "section:ARTICLE IV > clause:4.5",
     "chunk_index": 1,
@@ -2730,7 +2710,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c274",
+    "chunk_id": "WA_3_Redacted_p30_c272",
     "page_number": 30,
     "header_path": "section:ARTICLE V",
     "chunk_index": 1,
@@ -2740,7 +2720,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p30_c275",
+    "chunk_id": "WA_3_Redacted_p30_c273",
     "page_number": 30,
     "header_path": "section:ARTICLE V > clause:5.1",
     "chunk_index": 1,
@@ -2750,7 +2730,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c276",
+    "chunk_id": "WA_3_Redacted_p31_c274",
     "page_number": 31,
     "header_path": "section:ARTICLE V > clause:5.1",
     "chunk_index": 1,
@@ -2760,7 +2740,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c277",
+    "chunk_id": "WA_3_Redacted_p31_c275",
     "page_number": 31,
     "header_path": "clause:5.2",
     "chunk_index": 1,
@@ -2770,7 +2750,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c278",
+    "chunk_id": "WA_3_Redacted_p31_c276",
     "page_number": 31,
     "header_path": "clause:5.3",
     "chunk_index": 1,
@@ -2780,7 +2760,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c279",
+    "chunk_id": "WA_3_Redacted_p31_c277",
     "page_number": 31,
     "header_path": "clause:5.4",
     "chunk_index": 1,
@@ -2790,7 +2770,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c280",
+    "chunk_id": "WA_3_Redacted_p31_c278",
     "page_number": 31,
     "header_path": "clause:5.5",
     "chunk_index": 1,
@@ -2800,7 +2780,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c281",
+    "chunk_id": "WA_3_Redacted_p31_c279",
     "page_number": 31,
     "header_path": "clause:5.6",
     "chunk_index": 1,
@@ -2810,7 +2790,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c282",
+    "chunk_id": "WA_3_Redacted_p31_c280",
     "page_number": 31,
     "header_path": "clause:5.6",
     "chunk_index": 2,
@@ -2820,7 +2800,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c283",
+    "chunk_id": "WA_3_Redacted_p31_c281",
     "page_number": 31,
     "header_path": "clause:5.6.1",
     "chunk_index": 1,
@@ -2830,7 +2810,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p31_c284",
+    "chunk_id": "WA_3_Redacted_p31_c282",
     "page_number": 31,
     "header_path": "clause:5.7",
     "chunk_index": 1,
@@ -2840,7 +2820,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c285",
+    "chunk_id": "WA_3_Redacted_p32_c283",
     "page_number": 32,
     "header_path": "clause:5.8",
     "chunk_index": 1,
@@ -2850,7 +2830,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c286",
+    "chunk_id": "WA_3_Redacted_p32_c284",
     "page_number": 32,
     "header_path": "section:ARTICLE VI",
     "chunk_index": 1,
@@ -2860,7 +2840,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c287",
+    "chunk_id": "WA_3_Redacted_p32_c285",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.1",
     "chunk_index": 1,
@@ -2870,7 +2850,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c288",
+    "chunk_id": "WA_3_Redacted_p32_c286",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.1.1",
     "chunk_index": 1,
@@ -2880,7 +2860,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c289",
+    "chunk_id": "WA_3_Redacted_p32_c287",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.1.2",
     "chunk_index": 1,
@@ -2890,7 +2870,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c290",
+    "chunk_id": "WA_3_Redacted_p32_c288",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.1.3",
     "chunk_index": 1,
@@ -2900,7 +2880,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c291",
+    "chunk_id": "WA_3_Redacted_p32_c289",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.2",
     "chunk_index": 1,
@@ -2910,7 +2890,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c292",
+    "chunk_id": "WA_3_Redacted_p32_c290",
     "page_number": 32,
     "header_path": "section:ARTICLE VI > clause:6.3",
     "chunk_index": 1,
@@ -2920,7 +2900,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c293",
+    "chunk_id": "WA_3_Redacted_p32_c291",
     "page_number": 32,
     "header_path": "section:ARTICLE VII",
     "chunk_index": 1,
@@ -2930,7 +2910,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c294",
+    "chunk_id": "WA_3_Redacted_p32_c292",
     "page_number": 32,
     "header_path": "section:ARTICLE VII > clause:7.1",
     "chunk_index": 1,
@@ -2940,7 +2920,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c295",
+    "chunk_id": "WA_3_Redacted_p32_c293",
     "page_number": 32,
     "header_path": "section:ARTICLE VII > clause:422.310",
     "chunk_index": 1,
@@ -2950,7 +2930,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p32_c296",
+    "chunk_id": "WA_3_Redacted_p32_c294",
     "page_number": 32,
     "header_path": "section:ARTICLE VII > clause:7.2",
     "chunk_index": 1,
@@ -2960,7 +2940,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c297",
+    "chunk_id": "WA_3_Redacted_p33_c295",
     "page_number": 33,
     "header_path": "section:ARTICLE VII > clause:7.2",
     "chunk_index": 1,
@@ -2970,7 +2950,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c298",
+    "chunk_id": "WA_3_Redacted_p33_c296",
     "page_number": 33,
     "header_path": "clause:7.3",
     "chunk_index": 1,
@@ -2980,7 +2960,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c299",
+    "chunk_id": "WA_3_Redacted_p33_c297",
     "page_number": 33,
     "header_path": "clause:7.4",
     "chunk_index": 1,
@@ -2990,7 +2970,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c300",
+    "chunk_id": "WA_3_Redacted_p33_c298",
     "page_number": 33,
     "header_path": "section:ARTICLE VIII",
     "chunk_index": 1,
@@ -3000,7 +2980,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c301",
+    "chunk_id": "WA_3_Redacted_p33_c299",
     "page_number": 33,
     "header_path": "section:ARTICLE VIII > clause:8.1",
     "chunk_index": 1,
@@ -3010,7 +2990,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c302",
+    "chunk_id": "WA_3_Redacted_p33_c300",
     "page_number": 33,
     "header_path": "section:ARTICLE VIII > clause:8.2",
     "chunk_index": 1,
@@ -3020,7 +3000,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c303",
+    "chunk_id": "WA_3_Redacted_p33_c301",
     "page_number": 33,
     "header_path": "section:ARTICLE VIII > clause:8.3",
     "chunk_index": 1,
@@ -3030,7 +3010,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c304",
+    "chunk_id": "WA_3_Redacted_p33_c302",
     "page_number": 33,
     "header_path": "section:ARTICLE IX",
     "chunk_index": 1,
@@ -3040,7 +3020,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c305",
+    "chunk_id": "WA_3_Redacted_p33_c303",
     "page_number": 33,
     "header_path": "section:ARTICLE IX > clause:9.1",
     "chunk_index": 1,
@@ -3050,7 +3030,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c306",
+    "chunk_id": "WA_3_Redacted_p33_c304",
     "page_number": 33,
     "header_path": "section:ARTICLE IX > clause:9.2",
     "chunk_index": 1,
@@ -3060,7 +3040,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p33_c307",
+    "chunk_id": "WA_3_Redacted_p33_c305",
     "page_number": 33,
     "header_path": "section:ARTICLE IX > clause:9.3",
     "chunk_index": 1,
@@ -3070,7 +3050,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c308",
+    "chunk_id": "WA_3_Redacted_p34_c306",
     "page_number": 34,
     "header_path": "clause:9.4",
     "chunk_index": 1,
@@ -3080,7 +3060,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c309",
+    "chunk_id": "WA_3_Redacted_p34_c307",
     "page_number": 34,
     "header_path": "clause:9.5",
     "chunk_index": 1,
@@ -3090,7 +3070,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c310",
+    "chunk_id": "WA_3_Redacted_p34_c308",
     "page_number": 34,
     "header_path": "clause:9.6",
     "chunk_index": 1,
@@ -3100,7 +3080,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c311",
+    "chunk_id": "WA_3_Redacted_p34_c309",
     "page_number": 34,
     "header_path": "clause:9.6",
     "chunk_index": 2,
@@ -3110,27 +3090,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c312",
+    "chunk_id": "WA_3_Redacted_p34_c310",
     "page_number": 34,
     "header_path": "clause:9.7",
     "chunk_index": 1,
-    "content": "Federal Funds. Provider acknowledges that payments Provider receives from Plan to provide MA Covered\nServices to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of his/her/its\nsubcontractors are subject to certain Regulatory Requirements that are applicable to Members and entities\nreceiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of 1964 as\nimplemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;\nthe Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by",
-    "token_count": 133,
+    "content": "Federal Funds. Provider acknowledges that payments Provider receives from Plan to provide MA Covered\nServices to MA Members are, in whole or part, from federal funds. Therefore, Provider and any of his/her/its\nsubcontractors are subject to certain Regulatory Requirements that are applicable to Members and entities\nreceiving federal funds, which may include but is not limited to, Title VI of the Civil Rights Act of 1964 as\nimplemented by 45 CFR Part 84; the Age Discrimination Act of 1975 as implemented by 45 CFR Part 91;\nthe Americans with Disabilities Act; the Rehabilitation Act of 1973, lobbying restrictions as implemented by\n45 CFR Part 93 and 31 USC 1352 and any other regulations applicable to recipients of federal funds.",
+    "token_count": 157,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c313",
-    "page_number": 34,
-    "header_path": "clause:45",
-    "chunk_index": 1,
-    "content": "CFR Part 93 and 31 USC 1352 and any other regulations applicable to recipients of federal funds.",
-    "token_count": 23,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p34_c314",
+    "chunk_id": "WA_3_Redacted_p34_c311",
     "page_number": 34,
     "header_path": "section:ARTICLE X",
     "chunk_index": 1,
@@ -3140,7 +3110,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c315",
+    "chunk_id": "WA_3_Redacted_p34_c312",
     "page_number": 34,
     "header_path": "section:ARTICLE X > clause:10.1",
     "chunk_index": 1,
@@ -3150,7 +3120,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c316",
+    "chunk_id": "WA_3_Redacted_p34_c313",
     "page_number": 34,
     "header_path": "section:ARTICLE XI",
     "chunk_index": 1,
@@ -3160,7 +3130,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c317",
+    "chunk_id": "WA_3_Redacted_p34_c314",
     "page_number": 34,
     "header_path": "section:ARTICLE XI > clause:11.1",
     "chunk_index": 1,
@@ -3170,7 +3140,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p34_c318",
+    "chunk_id": "WA_3_Redacted_p34_c315",
     "page_number": 34,
     "header_path": "section:ARTICLE XI > clause:11.2",
     "chunk_index": 1,
@@ -3180,7 +3150,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c319",
+    "chunk_id": "WA_3_Redacted_p35_c316",
     "page_number": 35,
     "header_path": "clause:11.3",
     "chunk_index": 1,
@@ -3190,7 +3160,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c320",
+    "chunk_id": "WA_3_Redacted_p35_c317",
     "page_number": 35,
     "header_path": "section:ARTICLE XII",
     "chunk_index": 1,
@@ -3200,7 +3170,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c321",
+    "chunk_id": "WA_3_Redacted_p35_c318",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.1",
     "chunk_index": 1,
@@ -3210,7 +3180,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c322",
+    "chunk_id": "WA_3_Redacted_p35_c319",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.2",
     "chunk_index": 1,
@@ -3220,7 +3190,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c323",
+    "chunk_id": "WA_3_Redacted_p35_c320",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.3",
     "chunk_index": 1,
@@ -3230,7 +3200,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c324",
+    "chunk_id": "WA_3_Redacted_p35_c321",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4",
     "chunk_index": 1,
@@ -3240,7 +3210,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c325",
+    "chunk_id": "WA_3_Redacted_p35_c322",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4.1",
     "chunk_index": 1,
@@ -3250,7 +3220,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c326",
+    "chunk_id": "WA_3_Redacted_p35_c323",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4.2",
     "chunk_index": 1,
@@ -3260,7 +3230,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c327",
+    "chunk_id": "WA_3_Redacted_p35_c324",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4.3",
     "chunk_index": 1,
@@ -3270,7 +3240,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c328",
+    "chunk_id": "WA_3_Redacted_p35_c325",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4.4",
     "chunk_index": 1,
@@ -3280,7 +3250,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c329",
+    "chunk_id": "WA_3_Redacted_p35_c326",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.4.5",
     "chunk_index": 1,
@@ -3290,7 +3260,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c330",
+    "chunk_id": "WA_3_Redacted_p35_c327",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.5",
     "chunk_index": 1,
@@ -3300,7 +3270,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c331",
+    "chunk_id": "WA_3_Redacted_p35_c328",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.6",
     "chunk_index": 1,
@@ -3310,7 +3280,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p35_c332",
+    "chunk_id": "WA_3_Redacted_p35_c329",
     "page_number": 35,
     "header_path": "section:ARTICLE XII > clause:12.7",
     "chunk_index": 1,
@@ -3320,47 +3290,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c333",
+    "chunk_id": "WA_3_Redacted_p36_c330",
     "page_number": 36,
     "header_path": "section:ARTICLE XII > clause:12.7",
     "chunk_index": 1,
-    "content": "BEHAVORIAL HEALTH SERVICES WRAPAROUND WITH INTENSIVE SERVICES REQUIRED PROVISIONS\nATTACHMENT TO THE\nWASHINGTON, INC.\nPROVIDER AGREEMENT\nThis is a Wraparound with Intensive Services (\"WISe\") Program Attachment (this \"Attachment\") to the\nProvider Agreement (\"Agreement\"), entered into by and between and Provider (\"Provider\") and is\nincorporated into the Agreement.\nPROGRAM PROVISIONS",
-    "token_count": 89,
+    "content": "BEHAVORIAL HEALTH SERVICES WRAPAROUND WITH INTENSIVE SERVICES REQUIRED PROVISIONS\nATTACHMENT TO THE\nWASHINGTON, INC.\nPROVIDER AGREEMENT\nThis is a Wraparound with Intensive Services (\"WISe\") Program Attachment (this \"Attachment\") to the\nProvider Agreement (\"Agreement\"), entered into by and between and Provider (\"Provider\") and is\nincorporated into the Agreement.\nPROGRAM PROVISIONS\n1. Provider must be a Health Care Authority (\"HCA\") approved WISe agency.\n2. WISe Implementation. Provider agrees to cooperate with efforts in connection with development of\nProvider capacity and workforce development. Provider shall report WISe capacity and service intensity data to\non a monthly basis. Such data shall be submitted to no later than the fifth (5th) day of each\nmonth.\n3. Notifications.",
+    "token_count": 174,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c334",
-    "page_number": 36,
-    "header_path": "clause:1",
-    "chunk_index": 1,
-    "content": ". Provider must be a Health Care Authority (\"HCA\") approved WISe agency.",
-    "token_count": 17,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c335",
-    "page_number": 36,
-    "header_path": "clause:2",
-    "chunk_index": 1,
-    "content": ". WISe Implementation. Provider agrees to cooperate with efforts in connection with development of\nProvider capacity and workforce development. Provider shall report WISe capacity and service intensity data to\non a monthly basis. Such data shall be submitted to no later than the fifth (5th) day of each\nmonth.",
-    "token_count": 61,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c336",
-    "page_number": 36,
-    "header_path": "clause:3",
-    "chunk_index": 1,
-    "content": ". Notifications.",
-    "token_count": 3,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c337",
+    "chunk_id": "WA_3_Redacted_p36_c331",
     "page_number": 36,
     "header_path": "clause:3.1",
     "chunk_index": 1,
@@ -3370,57 +3310,27 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c338",
+    "chunk_id": "WA_3_Redacted_p36_c332",
     "page_number": 36,
     "header_path": "clause:3.2",
     "chunk_index": 1,
-    "content": "Provider will notify anytime a Medicaid Member is\na) approved for the WISe program\nb) Denial of WISe services based on the CANS\nc) Reduction in services\nd) Suspension of services",
-    "token_count": 43,
+    "content": "Provider will notify anytime a Medicaid Member is\na) approved for the WISe program\nb) Denial of WISe services based on the CANS\nc) Reduction in services\nd) Suspension of services\n4. Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and\nlocations that ensure meaningful participation of youth, family members, and natural supports. Assessment,\ntreatment, and support services are provided in the youth and family's natural setting, where needs, strengths, and\nchallenges present themselves (such as home, school and community).\n5. WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current\nWashington State WISe Program Policy and Procedure Manual, including, but not limited to, requirements related to\ngrievances and appeals.\n6. Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and\nshall also comply with WISe Program policies and procedures communicated to Provider by\nIn the event of any conflict between the terms of WISe policies and procedures and Provider's WISe\npolicies and procedures, the terms of policies and procedures shall govern. In the event of any conflict\nbetween the terms of the Washington State WISe Program Policy and Procedure Manual and either or\nProvider's WISe policies and procedures, the terms of the Washington State WISe Program Policy and Procedure\nManual shall govern.",
+    "token_count": 294,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c339",
+    "chunk_id": "WA_3_Redacted_p36_c333",
     "page_number": 36,
-    "header_path": "clause:4",
-    "chunk_index": 1,
-    "content": ". Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and\nlocations that ensure meaningful participation of youth, family members, and natural supports. Assessment,\ntreatment, and support services are provided in the youth and family's natural setting, where needs, strengths, and\nchallenges present themselves (such as home, school and community).",
-    "token_count": 78,
+    "header_path": "clause:3.2",
+    "chunk_index": 2,
+    "content": "In the event of any conflict between the terms of WISe policies and procedures and Provider's WISe\npolicies and procedures, the terms of policies and procedures shall govern. In the event of any conflict\nbetween the terms of the Washington State WISe Program Policy and Procedure Manual and either or\nProvider's WISe policies and procedures, the terms of the Washington State WISe Program Policy and Procedure\nManual shall govern.\n7. Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and\ntransition age youth (\"TAY\") require assistance with any of the following:",
+    "token_count": 122,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c340",
-    "page_number": 36,
-    "header_path": "clause:5",
-    "chunk_index": 1,
-    "content": ". WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current\nWashington State WISe Program Policy and Procedure Manual, including, but not limited to, requirements related to\ngrievances and appeals.",
-    "token_count": 48,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c341",
-    "page_number": 36,
-    "header_path": "clause:6",
-    "chunk_index": 1,
-    "content": ". Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and\nshall also comply with WISe Program policies and procedures communicated to Provider by\nIn the event of any conflict between the terms of WISe policies and procedures and Provider's WISe\npolicies and procedures, the terms of policies and procedures shall govern. In the event of any conflict\nbetween the terms of the Washington State WISe Program Policy and Procedure Manual and either or\nProvider's WISe policies and procedures, the terms of the Washington State WISe Program Policy and Procedure\nManual shall govern.",
-    "token_count": 121,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c342",
-    "page_number": 36,
-    "header_path": "clause:7",
-    "chunk_index": 1,
-    "content": ". Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and\ntransition age youth (\"TAY\") require assistance with any of the following:",
-    "token_count": 36,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p36_c343",
+    "chunk_id": "WA_3_Redacted_p36_c334",
     "page_number": 36,
     "header_path": "clause:7.1",
     "chunk_index": 1,
@@ -3430,7 +3340,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p36_c344",
+    "chunk_id": "WA_3_Redacted_p36_c335",
     "page_number": 36,
     "header_path": "clause:7.2",
     "chunk_index": 1,
@@ -3440,27 +3350,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c345",
+    "chunk_id": "WA_3_Redacted_p37_c336",
     "page_number": 37,
     "header_path": "clause:7.3",
     "chunk_index": 1,
-    "content": "Youth Medicaid Members in WISe who are moving to other areas of the state of Washington who may\nrequire assistance with care coordination to the new region.",
-    "token_count": 31,
+    "content": "Youth Medicaid Members in WISe who are moving to other areas of the state of Washington who may\nrequire assistance with care coordination to the new region.\n8. Screening.",
+    "token_count": 35,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c346",
-    "page_number": 37,
-    "header_path": "clause:8",
-    "chunk_index": 1,
-    "content": ". Screening.",
-    "token_count": 3,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p37_c347",
+    "chunk_id": "WA_3_Redacted_p37_c337",
     "page_number": 37,
     "header_path": "clause:8.1",
     "chunk_index": 1,
@@ -3470,7 +3370,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c348",
+    "chunk_id": "WA_3_Redacted_p37_c338",
     "page_number": 37,
     "header_path": "clause:8.2",
     "chunk_index": 1,
@@ -3480,27 +3380,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c349",
+    "chunk_id": "WA_3_Redacted_p37_c339",
     "page_number": 37,
     "header_path": "clause:8.3",
     "chunk_index": 1,
-    "content": "Provider must notify in writing of all instances, regardless of the reason, where a Medicaid\nMember was given a CANS screen and not subsequently enrolled in the WISe Program.",
-    "token_count": 35,
+    "content": "Provider must notify in writing of all instances, regardless of the reason, where a Medicaid\nMember was given a CANS screen and not subsequently enrolled in the WISe Program.\n9. WISe Services.",
+    "token_count": 41,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c350",
-    "page_number": 37,
-    "header_path": "clause:9",
-    "chunk_index": 1,
-    "content": ". WISe Services.",
-    "token_count": 5,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p37_c351",
+    "chunk_id": "WA_3_Redacted_p37_c340",
     "page_number": 37,
     "header_path": "clause:9.1",
     "chunk_index": 1,
@@ -3510,7 +3400,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c352",
+    "chunk_id": "WA_3_Redacted_p37_c341",
     "page_number": 37,
     "header_path": "clause:9.1.1",
     "chunk_index": 1,
@@ -3520,7 +3410,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c353",
+    "chunk_id": "WA_3_Redacted_p37_c342",
     "page_number": 37,
     "header_path": "clause:9.1.2",
     "chunk_index": 1,
@@ -3530,7 +3420,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c354",
+    "chunk_id": "WA_3_Redacted_p37_c343",
     "page_number": 37,
     "header_path": "clause:9.1.3",
     "chunk_index": 1,
@@ -3540,7 +3430,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c355",
+    "chunk_id": "WA_3_Redacted_p37_c344",
     "page_number": 37,
     "header_path": "clause:9.1.4",
     "chunk_index": 1,
@@ -3550,27 +3440,17 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c356",
+    "chunk_id": "WA_3_Redacted_p37_c345",
     "page_number": 37,
     "header_path": "clause:9.2",
     "chunk_index": 1,
-    "content": "Delivery of the full WISe service array focused on the needs and strengths and driven by youth and family\nvoices and choice will be evaluated in accordance with HCA's WISe Quality Management (\"QM\") Plan and\nthe WISe QM Plan.",
-    "token_count": 50,
+    "content": "Delivery of the full WISe service array focused on the needs and strengths and driven by youth and family\nvoices and choice will be evaluated in accordance with HCA's WISe Quality Management (\"QM\") Plan and\nthe WISe QM Plan.\n10. WISe Collaborative.",
+    "token_count": 57,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c357",
-    "page_number": 37,
-    "header_path": "clause:10",
-    "chunk_index": 1,
-    "content": ". WISe Collaborative.",
-    "token_count": 6,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p37_c358",
+    "chunk_id": "WA_3_Redacted_p37_c346",
     "page_number": 37,
     "header_path": "clause:10.1",
     "chunk_index": 1,
@@ -3580,7 +3460,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c359",
+    "chunk_id": "WA_3_Redacted_p37_c347",
     "page_number": 37,
     "header_path": "clause:10.2",
     "chunk_index": 1,
@@ -3590,7 +3470,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p37_c360",
+    "chunk_id": "WA_3_Redacted_p37_c348",
     "page_number": 37,
     "header_path": "clause:10.3",
     "chunk_index": 1,
@@ -3600,7 +3480,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p38_c361",
+    "chunk_id": "WA_3_Redacted_p38_c349",
     "page_number": 38,
     "header_path": "section:ARTICLE XII > clause:10.3",
     "chunk_index": 1,
@@ -3610,7 +3490,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p38_c362",
+    "chunk_id": "WA_3_Redacted_p38_c350",
     "page_number": 38,
     "header_path": "section:ARTICLE I",
     "chunk_index": 1,
@@ -3620,7 +3500,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p38_c363",
+    "chunk_id": "WA_3_Redacted_p38_c351",
     "page_number": 38,
     "header_path": "section:ARTICLE I",
     "chunk_index": 2,
@@ -3630,7 +3510,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p38_c364",
+    "chunk_id": "WA_3_Redacted_p38_c352",
     "page_number": 38,
     "header_path": "section:ARTICLE I",
     "chunk_index": 3,
@@ -3640,7 +3520,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p38_c365",
+    "chunk_id": "WA_3_Redacted_p38_c353",
     "page_number": 38,
     "header_path": "section:ARTICLE I",
     "chunk_index": 4,
@@ -3650,7 +3530,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p39_c366",
+    "chunk_id": "WA_3_Redacted_p39_c354",
     "page_number": 39,
     "header_path": "section:ARTICLE I > clause:10.3",
     "chunk_index": 1,
@@ -3660,7 +3540,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p39_c367",
+    "chunk_id": "WA_3_Redacted_p39_c355",
     "page_number": 39,
     "header_path": "section:ARTICLE I > clause:10.3",
     "chunk_index": 2,
@@ -3670,7 +3550,7 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p39_c368",
+    "chunk_id": "WA_3_Redacted_p39_c356",
     "page_number": 39,
     "header_path": "section:ARTICLE I > clause:10.3",
     "chunk_index": 3,
@@ -3680,29 +3560,19 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p39_c369",
+    "chunk_id": "WA_3_Redacted_p39_c357",
     "page_number": 39,
     "header_path": "section:ARTICLE II",
     "chunk_index": 1,
-    "content": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-",
-    "token_count": 31,
+    "content": "GENERAL PROVISIONS\nBilling Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-\n04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with\nPolicies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the\nCoded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,\nPlan shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits\nthat result in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)\nguidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may\nbe set forth in the provider manual(s).",
+    "token_count": 164,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p39_c370",
-    "page_number": 39,
-    "header_path": "section:ARTICLE II > clause:04",
-    "chunk_index": 1,
-    "content": "claim form or its successor form(s) as applicable based on the Health Services provided in accordance with\nPolicies or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the\nCoded Service Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition,\nPlan shall not pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. Plan audits\nthat result in identification of Health Services that are not reported in accordance with the Coded Service Identifier(s)\nguidelines and instructions, will be subject to recovery through remittance adjustment or other recovery action as may\nbe set forth in the provider manual(s).",
-    "token_count": 132,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p40_c371",
+    "chunk_id": "WA_3_Redacted_p40_c358",
     "page_number": 40,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
     "content": "Claim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical product must include standard\nCoded Service Identifier(s), a National Drug Code (\"NDC\") number of the covered medication, a description of the\nproduct, and dosage and units administered. Unless otherwise required under Regulatory Requirements, Plan shall\nnot reimburse for any pharmaceuticals that are not administered to the Member and/or deemed contaminated and/or\nconsidered waste.\nCoding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect\nnew, deleted or replacement codes. shall use commercially reasonable efforts to update all applicable\nCoded Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes\nare updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless\nof whether this Agreement has been amended to reflect changes to standard billing codes. If Provider bills a revised\ncode prior to the effective date of the revised code, the Claim will be rejected or denied and Provider shall resubmit\nClaim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the",
     "token_count": 295,
@@ -3710,9 +3580,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p40_c372",
+    "chunk_id": "WA_3_Redacted_p40_c359",
     "page_number": 40,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "Claim with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.\nCoding Software. Updates to Claims processing filters, code editing software, pricers, and any edits\nrelated thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take\nplace automatically and do not require any notice, disclosure or amendment to Provider. reserves the\nright to use a code editing software as reasonably required by to ensure Claims adjudication in\naccordance with industry standards, including, but not limited to, determining which services are considered part of,\nincidental to, or inclusive of the primary procedure and ensuring medically appropriate age, gender, diagnosis,\nfrequency, and units billed.\nModifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry\nstandard billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.\nNew/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded",
     "token_count": 273,
@@ -3720,9 +3590,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p40_c373",
+    "chunk_id": "WA_3_Redacted_p40_c360",
     "page_number": 40,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
     "content": "New/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the\nAgreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology\n(defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the\nfollowing documentation to at least sixty (60) days prior to the implementation of any New/Expanded\nService or New/Expanded Technology for consideration as a reimbursable service: (1) a description of the\nNew/Expanded Service or New/Expanded Technology; (2) Provider's proposed charge for the New/Expanded\nService or New/Expanded Technology; (3) such other reasonable data and information required by to\nevaluate the New/Expanded Service or New/Expanded Technology. In addition, may also need to obtain\napproval from applicable Agency prior to making determination that New/Expanded Service or\nNew/Expanded Technology can be considered a reimbursable service. If agrees that the New/Expanded\nService or New/Expanded Technology may be reimbursable under this Agreement, then shall notify\nProvider, and both parties agree to negotiate in good faith, a new Rate for the New/Expanded Service or\nNew/Expanded Technology within sixty (60) days of notice to Provider. If the parties are unable to\nreach an agreement on a new Rate for the New/Expanded Service or New/Expanded Technology before",
     "token_count": 295,
@@ -3730,9 +3600,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p40_c374",
+    "chunk_id": "WA_3_Redacted_p40_c361",
     "page_number": 40,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 4,
     "content": "Service or New/Expanded Technology may be reimbursable under this Agreement, then shall notify\nProvider, and both parties agree to negotiate in good faith, a new Rate for the New/Expanded Service or\nNew/Expanded Technology within sixty (60) days of notice to Provider. If the parties are unable to\nreach an agreement on a new Rate for the New/Expanded Service or New/Expanded Technology before\nthe end of the sixty (60) day period, then such New/Expanded Service or New/Expanded Technology shall not be\nreimbursed by and the Payment in Full and Hold Harmless provision of this Agreement shall apply.\na. \"New/Expanded Service\" shall be defined as a Health Service: (a) that Provider was not providing to\nMembers as of the Effective Date of this Agreement and; (b) for which there is not a specific\nRate as set forth in this PCS.\nb. \"New/Expanded Technology\" shall be defined as a technological advancement in the delivery of a Covered\nService which results in a material increase to the cost of such service. New/Expanded Technology shall not\ninclude a new device, or implant that merely represents a new model or an improved model of a device or\nimplant used in connection with a service provided by Provider as of the Effective Date of this Agreement.\nNon-Priced Codes for Covered Services. reserves the right to establish a rate for codes that are not",
     "token_count": 292,
@@ -3740,9 +3610,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p40_c375",
+    "chunk_id": "WA_3_Redacted_p40_c362",
     "page_number": 40,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 5,
     "content": "Service which results in a material increase to the cost of such service. New/Expanded Technology shall not\ninclude a new device, or implant that merely represents a new model or an improved model of a device or\nimplant used in connection with a service provided by Provider as of the Effective Date of this Agreement.\nNon-Priced Codes for Covered Services. reserves the right to establish a rate for codes that are not\npriced in this PCS or in the Fee Schedule(s), including but not limited to, Not Otherwise Classified Codes (\"NOC\"),\nNot Otherwise Specified (\"NOS\"), Miscellaneous, Individual Consideration Codes (\"IC\"), and By Report (\"BR\")\n(collectively \"Non-Priced Codes\"). shall only reimburse Non-Priced Codes for Covered Services in the\nfollowing situations: (i) the Non-Priced Code does not have a published dollar amount on the then current applicable\nPlan, State or CMS Fee Schedule, (ii) the Non-Priced Code has a zero dollar amount listed, or (iii) the Non-Priced\nCode requires manual pricing. In such situations, such Non-Priced Code shall be reimbursed at a rate established by\nfor such Covered Service. Notwithstanding the foregoing, shall not price Non-Priced Codes\nthat are not Covered Services under the Members Health Benefit Plan. may require the submission of\nmedical records, invoices, or other documentation for Claims payment consideration.",
     "token_count": 292,
@@ -3750,9 +3620,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p41_c376",
+    "chunk_id": "WA_3_Redacted_p41_c363",
     "page_number": 41,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
     "content": "Reimbursement for Rate Based on Eligible Charges. Notwithstanding any reimbursement amount set\nforth herein, Provider shall only be allowed to receive such reimbursement if such reimbursement is for an Eligible\nCharge. In addition, if Provider reimbursement is under one or more of the following methodologies: Capitation, Case\nRate, DRG Rate, Encounter Rate, Global Case Rate, Per Diem Rate, Per Relative Value Unit (RVU), and Per Visit\nRate, then individual services billed shall not be reimbursed separately, unless otherwise specified in the PCS\nAttachment(s).\nReimbursement for Subcontractors. Plan shall not be liable for any reimbursement in addition to the applicable\nRate as a result of Provider's use of a subcontractor. Provider shall be solely responsible to pay\nsubcontractors for any Health Services, and shall via written contract, contractually prohibit such subcontractors from\nbilling, collecting or attempting to collect from Plan or Members. Notwithstanding the foregoing, if\nhas a direct contract with the subcontractor, the direct contract shall prevail over this Agreement and the\nsubcontractor shall bill under the direct contract for any subcontracted services, with the exception of\nnursing services provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The Rates in this Agreement include all sales and use taxes and other",
     "token_count": 278,
@@ -3760,9 +3630,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p41_c377",
+    "chunk_id": "WA_3_Redacted_p41_c364",
     "page_number": 41,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "billing, collecting or attempting to collect from Plan or Members. Notwithstanding the foregoing, if\nhas a direct contract with the subcontractor, the direct contract shall prevail over this Agreement and the\nsubcontractor shall bill under the direct contract for any subcontracted services, with the exception of\nnursing services provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.\nTax Assessment and Penalties. The Rates in this Agreement include all sales and use taxes and other\ntaxes on Provider revenue, gross earnings, profits, income and other taxes, charges or assessments of any nature\nwhatsoever (together with any related interest or penalties) now or hereafter imposed against or collectible by\nProvider with respect to Covered Services, unless otherwise required by Agency pursuant to Regulatory\nRequirements. Neither Provider nor Plan shall add any amount to or deduct any amount from the Rates,\nwhether on account of taxes, assessments, tax penalties or tax exemptions.\nUpdates to Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements,\nand notwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, shall use commercially\nreasonable efforts to update the Rate(s) based on External Sources, which include but are not limited to,\ni) CMS Medicare fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee",
     "token_count": 271,
@@ -3770,9 +3640,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p41_c378",
+    "chunk_id": "WA_3_Redacted_p41_c365",
     "page_number": 41,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
     "content": "whether on account of taxes, assessments, tax penalties or tax exemptions.\nUpdates to Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements,\nand notwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, shall use commercially\nreasonable efforts to update the Rate(s) based on External Sources, which include but are not limited to,\ni) CMS Medicare fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee\nschedule(s)/rate(s)/methodologies; iii) vendor fee schedule(s)/rate(s)/methodologies; or iv) any other entity's\npublished fee schedule(s)/rate(s)/methodologies (collectively \"External Sources\") no later than sixty (60) days after\nreceipt of the final fee schedule(s)/rate(s)/methodologies change from such External Sources, or on the\neffective date of such final fee schedule(s)/rate(s)/methodologies change, whichever is later. The effective date of\nsuch final fee schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by\nExternal Sources. Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed\nprior to the implementation of the new Rate(s) in payment system shall not be reprocessed,\nhowever, if reprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential",
     "token_count": 283,
@@ -3780,9 +3650,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p41_c379",
+    "chunk_id": "WA_3_Redacted_p41_c366",
     "page_number": 41,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 4,
     "content": "such final fee schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by\nExternal Sources. Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed\nprior to the implementation of the new Rate(s) in payment system shall not be reprocessed,\nhowever, if reprocessing is required by Regulatory Requirements, and such reprocessing could result in a potential\nunder and/or over payment to a Provider, then Plan may reconcile the Claim adjustments to determine the remaining\namount Provider owes Plan, or that Plan owes to Provider. Any resultant overpayment recoveries (i.e. Provider owes\nPlan) shall occur automatically without advance notification to Provider. Unless otherwise required by Regulatory\nRequirements, shall not be responsible for interest payments that may be the result of a late notification\nby External Sources to of fee schedule(s)/rate(s)/methodologies change.",
     "token_count": 185,
@@ -3790,189 +3660,89 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p42_c380",
+    "chunk_id": "WA_3_Redacted_p42_c367",
     "page_number": 42,
-    "header_path": "section:ARTICLE II > clause:04",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
-    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICAID\nFor purposes of determining he Rate, the total reimbursement amount that Provider and a\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nThe parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by J at any\ntime during the term of this Agreement and will be applied on a prospective basis.\nMedicaid Network\nBehavioral Health Facil\nService Description Billing Code\nInpatient Psychiatric Revenue Codes 0114, $561.00 Per Diem\nServices 0124, 0134, 0154\nInpatient Detox Services Revenue Codes 0116, $561.00 Per Diem",
-    "token_count": 164,
+    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICAID\nFor purposes of determining the aman Rate, the total reimbursement amount that Provider and  arsiemam\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on\nthe date of service shall be as set forth below.\nThe parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by A at any\ntime during the term of this Agreement and will be applied on a prospective basis.\nPo Program: Medicaid Network\nBehavioral Health Facili\nBilling Code\nInpatient Psychiatric Revenue Codes 0114, $561.00 Per Diem\nServices 0124, 0134, 0154\nInpatient Detox Services Revenue Codes 0116, $561.00 Per Diem\n0126, 0136, 0156\n1. Applicable for Island County, Whatcom County, and Spokane Facilities only.\n2. Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the\nproper billing and reimbursement.\nPo Program: Medicaid Network\nBehavioral Health Facili\nBilling Code Rate/Methodolog)\nCo-Occurring Residential H0018 with applicable $314.44 Per Diem\nProgram modifier\nRoom and Board H2036 with applicable $12.57\nmodifier",
+    "token_count": 279,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p42_c381",
+    "chunk_id": "WA_3_Redacted_p42_c368",
     "page_number": 42,
-    "header_path": "clause:0126",
-    "chunk_index": 1,
-    "content": ", 0136, 0156",
-    "token_count": 8,
+    "header_path": "section:ARTICLE II > clause:10.3",
+    "chunk_index": 2,
+    "content": "2. Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the\nproper billing and reimbursement.\nPo Program: Medicaid Network\nBehavioral Health Facili\nBilling Code Rate/Methodolog)\nCo-Occurring Residential H0018 with applicable $314.44 Per Diem\nProgram modifier\nRoom and Board H2036 with applicable $12.57\nmodifier\n1.Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the\nproper billing and reimbursement.\n2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional\ndiagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed\ndaily.\nrogram: Medicaid Network\nBehavioral Health Facil\nBilling Code\nOpiate Use Disorder H0018 $279.73 Per Diem\nProgram\nRoom and Board H2036 with applicable $11.87 Per Diem\nmodifiers\nApplicable for NPI: 1912563883\n1.Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the\nproper billing and reimbursement.\n2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional",
+    "token_count": 273,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p42_c382",
+    "chunk_id": "WA_3_Redacted_p42_c369",
     "page_number": 42,
-    "header_path": "clause:1",
-    "chunk_index": 1,
-    "content": ". Applicable for Island County, Whatcom County, and Spokane Facilities only.",
-    "token_count": 16,
+    "header_path": "section:ARTICLE II > clause:10.3",
+    "chunk_index": 3,
+    "content": "Opiate Use Disorder H0018 $279.73 Per Diem\nProgram\nRoom and Board H2036 with applicable $11.87 Per Diem\nmodifiers\nApplicable for NPI: 1912563883\n1.Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the\nproper billing and reimbursement.\n2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional\ndiagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed\ndaily.\nPo Progra: Medicaid Network\nBehavio Health Facili\nBilling Code Rate/Methodolog\nSub Acute Withdrawal North Sound Medicaid Percentage Per Month\nManagement- Skagit Eligibles of Program Utilization\nCammiinity Matayv musitinliod hy tho ampayint in",
+    "token_count": 189,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p42_c383",
-    "page_number": 42,
-    "header_path": "clause:2",
-    "chunk_index": 1,
-    "content": ". Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the\nproper billing and reimbursement.\nPo Program:| Medicaid Network\nBehavioral Health Facili\nService Description Billing Code\nCo-Occurring Residential 0018 with applicable $314.44 Per Diem\nProgram modifier\nRoom and Board H2036 with applicable $12.57\nmodifier\nProvider agrees to reference SERI coding guidelines, available through [J Web portal, to ensure the\nproper billing and reimbursement.  \n.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional\ndiagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed\ndaily.\nBehavioral Health Facili\nBilling Code\nOpiate Use Disorder 0018 $279.73 Per Diem\nProgram\nRoom and Board 2036 with applicable $11.87 Per Diem\nmodifiers\nApplicable for NPI: 1912563883",
-    "token_count": 214,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p42_c384",
-    "page_number": 42,
-    "header_path": "clause:1",
-    "chunk_index": 1,
-    "content": ".Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the\nproper billing and reimbursement.",
-    "token_count": 25,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p42_c385",
-    "page_number": 42,
-    "header_path": "clause:2",
-    "chunk_index": 1,
-    "content": ".Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional\ndiagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed\ndaily.\n[oo Program:| Medicaid Network\nB oral Health Facili\n|__Service Description | Billing Code RatelMethodolog\nSub Acute Withdrawal North Sound Medicaid Percentage Per Month\nManaagement- Skagit Eligibles ot Program Utilization",
-    "token_count": 103,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c386",
+    "chunk_id": "WA_3_Redacted_p43_c370",
     "page_number": 43,
-    "header_path": "section:ARTICLE II > clause:2",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
-    "content": "Po Section a. Po\n‘Sub Acute Withdrawal North Sound Medicaid Percentage\nManagement- Whatcom Eligibles of Program Utilization\nmultiplied by the amount in\nSection 1.b.",
-    "token_count": 40,
+    "content": "po Section 2. Po\nSub Acute Withdrawal North Sound Medicaid Percentage\nManagement- Whatcom Eligibles of Program Utilization\nmultiplied by the amount in\nSection 1.b.\n1. Monthly Compensation for Services:\na. Crisis Stabilization Services- Skagit Community cctox actual percentage of\nof program utilization of eligible members served in the North Sound Region multiplied by $225,794.54(Provider's\nmonthly base).\nb. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Management: Lmrsanmase actual percentage of\nof program utilization of eligible members served in the North Sound Region multiplied by $59,463.55 (Provider's\nmonthly base).\n2. “Eligibles\" are defined as any individuals who are eligible beneficiaries under EE Washington State\nMedicaid IMC managed care program and reside within the North Sound region.\n3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.\na. Provider will submit an invoice for Sub Acute Withdrawal Management Services on a monthly basis within 30 days\nof the end of the each month services were rendered\nb. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of\nopen clients and service days.\nc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.",
+    "token_count": 287,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p43_c387",
+    "chunk_id": "WA_3_Redacted_p43_c371",
     "page_number": 43,
-    "header_path": "clause:1",
-    "chunk_index": 1,
-    "content": ". Monthly Compensation for Services:\na. Crisis Stabilization Services- Skagit Community Seto actual percentage of\nof program utilization of eligible members served in the North Sound Region multiplied by $225,794.54(Provider's\nmonthly base).\nb. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Managemen actual percentage of\nof program utilization of eligible members served in the North Sound Region multiplied by $59,463.55 (Provider's\nmonthly base).",
-    "token_count": 99,
+    "header_path": "section:ARTICLE II > clause:10.3",
+    "chunk_index": 2,
+    "content": "a. Provider will submit an invoice for Sub Acute Withdrawal Management Services on a monthly basis within 30 days\nof the end of the each month services were rendered\nb. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of\nopen clients and service days.\nc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.\n4. Provider understands and agrees that, any payment to the Provider by under this Agreement, is\ncontingent upon J first receiving HCA's payment to [) proportional share for\neligible Covered Person's residing in the North Sound Region.\n5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.\n6. Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the\nproper billing and reimbursement.\npo Program: Medicaid Network\nBehavioral Health Facil\nRate/Methodolog\nMental Health Crisis Spokane Medicaid Eligibles Percentage\nStabilization- Spokane of Program Utilization\nmultiplied by the amount in\nSection 1.a.\n1. Monthly Compensation for Services:\na. Mental Health Crisis Stabilization- Spokane: actual percentage of\nof program utilization of eligible members served in the Spokane Region multiplied by $275,113.00 (Provider's\nmonthly base).",
+    "token_count": 276,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p43_c388",
+    "chunk_id": "WA_3_Redacted_p43_c372",
     "page_number": 43,
-    "header_path": "clause:2",
-    "chunk_index": 1,
-    "content": ". \"Eligibles\" are defined as any individuals who are eligible beneficiaries under | Washington State\nMedicaid IMC managed care program and reside within the North Sound region.",
-    "token_count": 35,
+    "header_path": "section:ARTICLE II > clause:10.3",
+    "chunk_index": 3,
+    "content": "po Program: Medicaid Network\nBehavioral Health Facil\nRate/Methodolog\nMental Health Crisis Spokane Medicaid Eligibles Percentage\nStabilization- Spokane of Program Utilization\nmultiplied by the amount in\nSection 1.a.\n1. Monthly Compensation for Services:\na. Mental Health Crisis Stabilization- Spokane: actual percentage of\nof program utilization of eligible members served in the Spokane Region multiplied by $275,113.00 (Provider's\nmonthly base).\n2. “Eligibles\" are defined as any individuals who are eligible beneficiaries under J Washington State\nMedicaid IMC managed care program and reside within the Spokane region.\n3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.\na. Provider will submit an invoice for Mental Health Crisis Stabilization Services on a monthly basis within 30 days\nof the end of the each month services were rendered\nb. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of\nopen clients and service days.\nc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.\n4. Provider understands and agrees that, any payment to the Provider by under this Agreement, is\ncontingent upon EE first receiving HCA's payment to Ol proportional share for\neligible Covered Person's residing in the North Sound Region.",
+    "token_count": 285,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p43_c389",
+    "chunk_id": "WA_3_Redacted_p43_c373",
     "page_number": 43,
-    "header_path": "clause:3",
-    "chunk_index": 1,
-    "content": ". Reimbursement amount set forth above are inclusive of all services rendered by the provider.\na. Provider will submit an invoice for Sub Acute Withdrawal Management Services on a monthly basis within 30 days\nof the end of the each month services were rendered\nb. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of\ngl clients and service days.\nCc. ‘will issue payment to Provider for monthly services within 20 business days of receipt of invoice.",
-    "token_count": 105,
+    "header_path": "section:ARTICLE II > clause:10.3",
+    "chunk_index": 4,
+    "content": "open clients and service days.\nc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.\n4. Provider understands and agrees that, any payment to the Provider by under this Agreement, is\ncontingent upon EE first receiving HCA's payment to Ol proportional share for\neligible Covered Person's residing in the North Sound Region.\n5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.",
+    "token_count": 92,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p43_c390",
-    "page_number": 43,
-    "header_path": "clause:4",
-    "chunk_index": 1,
-    "content": ". Provider understands and agrees that, any payment to the Provider by| under this Agreement, is\ncontingent upon EE first receiving HCA’s payment to| 0 proportional share for\neligible Covered Person's residing in the North Sound Region.",
-    "token_count": 50,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c391",
-    "page_number": 43,
-    "header_path": "clause:5",
-    "chunk_index": 1,
-    "content": ". All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.",
-    "token_count": 17,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c392",
-    "page_number": 43,
-    "header_path": "clause:6",
-    "chunk_index": 1,
-    "content": ". Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the\nproper billing and reimbursement.\n[ Program:] Medicaid Network\nBehavioral Health Facili\nRate/Methodolog\nMental Health Crisis Spokane Medicaid Eligibles Percentage\nStabilization- Spokane of Program Utilization\nmultiplied by the amount in\nSection 1.a.",
-    "token_count": 75,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c393",
-    "page_number": 43,
-    "header_path": "clause:1",
-    "chunk_index": 1,
-    "content": ". Monthly Compensation for Services:\na. Mental Health Crisis Stabilization- Spokane: BR ees percentage of\nof program utilization of eligible members served in the Spokane Region multiplied by $275,113.00 (Provider's\nmonthly base).",
-    "token_count": 49,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c394",
-    "page_number": 43,
-    "header_path": "clause:2",
-    "chunk_index": 1,
-    "content": ". “Eligibles\" are defined as any individuals who are eligible beneficiaries under J Washington State\nMedicaid IMC managed care program and reside within the Spokane region.",
-    "token_count": 34,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c395",
-    "page_number": 43,
-    "header_path": "clause:3",
-    "chunk_index": 1,
-    "content": ". Reimbursement amount set forth above are inclusive of all services rendered by the provider.\na. Provider will submit an invoice for Mental Health Crisis Stabilization Services on a monthly basis within 30 days\nof the end of the each month services were rendered\nb. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of\nopen clients and service days.\nc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.",
-    "token_count": 104,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p43_c396",
-    "page_number": 43,
-    "header_path": "clause:4",
-    "chunk_index": 1,
-    "content": ". Provider understands and agrees that, any payment to the Provider by| under this Agreement, is\ncontingent upon EE first receiving HCA’s payment to| 0 proportional share for\neligible Covered Person's residing in the North Sound Region.\nCe AN mmntinnkia muneifiere muet ke jens im anempdampn uth atemdecd Killian muideiimease if amnitenhia",
-    "token_count": 91,
-    "source_file": "WA_3_Redacted.md",
-    "document_type": "legal_contract"
-  },
-  {
-    "chunk_id": "WA_3_Redacted_p44_c397",
+    "chunk_id": "WA_3_Redacted_p44_c374",
     "page_number": 44,
-    "header_path": "clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
-    "content": ". Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the\nproper billing and reimbursement.\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an",
-    "token_count": 282,
+    "content": "6. Provider agrees to reference SERI coding guidelines, available through Web portal, to ensure the\nproper billing and reimbursement.\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an",
+    "token_count": 283,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p44_c398",
+    "chunk_id": "WA_3_Redacted_p44_c375",
     "page_number": 44,
-    "header_path": "clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "Reimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an\nRate, the applicable state methodology on which such fee schedule is based, shall be used to determine the\nappropriate level of reimbursement.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\nSpecialty Provider Individual and/or group (including Non-MD or DO) shall be reimbursed for anesthesiology services\nin accordance with the accumulation of base, modifier and time units multiplied by the Washington State Medicaid\nAnesthesia Conversion Factor. The services should be billed in minute increments. One time unit will be allowed for",
     "token_count": 285,
@@ -3980,9 +3750,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p44_c399",
+    "chunk_id": "WA_3_Redacted_p44_c376",
     "page_number": 44,
-    "header_path": "clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
     "content": "on an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\nSpecialty Provider Individual and/or group (including Non-MD or DO) shall be reimbursed for anesthesiology services\nin accordance with the accumulation of base, modifier and time units multiplied by the Washington State Medicaid\nAnesthesia Conversion Factor. The services should be billed in minute increments. One time unit will be allowed for\neach fifteen (15) minute interval, or fraction thereof, starting from the time Provider begins to prepare the Member for\ninduction and ending when the Member may safely be placed under post-operative supervision and Provider is no\nlonger in personal attendance.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the",
     "token_count": 277,
@@ -3990,9 +3760,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p44_c400",
+    "chunk_id": "WA_3_Redacted_p44_c377",
     "page_number": 44,
-    "header_path": "clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 4,
     "content": "\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.\n\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference\nLaboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS\ncodes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\nThe Reference Laboratory Fee Schedule contains all codes from the Medicare Clinical Laboratory Fee\nSchedule, pathology codes from the Medicare Physician Fee Schedule, and additional codes added by Plan.\n\" Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).\nWashington Enterprise Provider Agreement PCS Attachment",
     "token_count": 259,
@@ -4000,9 +3770,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p45_c401",
+    "chunk_id": "WA_3_Redacted_p45_c378",
     "page_number": 45,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
     "content": "\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales",
     "token_count": 282,
@@ -4010,9 +3780,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p45_c402",
+    "chunk_id": "WA_3_Redacted_p45_c379",
     "page_number": 45,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "prospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Washington State Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Washington State Medicaid\nRate(s)/Fee Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the\napplicable Medicaid Program(s).\nWashington Enterprise Provider Agreement PCS Attachment",
     "token_count": 156,
@@ -4020,9 +3790,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p46_c403",
+    "chunk_id": "WA_3_Redacted_p46_c380",
     "page_number": 46,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
     "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICAID\nFor purposes of determining the Rate, the total reimbursement amount that Provider and\nhave agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on\nthe date of service shall be as set forth below.\nThe parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by at any\ntime during the term of this Agreement and will be applied on a prospective basis.\nMedicaid Affiliate Services. Provider acknowledges that is affiliated with health plans that offer similar\nbenefits under similar programs as the programs covered hereunder (\"Medicaid Affiliates\"). The parties acknowledge\nthat Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to\nMedicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to\nRegulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's\nstate program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type",
     "token_count": 279,
@@ -4030,9 +3800,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p46_c404",
+    "chunk_id": "WA_3_Redacted_p46_c381",
     "page_number": 46,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the\nMedicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services\nfor which a Medicaid Member is entitled to self-refer. Upon request, shall coordinate and provide\ninformation as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.\nReimbursement Specific to Provider Type\nThe following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free\nStanding Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.\nAmbulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the\napplicable methodology based on the referenced fee schedule. If such reimbursement is based on an\nRate, the applicable state methodology on which such fee schedule is based, shall be used to determine the\nappropriate level of reimbursement.\nHospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,\npastoral, bereavement counseling, DME, medical supplies and administration of medication.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.",
     "token_count": 293,
@@ -4040,9 +3810,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p46_c405",
+    "chunk_id": "WA_3_Redacted_p46_c382",
     "page_number": 46,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
     "content": "pastoral, bereavement counseling, DME, medical supplies and administration of medication.\nSpecialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory\nRequirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based\non an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,\nshall be used to determine the appropriate level of reimbursement.\nSpecialty Provider Individual and/or group (including Non-MD or DO) shall be reimbursed for anesthesiology services\nin accordance with the accumulation of base, modifier and time units multiplied by the Washington State Medicaid\nAnesthesia Conversion Factor. The services should be billed in minute increments. One time unit will be allowed for\neach fifteen (15) minute interval, or fraction thereof, starting from the time Provider begins to prepare the Member for\ninduction and ending when the Member may safely be placed under post-operative supervision and Provider is no\nlonger in personal attendance.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule",
     "token_count": 293,
@@ -4050,9 +3820,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p46_c406",
+    "chunk_id": "WA_3_Redacted_p46_c383",
     "page_number": 46,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 4,
     "content": "longer in personal attendance.\n\"Ambulatory Patient Group\" (\"APG\") means the Rate that is a fixed reimbursement to a facility for\nOutpatient Services and which incorporates data regarding the reason for the visit and patient data.\n\"Ambulatory Payment Classification\" (\"APC\") or its successor shall have the meaning set forth in the Medicare law\nand CMS regulations and guidance.\n\" DMEPOS and PEN Fee Schedule\" means the applicable DMEPOS and PEN Fee Schedule\nfor the market(s) and program(s) covered by the Agreement. The parties acknowledge and agree that the\nDMEPOS and PEN Fee Schedule is subject to modification by at any time during the term of the\nAgreement. DMEPOS and PEN Fee Schedule and/or rate changes will be applied on a prospective\nbasis.",
     "token_count": 162,
@@ -4060,9 +3830,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p47_c407",
+    "chunk_id": "WA_3_Redacted_p47_c384",
     "page_number": 47,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
     "content": "\" Reference Laboratory Fee Schedule\" means the Rate that is the Reference\nLaboratory Fee Schedule that is based on the Medicare Fee Schedule and may contain additional CPT/HCPCS\ncodes. Reference Laboratory Fee Schedule and/or rate changes will be applied on a prospective basis.\nThe Reference Laboratory Fee Schedule contains all codes from the Medicare Clinical Laboratory Fee\nSchedule, pathology codes from the Medicare Physician Fee Schedule, and additional codes added by Plan.\n\" Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Medicaid Rate(s)/Fee\nSchedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the applicable\nMedicaid Program(s).\n\"CMS Outpatient Prospective Payment System\" (\"OPPS\") shall have the meaning set forth in Medicare law and CMS\nregulations and guidance.\n\"Medical Care Management Rate\" means the amount paid by to Provider on a per member per month\nbasis for facilitation of collaborative programs meant to manage medical/social/mental health conditions more\neffectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National",
     "token_count": 291,
@@ -4070,9 +3840,9 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p47_c408",
+    "chunk_id": "WA_3_Redacted_p47_c385",
     "page_number": 47,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
     "content": "effectively.\n\"Medicare Fee Schedule\" means the applicable Medicare Fee Schedule for the provider type(s) identified herein,\nincluding payment conversion factor, where applicable, and in effect on the date of the service is initiated to\nMembers. Medicare Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Medicare LUPA National Base Rate\" means the Medicare LUPA (\"Low Utilization Payment Adjustment\") National\nBase rate in effect as of the date of service for the market(s) and program(s) covered by the Agreement at the time\nthe Covered Services are initiated to the Member. Medicare LUPA National Base Rate changes will be applied on a\nprospective basis.\n\"Medicare Part B Drug Average Sales Price (\"ASP\") Fee Schedule\" means the Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule (or successor) in effect as of the date of service for the market(s) and programs covered\nby the Agreement at the time the Covered Services is initiated to the Member. Medicare Part B Drug Average Sales\nPrice (\"ASP\") Fee Schedule and/or rate changes will be applied on a prospective basis.\n\"Washington State Medicaid Rate(s)/Fee Schedule(s)/Methodologies\" means the Washington State Medicaid\nRate(s)/Fee Schedule(s)/ in effect on the date of service for the provider type(s)/service(s) identified herein for the\napplicable Medicaid Program(s).\nWashington Enterprise Provider Agreement PCS Attachment",
     "token_count": 293,
@@ -4080,29 +3850,29 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p48_c409",
+    "chunk_id": "WA_3_Redacted_p48_c386",
     "page_number": 48,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
-    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the amma Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe bare Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nServices\nOutpatient Services Applicable Revenue Codes_ | Medicare Outpatient\nwith Applicable Prospective Payment\nCPT/HCPCS Codes System and Medicare fee\nschedules multiplied by one\nhundred percent (100%)\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment",
-    "token_count": 282,
+    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe i Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nServices\nOutpatient Services Applicable Revenue Codes_ | Medicare Outpatient N/A\nwith Applicable Prospective Payment\nCPT/HCPCS Codes System and Medicare fee\nschedules multiplied by one\nhundred percent (100%)\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment",
+    "token_count": 285,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p48_c410",
+    "chunk_id": "WA_3_Redacted_p48_c387",
     "page_number": 48,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
-    "content": "whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\n—— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nPlan shall not compensate Provider for the bad debts of its Medicare Advantage members.\nPlan and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical education,\ndisproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and Plan shall not\nadjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to Provider based on\na settlement.",
+    "content": "whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\na notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nPlan shall not compensate Provider for the bad debts of its Medicare Advantage members.\nPlan and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical education,\ndisproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and Plan shall not\nadjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to Provider based on\na settlement.",
     "token_count": 289,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p48_c411",
+    "chunk_id": "WA_3_Redacted_p48_c388",
     "page_number": 48,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
     "content": "Plan shall not compensate Provider for the bad debts of its Medicare Advantage members.\nPlan and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical education,\ndisproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and Plan shall not\nadjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to Provider based on\na settlement.\nPlan shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available in Plan's systems at the time Plan\nprocesses the Provider's Claim. Plan shall not retroactively adjust Provider's compensation for previously processed\nClaims to reconcile any difference with the payment system logic and data being used by Medicare on the same\nprocessing date for the same date of service. In addition, Plan shall not retroactively adjust Provider's compensation\nfor previously processed claims to reflect Medicare's retroactive updates or changes to payment system logic and\ndata. Provider shall not request adjustments solely based on these differences, updates, or changes.",
     "token_count": 225,
@@ -4110,39 +3880,39 @@
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p49_c412",
+    "chunk_id": "WA_3_Redacted_p49_c389",
     "page_number": 49,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 1,
-    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the amma Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described . Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe bare Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit\nServices Codes Schedule multiplied by one\nhundred percent (100%)\nPart B Drugs and Applicable CPT/HCPCS. Medicare Drug Fee\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%)\nLaboratory Services Applicable CPT/HCPCS. Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by forty five\npercent (45%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in",
-    "token_count": 276,
+    "content": "PLAN COMPENSATION SCHEDULE (\"PCS\") ATTACHMENT\nMEDICARE ADVANTAGE\nFor Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,\nProvider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage\nRate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this\namount, plus applicable Cost Shares, is full compensation for Covered Services.\nThe i Medicare Advantage Rate\" is the amount calculated based on the rate or methodology stated below\nfor each service, adjusted as described in the notes, and multiplied by the stated percentage.\nProfessional and Technical | Applicable CPT/HCPCS Medicare Physician Fee\nServices Codes Schedule multiplied by one\nhundred percent (100%)\nPart B Drugs and Applicable CPT/HCPCS Medicare Drug Fee\nBiologicals Codes Schedule multiplied by one\nhundred percent (100%\nLaboratory Services Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by forty five\npercent (45%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in",
+    "token_count": 272,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p49_c413",
+    "chunk_id": "WA_3_Redacted_p49_c390",
     "page_number": 49,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 2,
-    "content": "Biologicals Codes Schedule multiplied by one\nhundred percent (100%)\nLaboratory Services Applicable CPT/HCPCS. Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by forty five\npercent (45%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nrocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\n— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the",
-    "token_count": 290,
+    "content": "Biologicals Codes Schedule multiplied by one\nhundred percent (100%\nLaboratory Services Applicable CPT/HCPCS Medicare Clinical\nCodes Laboratory Fee Schedule\nmultiplied by forty five\npercent (45%)\nPlan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's\npercentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.\nWhen determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in\nwhole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall\nrefer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the\nsame items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include\nany bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment\nprocess, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless\nesas notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the",
+    "token_count": 289,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p49_c414",
+    "chunk_id": "WA_3_Redacted_p49_c391",
     "page_number": 49,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 3,
-    "content": "— notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nongress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nPlan shall not compensate Provider for the bad debts of its Medicare Advantage members.\nPlan and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical education,\ndisproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and Plan shall not\nadjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to Provider based on\na settlement.\nPlan shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available in Plan's systems at the time Plan\nprocesses the Provider's Claim. Plan shall not retroactively adjust Provider's compensation for previously processed\nClaims to reconcile any difference with the payment system logic and data being used by Medicare on the same\nprocessing date for the same date of service. In addition, Plan shall not retroactively adjust Provider's compensation",
-    "token_count": 287,
+    "content": "esas notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act\nof Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable\nto Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the\namount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the\nsame percentage amount as payment is changed by CMS to Provider.\nPlan shall not compensate Provider for the bad debts of its Medicare Advantage members.\nPlan and Provider shall consider Medicare interim amounts, including but not limited to, indirect medical education,\ndisproportionate share, outliers, per diems, percent of charge, and all-inclusive rates, as final and Plan shall not\nadjust Provider's compensation through a settlement, even if Medicare adjusts its compensation to Provider based on\na settlement.\nPlan shall compensate Provider using the relevant payment system logic and data (for example: calculations,\npayment groupings, or federal and provider-specific factors) that are available in Plan's systems at the time Plan\nprocesses the Provider's Claim. Plan shall not retroactively adjust Provider's compensation for previously processed\nClaims to reconcile any difference with the payment system logic and data being used by Medicare on the same\nprocessing date for the same date of service. In addition, Plan shall not retroactively adjust Provider's compensation",
+    "token_count": 288,
     "source_file": "WA_3_Redacted.md",
     "document_type": "legal_contract"
   },
   {
-    "chunk_id": "WA_3_Redacted_p49_c415",
+    "chunk_id": "WA_3_Redacted_p49_c392",
     "page_number": 49,
-    "header_path": "section:ARTICLE II > clause:6",
+    "header_path": "section:ARTICLE II > clause:10.3",
     "chunk_index": 4,
     "content": "payment groupings, or federal and provider-specific factors) that are available in Plan's systems at the time Plan\nprocesses the Provider's Claim. Plan shall not retroactively adjust Provider's compensation for previously processed\nClaims to reconcile any difference with the payment system logic and data being used by Medicare on the same\nprocessing date for the same date of service. In addition, Plan shall not retroactively adjust Provider's compensation\nfor previously processed claims to reflect Medicare's retroactive updates or changes to payment system logic and\ndata. Provider shall not request adjustments solely based on these differences, updates, or changes.",
     "token_count": 122,

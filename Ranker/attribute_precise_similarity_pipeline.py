@@ -24,8 +24,8 @@ from datetime import datetime
 from typing import Any, Dict, List, Tuple
 import traceback
 
-# Add Ranker directory to path
-sys.path.append(str(Path(__file__).parent / "Ranker"))
+# Add utils directory to path
+sys.path.append(str(Path(__file__).parent / "utils"))
 
 from rrf_attribute_matcher import RRFAttributeMatcher
 
@@ -33,8 +33,11 @@ from rrf_attribute_matcher import RRFAttributeMatcher
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-DB_PATH = "chroma_db_qwen"
-OUTPUT_DIR = Path("outputs/precise_similarity")
+# Get project root directory (2 levels up from this file)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+DB_PATH = str(PROJECT_ROOT / "chroma_db_qwen")
+OUTPUT_DIR = PROJECT_ROOT / "outputs/precise_similarity"
 ATTRIBUTE_COLLECTION = "attributes_simple"
 
 # Collections configuration

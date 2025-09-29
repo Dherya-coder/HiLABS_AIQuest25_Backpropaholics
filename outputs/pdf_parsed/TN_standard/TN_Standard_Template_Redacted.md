@@ -7,22 +7,22 @@
 --- Page 1 (OCR) ---
 
 Name According to W-9 Form with d/b/a:
-_
+fe
 PROVIDER AGREEMENT
 This Provider Agreement (hereinafter "Agreement") is made and entered into by and between J Tennessee,
-Inc., = Texas, Inc. (collectively referred in this Agreement as ‘J and the undersigned Provider
-(hereinafter "Provider"), effective as of the date set forth immediately ab signature (the "Effective Date").
+Inc., J Texas, Inc. (collectively referred in this Agreement as ‘J and the undersigned Provider
+(hereinafter "Provider", effective as of the date set forth immediately above yg signature (the "Effective Date").
 In accordance with this Agreement, J Tennessee, Inc. manages the Medicaid Program under a and
-( “Texas, Inc. manages the Medicare Advantage Program. In consideration of the mutual promises and
+Ms exas, Inc. manages the Medicare Advantage Program. In consideration of the mutual promises and
 covenants herein contained, the sufficiency of which is acknowledged by the parties, the parties agree as follows:
 [Alternate preamble for multiple TIN agreement, for use with Participating Provider Exhibit]
-This Provider Agreement (hereinafter "Agreement") is made and entered into by and between jy Tennessee,
-Inc., gy = =6Texas, Inc. (collectively referred in this Agreement as ‘yg and
+This Provider Agreement (hereinafter "Agreement") is made and entered into by and between jg Tennessee,
+Inc., (J Texas, Inc. (collectively referred in this Agreement as ‘Sy and
 , ("Provider") on behalf of itself and the Participating Providers set forth on the
-Participating Providers Exhibit and shall be effective as of the date set forth immediately above yg signature
+Participating Providers Exhibit and shall be effective as of the date set forth immediately above NN signature
 (the "Effective Date"). Unless otherwise specifically delineated, all references herein to "Provider" may also mean and
 refer to "Participating Provider" as defined below. In accordance with this Agreement, J Tennessee, Inc.
-manages the Medicaid Program under ) and MJ Texas, Inc. manages the Medicare Advantage
+manages the Medicaid Program under a] and GH Texas, Inc. manages the Medicare Advantage
 Program. In consideration of the mutual promises and covenants herein contained, the sufficiency of which is
 acknowledged by the parties, the parties agree as follows:
 ARTICLE |
@@ -30,19 +30,19 @@ DEFINITIONS
 "Affiliate" means any person, firm, corporation (including, without limitation, service corporation and professional
 corporation), partnership (including, without limitation, general partnership, limited partnership and limited liability
 partnership), limited liability company, joint venture, business trust, association or other entity or organization that (i)
-now or in the future directly or indirectly controls, is controlled by, or is under common control with the J = and/or
+now or in the future directly or indirectly controls, is controlled by, or is under common control with the = and/or
 (ii) that is identified as an Affiliate on a designated web site as referenced in the provider manual(s). Unless otherwise
 set forth in the Agreement, an Affiliate may access the rates, terms and conditions of this Agreement.
 "Agency" means a federal, state or local agency, administration, board or other governing body with jurisdiction over
 the governance or administration of a Health Benefit Plan.
-"Audit" means a post-payment review of the Claim(s) and supporting clinical information reviewed by aN to
+"Audit" means a post-payment review of the Claim(s) and supporting clinical information reviewed by Ng to
 ensure payment accuracy. The review ensures Claim(s) comply with all pertinent aspects of submission and payment
 including, but not limited to, contractual terms, Regulatory Requirements, Coded Service Identifiers (as defined in the
 WCS) guidelines and instructions, J medical policies and clinical utilization management guidelines,
 reimbursement policies, and generally accepted medical practices. Audit does not include medical record review for
-quality and risk adjustment initiatives, or activities conducted by gag Special Investigation Unit (“SIU”).
-"Claim" means either the uniform bill claim form or electronic claim form in the format prescribed by I Submitted
-by a provider for payment by a I for Health Services rendered to a Member.
+quality and risk adjustment initiatives, or activities conducted by gg Special Investigation Unit (“SIU”).
+"Claim" means either the uniform bill claim form or electronic claim form in the format prescribed by J submitted
+by a provider for payment by a i for Health Services rendered to a Member.
 "CMS" means the Centers for Medicare & Medicaid Services, an administrative agency within the United States
 Department of Health & Human Services ("HHS").
 "Cost Share" means, with respect to Covered Services, an amount which a Member is required to pay under the terms
@@ -51,10 +51,10 @@ deductible, penalty or other Member payment responsibility, and may be a fixed a
 payment for Covered Services rendered to the Member.
 "Covered Services" means Medically Necessary Health Services, as determined by J and described in the
 applicable Health Benefit Plan, for which a Member is eligible for coverage.
-"Government Contract" means the contract between and an applicable party, such as an Agency, which
-governs the delivery of Health Services by ggg to Member(s) pursuant to a Government Program.
+"Government Contract" means the contract between J and an applicable party, such as an Agency, which
+governs the delivery of Health Services by jg to Member(s) pursuant to a Government Program.
 "Government Program" means any federal or state funded program under the Social Security Act, and any other
-federal, state, county or other municipally funded program or product in which jag maintains a contract to furnish
+federal, state, county or other municipally funded program or product in which jg maintains a contract to furnish
 services. For purposes of this Agreement, Government Program does not include the Federal Employees Health
 Benefits Program ("FEHBP"), or any state or local government employer program.
 
@@ -1183,8 +1183,7 @@ each Member assigned to them.
 ## 1.4
 Reportable Event Management (“REM”) Providers shall comply with applicable Government Contract rules
 and regulations related to Reportable Event Management as it relates to CHOICES, ECF CHOICES, and
-## 1915
-(c) Waiver Members including those requirements specified in this Section and in Section A.2.15.7 of the
+1915(c) Waiver Members including those requirements specified in this Section and in Section A.2.15.7 of the
 Government Contract.
 ## 1.4.1
 Provider shall report, respond to, and document for three (3) categories of reportable events: Tier 1,
@@ -1201,8 +1200,7 @@ Abuse Hotline as soon as possible, but no later than four (4) hours after the oc
 the event or the discovery. The provider shall submit a corresponding REF for Tier 1
 Reportable Events within one (1) business day of the Hotline report. shall also
 require that such providers provide initial notification to using the REF for all Tier
-## 2
-Reportable Events within one (1) business day from the date of witnessing or discovering
+2 Reportable Events within one (1) business day from the date of witnessing or discovering
 the Tier 2 Reportable Event.
 ## 1.4.1.2
 Provider shall ensure that its staff immediately take effective steps to prevent further harm
@@ -1295,8 +1293,7 @@ federal or state laws prohibit individuals with certain criminal records from ho
 engaging in certain occupations, an individual whose background, registry or exclusion check reveals past
 criminal conduct shall be given an opportunity to undergo an individualized assessment in accordance with
 the applicable laws and legal guidance, including, but not limited to CRA Section A.2.9.9.6 and Rule
-## 1200
--13-01.05.
+1200-13-01.05.
 ## 1.6
 Government Contract Requirements.
 T
@@ -1457,8 +1454,7 @@ entities to provide items or services to Members.
 ## 1.6.11
 Prohibit CHOICES, ECF CHOICES, and 1915(c) waiver providers from altering in any manner official
 CHOICES, ECF CHOICES, Money Follows the Person Rebalancing Demonstration (“MFP”), or
-## 1915
-(c) waiver materials unless has submitted a request to do so to the applicable State
+1915(c) waiver materials unless has submitted a request to do so to the applicable State
 Agency and obtained prior written approval from the applicable State Agency in accordance with
 Section A.2.17 of the Government Contract.
 ## 1.6.12
@@ -1883,8 +1879,7 @@ Steps for submitting payment:
 Checks should be made out to and mailed to the address below. Include as a note on the remit check that
 this payment is for the Episodes of Care program and the name of the Episode(s) the risk share amount is referencing:
 Tennessee Attn: Finance Department- Episodes of Care Risk Share Payment
-## 22
-Century Blvd., Suite 310
+22 Century Blvd., Suite 310
 Nashville, TN 37214
 Gain Sharing Amount: If the risk-adjusted total episode cost is less than the acceptable cost threshold for the episode
 measurement period, the Quarterback’s unadjusted payment by will be calculated according to the
@@ -2065,61 +2060,60 @@ Payment Attachment [Contraxx ID #]
 
 --- Page 34 (OCR) ---
 
-MN PROVIDER EPISODE-BASED RETROSPECTIVE PAYMENT:
+Ms PROVIDER EPISODE-BASED RETROSPECTIVE PAYMENT:
 THRESHOLDS 2024 Waves 1-9 ATTACHMENT
 Provider Episode-Based Retrospective Payment: 2024 Thresholds Waves 1-9
 Episodes Threshold for Quality Indicators Linked to Acceptable Commendable Gain Share | Effective
-Pp Gain Sharing Threshold Threshold Limits Date
-## 1
-. Follow-up care within the $196
-post-trigger window $1,216 $756
-## 2
-. Appropriate medications
-within the trigger and post-
+m Gain Sharing Threshold Threshold Limits Date
+1. Follow- ithin th
+ollow-up care within the 30% $196
+post-trigger window $1,216 $756 Jan 2024
+jan
+Asthma 2. Appropriate medications
+within the trigger and post- 60%
 trigger window
-fal 1. Primary C-section
-w 2 $8,420 $2,348
-## 2
-‘natal 25% Jan 2024
-= | Perinatal 2. Hepatitis © $6,368
-. 50%:
+cal 1. Primary C-section
+¥ erimmeweton | $8,420 nan ere
+4 .
+Perinatal a $6,368
+= 2. Hepatitis Cc
 screening rate
-## 2
-. HIV screening rate [oom |
-, Related admission during the $13,561 $9,516 $8,473 Jan 2024
-Total Joint Replacement ,
+3. HIV screening rate
+we + $8,473
+Total Joint Replacement Related admission during the 10% $13,561 $9,516 Jan 2024
 post-trigger window
 $252
-a $1,325
-COPD Acute Exacerbation | Follow-up care within the post- | y.4 $3,288 Jan 2024
+supe $1,325
+Follow- ithin thi t- 3,288 ’ Jan 2024
+COPD Acute Exacerbation OMOW CUP Care WIEHIT ENE Pos: 45% $3, an
 trigger window
 $267
 No quality metrics linked to $1,487 Jan 2024
-Colonoscopy $675
+Colonoscopy . $675
 gain sharing
-S Hospital admission in the post- $6,665 $3,774 sees Jan 2024
-## 2
-| Cholecystectomy ospita’ a pe 10% g
+1,653
+“ 5 ar $6,665 $1,
+w Hospital admission in the post- $3,774 Jan 2024
+z Cholecystectomy . . 10%
 trigger window
 =
 $6,098 $4,517
-‘Acute PCI Hospital admission in the post- $26,000 Jan 2024
+Acute PCI Hospital admission in the post- 10% $26,000 Jan 2024
 trigger window
+Non-acute PCI Hospital admission in the post- Jan 2024
 trigger window
 $376
-a $3,680 Jan 2024
-Gi Hemorrhage (GIH) Follow-up care within the post- 45% $7,305
+supe $3,680 Jan 2024
+Gl Hemorrhage (GIH) Follow-up care within the post- 45% $7,305
 trigger window
-$368
-o $1,685 Jan 2024
-w ED visit within the post-trigger " $822
-## 2
-Z | Upper Gl endoscopy (EGD) | i ayy 10%
+HH ED visit within the post-trigger $1,685 $822 88 Jan 2024
+Zz | Upper GI endoscopy (EGD) . P 86 10%
+window
 =
 $221 $105 $21
-. . ED visit within the post-trigger
-R tory Infecti i" 10%
-‘espiratory Infection window
+ED visit within th t-trii Jan 2024
+Respiratory Infection . VISIE within the post trigger 10% jan
+window
 
 
 
@@ -2129,8 +2123,7 @@ $2,355 $1,191 $329
 Follow-up care within the post- Jan 2024
 Pneumonia 30%
 trigger window
-## 1
-. Admission within the trigger
+1. Admission within the trigger
 window for ED triggered 5% $28
 Urinary Tract Infection episodes $106 Jan 2024
 $16 6
@@ -2140,16 +2133,14 @@ episodes
 $742
 $9,818 $4,479
 Urinary Tract Infection Follow-up care within the post- Jan 2024
-## 40
-%
+40%
 (UTI) Inpatient trigger window
 Tennessee Enterprise Provider Agreement 2024 Episode-Based Retro
 Payment Attachment [Contraxx ID #]
-## 4
+4
 EVAW
 Minimum Care requirement of
-## 5
-visits/claims during the 70%
+5 visits/claims during the 70%
 episode window
 $65
 Attention Deficit and
@@ -2157,8 +2148,7 @@ Jan 2024
 Hyperactivity Disorder $62 5 $26 8
 (ADHD)
 Utilization of therapy for
-## 1
-Visit
+1 Visit
 members aged 4 and 5
 $3,815
 Follow-up care within the post- Jan 2024
@@ -2170,36 +2160,31 @@ Graft (CABG) trigger window
 $509
 $4,300 Jan 2024
 Congestive Heart Failure Follow-up care within the post-
-## 60
-% $9,7 92
+60% $9,7 92
 (CHF) Acute Exacerbation trigger window
 Minimum Care requirement of $370
 Jan 2024
 Oppositional Defiant 6 therapy or level 1 case
-## 30
-% $1,8 44 $40 8
+30% $1,8 44 $40 8
 Disorder (ODD) management visit during the
 episode window
 Jan 2024
 Valve repair and Follow-up care within the post-
 N A N A N A N A
 replacement trigger window
-## 5
+5
 EVAW
 Appropriate diagnostic workup $639
-## 90
-%
+90%
 rate $2,877 $1,170 Jan 2024
 Breast Biopsy
 Core needle biopsy rate 85%
 OME episodes without
-## 25
-% $126 $26 Jan 2024
+25% $126 $26 Jan 2024
 antibiotics filled $219
 Otitis media
 Non-OME episode with
-## 60
-%
+60%
 amoxicillin filled
 
 | Urinary Tract Infection
@@ -2258,17 +2243,15 @@ Tonsillectomy 5%
 following the procedure
 Tennessee Enterprise Provider Agreement 2024 Episode-Based Retro
 Payment Attachment [Contraxx ID #]
-## 6
+6
 EVAW
 Bacterial cultures when I&D $26
-## 50
-% $159
+50% $159
 performed-higher is better Jan 2024
 SSTI $41 3
 SSTI episodes with a first line
 antibiotic
-## 90
-% 1
+90% 1
 Jan 2024
 HIV Periodic ART refill N A N A N A N A
 $5,159 $2,098
@@ -2279,42 +2262,35 @@ window
 $1,151
 Follow-up care within the first $7,365 Jan 2024
 Diabetes Acute $4,984
-## 30
-days of the post trigger 30%
+30 days of the post trigger 30%
 Exacerbation
 window
 Provider Episode-Based Retrospective Payment: 2024 Thresholds Waves 1-9
 Threshold for Quality Indicators Linked to Acceptable Commendable Gain Share Effective
 Episodes
 Gain Sharing Threshold Threshold Limits Date
-## 7
+7
 evaW
 $39
 $251 Jan 2024
-## 80
-%1 $600
+80%1 $600
 Back/ Neck Pain Difference in Average MED/day
-## 1
-. Follow-up care within the
+1. Follow-up care within the
 post-trigger window
 N A
 Femur/ Pelvic Fracture N A N A N A Jan 2024
-## 2
-. Difference in Average
+2. Difference in Average
 N A
 MED/day
 $1,655
 $4,816 Jan 2024
-## 80
-%1 $3,477
+80%1 $3,477
 Knee Arthroscopy Difference in Average MED/day
-## 80
-%1 $235 $50 Jan 2024
+80%1 $235 $50 Jan 2024
 Non-operative Ankle Injury Difference in Average MED/day $40 0
 $42
 $609
-## 80
-%1 $175 Jan 2024
+80%1 $175 Jan 2024
 Non-operative Knee Injury Difference in Average MED/day
 $53
 $255 Jan 2024
@@ -2322,8 +2298,7 @@ Non-operative Shoulder 80%1 $483
 Difference in Average MED/day
 Injury
 $522 $45 Jan 2024
-## 80
-%1 $227
+80%1 $227
 Non-operative Wrist Injury Difference in Average MED/day
 
 |  | Tonsillectomy | Bleeding up to two days
@@ -2387,75 +2362,60 @@ Injury | Difference in Average MED/day | 80%1 | $483 | $255 | $53 | Jan 2024 |
 
 $5,765 $5,013
 $10,250 Jan 2024
-## 80
-%1
+80%1
 Spinal Decompression Difference in Average MED/day
 $9,765
 $38,238
-## 80
-%1 $13,522 Jan 2024
+80%1 $13,522 Jan 2024
 Difference in Average MED/day
 Spinal Fusion
 Tennessee Enterprise Provider Agreement 2024 Episode-Based Retro
 Payment Attachment [Contraxx ID #]
-## 8
+8
 evaW
 Abdominal or pelvic CT or MRI
-## 40
-%
+40%
 in adults
 Acute Gastroenteritis
 Abdominal or pelvic CT or MRI 30%
 $996 $584 $68 Jan 2024
 in children
 Antibiotics utilization 30%
-## 1
-. Brain MRI utilization in focal
-## 10
-% $207
+1. Brain MRI utilization in focal
+10% $207
 epilepsy $2,185 $1,003 Jan 2024
 Acute Seizure 2. Prolonged EEG monitoring
 utilization in newly diagnosed 10%
 seizure
-## 1
-. Abdominopelvic CT scans in $1,395
-## 50
-% $7,271 Jan 2024
+1. Abdominopelvic CT scans in $1,395
+50% $7,271 Jan 2024
 children $5,200
 Appendectomy
-## 2
-. Difference in Average 80%1
+2. Difference in Average 80%1
 MED/day
-## 1
-. Related admission during the
-## 10
-%
+1. Related admission during the
+10%
 post-trigger window $145
 $701 Jan 2024
 $1,102
 Bronchiolitis 2. Utilization of
 bronchodilators
-## 30
-%
-## 3
-. Utilization of steroids 50%
+30%
+3. Utilization of steroids 50%
 Provider Episode-Based Retrospective Payment: 2024
 Thresholds Waves 1-9
 Threshold for Quality Indicators Linked to Acceptable Commendable Gain Share Effective
 Episodes
 Gain Sharing Threshold Threshold Limits Date
-## 8
+8
 evaW
-## 1
-. LEEP utilization under 26
+1. LEEP utilization under 26
 $82
 years old with no evidence of 5% 1 Jan 2024
 $669 $399
 Colposcopy high-grade dysplasia
-## 2
-. LEEP utilization with low-
-## 5
-% 1
+2. LEEP utilization with low-
+5% 1
 grade dysplasia
 Related follow-up care 25% 1
 $20,670 $1,756 $1,527 Jan 2024
@@ -2463,17 +2423,13 @@ GI Obstruction
 Difference in Average MED/day 80%1
 $1,558
 $5,587
-## 80
-%1 $3,201 Jan 2024
+80%1 $3,201 Jan 2024
 Hernia Repair Difference in Average MED/day
-## 1
-. Alternative treatments 20% $8,232
+1. Alternative treatments 20% $8,232
 $7,289 $4,266 Jan 2024
-## 2
-. Related follow-up care 10%
+2. Related follow-up care 10%
 Hysterectomy
-## 1
-. Related admission during the $1,353 $743 $173
+1. Related admission during the $1,353 $743 $173
 Pediatric Pneumonia 10%
 post-trigger window Jan 2024
 
@@ -2651,15 +2607,11 @@ evaW | Colposcopy |  | 1. LEEP utilization under 26 |  | 5% 1 |  |  | $669 |  | 
 
 --- Page 38 ---
 
-## 2
-. Utilization of macrolides in
-## 30
-%
+2. Utilization of macrolides in
+30%
 patients under 6 years old
-## 3
-. Utilization of narrow
-## 50
-%
+3. Utilization of narrow
+50%
 spectrum antibiotics
 $38 Jan 2024
 Carotid ultrasound imaging in $858 $224
@@ -2674,33 +2626,25 @@ Linked to Gain Sharing Threshold Threshold Date
 Limits
 Tennessee Enterprise Provider Agreement 2024 Episode-Based Retro
 Payment Attachment [Contraxx ID #]
-## 9
+9
 evaW
-## 1
-. Difference in average 80%1
+1. Difference in average 80%1
 MED/day
 $129 Jan 2024
-## 2
-. Related ED visit within the $2,112 $962
+2. Related ED visit within the $2,112 $962
 Cystourethroscopy 10%
 post-trigger window
-## 3
-. Repeat
-## 5
-%
+3. Repeat
+5%
 Cystourethroscopy
-## 1
-. Difference in average 80%1
+1. Difference in average 80%1
 $284 Jan 2024
 Acute Kidney and Ureter MED/day $1,371 $617
 Stones 2. Related ED visit within the
-## 15
-%
+15%
 post-trigger window
-## 1
-Change in quality metric threshold from 2023 CY.
-## 2
-New gain-sharing quality metric and threshold for 2024 CY.
+1 Change in quality metric threshold from 2023 CY.
+2 New gain-sharing quality metric and threshold for 2024 CY.
 Acceptable Cost Threshold: The dollar amount, as determined by to which the PAP’s or QB’s risk adjusted
 average episode cost (calculated in Section II below) for a Program Episode will be compared. The Acceptable Cost
 Threshold is used to determine the dollar amount of the Shared Risk Payment from the QB to and can be found on
@@ -3435,8 +3379,7 @@ Provider's request schedules of Medicaid Covered Services for applicable Medicai
 Provider in a timely manner of any material amendments or modifications to such schedules. will
 not issue any payments to Provider until Provider has obtained a Tennessee Medicaid provider number and
 has complied with the disclosure requirements, as applicable, in accordance with 42 CFR 455.100 through
-## 106
-and policies and procedures.
+106 and policies and procedures.
 ## 2.7
 Medicaid Member Verification. Provider shall establish a Medicaid Member's eligibility for Medicaid Covered
 Services prior to rendering services, except in the case of an Emergency Condition, as defined in the WCS,
@@ -3679,8 +3622,7 @@ give the Provider written notice of each such claim or suit and full right and o
 Provider's own defense thereof, together with full information and all reasonable cooperation; but the
 State of Tennessee does not hereby accord to the Provider, through its attorneys, any right(s) to
 represent the State of Tennessee or in any legal matter, such right being governed by TCA
-## 8
--6-106.
+8-6-106.
 ## 5.1.2
 The Provider shall indemnify and hold harmless the Indemnified Parties from all claims or suits which
 may be brought against the Indemnified Parties for infringement of any laws regarding patents or
@@ -4132,8 +4074,7 @@ If the Provider is a non-profit corporation duly existing and organized under th
 Tennessee which is a Federally Qualified Health Center as defined in 42 C.F.R. §405.2401, Provider
 is an entity to which the Federal Tort Claims Act may apply. For so long as Provider qualifies as an
 "employee" in accordance with Section 224 (g) of the Public Health Service Act ("PHS"), located at
-## 42
-U.S.C. § 223(g), as amended, Provider shall have its liability limits defined by Section 224(a) of
+42 U.S.C. § 223(g), as amended, Provider shall have its liability limits defined by Section 224(a) of
 the Federal Tort Claims Act. As an employee under the PHS, Provider carries no professional liability
 insurance; however, it is insured for general liability. This general liability insurance is for the benefit
 of the Provider only and provides no indemnification for any other entity whatsoever. The Provider
@@ -4665,8 +4606,7 @@ documents that pertain to Medicare Advantage Program such as the provider manual
 ## 9.5
 Illegal Remunerations. Both parties specifically represent and warrant that activities to be performed under
 this Agreement are not considered illegal remunerations (including kickbacks, bribes or rebates) as defined in
-## 42
-USCA § 1320(a)-7b.
+42 USCA § 1320(a)-7b.
 ## 9.6
 Compliance: Training, Education and Communications. In accordance with CMS requirements, Provider
 agrees and certifies that it, as well as its employees, subcontractors, Downstream Entities, Related Entities
@@ -4801,8 +4741,7 @@ parties agree as follows.
 ## 1.1
 Clean Claim. "Clean Claim" means a request for payment for a service rendered by Provider that (a) is timely
 submitted by Provider; (b) is accurate; (c) is submitted on a HIPAA compliant standard claim form including a CMS
-## 1500
-(08-05) or UB-04 CMS 1450 or successor forms thereto or the electronic equivalent of such claim form; (d) is a
+1500 (08-05) or UB-04 CMS 1450 or successor forms thereto or the electronic equivalent of such claim form; (d) is a
 complete claims submission following any and all HIPAA compliance standards (Levels1-7); (e) includes National
 Provider Identifier and Taxonomy information for Rendering, Attending and Billing providers; (f) includes, for all J-
 codes billed, NDC code and drug pricing information (NDC quantity, unit price and unit of measurement) are required,
@@ -5122,8 +5061,7 @@ Attachment [Contraxx ID #]
 --- Page 76 ---
 
 Children's Health Insurance Program (SCHIP), or any Federal health care programs (as defined in Section
-## 1128
-B(f) of the Social Security Act) and not employ or contract with an individual or entity that has been
+1128B(f) of the Social Security Act) and not employ or contract with an individual or entity that has been
 excluded. The nursing facility shall be required to immediately report to any exclusion information
 discovered. The nursing facility shall be informed that civil monetary penalties may be imposed against
 Providers who employ or enter into contracts with excluded individuals or entities to provide items or services
@@ -5171,8 +5109,7 @@ specialized ERC, is certified by CMS for program participation, and is compliant
 the applicable type of ERC and requirements for ERC reimbursement established by the applicable State Agency.
 ## 1.13
 Non-Discrimination. Provider shall abide by the federal Civil Rights Act of 1964, the Federal Rehabilitation Act of
-## 1973
-, and all other applicable statutes, regulations and orders (including, without limitation, Executive Orders 11246
+1973, and all other applicable statutes, regulations and orders (including, without limitation, Executive Orders 11246
 and 11375, "Equal Employment Opportunities") as amended, and any and all successor statutes, regulations and
 related orders. Provider shall not exclude any Medicaid Member from participation in any aid, care, service or other
 benefit, or deny any Medicaid Member such Medicaid Covered Services on the grounds of handicap, and/or disability,
@@ -5202,14 +5139,14 @@ Attachment [Contraxx ID #]
 
 --- Page 78 (OCR) ---
 
-HS COMPENSATION SCHEDULE ("WCS")
-ARTICLE!
+ME) COMPENSATION SCHEDULE ("WCS")
+ARTICLE |
 DEFINITIONS
 The definitions set forth below shall apply with respect to all of the terms outlined in this WCS. Terms not otherwise
 defined in this WCS and defined elsewhere in the Agreement shall carry the meanings set forth in the Agreement.
-"Capitation" means the amount paid by gg to a provider or management services organization on a per member
+"Capitation" means the amount paid by gag to a provider or management services organization on a per member
 per month basis for either specific services or the total cost of care for Covered Services.
-"Case Rate" means the all-inclusive jg Rate for an entire admission or one outpatient encounter for Covered
+"Case Rate" means the all-inclusive gg Rate for an entire admission or one outpatient encounter for Covered
 Services.
 "Chargemaster" or "Charge Master" means facility's listing of facility charges for products, services and supplies.
 "Coded Service Identifier(s)" means a listing of descriptive terms and identifying codes, updated from time to time by
@@ -5220,20 +5157,20 @@ Association Current Procedural Terminology ("CPT®-4"), CMS Healthcare Common Pr
 ("Revenue Code") and National Drug Code ("NDC") or their successors.
 "Cost to Charge Ratio" ("CCR") means the quotient of cost (total operating expenses minus other operating revenue)
 divided by charges (gross patient revenue) expressed as a decimal, as defined by Regulatory Requirements.
-“Diagnosis-Related Group" ("DRG") means Diagnosis Related Group or its successor as established by CMS or other
+"Diagnosis-Related Group" ("DRG") means Diagnosis Related Group or its successor as established by CMS or other
 grouper, including but not limited to, a state mandated grouper or other industry standard grouper.
 "DRG Rate" means the all-inclusive dollar amount which is multiplied by the appropriate DRG Weight to determine the
-(lg Rate for Covered Services.
+HE «Rate for Covered Services.
 "DRG Weight" means the weight applicable to the specific DRG methodology set forth in this WCS, including but not
 limited to, CMS DRG weights as published in the Federal Register, state agency weights, or other industry standard
 weights.
-“Eligible Charges" means those Provider Charges that meet J conditions and requirements for a Health
+"Eligible Charges" means those Provider Charges that meet [J conditions and requirements for a Health
 Service to be eligible for reimbursement. These conditions and requirements include but are not limited to: Member
 program eligibility, Provider program eligibility, benefit coverage, authorization requirements, provider manual
-specifications, Mg administrative, clinical and reimbursement policies and methodologies, code editing logic,
+specifications, J administrative, clinical and reimbursement policies and methodologies, code editing logic,
 coordination of benefits, Regulatory Requirements, and this Agreement. Eligible Charges do not include Provider
 Charges for any items or services that Provider receives and/or provides free of charge.
-“Emergency Condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including
+"Emergency Condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including
 severe pain) such that a prudent layperson, with an average knowledge of health and medicine, could reasonably
 expect the absence of immediate medical attention to result in serious jeopardy to the health of the individual, or in the
 case of a pregnant woman, the health of the woman or her unborn child; serious impairment to bodily functions; or
@@ -5241,8 +5178,8 @@ serious dysfunction of any bodily organ or part.
 “Emergency Services" means those Covered Services furnished by a provider qualified to furnish emergency services,
 and which are needed to evaluate or treat an Emergency Condition.
 “Encounter Data" means Claim information and any additional information submitted by a provider under capitated or
-tisk-sharing arrangements for Health Services rendered to Members.
-"Encounter Rate" means the jug Rate that is all-inclusive of professional, technical and facility charges including
+risk-sharing arrangements for Health Services rendered to Members.
+“Encounter Rate" means the ggg Rate that is all-inclusive of professional, technical and facility charges including
 evaluation and management, pharmaceuticals, routine surgical and therapeutic procedures, and diagnostic testing
 (including laboratory and radiology) capable of being performed on site.
 
@@ -5288,8 +5225,7 @@ Policies and/or Regulatory Requirements.
 # ARTICLE II
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with Policies
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with Policies
 or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service
 Identifier(s) reporting guidelines and instructions using HIPAA compliant billing codes. In addition, shall not
 pay any Claim(s) nor accept any Encounter Data submitted using non-compliant codes. audits that result in
@@ -5481,21 +5417,17 @@ included in these services.
 "Hospice Services" means Covered Services designed to give supportive care to Members in the final phase of a
 terminal illness. Services include, but are not limited to, Routine Home Care Day, Continuous Home Care Day, Inpatient
 Respite Care Day and General Inpatient Care Day.
-## 1
-. Routine Home Care Day – means Covered Services for a day on which a Member who has elected to receive
+1. Routine Home Care Day – means Covered Services for a day on which a Member who has elected to receive
 hospice care at current residence and is not receiving continuous care.
-## 2
-. Continuous Home Care Day – means Covered Services for a day on which a Member who has elected hospice care
+2. Continuous Home Care Day – means Covered Services for a day on which a Member who has elected hospice care
 is at home and receives hospice care consisting predominately of nursing care on a continuous basis at home. A
 continuous home care day is only furnished during brief periods of crisis, and only as necessary to maintain the
 terminally ill patient at home with a minimum of eight (8) hours of care being furnished on a particular day to qualify as
 a continuous home care day.
-## 3
-. Inpatient Respite Care Day – means Covered Services for a day on which a Member who has elected Hospice care
+3. Inpatient Respite Care Day – means Covered Services for a day on which a Member who has elected Hospice care
 receives services in an inpatient facility (skilled nursing facility, hospital or inpatient hospice house) on a short-term
 basis when necessary to relieve family members or others caring for the Member, for respite.
-## 4
-. General Inpatient Care Day – means Covered Services for a day on which the Member who has elected Hospice
+4. General Inpatient Care Day – means Covered Services for a day on which the Member who has elected Hospice
 care receives inpatient services for pain control or acute or chronic symptom management which cannot be managed
 in other settings.
 "Independent Laboratory (LAB)" means an entity that provides Health Services involving the procurement,
@@ -5558,8 +5490,7 @@ Provider shall deliver a report of the results of PAP laboratory tests to the or
 (7) calendar days from the date Provider picks up the specimen.
 Unless otherwise directed by 1) Provider agrees to submit Claims to for LAB services only when
 a provider with whom the Member has an established provider-patient relationship has ordered such LAB services and;
-## 2
-) LAB services generated through Provider’s subcontractors, used solely for the purposes of creating orders for lab
+2) LAB services generated through Provider’s subcontractors, used solely for the purposes of creating orders for lab
 testing, are not eligible for reimbursement under this Agreement.
 "Independent Practice Association (IPA)" means a legal entity organized and operated on behalf of individual
 participating medical professionals for the primary purpose of collectively entering into contracts to provide Health

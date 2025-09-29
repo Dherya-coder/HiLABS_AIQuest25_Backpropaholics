@@ -2429,52 +2429,52 @@ by External Sources to of fee schedule(s)/rate(s)/methodologies change.
 
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICAID
-For purposes of determining the eemmmnrsa Rate, the total reimbursement amount that Provider and a arsicuam
-have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on
+For purposes of determining the aman Rate, the total reimbursement amount that Provider and  arsiemam
+have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement In effect on
 the date of service shall be as set forth below.
-The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by J at any
+The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by A at any
 time during the term of this Agreement and will be applied on a prospective basis.
 Po Program: Medicaid Network
 Behavioral Health Facili
-Billing Code Rate/Methodolog)
+Billing Code
 Inpatient Psychiatric Revenue Codes 0114, $561.00 Per Diem
 Services 0124, 0134, 0154
 Inpatient Detox Services Revenue Codes 0116, $561.00 Per Diem
 0126, 0136, 0156
 1. Applicable for Island County, Whatcom County, and Spokane Facilities only.
-2. Provider agrees to reference SERI coding guidelines, available through [J Web portal, to ensure the
+2. Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the
 proper billing and reimbursement.
-Po Program Medicaid Network
+Po Program: Medicaid Network
 Behavioral Health Facili
 Billing Code Rate/Methodolog)
 Co-Occurring Residential H0018 with applicable $314.44 Per Diem
 Program modifier
 Room and Board H2036 with applicable $12.57
 modifier
-Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the
+1.Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the
 proper billing and reimbursement.
 2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
 diagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed
 daily.
-Po Program: Medicaid Network
-Behavioral Health Facili
-Billing Code Rate/Methodolog)
+rogram: Medicaid Network
+Behavioral Health Facil
+Billing Code
 Opiate Use Disorder H0018 $279.73 Per Diem
 Program
 Room and Board H2036 with applicable $11.87 Per Diem
 modifiers
 Applicable for NPI: 1912563883
-1.Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the
+1.Provider agrees to reference SERI coding guidelines, available through [EE Web portal, to ensure the
 proper billing and reimbursement.
 2.Per Diem Method is an all-inclusive rate for each day for all services including, but not limited to professional
 diagnostic and therapeutic services, ancillary services, supplies, medications, etc. Only one (1) per diem can be billed
 daily.
-Po Program: Medicaid Network
-Behavioral Health Facili
-Billing Code Rate/Methodolog)
-Sub Acute Withdrawal North Sound Medicaid Percentage
+Po Progra: Medicaid Network
+Behavio Health Facili
+Billing Code Rate/Methodolog
+Sub Acute Withdrawal North Sound Medicaid Percentage Per Month
 Management- Skagit Eligibles of Program Utilization
-Community Detox multiplied by the amount in
+Cammiinity Matayv musitinliod hy tho ampayint in
 
 
 
@@ -2484,53 +2484,53 @@ Community Detox multiplied by the amount in
 
 --- Page 43 (OCR) ---
 
-PO Section 1. Po
+po Section 2. Po
 Sub Acute Withdrawal North Sound Medicaid Percentage
 Management- Whatcom Eligibles of Program Utilization
 multiplied by the amount in
 Section 1.b.
 1. Monthly Compensation for Services:
-a. Crisis Stabilization Services- Skagit Community ceo: actual percentage of
+a. Crisis Stabilization Services- Skagit Community cctox actual percentage of
 of program utilization of eligible members served in the North Sound Region multiplied by $225,794.54(Provider's
 monthly base).
-b. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Management: Iii actual percentage of
+b. Crisis Stabilization Services- Whatcom Sub Acute Withdrawal Management: Lmrsanmase actual percentage of
 of program utilization of eligible members served in the North Sound Region multiplied by $59,463.55 (Provider's
 monthly base).
-2. "Eligibles" are defined as any individuals who are eligible beneficiaries under | Washington State
+2. “Eligibles" are defined as any individuals who are eligible beneficiaries under EE Washington State
 Medicaid IMC managed care program and reside within the North Sound region.
 3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
 a. Provider will submit an invoice for Sub Acute Withdrawal Management Services on a monthly basis within 30 days
 of the end of the each month services were rendered
 b. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of
 open clients and service days.
-Cc. gl issue payment to Provider for monthly services within 20 business days of receipt of invoice.
-4. Provider understands and agrees that, any payment to the Provider by’ under this Agreement, is
-contingent upon J first receiving HCA's payment proportional share for
+c. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
+4. Provider understands and agrees that, any payment to the Provider by under this Agreement, is
+contingent upon J first receiving HCA's payment to [) proportional share for
 eligible Covered Person's residing in the North Sound Region.
 5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.
-6. Provider agrees to reference SERI coding guidelines, available through J Web portal, to ensure the
+6. Provider agrees to reference SERI coding guidelines, available through EE Web portal, to ensure the
 proper billing and reimbursement.
-Po Program Medicaid Network
-Behavioral Health Facili
-Rate/Methodolog)
+po Program: Medicaid Network
+Behavioral Health Facil
+Rate/Methodolog
 Mental Health Crisis Spokane Medicaid Eligibles Percentage
 Stabilization- Spokane of Program Utilization
 multiplied by the amount in
 Section 1.a.
 1. Monthly Compensation for Services:
-a. Mental Health Crisis Stabilization- Spokane: EY actual percentage of
+a. Mental Health Crisis Stabilization- Spokane: actual percentage of
 of program utilization of eligible members served in the Spokane Region multiplied by $275,113.00 (Provider's
 monthly base).
-2. "Eligibles" are defined as any individuals who are eligible beneficiaries under J Washington State
+2. “Eligibles" are defined as any individuals who are eligible beneficiaries under J Washington State
 Medicaid IMC managed care program and reside within the Spokane region.
 3. Reimbursement amount set forth above are inclusive of all services rendered by the provider.
 a. Provider will submit an invoice for Mental Health Crisis Stabilization Services on a monthly basis within 30 days
 of the end of the each month services were rendered
 b. The invoice shall detain each MCO's proportionate share of utilization, current month expense detail, and list of
 open clients and service days.
-Cc. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
-4. Provider understands and agrees that, any payment to the Provider by’ under this Agreement, is
-contingent upon EM first receiving HCA’s payment to Ol proportional share for
+c. will issue payment to Provider for monthly services within 20 business days of receipt of invoice.
+4. Provider understands and agrees that, any payment to the Provider by under this Agreement, is
+contingent upon EE first receiving HCA's payment to Ol proportional share for
 eligible Covered Person's residing in the North Sound Region.
 5. All applicable modifiers must be used in accordance with standard billing guidelines, if applicable.
 
@@ -2708,21 +2708,21 @@ For Covered Services furnished by or on behalf of Provider for a Member enrolled
 Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
 Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The i Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
 Services
-Outpatient Services Applicable Revenue Codes | Medicare Outpatient N/A
+Outpatient Services Applicable Revenue Codes_ | Medicare Outpatient N/A
 with Applicable Prospective Payment
 CPT/HCPCS Codes System and Medicare fee
 schedules multiplied by one
-hundred percent (100%
+hundred percent (100%)
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
 whole or in part, on Medicare rates, pricing, fee schedules, or methodologies published or established by CMS, shall
 refer to the per claim payment amounts that CMS and a Medicare beneficiary would directly pay to Provider for the
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
 process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-emma notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+a notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
 of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the
@@ -2754,18 +2754,18 @@ For Covered Services furnished by or on behalf of Provider for a Member enrolled
 Provider agrees to accept an amount that is the lesser of Eligible Charges or the commer Medicare Advantage
 Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The 7 Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The i Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
-Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee
 Services Codes Schedule multiplied by one
-hundred percent (100%
+hundred percent (100%)
 Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
 Biologicals Codes Schedule multiplied by one
 hundred percent (100%
 Laboratory Services Applicable CPT/HCPCS Medicare Clinical
 Codes Laboratory Fee Schedule
 multiplied by forty five
-percent (45%
+percent (45%)
 Plan shall compensate non-physician Primary Care Providers and Specialty Provider Individuals based on Medicare's
 percentage adjustments to the Medicare Physician Fee Schedule for each type of Provider.
 When determining the amount payable to Provider, any reimbursement terms in this Agreement that are based, in
@@ -2774,7 +2774,7 @@ refer to the per claim payment amounts that CMS and a Medicare beneficiary would
 same items or services under original Medicare Part A or Part B. The amount payable to Provider shall not include
 any bonus payment or settlement amount paid to Provider by CMS outside of the Medicare per claim payment
 process, unless otherwise set forth in the Medicare Advantage reimbursement terms of this Agreement. Unless
-Lerma Notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
+esas notifies Provider otherwise, in the event CMS changes payment to Provider due to a CMS directive, Act
 of Congress, Executive Order, other governmental pronouncement, or Regulatory Requirement, the amount payable
 to Provider hereunder will automatically be changed as soon as reasonably practicable, as described herein, in the
 amount specified by CMS as a result of such directive or change in law, or in the absence of such specification, in the

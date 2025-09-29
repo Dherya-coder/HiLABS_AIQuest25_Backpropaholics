@@ -184,8 +184,7 @@ contract regardless of the cause giving rise to termination and shall be constru
 of Provider's Members. If Provider enters into agreements with other providers who agree to provide
 Covered Services to Members of with the expectation of receiving payment directly or
 indirectly from then such providers must agree to abide by the provisions of WAC 284-
-## 170
--421(3) (a), (b), (c), (d), and (e). Provider agrees and understands that willfully collecting or
+170-421(3) (a), (b), (c), (d), and (e). Provider agrees and understands that willfully collecting or
 attempting to collect an amount from a Member knowing that collection to be in violation of the
 participating provider or facility contract constitutes a class C felony under RCW 48.80.030(5).
 ## 2.7
@@ -1025,19 +1024,16 @@ Number |
 MEDICAID INDIAN HEALTH CARE PROVIDER ADDENDUM
 TO THE WASHINGTON, INC.
 PROVIDER AGREEMENT
-## 1
-. Purpose of Addendum: Supersession.
+1. Purpose of Addendum: Supersession.
 The purpose of this Medicaid Addendum for Indian Health Care Providers ("IHCPs") is to apply special terms and
 conditions necessitated by federal law and regulations to the network provider agreement by and between
 Washington, Inc. (herein "Managed Care Plan") and herein ("Indian Health Care Provider (IHCP)"). To the extent that
 any provision of the Managed Care Plan's network provider agreement or any other addendum thereto is inconsistent
 with any provision of this Addendum, the provisions of this Addendum shall supersede all such other provisions.
-## 2
-. Definitions.
+2. Definitions.
 For purposes of this Addendum, the following terms and definitions shall apply:
 (a) "American Indian/Alaska Native (AI/AN)" means any individual defined at 25 U.S.C § 1603(13),
-## 1603
-(28), or 1679(a), or who has been determined eligible as an Indian, under 42 C.F.R. § 136.12.
+1603(28), or 1679(a), or who has been determined eligible as an Indian, under 42 C.F.R. § 136.12.
 This means the individual is a member of a federally recognized Indian tribe or resides in an urban
 center and meets one or more of the following criteria:
 • Is a member of a tribe, band, or other organized group of Indians, including those tribes,
@@ -1066,16 +1062,14 @@ and Human Services established by the IHCIA Section 601, 25 U.S.C. § 1661.
 (f) "Tribal health program" has the meaning given in the IHCIA Section 4(25), 25 U.S.C. § 1603(25).
 (g) "Tribal organization" has the meaning given in the IHCIA Section 4(26), 25 U.S.C. § 1603(26).
 (h) "Urban Indian organization" has the meaning given in the IHCIA Section 4(29), 25 U.S.C. § 1603(29).
-## 3
-. Description of Indian Health Care Provider.
+3. Description of Indian Health Care Provider.
 The IHCP identified in Section 1 of this Addendum is (select the appropriate option):
 
 
 
 --- Page 20 ---
 
-## 4
-. Cost-Sharing Exemption for AI/AN; No Reduction in Payments.
+4. Cost-Sharing Exemption for AI/AN; No Reduction in Payments.
 The Managed Care Plan shall not impose any enrollment fee, premium, or similar charge, and no deduction,
 copayment, cost sharing, or similar charge shall be imposed against an AI/AN who is furnished an item or service
 directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through
@@ -1085,19 +1079,16 @@ health care provider through referral under contract health services for the fur
 who is eligible for assistance under the Medicaid program may not be reduced by the amount of any enrollment fee,
 premium, or similar charge, and no deduction, copayment, cost sharing, or similar charge. Section 1916(j) of the Social
 Security Act, (42 U.S.C. §1396o-(j)), 42 C.F.R. 447.56 and §457.535.
-## 5
-. Enrollee Option to Select the IHCP as Primary Health Care IHCP.
+5. Enrollee Option to Select the IHCP as Primary Health Care IHCP.
 The Managed Care Plan shall allow any AI/AN otherwise eligible to receive services from an IHCP to choose the IHCP
 as the AI/AN's primary health care provider if the IHCP has the capacity to provide primary care services to such AI/AN,
 and any referral from such IHCP to a network provider shall be deemed to satisfy any coordination of care or referral
 requirement of the Managed Care Plan. Section 1932(h)(1) of the Social Security Act, (42 U.S.C. § 1396u-2(h)), 42
 CFR 438.14((b)(3), and 457.1209.
-## 6
-. Agreement to Pay IHCP.
+6. Agreement to Pay IHCP.
 The Managed Care Plan shall pay the IHCP for covered Medicaid managed care services in accordance with the
 requirements set out in section 1932(h) of the Social Security Act, (42 USC 1396u-2(h)), 42 CFR 438.14 and 457.1209.
-## 7
-. Persons Eligible for Items and Services from IHCP.
+7. Persons Eligible for Items and Services from IHCP.
 (a) Nothing in this agreement shall be construed to in any way change, reduce, expand, or alter the
 eligibility requirements for services through the IHCP's programs, as determined by federal law
 including the IHCIA, 25 U.S.C. § 1601, et seq. and/or 42 C.F.R. Part 136.
@@ -1107,17 +1098,14 @@ from the IHCP. The Managed Care Plan acknowledges that pursuant to 45 C.F.R. 80.
 individual shall not be deemed subjected to discrimination by reason of his/her exclusion from
 benefits limited by federal law to individuals eligible for services from the IHCP. IHCP acknowledges
 that the nondiscrimination provisions of federal law may apply.
-## 8
-. Applicability of Federal Laws not Generally Applicable to other Providers.
+8. Applicability of Federal Laws not Generally Applicable to other Providers.
 Certain federal laws and regulations apply to IHCPs, but not other providers. IHCPs cannot be required to violate those
 laws and regulations as a result of serving MCO enrollees. Applicable provisions may include, but are not limited to
 those laws cited in Appendix A.
-## 9
-. Non-Taxable Entity.
+9. Non-Taxable Entity.
 To the extent the IHCP is a non-taxable entity, the IHCP shall not be required by a Managed Care Plan to collect or
 remit any federal, state, or local tax.
-## 10
-. Insurance and Indemnification.
+10. Insurance and Indemnification.
 (a) Indian Health Service. The Indian Health Service (IHS) shall not be required to obtain or maintain
 insurance (including professional liability insurance), provide indemnification, or guarantee that the
 Managed Care Plan will be held harmless from liability. This is because the IHS is covered by the
@@ -1152,16 +1140,14 @@ guarantee that the Managed Care Plan will be held harmless from liability to the
 attests that it is covered by the FTCA. Nothing in the Managed Care Plan network provider agreement
 or any addendum thereto shall be interpreted to authorize or obligate such provider or any employee
 of such provider to perform any act outside the scope of his/her employment.
-## 11
-. Licensure and Accreditation.
+11. Licensure and Accreditation.
 Pursuant to 25 USC 1621t and 1647a, the managed care organization shall not apply any requirement that any entity
 operated by the IHS, an Indian tribe, tribal organization or urban Indian organization be licensed or recognized under
 the State or local law where the entity is located to furnish health care services, if the entity attests that it meets all the
 applicable standards for such licensure or recognition. In addition, the managed care organization shall not require the
 licensure of a health professional employed by such an entity under the State or local law where the entity is located,
 if the professional is licensed in another State.
-## 12
-. Dispute Resolution.
+12. Dispute Resolution.
 In the event of any dispute arising under the Managed Care Plan's network provider agreement or any addendum
 thereto, the parties agree to meet and confer in good faith to resolve any such disputes. Notwithstanding any provision
 in the Managed Care Plan's network agreement, the IHCP shall not be required to submit any disputes between the
@@ -1178,8 +1164,7 @@ may request HCA assistance in facilitating resolution. Executive leadership of t
 Plan must attend this meeting in person and be permitted to have legal counsel present.
 (c) The Managed Care plan will follow the protocols described in Subsection 15.1 of the Government
 Contract.
-## 13
-. Governing Law.
+13. Governing Law.
 The Managed Care Plan's network IHCP agreement and all addenda thereto shall be governed and construed in
 accordance with federal law of the United States. In the event of a conflict between such agreement and all addenda
 thereto and federal law, federal law shall prevail. Nothing in the Managed Care Plan's network IHCP agreement or any
@@ -1190,18 +1175,15 @@ greater extent than state law is already applicable.
 
 --- Page 22 ---
 
-## 14
-. Medical Quality Assurance Requirements.
+14. Medical Quality Assurance Requirements.
 To the extent the Managed Care Plan imposes any medical quality assurance requirements on its network IHCPs, any
 such requirements applicable to the IHCP shall be subject to Section 805 of the IHCIA (25 U.S.C. § 1675).
-## 15
-. Claims Format.
+15. Claims Format.
 The Managed Care Plan shall process claims from the IHCP in accordance with Section 206(h) of the IHCIA (25 U.S.C.
 § 1621e(h)), which does not permit an issuer to deny a claim submitted by a IHCP based on the format in which
 submitted if the format used complies with that required for submission of claims under Title XVIII of the Social Security
 Act or recognized under Section 1175 of such Act.
-## 16
-. Payment of Claims.
+16. Payment of Claims.
 The Managed Care Plan shall pay claims from the IHCP in accordance section 1932(h)(2) of the Act, (42 U.S.C.
 §1396u-2(h)), 42 C.F.R. 438.14(c)(2), and 457.1209 (the "Federal Payment Amount Requirements"), and shall pay at
 either the rate provided under the State plan in a Fee For Service payment methodology, or the applicable encounter
@@ -1209,21 +1191,17 @@ rate published annually in the Federal Register by the IHS (the "HIS Encounter R
 that if the Managed Care Plan does not pay the IHS Encounter Rate, the state shall pay the difference between the
 IHS Encounter Rate and the amount paid by the Managed Care Plan such that the IHCP receives the amount to which
 it is entitled under the Federal Payment Amount Requirements.
-## 17
-. Hours and Days of Service.
+17. Hours and Days of Service.
 The hours and days of service of the IHCP shall be established by the IHCP. The IHCP agrees that it will consider input
 from the Managed Care Plan as to its hours and days of service. At the request of the Managed Care Plan, such IHCP
 shall provide written notification of its hours and days of service.
-## 18
-. Coordination of Care/Referral Requirements.
+18. Coordination of Care/Referral Requirements.
 The Provider may make referrals to in-network providers and such referrals shall be deemed to meet any coordination
 of care and referral obligations of the Managed Care Plan.
-## 19
-. Sovereign Immunity.
+19. Sovereign Immunity.
 Nothing in the Managed Care Plan's network IHCP agreement or in any addendum thereto shall constitute a waiver of
 federal or tribal sovereign immunity.
-## 20
-. Endorsement.
+20. Endorsement.
 IHS or IHCP names and positions may not be used to suggest official endorsement or preferential treatment of the
 Managed Care Plan.
 APPROVALS
@@ -1477,8 +1455,7 @@ of receipt. Notwithstanding the foregoing, and Provider may agree to a different
 requirement in writing on a claim by claim basis.
 ## 3.1.5
 shall pay Provider interest at the rate of one percent (1%) per month, as set forth in WAC
-## 284
--170-431(2)(d) which section may be amended or recodified from time to time, on the unpaid or
+284-170-431(2)(d) which section may be amended or recodified from time to time, on the unpaid or
 undenied portion of Clean Claims not adjudicated within the time periods discussed above, as
 required under applicable prompt pay requirements.
 ## 3.1.6
@@ -1736,8 +1713,7 @@ Member needs in order to decide among all relevant treatment options.
 Program Integrity Requirements. Provider shall comply with HCA approved program integrity
 policies and procedures and the program integrity requirements of the Government Contract, including but not
 limited to compliance with section 1902(a)(68) of the Social Security Act, 42 C.F.R. § 438.610, 42 C.F.R. §455,
-## 42
-C.F.R. §1000 through 1008 and Chapter 182-502A WAC. If Provider is defined as a subcontractor under
+42 C.F.R. §1000 through 1008 and Chapter 182-502A WAC. If Provider is defined as a subcontractor under
 the Government Contract, Provider shall verify that services billed by Provider were actually provided to
 Medicaid Members and shall conduct ongoing analysis of utilization, claims, billing and/or encounter data to
 detect overpayments and including audits and investigations of Provider's subcontractors and downstream
@@ -1785,8 +1761,7 @@ party without the consent of HCA.
 ## 5.25
 Pharmacy Preauthorization and Emergency Fill Requirements. Provider and shall each comply with
 all applicable pharmacy preauthorization and emergency requirements of the Government Contract and WAC
-## 284
--170-470, including but not limited to compliance with the following:
+284-170-470, including but not limited to compliance with the following:
 (a) Disclose if the provider or pharmacy has the right to make a prior authorization request; and
 (b) Provide that if or Provider requires the authorization number to be transmitted on a
 pharmaceutical claim, the issuing party will provide the authorization number to the billing pharmacy.
@@ -2467,8 +2442,7 @@ documents that pertain to Plan's Medicare Advantage Program such as the provider
 ## 9.5
 Illegal Remunerations. Both parties specifically represent and warrant that activities to be performed under
 this Agreement are not considered illegal remunerations (including kickbacks, bribes or rebates) as defined in
-## 42
-USCA § 1320(a)-7b.
+42 USCA § 1320(a)-7b.
 ## 9.6
 Compliance: Training, Education and Communications. In accordance with CMS requirements, Provider
 agrees and certifies that it, as well as its employees, subcontractors, Downstream Entities, Related Entities
@@ -2665,14 +2639,11 @@ This is a Wraparound with Intensive Services ("WISe") Program Attachment (this "
 Provider Agreement ("Agreement"), entered into by and between and Provider ("Provider") and is
 incorporated into the Agreement.
 PROGRAM PROVISIONS
-## 1
-. Provider must be a Health Care Authority ("HCA") approved WISe agency.
-## 2
-. WISe Implementation. Provider agrees to cooperate with efforts in connection with development of Provider
+1. Provider must be a Health Care Authority ("HCA") approved WISe agency.
+2. WISe Implementation. Provider agrees to cooperate with efforts in connection with development of Provider
 capacity and workforce development. Provider shall report WISe capacity and service intensity data to on a
 monthly basis. Such data shall be submitted to no later than the fifth (5th) day of each month.
-## 3
-. Notifications.
+3. Notifications.
 ## 3.1
 Provider must notify if they are unable to maintain sufficient staffing levels of WISe qualified staff.
 ## 3.2
@@ -2681,24 +2652,20 @@ a) approved for the WISe program
 b) Denial of WISe services based on the CANS
 c) Reduction in services
 d) Suspension of services
-## 4
-. Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and
+4. Primary Setting. Provider agrees to provide WISe services in the home and in community locations, and at times and
 locations that ensure meaningful participation of youth, family members, and natural supports. Assessment, treatment,
 and support services are provided in the youth and family's natural setting, where needs, strengths, and challenges
 present themselves (such as home, school and community).
-## 5
-. WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current
+5. WISe Program Policy and Procedure Manual. Provider shall comply with all requirements of the most current
 Washington State WISe Program Policy and Procedure Manual, including, but not limited to, requirements related to
 grievances and appeals.
-## 6
-. Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and
+6. Policies and Procedures. Provider shall have in place policies and procedures applicable to the WISe Program and
 shall also comply with WISe Program policies and procedures communicated to Provider by In
 the event of any conflict between the terms of WISe policies and procedures and Provider's WISe policies
 and procedures, the terms of policies and procedures shall govern. In the event of any conflict between the
 terms of the Washington State WISe Program Policy and Procedure Manual and either or Provider's WISe
 policies and procedures, the terms of the Washington State WISe Program Policy and Procedure Manual shall govern.
-## 7
-. Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and
+7. Continuity of Care. Provider shall notify in the event that Medicaid Members receiving WISe services and
 transition age youth ("TAY") require assistance with any of the following:
 ## 7.1
 WISe TAY Medicaid Members approaching discharge from WISe who may require additional assistance with
@@ -2714,8 +2681,7 @@ assistance with care coordination to the new region.
 
 --- Page 50 ---
 
-## 8
-. Screening.
+8. Screening.
 ## 8.1
 For WISe Program eligibility screens, Provider shall complete a Child and Adolescent Needs and Strengths
 (CANS) screen, regardless of referral source. A mental health intake must not be required to be completed
@@ -2729,8 +2695,7 @@ screen is not considered to be complete until entered into the BHAS.
 ## 8.3
 Provider must notify in writing of all instances, regardless of the reason, where a Medicaid Member
 was given a CANS screen and not subsequently enrolled in the WISe Program.
-## 9
-. WISe Services.
+9. WISe Services.
 ## 9.1
 The provision of WISe services must include a Child and family Team (CFT) and, at a minimum, access to the
 following:
@@ -2746,8 +2711,7 @@ Intensive services;
 Delivery of the full WISe service array focused on the needs and strengths and driven by youth and family
 voices and choice will be evaluated in accordance with HCA's WISe Quality Management ("QM") Plan and
 the WISe QM Plan.
-## 10
-. WISe Collaborative.
+10. WISe Collaborative.
 ## 10.1
 Provider will participate in regional WISe Collaborative, Family Youth System Partner Round Table (FYSPRT)
 and other WISe-related meetings.
@@ -2765,15 +2729,15 @@ Provider will participate in WISe Quality Improvement Review (QIRT) processes.
 --- Page 51 (OCR) ---
 
 PLAN COMPENSATION SCHEDULE ("PCS")
-ARTICLE|
+ARTICLE |
 DEFINITIONS
 The definitions set forth below shall apply with respect to all of the terms outlined in this PCS. Terms not otherwise
 defined in this PCS and defined elsewhere in the Agreement shall carry the meanings set forth in the Agreement.
-"Capitation" means the amount paid by jg to a provider or management services organization on a per member
+"Capitation" means the amount paid by gg to a provider or management services organization on a per member
 per month basis for either specific services or the total cost of care for Covered Services.
-"Case Rate" means the all-inclusive jgggg Rate for an entire admission or one outpatient encounter for Covered
+"Case Rate" means the all-inclusive gy Rate for an entire admission or one outpatient encounter for Covered
 Services.
-“Chargemaster" or "Charge Master" means facility's listing of facility charges for products, services and supplies.
+"Chargemaster" or "Charge Master" means facility's listing of facility charges for products, services and supplies.
 "Coded Service Identifier(s)" means a listing of descriptive terms and identifying codes, updated from time to time by
 CMS or other industry source, for reporting Health Services on the CMS 1500 or CMS 1450/UB-04 claim form or its
 successor as applicable based on the services provided. The codes include but are not limited to, American Medical
@@ -2785,26 +2749,26 @@ divided by charges (gross patient revenue) expressed as a decimal, as defined by
 "Diagnosis-Related Group" ("DRG") means Diagnosis Related Group or its successor as established by CMS or other
 grouper, including but not limited to, a state mandated grouper or other industry standard grouper.
 "DRG Rate" means the all-inclusive dollar amount which is multiplied by the appropriate DRG Weight to determine the
-HM Rate for Covered Services.
+Hg «Rate for Covered Services.
 "DRG Weight" means the weight applicable to the specific DRG methodology set forth in this PCS, including but not
 limited to, CMS DRG weights as published in the Federal Register, state agency weights, or other industry standard
 weights.
-"Eligible Charges" means those Provider Charges that meet J conditions and requirements for a Health
+"Eligible Charges" means those Provider Charges that meet [J conditions and requirements for a Health
 Service to be eligible for reimbursement. These conditions and requirements include but are not limited to: Member
 program eligibility, Provider program eligibility, benefit coverage, authorization requirements, provider manual
-specifications, JJ administrative, clinical and reimbursement policies and methodologies, code editing logic,
+specifications, J] administrative, clinical and reimbursement policies and methodologies, code editing logic,
 coordination of benefits, Regulatory Requirements, and this Agreement. Eligible Charges do not include Provider
 Charges for any items or services that Provider receives and/or provides free of charge.
-“Emergency Condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including
+"Emergency Condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including
 severe pain) such that a prudent layperson, with an average knowledge of health and medicine, could reasonably
 expect the absence of immediate medical attention to result in serious jeopardy to the health of the individual, or in the
 case of a pregnant woman, the health of the woman or her unborn child; serious impairment to bodily functions; or
 serious dysfunction of any bodily organ or part.
 "Emergency Services" means those Covered Services furnished by a provider qualified to furnish emergency services,
 and which are needed to evaluate or treat an Emergency Condition.
-“Encounter Data" means Claim information and any additional information submitted by a provider under capitated or
+"Encounter Data" means Claim information and any additional information submitted by a provider under capitated or
 risk-sharing arrangements for Health Services rendered to Members.
-“Encounter Rate" means the I Rate that is all-inclusive of professional, technical and facility charges including
+“Encounter Rate" means the gg Rate that is all-inclusive of professional, technical and facility charges including
 evaluation and management, pharmaceuticals, routine surgical and therapeutic procedures, and diagnostic testing
 (including laboratory and radiology) capable of being performed on site.
 
@@ -2816,47 +2780,47 @@ evaluation and management, pharmaceuticals, routine surgical and therapeutic pro
 
 --- Page 52 (OCR) ---
 
-"Fee Schedule(s)" means the complete listing —_— Rate(s) for specific services that is payment for each unit of
+"Fee Schedule(s)" means the complete listing of guy Rate(s) for specific services that is payment for each unit of
 service allowed based on applicable Coded Service Identifier(s) for Covered Services.
 "Global Case Rate" means the all-inclusive gg Rate which includes facility, professional and physician services
 for specific Coded Service Identifier(s) for Covered Services.
-“Inpatient Services" means Covered Services provided by a facility to a Member who is admitted and treated as a
+"Inpatient Services" means Covered Services provided by a facility to a Member who is admitted and treated as a
 registered inpatient, is assigned a licensed bed within the facility, remains assigned to such bed and for whom a room
 and board charge is made.
 "Observation" means the services furnished on the facility's premises, including use of a bed and periodic monitoring
 by nursing or other staff, which are Medically Necessary to evaluate a Member's condition and determine if the Member
 requires an inpatient admission to the facility. Such determination shall be in compliance with Policies or Regulatory
 Requirements.
-“Outlier Rate" means the payment applied to an admission which exceeds the outlier threshold as set forth in the PCS
+"Outlier Rate" means the payment applied to an admission which exceeds the outlier threshold as set forth in the PCS
 or in compliance with Policies or Regulatory Requirements.
-“Outpatient Services" means Covered Services provided by a facility to a Member who is admitted and treated as a
+"Outpatient Services" means Covered Services provided by a facility to a Member who is admitted and treated as a
 registered outpatient within the facility.
-“Patient Day" means each approved calendar day of care that a Member receives in the facility, to the extent such day
+"Patient Day" means each approved calendar day of care that a Member receives in the facility, to the extent such day
 of care is a Covered Service under the terms of the Member's Health Benefit Plan, but excluding the day of discharge.
-"Percentage Rate" means the guy Rate that is a percentage of Eligible Charges billed by a provider for Covered
+“Percentage Rate" means the gg Rate that is a percentage of Eligible Charges billed by a provider for Covered
 Services.
-"Per Diem Rate" means the gag Rate that is the all-inclusive fixed payment for Covered Services rendered on a
+"Per Diem Rate" means the jy Rate that is the all-inclusive fixed payment for Covered Services rendered on a
 single date of service.
-"Per Hour Rate" means the ggg) Rate that is payment based on an increment of time for Covered Services.
-"Per Relative Value Unit" ("RVU") means the Ig Rate for each unit of service based on the CMS, State Agency
+"Per Hour Rate" means the gg Rate that is payment based on an increment of time for Covered Services.
+"Per Relative Value Unit" ("RVU") means the J Rate for each unit of service based on the CMS, State Agency
 or other (e.g., American Society of Anesthesiologists (ASA)) defined Relative Value Unit (RVU).
-"Per Service Rate" means the jg Rate that is payment for each service allowed based on applicable Coded
+"Per Service Rate" means the J Rate that is payment for each service allowed based on applicable Coded
 Service Identifier(s) for Covered Services.
-"Per Unit Rate" means the qq Rate that is payment for each unit of service allowed based on applicable Coded
+"Per Unit Rate" means the ggg Rate that is payment for each unit of service allowed based on applicable Coded
 Service Identifier(s) for Covered Services.
-"Per Visit Rate" means the jug Rate that is the all-inclusive fixed payment for one encounter for Covered Services.
-"Provider Charges" means the regular, uniform rate or price Provider determines and submits to Ng as charges
+"Per Visit Rate" means the qq Rate that is the all-inclusive fixed payment for one encounter for Covered Services.
+"Provider Charges" means the regular, uniform rate or price Provider determines and submits to J as charges
 for Health Services provided to Members. Such Provider Charges shall be no greater than the rate or price Provider
 submits to any person or other health care benefit payor for the same Health Services provided, regardless of whether
 Provider agrees with such person or other payor to accept a different rate or price as payment in full for such services.
-“Short Stay" means an inpatient hospital stay that is less than a specified number of calendar days in compliance with
+"Short Stay" means an inpatient hospital stay that is less than a specified number of calendar days in compliance with
 Policies and/or Regulatory Requirements.
 # ARTICLE Il
 GENERAL PROVISIONS
 Billing Form and Claims Reporting Requirements. Provider shall submit all Claims on a CMS 1500 or CMS 1450/UB-
-## 04
-claim form or its successor form(s) as applicable based on the Health Services provided in accordance with Policies
+04 claim form or its successor form(s) as applicable based on the Health Services provided in accordance with Policies
 or applicable Regulatory Requirements. Provider shall report all Health Services in accordance with the Coded Service
+Washington Enterprise Provider Agreement PCS it. 3 (RRRRHRRRR
 
 
 
@@ -2875,46 +2839,47 @@ Claim Submissions for Pharmaceuticals. Each Claim submitted for a pharmaceutical
 Coded Service Identifier(s), a National Drug Code ("NDC") number of the covered medication, a description of the
 product, and dosage and units administered.
 Coding Updates. Coded Service Identifier(s) used to define specific rates are updated from time to time to reflect new,
-deleted or replacement codes. _qgggg shall use commercially reasonable efforts to update all applicable Coded
+deleted or replacement codes. _yggy shall use commercially reasonable efforts to update all applicable Coded
 Service Identifiers within sixty (60) days of release by CMS or other applicable authority. When billing codes are
 updated, Provider is required to use appropriate replacement codes for Claims for Covered Services, regardless of
 whether this Agreement has been amended to reflect changes to standard billing codes. If Provider bills a revised code
 prior to the effective date of the revised code, the Claim will be rejected or denied and Provider shall resubmit Claim
 with correct code. In addition, Claims with codes which have been deleted will be rejected or denied.
-Coding Software. Updates to gy Claims processing filters, code editing software, pricers, and any edits related
+Coding Software. Updates to J Claims processing filters, code editing software, pricers, and any edits related
 thereto, as a result of changes in Coded Service Identifier(s) reporting guidelines and instructions, shall take place
-automatically and do not require any notice, disclosure or amendment to Provider. jag reserves the right to use
-a code editing software as reasonably required by ggg to ensure Claims adjudication in accordance with industry
-‘standards, including, but not limited to, determining which services are considered part of, incidental to, or inclusive of
+automatically and do not require any notice, disclosure or amendment to Provider. yg reserves the right to use
+a code editing software as reasonably required by jy to ensure Claims adjudication in accordance with industry
+standards, including, but not limited to, determining which services are considered part of, incidental to, or inclusive of
 the primary procedure and ensuring medically appropriate age, gender, diagnosis, frequency, and units billed.
 Modifiers. All appropriate modifiers must be submitted in accordance with Regulatory Requirements, industry standard
 billing guidelines and Policies. If appropriate modifiers are not submitted, Claims may be rejected or denied.
 New/Expanded Service or New/Expanded Technology. In accordance with the Scope/Change in Status section of the
 Agreement, as of the Effective Date of this Agreement, any New/Expanded Service or New/Expanded Technology
 (defined below) is not reimbursable under this Agreement. Notwithstanding the foregoing, Provider may submit the
-following documentation to gag at least sixty (60) days prior to the implementation of any New/Expanded Service
+following documentation to gy at least sixty (60) days prior to the implementation of any New/Expanded Service
 or New/Expanded Technology for consideration as a reimbursable service: (1) a description of the New/Expanded
 Service or New/Expanded Technology; (2) Provider's proposed charge for the New/Expanded Service or
-New/Expanded Technology; (3) such other reasonable data and information required by guy to evaluate the
-New/Expanded Service or New/Expanded Technology. In addition, NJ may also need to obtain approval from
+New/Expanded Technology; (3) such other reasonable data and information required by ggg to evaluate the
+New/Expanded Service or New/Expanded Technology. In addition, J may also need to obtain approval from
 applicable Agency prior to J making determination that New/Expanded Service or New/Expanded Technology
-can be considered a reimbursable service. If I agrees that the New/Expanded Service or New/Expanded
-Technology may be reimbursable under this Agreement, then gg shall notify Provider, and both parties agree to
-negotiate in good faith, a new (J Rate for the New/Expanded Service or New/Expanded Technology within sixty
-(60) days — notice to Provider. If the parties are unable to reach an agreement on a oa Rate
-for the New/Expani Service or New/Expanded Technology before the end of the sixty (60) day period, then such
+can be considered a reimbursable service. If Jy agrees that the New/Expanded Service or New/Expanded
+Technology may be reimbursable under this Agreement, then jg shall notify Provider, and both parties agree to
+negotiate in good faith, a new J Rate for the New/Expanded Service or New/Expanded Technology within sixty
+(60) days of NN notice to Provider. If the parties are unable to reach an agreement on a new Rate
+for the New/Expanded Service or New/Expanded Technology before the end of the sixty (60) day period, then such
 New/Expanded Service or New/Expanded Technology shall not be reimbursed by J and the Payment in Full
 and Hold Harmless provision of this Agreement shall apply.
 a. "New/Expanded Service" shall be defined as a Health Service: (a) that Provider was not providing to Members
-as of the Effective Date of this Agreement and; (b) for which there is not a specific gg Rate as set forth
+as of the Effective Date of this Agreement and; (b) for which there is not a specific J Rate as set forth
 in this PCS.
 b. "New/Expanded Technology" shall be defined as a technological advancement in the delivery of a Covered
 Service which results in a material increase to the cost of such service. New/Expanded Technology shall not
 include a new device, or implant that merely represents a new model or an improved model of a device or
 implant used in connection with a service provided by Provider as of the Effective Date of this Agreement.
-Non-Priced Codes for Covered Services. My reserves the right to establish a rate for codes that are not priced
+Non-Priced Codes for Covered Services. iy reserves the right to establish a rate for codes that are not priced
 in this PCS or in the Fee Schedule(s), including but not limited to, Not Otherwise Classified Codes ("NOC"), Not
 Otherwise Specified ("NOS"), Miscellaneous, Individual Consideration Codes ("IC"), and By Report ("BR") (collectively
+Washington Enterprise Provider Agreement PCS R22 (RRRRHRRRR
 
 
 
@@ -2924,39 +2889,39 @@ Otherwise Specified ("NOS"), Miscellaneous, Individual Consideration Codes ("IC"
 
 --- Page 54 (OCR) ---
 
-"Non-Priced Codes"). — shall only reimburse Non-Priced Codes for Covered Services in the following
-situations: (i) the Non-Pri le does not have a published dollar amount on the then current applicable Plan, State
+"Non-Priced Codes"). ggg shall only reimburse Non-Priced Codes for Covered Services in the following
+situations: (i) the Non-Priced Code does not have a published dollar amount on the then current applicable Plan, State
 or CMS Fee Schedule, (ii) the Non-Priced Code has a zero dollar amount listed, or (iii) the Non-Priced Code requires
-manual pricing. In such situations, such Non-Priced Code shall be reimbursed at a rate established by a for
-such Covered Service. Notwithstanding the foregoing, Ng shall not price Non-Priced Codes that are not Covered
+manual pricing. In such situations, such Non-Priced Code shall be reimbursed at a rate established by Ng for
+such Covered Service. Notwithstanding the foregoing, Mg shall not price Non-Priced Codes that are not Covered
 Services under the Members Health Benefit Plan. J May require the submission of medical records, invoices,
 or other documentation for Claims payment consideration.
-Reimbursement for Sa Rate Based on Eligible Charges. Notwithstanding any reimbursement amount set forth
+Reimbursement for a Rate Based on Eligible Charges. Notwithstanding any reimbursement amount set forth
 herein, Provider shall only be allowed to receive such reimbursement if such reimbursement is for an Eligible Charge.
 In addition, if Provider reimbursement is under one or more of the following methodologies: Capitation, Case Rate,
 DRG Rate, Encounter Rate, Global Case Rate, Per Diem Rate, Per Relative Value Unit (RVU), and Per Visit Rate, then
 individual services billed shall not be reimbursed separately, unless otherwise specified in the PCS Attachment(s).
 Reimbursement for Subcontractors. Plan shall not be liable for any reimbursement in addition to the applicable
-lm «=Rate as a result of Provider's use of a subcontractor. Provider shall be solely responsible to pay
+Hmm =~Rate as a result of Provider's use of a subcontractor. Provider shall be solely responsible to pay
 subcontractors for any Health Services, and shall via written contract, contractually prohibit such subcontractors from
-billing, collecting or attempting to collect — Plan or Members. Notwithstanding the foregoing, —
-has a direct contract with the subcontractor, the dit contract shall prevail over this Agreement and the sul ractor
-‘shall bill J Under the direct contract for any subcontracted services, with the exception of nursing services
+billing, collecting or attempting to collect from jg Plan or Members. Notwithstanding the foregoing, if uy
+has a direct contract with the subcontractor, the direct contract shall prevail over this Agreement and the subcontractor
+shall bill J under the direct contract for any subcontracted services, with the exception of nursing services
 provided for Home Infusion Therapy, or unless otherwise agreed to by the parties.
 Tax Assessment and Penalties. The gg Rates in this Agreement include all sales and use taxes and other taxes
 on Provider revenue, gross earnings, profits, income and other taxes, charges or assessments of any nature
 whatsoever (together with any related interest or penalties) now or hereafter imposed against or collectible by Provider
 with respect to Covered Services, unless otherwise required by Agency pursuant to Regulatory Requirements. Neither
-Provider nor Plan shall add any amount to or deduct any amount from the (J Rates, whether on account of
+Provider nor Plan shall add any amount to or deduct any amount from the J Rates, whether on account of
 taxes, assessments, tax penalties or tax exemptions.
-Updates tog] Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements, and
+Updates toy Rate(s) Based on External Sources. Unless otherwise required by Regulatory Requirements, and
 notwithstanding any proprietary fee schedule(s)/rate(s)/methodologies, I shall use commercially reasonable
-efforts to update the gy Rate(s) based on External Sources, which include but are not limited to, i) CMS Medicare
+efforts to update the I Rate(s) based on External Sources, which include but are not limited to, i) CMS Medicare
 fee schedule(s)/rate(s)/methodologies; ii) Medicaid or State Agency fee schedule(s)/rate(s)/methodologies; iii) vendor
 fee schedule(s)/rate(s)/methodologies; or iv) any other entity's published fee schedule(s)/rate(s)/methodologies
 (collectively "External Sources") no later than sixty (60) days after qu receipt of the final fee
 schedule(s)/rate(s)/methodologies change from such External Sources, or on the effective date of such final fee
-schedule(s)/rate(s)/methodologies change, whichever is later. The effective date of such final fee
+schedule(s)/rate(s)/methodologies change, whichever is _ later. The effective date of such final fee
 schedule(s)/rate(s)/methodologies change shall be the effective date of the change as published by External Sources.
 Fee schedule(s)/rate(s)/methodologies will be applied on a prospective basis. Claims processed prior to the
 implementation of the new J Rate(s) in J payment system shall not be reprocessed, however, if
@@ -2964,15 +2929,16 @@ reprocessing is required by Regulatory Requirements, and such reprocessing could
 over payment to a Provider, then Plan may reconcile the Claim adjustments to determine the remaining amount
 Provider owes Plan, or that Plan owes to Provider. Any resultant overpayment recoveries (i.e. Provider owes Plan)
 shall occur automatically without advance notification to Provider. Unless otherwise required by Regulatory
-Requirements, jg shall not be responsible for interest payments that may be the result of a late notification by
-External Sources to SN of fee schedule(s)/rate(s)/methodologies change.
+Requirements, Sg shall not be responsible for interest payments that may be the result of a late notification by
+External Sources to Sg of fee schedule(s)/rate(s)/methodologies change.
 # ARTICLE Ill
-SPECIFIC REIMBURSEMENT TERMS:
+SPECIFIC REIMBURSEMENT TERMS
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the gy Medicare Advantage Rate,
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the guy Medicare Advantage Rate,
 minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this amount,
 plus applicable Cost Shares, is full compensation for Covered Services.
+Washington Enterprise Provider Agreement PCS EA (RRRRHRRRR
 
 
 

@@ -1987,53 +1987,52 @@ External Sources to of fee schedule(s)/rate(s)/methodologies change.
 
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICAID
-For purposes of determining the Rate, the total reimbursement amount that Provider and aaa have
+For purposes of determining the Rate, the total reimbursement amount that Provider and az have
 agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement in effect on the
 date of service shall be as set forth below.
-The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by JJ at any
+The parties acknowledge and agree that the Medicaid Fee Schedule is subject to modification by J at any
 time during the term of this Agreement and will be applied on a prospective basis.
 Po Program| Medicaid Network
-Specialty Provider Group (Non-MD Or DO
-Billing Code
+pecialty Provider Group on-MD Or DO)
+Service Descriptio Billing Code
 Professional Services Applicable CPT/HCPCS 100% of the Washington Per Service
 Code State Medicaid Fee
 Schedule
 Laboratory Services Applicable CPT/HCPCS 39% of he Per Service
 Code Reference Laboratory Fee
 Schedule
-HE shall not compensate Provider for collection of specimens (including venipuncture), lab handling, or stat
-services, which | considers components of the laboratory test. In addition, a shall not compensate
-Provider for services not described by codes contained in the [J Reference Laboratory Fee Schedule.
+HEE shia! not compensate Provider for collection of specimens (including venipuncture), lab handling, or stat
+SEIVICES, which i considers components of the laboratory test. In adaition. Fa shall not compensate
+Provider for services not described by codes contained in the J Reference Laboratory Fee Schedule.
 shall update rates for codes from the Medicare schedules according to the provisions of the “Updates to
 Rates Based on External Sources" provision of the PCS.
-shall notify Provider in writing at least sixty (60) days before significant BE iitiatcs changes to the
+shall notify Provider in writing at least sixty (60) days before onion A initiated changes to the
 Reference Laboratory Fee Schedule. Provider shall notify in writing within thirty (30) days of
 receiving the notice and if Provider objects to such changes both parties agree to discuss the objections. In any
 event, may implement the changes sixty (60) days after notifying Provider. Notwithstanding the foregoing,
-all updates made pursuant to an External Source shall be governed by the "Updates to
-Rate(S) Based on External Sources" provision of the PCS.
-Medicaid Affiliate Services. Provider acknowledges that a is affiliated with health plans that offer similar
-benefits under similar programs as the programs covered hereunder ("Medicaid Affiliates"). The parties acknowledge
+all e updates made pursuant to an External Source shall be governed by the “Updates to
+Rate(s) Based on External Sources" provision of the PCS.
+Medicaid Affiliate Services. Provider acknowledges that | ama is affiliated with health plans that offer similar
+benefits under similar programs as the programs covered hereunder (“Medicaid Affiliates"). The parties acknowledge
 that Provider is not a Participating Provider in Medicaid Affiliate's Network for purposes of rendering services to
 Medicaid Members. However, in the event Provider treats a Medicaid Member of a Medicaid Affiliate, subject to
 Regulatory Requirements, Provider shall accept as payment in full the rates established by the Medicaid Affiliate's
-State program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
+state program governing care to Medicaid Members. Such services must be Medicaid Covered Services under the
 Medicaid Affiliate's state program, and shall require prior authorization, except for Emergency Services and services
-for which a Medicaid Member is entitled to self-refer. Upon request, a shall coordinate and provide
+for which a Medicaid Member is entitled to self-refer. Upon request, amar shall coordinate and provide
 information as necessary between Provider and Medicaid Affiliate for services rendered to Medicaid Member.
 Reimbursement Specific to Provider Type
 The following will be reimbursed for facility services only: Acute Care Hospital, ASC, Behavioral Health Facility, Free
 Standing Birthing Center, Rehabilitation Facility and SNF. Professional services are excluded.
 Ambulance Provider Air and/or Ground shall be reimbursed in accordance with Regulatory Requirements for the
-applicable methodology based on the referenced fee schedule. If such reimbursement is based on an amr
+applicable methodology based on the referenced fee schedule. If such reimbursement is based on an Lomi
 Rate, the applicable state methodology on which such fee schedule is based, shall be used to determine the
 appropriate level of reimbursement.
 Hospice reimbursement is inclusive of skilled nursing, home health aide, medical social worker services, dietary,
 pastoral, bereavement counseling, DME, medical supplies and administration of medication.
 Specialty Provider Individual and/or group (Non-MD or DO) shall be reimbursed in accordance with Regulatory
 Requirements for the applicable methodology based on the referenced fee schedule. If such reimbursement is based
-on an proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
-shall he used to determine the annronpriate level of reimbursement.
+on an | proprietary fee schedule, the applicable state methodology on which such fee schedule is based,
 
 
 
@@ -2096,18 +2095,19 @@ Washington Enterprise Provider Agreement PCS Attachment
 PLAN COMPENSATION SCHEDULE ("PCS") ATTACHMENT
 MEDICARE ADVANTAGE
 For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network,
-Provider agrees to accept an amount that is the lesser of Eligible Charges or the samme Medicare Advantage
+Provider agrees to accept an amount that is the lesser of Eligible Charges or the —— Medicare Advantage
 Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this
 amount, plus applicable Cost Shares, is full compensation for Covered Services.
-The | emeccare Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
+The = Medicare Advantage Rate" is the amount calculated based on the rate or methodology stated below
 for each service, adjusted as described in the notes, and multiplied by the stated percentage.
-Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee Per Unit
+[Specialty Provider Group (Non-MDOrDO)———SSSSSSOS—~—SSCSCSY
+Professional and Technical | Applicable CPT/HCPCS Medicare Physician Fee
 Services Codes Schedule multiplied by one
-hundred percent (100%
+hundred percent (100%)
 Part B Drugs and Applicable CPT/HCPCS Medicare Drug Fee
 Biologicals Codes Schedule multiplied by one
 hundred percent (100%
-Laboratory Services Applicable CPT/HCPCS Medicare Clinical
+Laboratory Services Applicable CPT/HCPCS Medicare Clinical Per Unit
 Codes Laboratory Fee Schedule
 multiplied by forty five
 percent (45%
@@ -2142,7 +2142,6 @@ adjust Provider's compensation through a settlement, even if Medicare adjusts it
 a settlement.
 Plan shall compensate Provider using the relevant payment system logic and data (for example: calculations,
 payment groupings, or federal and provider-specific factors) that are available in Plan's systems at the time Plan
-nracaccac the Dronvidear'c Claim Dlan chall not rotrnacrtively adijict Dronvider'c cpomnancatinn for nraviniichs nrnarcraccad
 
 
 

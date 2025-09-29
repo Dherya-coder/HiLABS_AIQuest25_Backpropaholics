@@ -1,0 +1,52 @@
+2025-09-29 22:21:27,279 - INFO - 🚀 STARTING HILABS PREPROCESSING PIPELINE
+2025-09-29 22:21:27,279 - INFO - ================================================================================
+2025-09-29 22:21:27,279 - INFO - 📁 Project root: /home/jyotiraditya/preprocess
+2025-09-29 22:21:27,279 - INFO - 🐍 Python executable: /home/jyotiraditya/preprocess/myenv/bin/python
+2025-09-29 22:21:27,279 - INFO - 📋 Steps to run: [1, 2, 3, 4, 5]
+2025-09-29 22:21:27,279 - INFO - ================================================================================
+2025-09-29 22:21:27,279 - INFO - 📋 PIPELINE OVERVIEW:
+2025-09-29 22:21:27,279 - INFO - --------------------------------------------------------------------------------
+2025-09-29 22:21:27,279 - INFO - Step 1: PDF Parsing & Embedding
+2025-09-29 22:21:27,279 - INFO -   📝 Parse PDFs and create embeddings for ChromaDB
+2025-09-29 22:21:27,280 - INFO -   ⏱️ Estimated time: 15-30 minutes
+2025-09-29 22:21:27,280 - INFO -   🔧 Dependencies: ollama, tesseract
+2025-09-29 22:21:27,280 - INFO -     → WA5 PDF Processing: Process WA_5_Redacted.pdf (99MB) with OCR and chunking
+2025-09-29 22:21:27,280 - INFO - 
+2025-09-29 22:21:27,280 - INFO - Step 2: Attribute Ranking
+2025-09-29 22:21:27,280 - INFO -   📝 Generate precise similarity rankings for all attributes
+2025-09-29 22:21:27,280 - INFO -   ⏱️ Estimated time: 10-20 minutes
+2025-09-29 22:21:27,280 - INFO -   🔧 Dependencies: chromadb, sentence-transformers
+2025-09-29 22:21:27,280 - INFO -     → Attribute Precise Similarity: Generate similarity rankings for TNredacted, WAredacted, TNstandard, WAstandard
+2025-09-29 22:21:27,280 - INFO - 
+2025-09-29 22:21:27,280 - INFO - Step 3: Similarity Preprocessing & Embedding
+2025-09-29 22:21:27,280 - INFO -   📝 Process similarity results and generate embeddings
+2025-09-29 22:21:27,280 - INFO -   ⏱️ Estimated time: 5-15 minutes
+2025-09-29 22:21:27,280 - INFO -   🔧 Dependencies: ollama, sentence-transformers
+2025-09-29 22:21:27,280 - INFO -     → Similarity Pipeline: Preprocess similarity results and create Qwen + Paraphrase embeddings
+2025-09-29 22:21:27,280 - INFO - 
+2025-09-29 22:21:27,280 - INFO - Step 4: Standard Classification
+2025-09-29 22:21:27,280 - INFO -   📝 Classify clauses as standard vs non-standard
+2025-09-29 22:21:27,280 - INFO -   ⏱️ Estimated time: 20-40 minutes
+2025-09-29 22:21:27,280 - INFO -   🔧 Dependencies: ollama, transformers, spacy
+2025-09-29 22:21:27,280 - INFO -     → Classification Pipeline: Multi-step classification: exact match → semantic → NLI → rule flags
+2025-09-29 22:21:27,281 - INFO - 
+2025-09-29 22:21:27,281 - INFO - Step 5: Contract Analysis Chatbot
+2025-09-29 22:21:27,281 - INFO -   📝 Start the contract analysis API server
+2025-09-29 22:21:27,281 - INFO -   ⏱️ Estimated time: Continuous (background)
+2025-09-29 22:21:27,281 - INFO -   🔧 Dependencies: fastapi, ollama
+2025-09-29 22:21:27,281 - INFO -     → FastAPI Server: Start contract analysis chatbot API server
+2025-09-29 22:21:27,281 - INFO - 
+2025-09-29 22:21:27,281 - INFO - --------------------------------------------------------------------------------
+2025-09-29 22:21:27,281 - INFO - ================================================================================
+2025-09-29 22:21:27,281 - INFO - 🔄 STEP 1: PDF Parsing & Embedding
+2025-09-29 22:21:27,281 - INFO - 📋 Description: Parse PDFs and create embeddings for ChromaDB
+2025-09-29 22:21:27,281 - INFO - ⏱️ Estimated time: 15-30 minutes
+2025-09-29 22:21:27,281 - INFO - ================================================================================
+2025-09-29 22:21:27,281 - INFO - Checking dependencies for Step 1: ['ollama', 'tesseract']
+2025-09-29 22:21:27,376 - WARNING - Missing Ollama models: ['phi3:mini']
+2025-09-29 22:21:27,376 - INFO - Run: ollama pull qwen3-embedding:0.6b && ollama pull phi3:mini
+2025-09-29 22:21:27,405 - WARNING - Missing dependencies for Step 1: ['ollama (not running or missing models)']
+2025-09-29 22:21:27,405 - ERROR - ❌ Step 1 failed: Missing dependencies
+2025-09-29 22:21:27,405 - ERROR - ❌ Step 1 failed
+2025-09-29 22:21:55,600 - INFO - 
+🛑 Pipeline interrupted by user

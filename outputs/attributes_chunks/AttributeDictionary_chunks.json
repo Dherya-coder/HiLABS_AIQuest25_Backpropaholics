@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "attr_001",
+    "attribute_number": 1,
+    "attribute_name": "Medicaid Timely Filing",
+    "content": "Medicaid Timely Filing Submission and Adjudication of Medicaid Claims (Enterprise Agreement) This provision relates to proper claims submission, including rules for regulatory and financial requirements. Unless otherwise instructed, or required by Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded Service Identifier(s), within one hundred twenty (120) days from the date the Health Services are rendered or may refuse payment. If is the secondary payor, the one hundred twenty (120) day period will not begin until Provider receives notification of primary payor's responsibility.",
+    "token_count": 110,
+    "source_file": "AttributeDictionary.xlsx",
+    "document_type": "attribute_definition"
+  },
+  {
+    "chunk_id": "attr_002",
+    "attribute_number": 2,
+    "attribute_name": "Medicare Timely Filing",
+    "content": "Medicare Timely Filing Submission and Adjudication of Medicare Advantage Claims (Enterprise Agreement), Medicare Advantage Attachment, 6.1-6.1.3 This provision relates to proper claims submission, including rules for regulatory and financial requirements. Unless otherwise instructed in the provider manual(s) or Policies applicable to Medicare Advantage Program, or unless required by Regulatory Requirements, Provider shall submit Claims to using appropriate and current Coded Service Identifier(s), within ninety (90) days from the date the Health Services are rendered or will refuse payment. If is the secondary payor, the ninety (90) day period will not begin until Provider receives notification of primary payor's responsibility.",
+    "token_count": 135,
+    "source_file": "AttributeDictionary.xlsx",
+    "document_type": "attribute_definition"
+  },
+  {
+    "chunk_id": "attr_003",
+    "attribute_number": 3,
+    "attribute_name": "No Steerage/SOC",
+    "content": "No Steerage/SOC Networks and Provider Panels, Base, 2.11 Provision allows Elevance the right to develop designated networks (e.g., high performance networks) and create, adjust or discontinue networks, products and programs based on quality, affordability or other business needs, as identified. Provider shall be eligible to participate only in those Networks designated on the Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating Provider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined by in its sole discretion, the date Provider has met applicable credentialing requirements and accreditation requirements. Provider acknowledges that may develop, discontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks designated on the Provider Networks Attachment, may also identify Provider as a Participating Provider in additional Networks, products and/or programs designated in writing from time to time by The terms and conditions of Provider's participation as a Participating Provider in such additional Networks, products and/or programs shall be on the terms and conditions as set forth in this Agreement unless otherwise agreed to in writing by Provider and",
+    "token_count": 235,
+    "source_file": "AttributeDictionary.xlsx",
+    "document_type": "attribute_definition"
+  },
+  {
+    "chunk_id": "attr_004",
+    "attribute_number": 4,
+    "attribute_name": "Medicaid Fee Schedule",
+    "content": "Medicaid Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reimbursement Terms\" Specifies the methodology for calculating the Medicaid Rate, including the applicable Medicaid Fee Schedule, percentage multipliers, service-specific adjustments, and any exceptions noted in the agreement. For purposes of determining the Rate, the total reimbursement amount that Provider and have agreed upon for the applicable provider type(s) for Covered Services provided under this Agreement shall be one hundred percent (100%) of the Professional Provider Market Master Fee Schedule A in effect on the date of service.",
+    "token_count": 110,
+    "source_file": "AttributeDictionary.xlsx",
+    "document_type": "attribute_definition"
+  },
+  {
+    "chunk_id": "attr_005",
+    "attribute_number": 5,
+    "attribute_name": "Medicare Fee Schedule",
+    "content": "Medicare Fee Schedule Plan Compensation Schedule (Attachement) - Under Article called \"Specific Reimbursement Terms\" Specifies the methodology for calculating the Medicare Advantage Rate, including the applicable Medicare Advantage Fee Schedule, percentage multipliers, service-specific adjustments, and any exceptions noted in the agreement. For Covered Services furnished by or on behalf of Provider for a Member enrolled in a Medicare Advantage Network, Provider agrees to accept an amount that is the lesser of Eligible Charges or the Medicare Advantage Rate, minus applicable Cost Shares, and modified before payment as described below. Provider agrees that this amount, plus applicable Cost Shares, is full compensation for Covered Services.",
+    "token_count": 127,
+    "source_file": "AttributeDictionary.xlsx",
+    "document_type": "attribute_definition"
+  }
+]
